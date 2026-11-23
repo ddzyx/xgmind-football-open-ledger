@@ -1,4 +1,18 @@
 match_date,league,home_team,away_team,final_score,half_score,outcome,hit_1x2,ou_line,ou_result,hit_ou,hit_score,hit_goals,hit_htft,hit_perfect,hit_btts,published_utc,report_url
+2026-11-23,La Liga,Levante,Elche,1-1,0-0,D,1,2.5,UNDER,0,1,1,1,0,1,2026-11-23 08:18:13,https://xgmind.com/matches/20261123-levante-vs-elche/
+2026-11-23,Premier League,Brentford,Everton,4-0,2-0,H,0,2.5,OVER,0,0,0,0,0,0,2026-11-23 08:12:12,https://xgmind.com/matches/20261123-brentford-vs-everton/
+2026-11-23,Serie A,Monza,Fiorentina,3-0,1-0,H,0,2.5,OVER,1,0,1,0,0,0,2026-11-23 08:08:04,https://xgmind.com/matches/20261123-monza-vs-fiorentina/
+2026-11-23,Ligue 2,Sochaux,Dunkerque,2-3,1-1,A,1,2.5,OVER,0,0,0,1,0,1,2026-11-20 14:18:25,https://xgmind.com/matches/20261120-sochaux-vs-dunkerque/
+2026-11-23,Ligue 2,Nantes,Grenoble,1-0,0-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-20 14:10:01,https://xgmind.com/matches/20261120-nantes-vs-grenoble/
+2026-11-23,Segunda División,AD Ceuta FC,Almeria,2-3,2-2,A,1,2.5,OVER,1,0,0,1,0,1,2026-11-23 07:38:46,https://xgmind.com/matches/20261123-ad-ceuta-fc-vs-almeria/
+2026-11-23,AFC Champions League Elite,Al Quwa Al Jawiya,Al-Gharafa,2-1,0-0,H,1,2.5,OVER,1,1,1,1,1,1,2026-11-23 06:42:50,https://xgmind.com/matches/20261123-al-quwa-al-jawiya-vs-al-gharafa/
+2026-11-23,AFC Champions League Elite,Al-Ittihad FC,Pakhtakor,2-0,1-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-23 06:38:55,https://xgmind.com/matches/20261123-al-ittihad-fc-vs-pakhtakor/
+2026-11-23,Allsvenskan,Orgryte IS,Kalmar FF,3-2,2-1,H,1,2.5,OVER,0,0,0,0,0,1,2026-11-23 06:12:28,https://xgmind.com/matches/20261123-orgryte-is-vs-kalmar-ff/
+2026-11-23,Allsvenskan,Hammarby FF,IFK Goteborg,3-1,1-0,H,1,2.5,OVER,1,1,1,1,1,0,2026-11-23 06:08:39,https://xgmind.com/matches/20261123-hammarby-ff-vs-ifk-goteborg/
+2026-11-23,AFC Champions League Elite,Tractor Sazi,Al-Wasl FC,1-5,0-1,A,1,2.5,OVER,1,0,0,0,0,1,2026-11-23 04:17:45,https://xgmind.com/matches/20261123-tractor-sazi-vs-al-wasl-fc/
+2026-11-23,AFC Champions League Elite,Al Shamal,Al-Ahli Jeddah,3-2,0-1,H,0,2.5,OVER,0,0,0,0,0,0,2026-11-23 04:14:09,https://xgmind.com/matches/20261123-al-shamal-vs-al-ahli-jeddah/
+2026-11-23,AFC Champions League Elite,Al Ain,Esteghlal FC,1-1,0-0,D,0,2.5,UNDER,0,0,0,0,0,1,2026-11-23 04:10:46,https://xgmind.com/matches/20261123-al-ain-vs-esteghlal-fc/
+2026-11-23,AFC Champions League Elite,Neftchi,Al-Hilal Saudi FC,2-2,0-2,D,0,2.5,OVER,1,0,0,0,0,1,2026-11-23 02:12:17,https://xgmind.com/matches/20261123-neftchi-vs-al-hilal-saudi-fc/
 2026-11-23,Major League Soccer,Vancouver Whitecaps,Real Salt Lake,2-0,1-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-22 16:19:15,https://xgmind.com/matches/20261123-vancouver-whitecaps-vs-real-salt-lake/
 2026-11-23,Liga MX,Club Queretaro,Necaxa,2-2,1-1,D,1,2.5,OVER,1,0,0,1,0,1,2026-11-22 16:15:04,https://xgmind.com/matches/20261123-club-queretaro-vs-necaxa/
 2026-11-23,Liga Profesional Argentina,Instituto Cordoba,Huracan,2-1,2-0,H,1,2.5,OVER,0,0,0,0,0,0,2026-11-22 16:10:27,https://xgmind.com/matches/20261123-instituto-cordoba-vs-huracan/
