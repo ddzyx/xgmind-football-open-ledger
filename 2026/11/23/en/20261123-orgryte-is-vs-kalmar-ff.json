@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "fixture_id": 1494343,
+    "matchup": "Orgryte IS vs Kalmar FF",
+    "home_team": "Orgryte IS",
+    "away_team": "Kalmar FF",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-23 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-orgryte-is-vs-kalmar-ff/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Allsvenskan",
+      "matchId": "1494343",
+      "matchup": "Orgryte IS vs Kalmar FF",
+      "matchTime": "2026-11-23 18:00 UTC"
+    },
+    "predictions": {
+      "btts": "Yes",
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ],
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "3"
+      ]
+    },
+    "articleTitle": "Orgryte IS vs Kalmar FF Tactical Breakdown & Probabilistic Modeling: Road Fragility Meets Survival",
+    "coreRecommendation": "Quantitative venue and finishing modeling favors Orgryte IS to avoid defeat at Gamla Ullevi against an away-challenged Kalmar FF side.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Both teams stand level at half-time in 61.5% of venue fixtures, making Draw-Draw primary and a second-half Kalmar fade (Draw-Win) the main fork.",
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Retains the 1:1 equilibrium draw alongside a 2:1 home survival surge, as backing either single outcome alone ignores Kalmar FF's 1W-3D-9L road record or Orgryte IS's 2.15 xGA.",
+        "selection": "Home Win / Draw"
+      },
+      "btts": {
+        "comment": "Orgryte IS recorded BTTS in 11 of 13 home league games while both teams hold a 15.4% clean-sheet rate in tonight's venue roles.",
+        "selection": "Yes"
+      },
+      "goals": {
+        "comment": "Two goals is the top Poisson density (23.6%) under Kalmar's away finishing slump, with three goals covering late survival pressure.",
+        "selection": [
+          "2",
+          "3"
+        ]
+      },
+      "score": {
+        "comment": "1:1 reflects the 11.7% Poisson modal stalemate and Orgryte's 7 home draws, while 2:1 covers a late set-piece home breakthrough.",
+        "selection": [
+          "1:1",
+          "2:1"
+        ]
+      },
+      "league": "Allsvenskan",
+      "matchId": "1494343",
+      "awayTeam": "Kalmar FF",
+      "homeTeam": "Orgryte IS",
+      "fixtureId": 1494343,
+      "match_time": "18:00",
+      "over_under": {
+        "comment": "Kalmar FF's 74.1% big-chance waste and 61.5% away Under 2.5 rate pull realistic scoring below the 2.84 season-lambda total toward two goals.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Value Upset",
+      "match_highlight": "Kalmar's away scoring drought meets Orgryte's porous Gamla Ullevi defense."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Value Upset",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by draw-heavy home equilibrium and second-half away vulnerability (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals shaped by Kalmar FF's 61.5% away Under 2.5 profile despite 2.84 baseline lambda (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes supported by Orgryte IS's 84.6% home BTTS rate and 15.4% clean-sheet ratio for both sides in tonight's venue roles (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "3-2",
+    "halftime_score": "2-1",
+    "hit_direction": true,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-23 20:04:11 UTC"
+  }
+}
