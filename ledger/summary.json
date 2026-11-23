@@ -1,0 +1,39 @@
+{
+  "provider": "XG Mind",
+  "canonical_ledger_url": "https://xgmind.com/performance/",
+  "updated_utc": "2026-11-23 11:46 UTC",
+  "total_settled": 3755,
+  "rates": {
+    "1x2_pct": 67.9,
+    "ou_2_5_pct": 53.6,
+    "exact_score_pct": 19.9,
+    "total_goals_pct": 42.7,
+    "htft_pct": 42.5,
+    "perfect_pct": 9.5,
+    "btts_pct": 53.2,
+    "btts_sample": 464
+  },
+  "monthly": [
+    {
+      "month": "2026-11",
+      "total": 1677,
+      "rate_1x2": 69.8,
+      "rate_ou": 53.5,
+      "rate_score": 20.6
+    },
+    {
+      "month": "2026-10",
+      "total": 2046,
+      "rate_1x2": 66.1,
+      "rate_ou": 53.7,
+      "rate_score": 19.0
+    },
+    {
+      "month": "2026-09",
+      "total": 32,
+      "rate_1x2": 84.4,
+      "rate_ou": 50.0,
+      "rate_score": 43.8
+    }
+  ]
+}
