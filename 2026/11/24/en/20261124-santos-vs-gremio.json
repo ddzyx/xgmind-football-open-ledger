@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492469,
+    "matchup": "Santos vs Gremio",
+    "home_team": "Santos",
+    "away_team": "Gremio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-24 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-santos-vs-gremio/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Santos vs Gremio Prediction & Match Analysis: Can Neymar's Attack Exploit 1.67 xGA? — Scoreline Preview",
+    "meta": {
+      "matchId": "1492469",
+      "league": "Serie A",
+      "matchup": "Santos vs Gremio",
+      "matchTime": "2026-11-24 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Santos are backed on the Home Win / Draw line with 2:1 leading over 1:1, pairing Over 2.5 Goals with BTTS Yes at Morumbi.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Neymar, Coutinho, and Gabriel Barbosa vs Gremio's 1-4-10 away record (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes driven by Gremio's 1.67 xGA and Santos's missing goalkeeper Gabriel Brazao (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if Santos's 56.8% big-chance waste rate meets a Gremio set-piece goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492469",
+      "league": "Serie A",
+      "homeTeam": "Santos",
+      "awayTeam": "Gremio",
+      "match_time": "00:00",
+      "match_highlight": "Neymar's fit attack tests Gremio's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492469,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Santos's 2:1 attacking dominance against 1.67 xGA and a 1:1 draw caused by Santos's missing goalkeeper and midfield shield, as a single win call ignores their 40% home draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Santos's 1.46 xG attack meets Gremio's 1.67 xGA defense with both backlines missing key starters, pushing expectancy past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Santos score in over 90% of league games while Gremio's 15 set-piece goals target backup keeper Diogenes behind an improvised defense."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Santos's superior attacking trident projects a two-goal home output, while missing defensive anchors allow Gremio one reply."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the 2:1 primary win script while retaining 2 goals for the tight 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Gremio draw 60% of away first halves before fading late (5 losses in 9), while Santos score 59% of goals after the interval."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 12:08:58 UTC"
+}
