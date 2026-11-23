@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "fixture_id": 1629978,
+    "matchup": "Tractor Sazi vs Al-Wasl FC",
+    "home_team": "Tractor Sazi",
+    "away_team": "Al-Wasl FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-23 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-tractor-sazi-vs-al-wasl-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "AFC Champions League Elite",
+      "matchId": "1629978",
+      "matchup": "Tractor Sazi vs Al-Wasl FC",
+      "matchTime": "2026-11-23 16:00 UTC"
+    },
+    "predictions": {
+      "btts": "Yes",
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Tractor Sazi vs Al-Wasl FC Tactical Breakdown & Probabilistic Modeling: Neutral-Venue Transition Clash",
+    "coreRecommendation": "Al-Wasl FC's superior attacking efficiency and active multi-competition rhythm position them to avoid defeat in a high-scoring encounter against Tractor Sazi on neutral ground in Muscat.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Tractor Sazi's 0.0% first-half goal share and 2-for-2 home halftime draws point to a level opening 45 minutes before Al-Wasl's attacking depth decides or shares the second half.",
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Al-Wasl FC's superior 2.00 goals-per-game finishing in a 1:2 away win alongside the 2:2 draw branch driven by Al-Wasl's 2.67 continental goals conceded per match, as Tractor's 66.7% big-chance waste makes a single call weaker.",
+        "selection": "Draw / Away Win"
+      },
+      "btts": {
+        "comment": "Poisson scoring probabilities exceed 80% for both sides (81.9% home, 80.2% away), matching Al-Wasl FC's 0.0% continental clean-sheet rate and 100% BTTS trend.",
+        "selection": "Yes"
+      },
+      "goals": {
+        "comment": "3 goals (22.0%) and 4 goals (18.3%) anchor the upper-middle Poisson total distribution and align cleanly with Over 2.5 and both projected scorelines.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "1:2 (8.0% Poisson density) captures Al-Wasl FC's sharper finishing edging a second-half Tractor goal, while 2:2 (6.9%) covers Tractor's late-game resilience against tired legs.",
+        "selection": [
+          "1:2",
+          "2:2"
+        ]
+      },
+      "league": "AFC Champions League Elite",
+      "matchId": "1629978",
+      "awayTeam": "Al-Wasl FC",
+      "homeTeam": "Tractor Sazi",
+      "fixtureId": 1629978,
+      "match_time": "16:00",
+      "over_under": {
+        "comment": "Supported by a 3.33 combined lambda, a 64.7% Poisson Over 2.5 projection, and Al-Wasl FC's 3-for-3 Over 2.5 record in AFC Champions League Elite play.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Al-Wasl's high-scoring attack tests Tractor's neutral-ground resolve."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Draw / Away Win, led by Al-Wasl FC's 2.00 continental goals-per-game attack with the draw covered against late second-half fatigue (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Alignment: Over 2.5 goals and Both Teams To Score (Yes), supported by a 3.33 combined lambda and Al-Wasl's 100% continental BTTS rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoreline Branch: A 2:2 high-scoring draw if Tractor Sazi's 21-day rest surplus drives late pressure against Al-Wasl's porous continental backline (Confidence: Moderate, Value: Low)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-5",
+    "halftime_score": "0-1",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-23 18:20:46 UTC"
+  }
+}
