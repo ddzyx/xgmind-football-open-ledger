@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649498,
+    "matchup": "St. Louis City vs Los Angeles FC",
+    "home_team": "St. Louis City",
+    "away_team": "Los Angeles FC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-24 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-st-louis-city-vs-los-angeles-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St. Louis City vs Los Angeles FC Prediction & Match Analysis: Can CITYPARK Halt Bouanga and Son?",
+    "meta": {
+      "matchId": "1649498",
+      "league": "Major League Soccer",
+      "matchup": "St. Louis City vs Los Angeles FC",
+      "matchTime": "2026-11-24 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "St. Louis City holds the home-turf advantage to win or draw an open Round of 16 opener featuring Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "St. Louis City Home Win or Draw led by CITYPARK dominance and Navarro-Matan link-up (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes driven by 2.93 combined lambda and 18.8% home clean-sheet rate (Confidence: Moderate, Value: High)",
+      "LAFC Transition Strike forcing a 1:1 or 2:2 draw via Bouanga and Son counter-attacks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649498",
+      "league": "Major League Soccer",
+      "homeTeam": "St. Louis City",
+      "awayTeam": "Los Angeles FC",
+      "match_time": "01:00",
+      "match_highlight": "St. Louis CITYPARK control clashes with Bouanga and Son transition speed.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649498,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 2:1 home victory leads via St. Louis's 75.0% CITYPARK unbeaten rate and LAFC's 20.0% road win rate, while 1:1 covers LAFC's 7 away draws where identical season xG makes a single call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.93 combined lambda, 56.1% Poisson Over 2.5 probability, and St. Louis's 62.5% home Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "St. Louis scores in 81.2% of home games yet keeps clean sheets in just 18.8%, aligning with a 59.1% Poisson BTTS baseline against Bouanga and Son."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures St. Louis's narrow home edge and May H2H repeat, while 1:1 reflects the 11.5% Poisson mode and LAFC's road draw frequency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Total goal probability concentrates tightly on 2 goals (22.9%) and 3 goals (22.4%) around the 2.93 expected-goal anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "St. Louis converts 7 of 8 home half-time leads into wins, while Draw-Draw covers an opening-half stalemate turning into a road draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 13:09:05 UTC"
+}
