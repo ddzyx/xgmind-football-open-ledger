@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629983,
+    "matchup": "Kyoto Sanga vs Pohang Steelers",
+    "home_team": "Kyoto Sanga",
+    "away_team": "Pohang Steelers",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-24 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-kyoto-sanga-vs-pohang-steelers/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kyoto Sanga vs Pohang Steelers Tactical Breakdown & Match Analysis: Can Pohang Breach Kyoto's Home Edge?",
+    "meta": {
+      "matchId": "1629983",
+      "league": "AFC Champions League Elite",
+      "matchup": "Kyoto Sanga vs Pohang Steelers",
+      "matchTime": "2026-11-24 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kyoto Sanga's superior forward threat and unbeaten home continental record strongly favour a home victory against a Pohang defense conceding 2.75 goals per ACLE match.",
+    "possibilityAssessment": [
+      "Kyoto Sanga Home Win driven by a 57.3 forward threat index against Pohang's zero-clean-sheet continental defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes anchored by a 3.00 combined lambda total and Pohang's 100% Over 2.5 away ACLE rate (Confidence: Moderate, Value: Moderate)",
+      "Kyoto Sanga 2:0 clean-sheet shutout contingency if Pohang's 63.4% big-chance waste rate and 32.4 forward threat index stall away from home (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629983",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Kyoto Sanga",
+      "awayTeam": "Pohang Steelers",
+      "match_time": "10:00",
+      "match_highlight": "Kyoto's 57.3 forward threat tests Pohang's 2.75 goals-conceded ACLE defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629983,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kyoto's available attacking core and 2-0-0 home ACLE record converge on a 2:1 home win over a Pohang side allowing 2.75 goals per match in Asia."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda total and Pohang's 75% ACLE Over 2.5 rate support at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kyoto's 88.0% scoring projection meets Pohang's four-match scoring streak and 8 set-piece goals against Kyoto's injured defensive depth."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Kyoto's attacking superiority tempered by defensive absences, while 2:0 covers a Pohang finishing slump."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Both 3 goals and 2 goals share the peak 22.4% Poisson density around the 3.00 combined lambda expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Kyoto have scored 83.3% of their ACLE goals in the second half after drawing 75% of first halves, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 22:12:09 UTC"
+}
