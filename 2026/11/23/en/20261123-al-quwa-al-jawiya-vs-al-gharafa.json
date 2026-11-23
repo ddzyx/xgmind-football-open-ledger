@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "fixture_id": 1629980,
+    "matchup": "Al Quwa Al Jawiya vs Al-Gharafa",
+    "home_team": "Al Quwa Al Jawiya",
+    "away_team": "Al-Gharafa",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-23 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261123-al-quwa-al-jawiya-vs-al-gharafa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "AFC Champions League Elite",
+      "matchId": "1629980",
+      "matchup": "Al Quwa Al Jawiya vs Al-Gharafa",
+      "matchTime": "2026-11-23 18:15 UTC"
+    },
+    "predictions": {
+      "btts": "Yes",
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ],
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Al Quwa Al Jawiya vs Al-Gharafa Prediction & Preview: Can Iraqi Hosts Exploit Defensive Fragility?",
+    "coreRecommendation": "Model projections favor Al Quwa Al Jawiya on the Home Win / Draw direction alongside Over 2.5 goals and BTTS Yes, anchored by a 2:1 primary scoreline.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Draw-Win reflects Al Quwa Al Jawiya's 80% second-half ACL goal share, while Win-Draw covers early Al-Gharafa concessions followed by a late equalizer.",
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers both the primary 2:1 home breakthrough and a 2:2 draw script, as Al Quwa Al Jawiya's 2.25 goals conceded per ACL match makes a single win call overly exposed despite Al-Gharafa's zero-point record.",
+        "selection": "Home Win / Draw"
+      },
+      "btts": {
+        "comment": "Both attacks clear the scoring floor against fragile defenses with 25% and 0% ACL clean-sheet rates, aligning with a 67.2% Poisson BTTS Yes projection.",
+        "selection": "Yes"
+      },
+      "goals": {
+        "comment": "3 goals (21.6%) and 4 goals (18.9%) lead the Poisson total-goals distribution around a 3.5 combined goal expectancy.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "2:1 reflects home finishing efficiency and rest advantage, while 2:2 captures the late-equalizer draw branch if home defensive lapses resurface.",
+        "selection": [
+          "2:1",
+          "2:2"
+        ]
+      },
+      "league": "AFC Champions League Elite",
+      "matchId": "1629980",
+      "awayTeam": "Al-Gharafa",
+      "homeTeam": "Al Quwa Al Jawiya",
+      "fixtureId": 1629980,
+      "match_time": "18:15",
+      "over_under": {
+        "comment": "Supported by a 3.5 combined lambda total (67.9% Over 2.5 probability) and two defenses conceding 2.25 and 2.75 goals per continental match.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Basra hosts face winless Al-Gharafa in an open, high-scoring clash."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by 2.0 vs 1.5 goal expectancy and a 2:1 primary / 2:2 secondary projection (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.5 combined lambda total and Al-Gharafa's 4-for-4 Over 2.5 continental record (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by 67.2% Poisson expectancy and 2.25 vs 2.75 continental goals conceded per match (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "0-0",
+    "hit_direction": true,
+    "hit_ou": true,
+    "hit_score": true,
+    "hit_goals": true,
+    "hit_htft": true,
+    "is_correct": true,
+    "settled_at": "2026-11-23 20:28:18 UTC"
+  }
+}
