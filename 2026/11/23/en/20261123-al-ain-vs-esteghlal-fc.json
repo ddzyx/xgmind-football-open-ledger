@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "fixture_id": 1629976,
+    "matchup": "Al Ain vs Esteghlal FC",
+    "home_team": "Al Ain",
+    "away_team": "Esteghlal FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-23 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261123-al-ain-vs-esteghlal-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "AFC Champions League Elite",
+      "matchId": "1629976",
+      "matchup": "Al Ain vs Esteghlal FC",
+      "matchTime": "2026-11-23 16:00 UTC"
+    },
+    "predictions": {
+      "btts": "Yes",
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ],
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "4"
+      ]
+    },
+    "articleTitle": "Al Ain vs Esteghlal FC Prediction & Match Analysis: Will Home Firepower Break Tehran's Defense?",
+    "coreRecommendation": "Al Ain's 3.50 goals-per-match continental attack projects to overcome Esteghlal FC's 20-day rest advantage for a home victory featuring over 2.5 goals and both sides scoring.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Al Ain have led at halftime in all four league-phase wins, with Draw-Win covering an early away defensive hold.",
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ]
+      },
+      "spf": {
+        "comment": "Al Ain's 14 goals in four continental wins and Esteghlal's zero away clean sheets support a single home victory anchored on 2:1.",
+        "selection": "Home Win"
+      },
+      "btts": {
+        "comment": "Al Ain have conceded in three of four continental games while Esteghlal carry fresh transition legs to convert once in defeat.",
+        "selection": "Yes"
+      },
+      "goals": {
+        "comment": "Three goals leads the Poisson distribution at 22.2%, with four goals capturing Al Ain's high-scoring continental ceiling.",
+        "selection": [
+          "3",
+          "4"
+        ]
+      },
+      "score": {
+        "comment": "2:1 mirrors Al Ain's recent home victories and tops Poisson density, while 3:1 covers late space expansion.",
+        "selection": [
+          "2:1",
+          "3:1"
+        ]
+      },
+      "league": "AFC Champions League Elite",
+      "matchId": "1629976",
+      "awayTeam": "Esteghlal FC",
+      "homeTeam": "Al Ain",
+      "fixtureId": 1629976,
+      "match_time": "16:00",
+      "over_under": {
+        "comment": "A 3.24 combined lambda and four consecutive Over 2.5 league-phase matches for Al Ain point clearly past 2.5 goals.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Al Ain's 14-goal continental attack tests rested Esteghlal's away backline."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Al Ain Home Win driven by vertical flank overloads and multi-source scoring depth (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.24 combined lambda and Al Ain's 100% Over 2.5 continental record (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by Al Ain's 25% continental clean-sheet rate against rested transition threats (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "1-1",
+    "halftime_score": "0-0",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-23 18:05:16 UTC"
+  }
+}
