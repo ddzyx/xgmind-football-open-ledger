@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629982,
+    "matchup": "Daejeon Citizen vs Beijing Guoan",
+    "home_team": "Daejeon Citizen",
+    "away_team": "Beijing Guoan",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-24 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-daejeon-citizen-vs-beijing-guoan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Daejeon Citizen vs Beijing Guoan Prediction & Match Analysis: Can Home Pressing Exploit Depleted Defense?",
+    "meta": {
+      "matchId": "1629982",
+      "league": "AFC Champions League Elite",
+      "matchup": "Daejeon Citizen vs Beijing Guoan",
+      "matchTime": "2026-11-24 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Daejeon Citizen is projected to win or draw at home (2:1 primary, 1:1 secondary) with Over 2.5 Goals and BTTS Yes against a heavily depleted Beijing Guoan spine.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Daejeon's restored home attack facing a Beijing backline missing Spajic and Ramos, while retaining Draw coverage for home finishing waste (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals / 3 Total Goals driven by Beijing's 2.50 goals conceded per ACLE match and counter-attacking pace (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / 2 Total Goals stalemate hedge if Beijing's deep block frustrates Daejeon on a 74-hour turnaround (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629982",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Daejeon Citizen",
+      "awayTeam": "Beijing Guoan",
+      "match_time": "10:00",
+      "match_highlight": "Restored Daejeon attack targets Beijing backline missing five core starters.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629982,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Prioritizes a 2:1 Home Win over Beijing's makeshift defence while covering a 1:1 Draw because Daejeon's 58.6% big-chance waste and 74-hour rest keep a stalemate live."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Beijing concedes 2.50 goals per ACLE match without Spajic and Ramos while retaining counter pace, lifting adjusted expectancy above 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Daejeon keeps clean sheets in just 25% of ACLE games and Beijing has scored in all four continental fixtures despite key absences."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Projects two home goals against Beijing's depleted backline alongside one counter-attacking concession, with 1:1 covering finishing inefficiency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the top two exact-total Poisson clusters (22.2% for 3 goals, 20.5% for 2 goals) across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Daejeon has drawn all four ACLE first halves before accelerating late, leaving Draw-Win primary and Draw-Draw as the stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-23 22:08:42 UTC"
+}
