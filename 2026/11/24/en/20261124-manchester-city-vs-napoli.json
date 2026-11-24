@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635692,
+    "matchup": "Manchester City vs Napoli",
+    "home_team": "Manchester City",
+    "away_team": "Napoli",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-manchester-city-vs-napoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Manchester City vs Napoli: Expected Goals (xG), Injury Crisis & Match Intelligence",
+    "meta": {
+      "matchId": "1635692",
+      "league": "UEFA Champions League",
+      "matchup": "Manchester City vs Napoli",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Manchester City for a regulation-time Home Win in a high-scoring encounter where both teams find the net.",
+    "possibilityAssessment": [
+      "Home Win supported by City's 2.47 xG output against Napoli's 2.77 xGA and depleted defensive spine (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes driven by 4.50 combined lambda and City's five-match run without a clean sheet (Confidence: Moderate, Value: High)",
+      "Narrower 2:1 Home Win margin if City's 70.0% big-chance waste ratio and post-break fatigue limit finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635692",
+      "league": "UEFA Champions League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Napoli",
+      "match_time": "20:00",
+      "match_highlight": "City's 2.47 xG attack targets Napoli's injury-depleted defense",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635692,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "City's elite attacking volume and home control overwhelm a Napoli backline missing five defensive starters and Lobotka, supporting a 3:1 or 2:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.50 combined lambda, 82.6% Poisson Over 2.5 probability, and Napoli's 2.77 xGA per game strongly favor at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Napoli's 0.0% UCL clean-sheet rate guarantees City chances, while City's five-game streak without a clean sheet gives De Bruyne and McTominay a clear scoring route."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 reflects City's multi-goal edge over Napoli's patched-up defense alongside a visitor consolation, with 2:1 covering slight home finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four goals represents the 19.0% modal Poisson peak, while three goals covers a slightly tighter 2:1 home victory."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "City can punish Napoli's makeshift defense before the break for Win-Win, while Draw-Win covers City's 75% second-half UCL goal tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:19:58 UTC"
+}
