@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556154,
+    "matchup": "Mito Hollyhock vs Tokyo Verdy",
+    "home_team": "Mito Hollyhock",
+    "away_team": "Tokyo Verdy",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-mito-hollyhock-vs-tokyo-verdy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mito Hollyhock vs Tokyo Verdy Prediction & Match Analysis: Can Soma's Unbeaten Wall Hold? — xG Preview",
+    "meta": {
+      "matchId": "1556154",
+      "league": "J1 League",
+      "matchup": "Mito Hollyhock vs Tokyo Verdy",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects Tokyo Verdy to avoid defeat in a tightly compressed, low-scoring Round 16 encounter anchored by Under 2.5 Goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Tokyo Verdy's five-match unbeaten run and Mito's 0-of-15 clean-sheet record point toward an away win or low-scoring draw (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals: Combined 2.13 expected-goal lambda and both teams averaging under 0.90 xG/match strongly suppress total scoring (Confidence: High, Value: Moderate)",
+      "BTTS: No: Verdy's 50.0% away clean-sheet rate and both sides' 46.7% failed-to-score rate favor at least one shutout (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556154",
+      "league": "J1 League",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "Tokyo Verdy",
+      "match_time": "10:00",
+      "match_highlight": "Verdy's road clean-sheet resilience tests Mito's fragile second-half containment.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556154,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Tokyo Verdy breakthrough and a 1:1 stalemate, as Verdy's 0.80 xG/game finishing ceiling makes a single Away Win call fragile despite Mito's zero clean sheets."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides generate under 0.90 xG per match (lambda total 2.13) with a 64.2% model Under 2.5 probability."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Both clubs failed to score in 7 of 15 J1 matches while Verdy hold a 50.0% away clean-sheet rate, supporting the 56.6% BTTS: No projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Verdy's May 2026 win in Mito and back-to-back clean sheets, while 1:1 covers Mito's 37.0% set-piece threat against Verdy's 0% clean-sheet-free opponent."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Top two exact-goal probabilities (27.6% and 24.0%) align cleanly with the 2.13 combined lambda and low shot volumes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams heavily produce level first halves before Mito's 0-win second-half record after HT draws opens the door for Verdy to win late or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:20:50 UTC"
+}
