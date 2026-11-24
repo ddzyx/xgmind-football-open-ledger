@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629986,
+    "matchup": "SHANGHAI SIPG vs Buriram United",
+    "home_team": "SHANGHAI SIPG",
+    "away_team": "Buriram United",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-24 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261124-shanghai-sipg-vs-buriram-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SHANGHAI SIPG vs Buriram United Tactical Breakdown: Can Buriram's Low Block Hold at Pudong?",
+    "meta": {
+      "matchId": "1629986",
+      "league": "AFC Champions League Elite",
+      "matchup": "SHANGHAI SIPG vs Buriram United",
+      "matchTime": "2026-11-24 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back SHANGHAI SIPG to win or draw via superior home attacking depth while guarding against Buriram United's compact continental away containment.",
+    "possibilityAssessment": [
+      "SHANGHAI SIPG Win or Draw on home territorial dominance and 3.25 ACL Elite goals per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by lambda_total 3.5 and four consecutive high-scoring home continental outings (Confidence: Moderate, Value: Moderate)",
+      "Exact 2 Goals / 1:1 Draw hedge if Buriram's 0.75-goals-conceded low block stalls tired hosts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629986",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "SHANGHAI SIPG",
+      "awayTeam": "Buriram United",
+      "match_time": "12:15",
+      "match_highlight": "Shanghai Port's clinical attack tests Buriram's stubborn continental away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629986,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "SHANGHAI SIPG's 2:1 firepower leads, while Draw covers Buriram's 1:1 away blueprint because the hosts hold zero continental clean sheets on four days' rest."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Lambda total of 3.5 and SHANGHAI SIPG's 13 goals scored with 10 conceded across four ACL Elite matches favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "SHANGHAI SIPG carry a 0% clean-sheet rate across four continental games while Buriram have scored in 100% of their away ACL Elite fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Both scorelines share the top 9.1% Poisson density, balancing home creative depth against Buriram's compact 0.75-goals-conceded away structure."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals is the 21.6% model mode for a 2:1 home win, with two goals covering the 1:1 low-block containment scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "SHANGHAI SIPG drew half-time in both home ACL games before accelerating late, whereas Buriram's compact shell supports a level opening half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 00:45:11 UTC"
+}
