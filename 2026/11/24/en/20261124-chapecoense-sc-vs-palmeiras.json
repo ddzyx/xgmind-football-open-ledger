@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492472,
+    "matchup": "Chapecoense-sc vs Palmeiras",
+    "home_team": "Chapecoense-sc",
+    "away_team": "Palmeiras",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-24 21:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-chapecoense-sc-vs-palmeiras/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Chapecoense-sc vs Palmeiras: Expected Goals (xG) & Rotation Preview",
+    "meta": {
+      "matchId": "1492472",
+      "league": "Serie A",
+      "matchup": "Chapecoense-sc vs Palmeiras",
+      "matchTime": "2026-11-24 21:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Probabilistic modeling and verified rotation news support Chapecoense-sc avoiding defeat (Home Win / Draw), anchored by a 1:1 draw under 2.5 total goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by a 1:1 equilibrium as Palmeiras field 14 academy players ahead of the Libertadores final (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals paired with BTTS Yes as depleted lineups cap total volume while both defenses concede once (Confidence: Moderate, Value: High)",
+      "Secondary 2:1 Chapecoense-sc upset branch led by returning playmaker Giovanni Augusto exploiting an untested U-20 backline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492472",
+      "league": "Serie A",
+      "homeTeam": "Chapecoense-sc",
+      "awayTeam": "Palmeiras",
+      "match_time": "21:00",
+      "match_highlight": "Rotated Palmeiras academy squad meets Giovanni Augusto at Arena Conda.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1492472,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 stalemate against an academy-heavy Palmeiras lineup and the 2:1 home upset route, whereas trusting either side alone ignores Palmeiras's senior quality or Chapecoense-sc's 2.06 goals conceded per match."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Discounting Palmeiras's 1.92 away lambda for the rest of their top scorers compresses expected total scoring below 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Chapecoense-sc have scored in 12 of 16 home matches while keeping just 2 home clean sheets, supporting goals at both ends."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "Converges on a balanced 1:1 draw as rotated visitors manage tempo, with 2:1 reflecting Chapecoense-sc punishing late U-20 defensive gaps."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Baseline 2-goal peak (24.2%) strengthens toward 1:1 after Palmeiras's rotation, with 3 goals capturing the 2:1 secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams exceed 52% venue half-time draw rates, backing a level interval before either sharing points or seeing a late home winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 09:39:14 UTC"
+}
