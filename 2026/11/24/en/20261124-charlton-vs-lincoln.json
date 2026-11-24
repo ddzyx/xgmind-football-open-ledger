@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563277,
+    "matchup": "Charlton vs Lincoln",
+    "home_team": "Charlton",
+    "away_team": "Lincoln",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-charlton-vs-lincoln/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Charlton vs Lincoln: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1563277",
+      "league": "Championship",
+      "matchup": "Charlton vs Lincoln",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With Lincoln holding a 1.33 to 0.95 xG/game edge against a depleted Charlton defense and both sides struggling to finish big chances, Draw / Away Win represents the most grounded full-time trajectory.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by a 1:1 stalemate and Lincoln's superior chance creation against Charlton's defensive absentees (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: Yes reflecting porous backlines combined with 65%+ big-chance waste rates on both sides (Confidence: Moderate, Value: Moderate)",
+      "Charlton Second-Half Response vs Defensive Fatigue if Matty Godden exploits Lincoln's inability to protect half-time leads (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563277",
+      "league": "Championship",
+      "homeTeam": "Charlton",
+      "awayTeam": "Lincoln",
+      "match_time": "19:45",
+      "match_highlight": "Lincoln's 1.33 xG attack tests Charlton's injury-hit backline at The Valley.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563277,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the modal 1:1 stalemate from both teams' finishing waste and the 1:2 away-win script driven by Lincoln's 0.38 xG/game edge against Charlton's defensive absences; neither single outcome captures both supported mechanisms alone."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams waste roughly two-thirds of their big chances (65.2% vs 66.7%), supporting the 53.6% Poisson Under 2.5 baseline and Charlton's 62.5% home Under 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides concede near 1.50 xGA per game with low overall clean-sheet rates (18.8% home, 25.0% away), giving each attack a clear route to at least one goal."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix (12.7%) as both sides trade single goals, while 1:2 reflects Lincoln converting their xG advantage against Charlton's thinned backline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.5%) and 3 goals (21.5%) represent the two highest-probability Poisson goal counts across the primary 1:1 and secondary 1:2 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Charlton have drawn 75.0% of home first halves and Lincoln 62.5% of away first halves, pointing to a level interval before either holding 1:1 or Lincoln striking late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:42:38 UTC"
+}
