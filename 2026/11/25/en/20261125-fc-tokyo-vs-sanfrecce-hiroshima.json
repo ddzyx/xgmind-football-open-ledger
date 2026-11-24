@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556153,
+    "matchup": "FC Tokyo vs Sanfrecce Hiroshima",
+    "home_team": "FC Tokyo",
+    "away_team": "Sanfrecce Hiroshima",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-fc-tokyo-vs-sanfrecce-hiroshima/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Tokyo vs Sanfrecce Hiroshima Prediction & Match Analysis: Can Shutout Streak Hold? — xG Preview",
+    "meta": {
+      "matchId": "1556153",
+      "league": "J1 League",
+      "matchup": "FC Tokyo vs Sanfrecce Hiroshima",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Tokyo is projected to avoid defeat against Sanfrecce Hiroshima in a tight, second-half-driven Under 2.5 encounter where the hosts' 10-match shutout structure anchors a narrow edge.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals & BTTS No tactical containment (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 stalemate via Hiroshima set-piece or transition regression (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556153",
+      "league": "J1 League",
+      "homeTeam": "FC Tokyo",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "match_time": "10:00",
+      "match_highlight": "Tokyo's 10-match shutout streak faces Hiroshima's 2.27 xG engine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556153,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchoring on a tight 1:0 home breakthrough while covering a 1:1 draw, because FC Tokyo's 87.5% home clean-sheet rate and 39.8% win projection face Hiroshima's superior 2.27 xG/gm and 0.79 xGA/gm."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 50.3% Under 2.5 model edge, FC Tokyo's 62.5% home Under 2.5 rate, and both clubs' elite defensive prevention."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "FC Tokyo's 80.0% overall clean-sheet rate (87.5% at home) and 10-game shutout streak meet Hiroshima's 37.5% away failed-to-score rate and 54.8% big-chance waste."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 captures Tokyo's late home clinical edge (9.2% model density) with a clean sheet, while 1:1 (12.9% modal density) accounts for Hiroshima's high shot volume breaching Tokyo once."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals is the modal Poisson outcome (25.4%) balancing tight defenses, with 3 goals (21.9%) covering a late-opening 2:1 transition finish."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Only 11.8% of goals in Tokyo's home matches occur before half-time and 75.0% are level at the break, making a level first half resolving into either a Tokyo win (5 of 6 home cases) or a draw the dominant timelines."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:16:33 UTC"
+}
