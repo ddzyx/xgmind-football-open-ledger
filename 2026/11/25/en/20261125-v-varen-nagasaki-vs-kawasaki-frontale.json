@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556157,
+    "matchup": "V-varen Nagasaki vs Kawasaki Frontale",
+    "home_team": "V-varen Nagasaki",
+    "away_team": "Kawasaki Frontale",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-v-varen-nagasaki-vs-kawasaki-frontale/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "V-varen Nagasaki vs Kawasaki Frontale Prediction: Away Defensive Leaks vs Home Resilience — Model Preview",
+    "meta": {
+      "matchId": "1556157",
+      "league": "J1 League",
+      "matchup": "V-varen Nagasaki vs Kawasaki Frontale",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model projections favor Draw / Away Win alongside Over 2.5 Goals and BTTS: Yes, balancing Kawasaki Frontale's 1.65 expected-goals edge against their 28.6% J1 away win rate.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Kawasaki Frontale's 40.50% blended win probability with the Draw retained at 26.73% (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by a 2.91 combined lambda and both clubs' sub-21% clean-sheet rates (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw and HT/FT Win-Draw reversal contingency reflecting Nagasaki's 57.1% home half-time lead rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556157",
+      "league": "J1 League",
+      "homeTeam": "V-varen Nagasaki",
+      "awayTeam": "Kawasaki Frontale",
+      "match_time": "10:00",
+      "match_highlight": "Kawasaki's away defensive leaks meet Nagasaki's resilient Peace Stadium scoring floor.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556157,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Kawasaki Frontale's 1:2 away win lead (40.50%) alongside the 1:1 draw script (26.73%), because a single Away Win overlooks their 28.6% road win rate and Nagasaki's 71.4% home unbeaten record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Anchored by a 2.91 combined lambda, 55.6% Over 2.5 model probability, and 71.4% Over 2.5 home rate for Nagasaki alongside Kawasaki's 73.3% overall rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 59.1% model probability, Kawasaki's 0.0% failed-to-score and 13.3% clean-sheet rates, and Nagasaki scoring in 85.7% of home J1 matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Pairs the 1:2 away victory (8.9% density) reflecting Kawasaki's superior xG and second-half surge with the 1:1 modal draw (12.0%) if home resilience holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns 3 goals (22.4% density) with the primary 1:2 Over 2.5 thesis while covering 2 goals (23.6% peak single bin) for the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Kawasaki's 57.1% away half-time draw rate and 63.6% second-half away goal share driving a late 1:2 breakthrough or a tight 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:28:47 UTC"
+}
