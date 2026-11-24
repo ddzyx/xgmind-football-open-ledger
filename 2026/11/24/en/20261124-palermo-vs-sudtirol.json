@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601621,
+    "matchup": "Palermo vs Sudtirol",
+    "home_team": "Palermo",
+    "away_team": "Sudtirol",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-palermo-vs-sudtirol/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Palermo vs Sudtirol Prediction & Match Analysis: Can Patched-Up Rosanero Contain Visitors? — xG Preview",
+    "meta": {
+      "matchId": "1601621",
+      "league": "Serie B",
+      "matchup": "Palermo vs Sudtirol",
+      "matchTime": "2026-11-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Palermo Home Win / Draw with Over 2.5 Goals and BTTS Yes as Renzo Barbera firepower meets mutual defensive absences.",
+    "possibilityAssessment": [
+      "Palermo Home Win / Draw driven by a 5-0-0 home record and 2.04 xG against a depleted away defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by 2.83 combined lambda and four-of-five Palermo home Over 2.5 outcomes (Confidence: Moderate, Value: High)",
+      "BTTS Yes supported by Palermo's 1.60 xGA defensive exposure and Sudtirol's zero away clean sheets (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601621",
+      "league": "Serie B",
+      "homeTeam": "Palermo",
+      "awayTeam": "Sudtirol",
+      "match_time": "19:00",
+      "match_highlight": "Unbeaten home leaders face depleted Sudtirol amid defensive injuries.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601621,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Palermo win driven by 2.04 xG at home alongside a 1:1 draw if missing Palumbo and defensive rotation blunt the hosts; a single win call leaves confirmed backline absences uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.83 combined lambda, Palermo's four-of-five home Over 2.5 hit rate, and defensive absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Palermo have scored in all 12 league matches while conceding 1.60 xGA per match, facing a Sudtirol side with zero away clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Reflects Palermo's narrow home-winning margin profile against an opponent with six league draws and defensive suspensions."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 home win script, while two goals covers the tighter 1:1 draw contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Palermo led at half-time in 60% of home matches and never dropped a half-time lead, whereas a level interval favors Sudtirol's 100% away half-time draw retention."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 07:23:04 UTC"
+}
