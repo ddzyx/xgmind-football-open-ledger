@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601614,
+    "matchup": "Cesena vs Ascoli",
+    "home_team": "Cesena",
+    "away_team": "Ascoli",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-cesena-vs-ascoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cesena vs Ascoli Prediction & Match Analysis: Shpendi vs Ascoli's Defense — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601614",
+      "league": "Serie B",
+      "matchup": "Cesena vs Ascoli",
+      "matchTime": "2026-11-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 Goals represents the optimal projection for this tight Serie B clash at Dino Manuzzi.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Draw / Away Win capturing a 1:1 stalemate and a narrow 0:1 Ascoli road victory (Confidence: Moderate, Value: Moderate)",
+      "Secondary Totals Angle: Under 2.5 Goals backed by a 2.34 combined lambda and 66.7% Under 2.5 rates for both teams (Confidence: Moderate, Value: High)",
+      "Contingency Reversal Angle: HT/FT Win-Draw guard against Cesena fading after a fast start without Bisoli (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601614",
+      "league": "Serie B",
+      "homeTeam": "Cesena",
+      "awayTeam": "Ascoli",
+      "match_time": "19:00",
+      "match_highlight": "Cesena's depleted midfield faces Ascoli's possession machine at unbeaten Dino Manuzzi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601614,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:1 draw driven by Cesena's unbeaten home record and the 0:1 away win reflecting Ascoli's xG edge against a Bisoli-less midfield, as neither script cleanly excludes the other."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined 2.34 lambda, 58.5% Poisson Under 2.5 probability, and 66.7% Under 2.5 season frequencies for both sides favor two or fewer goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cesena's 100% home scoring record and 83.3% home BTTS rate meet Ascoli's 1.20 xGA per game and Cesena's 16.7% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "A 1:1 stalemate balances home scoring consistency against Ascoli's quality, while 0:1 captures an Ascoli clean sheet if Cesena's depleted midfield blunts supply."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (26.4%) and one goal (22.5%) lead the Poisson total-goals distribution beneath a 2.34 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Ascoli's 66.7% half-time draw rate and both teams' heavy second-half goal shares point to a level opening 45 minutes before either a 1:1 share or late 0:1 away breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 07:12:14 UTC"
+}
