@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601616,
+    "matchup": "Virtus Entella vs Hellas Verona",
+    "home_team": "Virtus Entella",
+    "away_team": "Hellas Verona",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-virtus-entella-vs-hellas-verona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Virtus Entella vs Hellas Verona Prediction & Match Analysis: Can Chiavari Containment Halt Mosquera?",
+    "meta": {
+      "matchId": "1601616",
+      "league": "Serie B",
+      "matchup": "Virtus Entella vs Hellas Verona",
+      "matchTime": "2026-11-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hellas Verona's superior chance creation and Entella's winless, zero-clean-sheet home record favor Draw / Away Win alongside Under 2.5 goals.",
+    "possibilityAssessment": [
+      "Draw / Away Win leans toward a narrow Hellas Verona victory while covering Entella's home draw resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals aligns with the 54.4% Poisson baseline and both clubs' recent low-scoring profiles (Confidence: Moderate, Value: High)",
+      "BTTS: No reflects Entella's four blanks in five league games facing Verona's 40.0% away clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601616",
+      "league": "Serie B",
+      "homeTeam": "Virtus Entella",
+      "awayTeam": "Hellas Verona",
+      "match_time": "19:00",
+      "match_highlight": "Verona's 2.00 xG attack tests Entella's winless, zero-clean-sheet home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601616,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Verona's 0:1 attacking-edge victory and a 1:1 containment draw because Verona's 1W-2D-2L road record and recent scoring dip keep a single away-win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 54.4% Poisson baseline, Entella's 66.7% Under 2.5 rate, and Verona's 60.0% Under 2.5 away profile."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Entella have failed to score in four of their last five league games while Verona hold a 40.0% away clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 captures Verona's narrow second-half breakthrough against Entella's drought, while 1:1 covers Entella's 50.0% home draw resilience."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total-goal density concentrates around 2 goals (25.7%) and 1 goal (20.5%) in a controlled Serie B matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Verona have drawn 60.0% of away half-times before accelerating after the break, while Entella draw 100% of home level intervals."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 07:15:41 UTC"
+}
