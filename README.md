@@ -1,24 +1,24 @@
 # XG Mind — Open Football Forecast Ledger & Audit
 
 [![Website](https://img.shields.io/badge/Terminal-xgmind.com-10b981)](https://xgmind.com/)
-[![Public Ledger](https://img.shields.io/badge/Settled%20Matches-3,769-blue)](https://xgmind.com/performance/)
+[![Public Ledger](https://img.shields.io/badge/Settled%20Matches-3,808-blue)](https://xgmind.com/performance/)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Streamable%20HTTP-purple)](https://xgmind.com/mcp)
 
 > **Compiled from pre-match timestamped briefings and post-match official results by [XG Mind](https://xgmind.com/).**
 
 This repository is updated daily with XG Mind's public, non-retrospective match forecast verification ledger across 30+ football competitions. Pre-match reports are locked before kickoff and automatically settled after full-time without selective deletion.
 
-- **Last Updated (UTC)**: 2026-11-23 22:30 UTC
-- **Total Settled Matches**: **3,769**
-- **Cumulative 1X2 Hit Rate**: **67.9%**
-- **Cumulative Over/Under 2.5 Hit Rate**: **53.5%**
-- **Cumulative Exact Score Hit Rate**: **19.9%**
+- **Last Updated (UTC)**: 2026-11-24 22:30 UTC
+- **Total Settled Matches**: **3,808**
+- **Cumulative 1X2 Hit Rate**: **67.8%**
+- **Cumulative Over/Under 2.5 Hit Rate**: **53.4%**
+- **Cumulative Exact Score Hit Rate**: **20.0%**
 
 ## Monthly Verification Breakdown
 
 | Month | Settled Matches | 1X2 Hit Rate | O/U 2.5 Hit Rate | Exact Score Rate |
 | :--- | ---: | ---: | ---: | ---: |
-| 2026-11 | 1,691 | 69.7% | 53.4% | 20.6% |
+| 2026-11 | 1,730 | 69.5% | 53.1% | 20.8% |
 | 2026-10 | 2,046 | 66.1% | 53.7% | 19.0% |
 | 2026-09 | 32 | 84.4% | 50.0% | 43.8% |
 
@@ -26,21 +26,21 @@ This repository is updated daily with XG Mind's public, non-retrospective match 
 
 | Date | Competition | Matchup | FT Score | 1X2 | O/U | Briefing |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 2026-11-23 | La Liga | Levante vs Elche | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261123-levante-vs-elche/) |
-| 2026-11-23 | Premier League | Brentford vs Everton | `4-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261123-brentford-vs-everton/) |
-| 2026-11-23 | Serie A | Monza vs Fiorentina | `3-0` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261123-monza-vs-fiorentina/) |
-| 2026-11-23 | Ligue 2 | Sochaux vs Dunkerque | `2-3` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261120-sochaux-vs-dunkerque/) |
-| 2026-11-23 | Ligue 2 | Nantes vs Grenoble | `1-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261120-nantes-vs-grenoble/) |
-| 2026-11-23 | Segunda División | AD Ceuta FC vs Almeria | `2-3` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261123-ad-ceuta-fc-vs-almeria/) |
-| 2026-11-23 | AFC Champions League Elite | Al Quwa Al Jawiya vs Al-Gharafa | `2-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261123-al-quwa-al-jawiya-vs-al-gharafa/) |
-| 2026-11-23 | AFC Champions League Elite | Al-Ittihad FC vs Pakhtakor | `2-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261123-al-ittihad-fc-vs-pakhtakor/) |
-| 2026-11-23 | Allsvenskan | Orgryte IS vs Kalmar FF | `3-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261123-orgryte-is-vs-kalmar-ff/) |
-| 2026-11-23 | Allsvenskan | Hammarby FF vs IFK Goteborg | `3-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261123-hammarby-ff-vs-ifk-goteborg/) |
-| 2026-11-23 | AFC Champions League Elite | Tractor Sazi vs Al-Wasl FC | `1-5` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261123-tractor-sazi-vs-al-wasl-fc/) |
-| 2026-11-23 | AFC Champions League Elite | Al Shamal vs Al-Ahli Jeddah | `3-2` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261123-al-shamal-vs-al-ahli-jeddah/) |
-| 2026-11-23 | AFC Champions League Elite | Al Ain vs Esteghlal FC | `1-1` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261123-al-ain-vs-esteghlal-fc/) |
-| 2026-11-23 | AFC Champions League Elite | Neftchi vs Al-Hilal Saudi FC | `2-2` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261123-neftchi-vs-al-hilal-saudi-fc/) |
-| 2026-11-23 | Major League Soccer | Vancouver Whitecaps vs Real Salt Lake | `2-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261123-vancouver-whitecaps-vs-real-salt-lake/) |
+| 2026-11-24 | Premiership | Rangers vs Aberdeen | `3-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-rangers-vs-aberdeen/) |
+| 2026-11-24 | Championship | Wolves vs Derby | `3-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-wolves-vs-derby/) |
+| 2026-11-24 | UEFA Champions League | Slovan Bratislava vs Real Betis | `0-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-slovan-bratislava-vs-real-betis/) |
+| 2026-11-24 | UEFA Champions League | RB Leipzig vs Lens | `3-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-rb-leipzig-vs-lens/) |
+| 2026-11-24 | UEFA Champions League | Manchester City vs Napoli | `2-2` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261124-manchester-city-vs-napoli/) |
+| 2026-11-24 | UEFA Champions League | Feyenoord vs FC Porto | `0-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-feyenoord-vs-fc-porto/) |
+| 2026-11-24 | UEFA Champions League | Como vs AEK Athens FC | `1-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-como-vs-aek-athens-fc/) |
+| 2026-11-24 | UEFA Champions League | Arsenal vs Borussia Dortmund | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-arsenal-vs-borussia-dortmund/) |
+| 2026-11-24 | Championship | Sheffield Utd vs Southampton | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-sheffield-utd-vs-southampton/) |
+| 2026-11-24 | Championship | Portsmouth vs West Ham | `1-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261124-portsmouth-vs-west-ham/) |
+| 2026-11-24 | Championship | Norwich vs QPR | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-norwich-vs-qpr/) |
+| 2026-11-24 | Championship | Middlesbrough vs Swansea | `2-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-middlesbrough-vs-swansea/) |
+| 2026-11-24 | Championship | Charlton vs Lincoln | `4-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261124-charlton-vs-lincoln/) |
+| 2026-11-24 | Championship | Cardiff vs Preston | `0-4` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261124-cardiff-vs-preston/) |
+| 2026-11-24 | Championship | Bristol City vs Wrexham | `1-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-bristol-city-vs-wrexham/) |
 
 ## Repository Files
 
