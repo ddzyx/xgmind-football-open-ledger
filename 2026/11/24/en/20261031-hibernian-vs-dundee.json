@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "fixture_id": 1556696,
+    "matchup": "Hibernian vs Dundee",
+    "home_team": "Hibernian",
+    "away_team": "Dundee",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261031-hibernian-vs-dundee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Premiership",
+      "matchId": "1556696",
+      "matchup": "Hibernian vs Dundee",
+      "matchTime": "2026-10-31 15:00 UTC"
+    },
+    "predictions": {
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ],
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "overUnder": "Over 2.5",
+      "totalGoals": [
+        "3",
+        "2"
+      ]
+    },
+    "articleTitle": "Hibernian vs Dundee Prediction & Match Analysis: Can Hibees Halt Easter Road Slump? — xG Preview",
+    "coreRecommendation": "Dundee's clinical counter-attacking efficiency against Hibernian's persistent defensive vulnerabilities makes Draw / Away Win the premier risk-adjusted angle.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "Loss-Loss reflects Hibernian's 100% home first-half deficit rate, while Loss-Draw captures second-half parity.",
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers Dundee's superior transition finishing alongside Hibernian's underlying xG volume forcing a contested stalemate.",
+        "selection": "Draw / Away Win"
+      },
+      "goals": {
+        "comment": "3 goals leads via Dundee's open road dynamics, with 2 goals capturing low-block resistance.",
+        "selection": [
+          "3",
+          "2"
+        ]
+      },
+      "score": {
+        "comment": "1:2 primary reflects Dundee's clinical edge, with 1:1 serving as the primary game-state deadlock.",
+        "selection": [
+          "1:2",
+          "1:1"
+        ]
+      },
+      "league": "Premiership",
+      "matchId": "1556696",
+      "awayTeam": "Dundee",
+      "homeTeam": "Hibernian",
+      "fixtureId": 1556696,
+      "match_time": "15:00",
+      "over_under": {
+        "comment": "Underpinned by Dundee conceding 1.73 xGA away and Hibernian shipping 1.50 goals per contest.",
+        "selection": "Over 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Dundee's top-four momentum challenges Hibernian's Easter Road defensive slump"
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Draw / Away Win double chance accommodates Dundee's transition threat while respecting Hibernian's elevated home xG generation (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals aligns with Dundee's open away metrics conceding 1.73 xGA alongside Hibernian's defensive frailties (Confidence: Moderate, Value: Moderate)",
+      "1:2 correct score represents the convergence of Dundee's vertical finishing and Hibernian's consistent 1.5 goals conceded per match (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-1",
+    "halftime_score": "2-0",
+    "hit_direction": false,
+    "hit_ou": true,
+    "hit_score": false,
+    "hit_goals": true,
+    "hit_htft": false,
+    "is_correct": true,
+    "settled_at": "2026-11-24 22:00:22 UTC"
+  }
+}
