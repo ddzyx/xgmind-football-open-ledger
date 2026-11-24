@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563279,
+    "matchup": "Norwich vs QPR",
+    "home_team": "Norwich",
+    "away_team": "QPR",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-norwich-vs-qpr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Norwich vs QPR: Expected Goals (xG), Dunne's Absence & Match Analysis",
+    "meta": {
+      "matchId": "1563279",
+      "league": "Championship",
+      "matchup": "Norwich vs QPR",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norwich carry the sharper attacking and home-venue edge to avoid defeat against a QPR backline missing Jimmy Dunne, led by a 2:1 home projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Norwich's five-game surge and QPR's rotational/defensive adjustments (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS: Yes driven by a 3.18 lambda total and zero home clean sheets for Norwich (Confidence: Moderate, Value: High)",
+      "Early QPR transition goal threatening Norwich's high line before late home pressure tells (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563279",
+      "league": "Championship",
+      "homeTeam": "Norwich",
+      "awayTeam": "QPR",
+      "match_time": "19:45",
+      "match_highlight": "Surging Norwich press tests Dunne-less QPR defense at leaky Carrow Road.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563279,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Norwich win powered by Maghoma and Kvistgaarden alongside a 1:1 draw script if Clement rotates against QPR's organized 1.11 xGA structure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.18 combined lambda (61.6% Poisson Over 2.5), Norwich's 81.2% season Over 2.5 rate, and QPR missing captain Jimmy Dunne."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 63.4% Poisson BTTS probability, Norwich's 0% home clean-sheet rate across eight matches, and both sides exceeding 1.60 xG per game."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Norwich's clinical home momentum against QPR's depleted centre-backs, while 1:1 covers QPR's 37.5% away draw rate and Poisson's modal peak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads the Poisson distribution at 22.3% alongside 2 goals at 21.0%, cleanly matching the 2:1 and 1:1 scoreline projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Norwich have drawn five of eight home first halves before accelerating late, while Draw-Draw covers QPR holding firm across the second period."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:49:50 UTC"
+}
