@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635667,
+    "matchup": "Galatasaray vs Aston Villa",
+    "home_team": "Galatasaray",
+    "away_team": "Aston Villa",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-galatasaray-vs-aston-villa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Galatasaray vs Aston Villa Prediction & Match Analysis: Can Hosts Survive Osimhen Loss? — xG Preview",
+    "meta": {
+      "matchId": "1635667",
+      "league": "UEFA Champions League",
+      "matchup": "Galatasaray vs Aston Villa",
+      "matchTime": "2026-11-24 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads the probabilistic outlook, pairing an Aston Villa 2:1 victory with a 2:2 high-scoring stalemate contingency against depleted hosts.",
+    "possibilityAssessment": [
+      "Draw / Away Win combines Aston Villa's 2.43 xG/match attacking advantage with cover for Galatasaray's strong home record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals is backed by a 4.37 statistical lambda and mutual 25% Champions League clean-sheet rates (Confidence: High, Value: Moderate)",
+      "Both Teams To Score (Yes) reflects Galatasaray's 100% European scoring record and Villa's zero away UCL shutouts (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635667",
+      "league": "UEFA Champions League",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Aston Villa",
+      "match_time": "17:45",
+      "match_highlight": "Villa's 2.43 xG attack tests Galatasaray without Osimhen, Leão, and Sallai.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635667,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Villa's 1:2 away win leads on xG and personnel superiority, while 2:2 draw cover addresses Villa's recent winless slump and zero away UCL clean sheets."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.37 combined lambda, Galatasaray's 2.19 xGA/match, and 1.40 Over 2.5 market pricing point toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Galatasaray have scored in all four UCL games while Villa have zero away UCL clean sheets and concede 1.46 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Villa's attacking edge over a depleted host, while 2:2 reflects Villa's vulnerable away defensive structure."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Galatasaray's frontline absences trim raw 4.37 lambda output slightly toward 3 goals, with 4 goals close behind in open scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Galatasaray's 75% UCL half-time draw rate supports a tight opening half before Villa break through, while Loss-Loss covers an early Villa strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 06:12:26 UTC"
+}
