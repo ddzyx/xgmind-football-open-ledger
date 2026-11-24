@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601613,
+    "matchup": "Benevento vs Empoli",
+    "home_team": "Benevento",
+    "away_team": "Empoli",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-benevento-vs-empoli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Benevento vs Empoli Prediction & Match Analysis: Can Depleted Visitors Hold Out? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1601613",
+      "league": "Serie B",
+      "matchup": "Benevento vs Empoli",
+      "matchTime": "2026-11-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benevento's 1.65 xG attack and Empoli's verified defensive shortages point toward a 2:1 home victory within a Home Win / Draw and Over 2.5 + BTTS: Yes framework.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Benevento's midfield creation edge and 1:1 finishing-waste contingency (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes driven by 100% home/away venue scoring streaks and visiting defensive absences (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge reflecting Benevento's 69.0% big-chance waste rate and Empoli's counter-attacking resilience (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601613",
+      "league": "Serie B",
+      "homeTeam": "Benevento",
+      "awayTeam": "Empoli",
+      "match_time": "19:00",
+      "match_highlight": "Benevento's 1.65 xG attack targets Empoli's injury-hit defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601613,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 2:1 home breakthrough against depleted Empoli and the 1:1 stalemate script driven by Benevento's 69.0% big-chance waste rate, where a single win call leaves draw exposure uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined xG (2.67) and xGA (2.84) exceed 2.5, with Empoli's confirmed defensive absences reinforcing their 66.7% away Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Benevento has scored in 7 of 7 home games (14.3% clean-sheet rate) while Empoli has scored in all 6 away trips (16.7% clean-sheet rate)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Benevento breaking down a patched-up Empoli back line while conceding once; 1:1 covers another clinical visiting counter if home finishing stalls."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "2.58 combined lambda plus verified defensive shortages point to a 3-goal 2:1 peak, with a 2-goal 1:1 outcome as the tightest alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Benevento draws 57.1% of home first halves and generates 62.5% of match goals late, making second-half acceleration (Draw-Win) or a level finish (Draw-Draw) the primary chronological paths."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 07:08:32 UTC"
+}
