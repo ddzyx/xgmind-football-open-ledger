@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601617,
+    "matchup": "Juve Stabia vs Catanzaro",
+    "home_team": "Juve Stabia",
+    "away_team": "Catanzaro",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-juve-stabia-vs-catanzaro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Juve Stabia vs Catanzaro: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1601617",
+      "league": "Serie B",
+      "matchup": "Juve Stabia vs Catanzaro",
+      "matchTime": "2026-11-24 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Juve Stabia's home set-piece efficiency against winless travellers Catanzaro favors Home Win / Draw with Both Teams To Score (Yes) in a narrow 2:1 or 1:1 finish.",
+    "possibilityAssessment": [
+      "Home Win / Draw pairing backs Juve Stabia's Stadio Romeo Menti edge while covering a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes capitalize on Juve Stabia's depleted defense meeting Catanzaro's 0% away clean-sheet record (Confidence: Moderate, Value: High)",
+      "1:1 Scoreline and Draw-Draw HT/FT hedge against home finishing waste (80.0% big chances missed) and Mignani's recent tightening (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601617",
+      "league": "Serie B",
+      "homeTeam": "Juve Stabia",
+      "awayTeam": "Catanzaro",
+      "match_time": "18:00",
+      "match_highlight": "Depleted Juve Stabia defense faces Catanzaro's leaky road backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601617,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Juve Stabia's 2:1 home edge against 0%-clean-sheet travellers Catanzaro is paired with a 1:1 draw hedge because confirmed absences for Douglas, Bettella, and Pietrangeli weaken home containment."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "With lambda_total at 2.62, Catanzaro conceding 1.96 xGA/match, and three Juve Stabia defenders ruled out, expected scoring pushes just past the 2.5 line."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Catanzaro's 75.0% BTTS rate and 1.30 xG/match threaten a depleted home backline while their 0.0% away clean-sheet record leaves them exposed."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Juve Stabia's set-piece edge overcoming a conceded goal, while 1:1 covers their 80.0% big-chance waste against Mignani's organized block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary projection, while two goals capture the modal 1:1 Poisson baseline if finishing stays tight."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Catanzaro reached half-time level in 71.4% of away matches (losing three and drawing two after the break), matching Juve Stabia's 66.7% second-half scoring share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 06:16:35 UTC"
+}
