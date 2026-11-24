@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556152,
+    "matchup": "JEF United Chiba vs Nagoya Grampus",
+    "home_team": "JEF United Chiba",
+    "away_team": "Nagoya Grampus",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-jef-united-chiba-vs-nagoya-grampus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "JEF United Chiba vs Nagoya Grampus Prediction & Match Analysis: Can Chiba's Home Shutouts Halt Petrović?",
+    "meta": {
+      "matchId": "1556152",
+      "league": "J1 League",
+      "matchup": "JEF United Chiba vs Nagoya Grampus",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Projecting JEF United Chiba to win or draw (Home Win / Draw) in a tight Under 2.5, BTTS: No contest anchored by a 1:0 primary scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Chiba's 71.4% home unbeaten rate and Nagoya's 62.5% away loss rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals supported by 53.4% Poisson density and high big-chance waste on both sides (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency driven by Nagoya's 57.4% possession and 26.7% set-piece goal share (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556152",
+      "league": "J1 League",
+      "homeTeam": "JEF United Chiba",
+      "awayTeam": "Nagoya Grampus",
+      "match_time": "10:00",
+      "match_highlight": "Chiba's home clean-sheet streak tests Nagoya's road scoring drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556152,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a patient 1:0 Chiba home victory alongside a 1:1 stalemate because equal season xG (1.24 vs 1.26) and Chiba's 67.7% big-chance waste prevent treating a single home win as absolute."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dixon-Coles gives Under 2.5 a 53.4% edge as both attacks miss ~70% of big chances and Nagoya carry a 50.0% away failed-to-score rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Chiba's 57.1% home clean-sheet rate and three straight shutouts contrast sharply with Nagoya's 40.0% overall failed-to-score rate and recent scoring drought."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Converges on Chiba's back-to-back 1:0 winning template while retaining the 13.3% modal 1:1 draw branch."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals leads the Poisson matrix at 26.1%, while one goal reflects Chiba's recent 1:0 efficiency and Nagoya's road blanks."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Nagoya have drawn 62.5% of their away first halves, pointing to a level interval before either a late Chiba breakthrough or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:12:12 UTC"
+}
