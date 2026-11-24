@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647339,
+    "matchup": "Rangers vs Aberdeen",
+    "home_team": "Rangers",
+    "away_team": "Aberdeen",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-rangers-vs-aberdeen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Rangers vs Aberdeen: Expected Goals (xG), Defensive Absences & Match Analysis",
+    "meta": {
+      "matchId": "1647339",
+      "league": "Premiership",
+      "matchup": "Rangers vs Aberdeen",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Rangers are projected to claim a controlled home victory over an injury-depleted Aberdeen side, anchored by Under 2.5 Goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Primary Thesis: Rangers Home Win driven by 2.47 xG/match creation and Ibrox dominance (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals and 2:0 scoreline reflecting Rangers' 70.5% chance waste and 60.0% home clean-sheet rate (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Draw-Win / 2:1 branch if finishing friction delays the breakthrough or Nisbet converts on transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647339",
+      "league": "Premiership",
+      "homeTeam": "Rangers",
+      "awayTeam": "Aberdeen",
+      "match_time": "20:00",
+      "match_highlight": "Rangers' 2.47 xG attack meets Aberdeen's depleted backline at Ibrox.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647339,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Rangers' 2.47 xG-per-match attack and 60.0% home clean-sheet rate project a controlled 2:0 victory over an Aberdeen side missing four defenders and Connor Ronan."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Rangers' 70.5% big-chance waste rate, 0.77 goals conceded per game, and Aberdeen's 53.8% failed-to-score rate align with the 50.3% Poisson Under 2.5 lean."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aberdeen have failed to score in 53.8% of league matches and lose playmaker Connor Ronan against a Rangers side holding a 60.0% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 reflects Rangers' home clean-sheet control and finishing variance, while 2:1 covers Kevin Nisbet's transition and set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the modal Poisson outcome (24.7%) matching a 2:0 home win, with three goals capturing a 2:1 or 3:0 alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Rangers have converted all three home half-time leads into wins (Win-Win), while Draw-Win covers early finishing resistance before second-half pressure tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 09:09:13 UTC"
+}
