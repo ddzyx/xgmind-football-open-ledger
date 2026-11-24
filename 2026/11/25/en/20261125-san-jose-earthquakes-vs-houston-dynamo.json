@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649497,
+    "matchup": "San Jose Earthquakes vs Houston Dynamo",
+    "home_team": "San Jose Earthquakes",
+    "away_team": "Houston Dynamo",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-25 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-san-jose-earthquakes-vs-houston-dynamo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "San Jose Earthquakes vs Houston Dynamo Prediction & Match Analysis: Can Bond Hold Arena's Attack?",
+    "meta": {
+      "matchId": "1649497",
+      "league": "Major League Soccer",
+      "matchup": "San Jose Earthquakes vs Houston Dynamo",
+      "matchTime": "2026-11-25 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back San Jose Earthquakes on the Home Win / Draw direction as superior home xG creation meets Houston's disciplined away counter-attacking block.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by San Jose's 1.72 xG per match and intact offensive core against Houston's 1.50 xGA per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes supported by 2.70 combined lambda and San Jose's 62.5% home Over 2.5 and BTTS rates (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Loss-Draw contingency driven by San Jose's 50.0% home deficit recovery and Houston's 42.9% away lead-erosion rate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649497",
+      "league": "Major League Soccer",
+      "homeTeam": "San Jose Earthquakes",
+      "awayTeam": "Houston Dynamo",
+      "match_time": "03:00",
+      "match_highlight": "San Jose's high-xG attack tests Jonathan Bond and Houston's compact away block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649497,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "San Jose's 1.72 vs 1.13 xG edge drives the primary 2:1 home-win script while Houston's 37.5% clean-sheet rate and San Jose's 25.0% home shutout mark justify covering the 1:1 draw rather than relying on a single home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.70 combined goal lambda, San Jose's 62.5% home Over 2.5 rate, and Houston's 1.50 xGA per match point narrowly past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "San Jose scored in 14 of 16 home games while keeping just 4 home clean sheets, and Houston found the net in 13 of 16 away matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects San Jose's home chance volume against Houston's counter threat, while 1:1 captures the 11.8% modal Dixon-Coles stalemate if Jonathan Bond limits conversion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 2:1 script and 2.70 total lambda, while 2 goals covers the 25.1% modal total-goals bucket and 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "San Jose led at halftime in 43.8% of home matches and Houston lost all 5 away halftime deficits, while Draw-Draw covers a cagey opening half finishing 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 15:08:58 UTC"
+}
