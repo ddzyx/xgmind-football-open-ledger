@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635649,
+    "matchup": "Como vs AEK Athens FC",
+    "home_team": "Como",
+    "away_team": "AEK Athens FC",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-como-vs-aek-athens-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Como vs AEK Athens FC: Expected Goals (xG), Squad Absences & Tactical Breakdown",
+    "meta": {
+      "matchId": "1635649",
+      "league": "UEFA Champions League",
+      "matchup": "Como vs AEK Athens FC",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Como's 2.64-xG-per-match Champions League attack and intact playmaking spine give them a clear home-win trajectory against an AEK Athens FC side allowing 2.05 xGA per game.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win — Como's available creative core exploits AEK's leaky defensive structure over 90 minutes (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals — Combined 3.89 xG/match and Como's 4-for-4 Over 2.5 UCL trend drive a 3-to-4-goal script (Confidence: High, Value: Moderate)",
+      "Contingency Angle: Como 3:0 Shutout — If AEK's absences blunt their transition output, Como's domestic clean-sheet discipline holds firm (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635649",
+      "league": "UEFA Champions League",
+      "homeTeam": "Como",
+      "awayTeam": "AEK Athens FC",
+      "match_time": "20:00",
+      "match_highlight": "Como's relentless UCL attack tests injury-hit AEK Athens FC's leaky backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635649,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Como's 2.64 xG per European outing and 2-for-2 home dominance project a decisive 3:1 or 3:0 regulation-time victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "With 5.13 combined statistical lambda, 3.89 combined xG/match, and Como hitting 4/4 Over 2.5 in UCL play, at least three goals are strongly supported."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Como have conceded in all four UCL matches (0.0% clean sheets), giving AEK's set-piece specialists and available strikers a realistic path to one goal despite key absences."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "3:0"
+        ],
+        "comment": "3:1 reflects Como's three-goal home UCL ceiling meeting a single AEK transition or set-piece strike, while 3:0 covers the shutout if AEK's absences stall their attack."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Adjusting the 5.13 raw lambda slightly downward for Como's forward injuries and finishing variance centers total match output around 3 to 4 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Como have led at halftime in 3 of 4 UCL matches (2 of 2 at home) and converted every lead, while AEK's compact early road shape makes a second-half breakthrough the main fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:12:15 UTC"
+}
