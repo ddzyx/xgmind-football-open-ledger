@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635611,
+    "matchup": "Arsenal vs Borussia Dortmund",
+    "home_team": "Arsenal",
+    "away_team": "Borussia Dortmund",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-arsenal-vs-borussia-dortmund/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arsenal vs Borussia Dortmund Prediction & Match Analysis: Saka & Raya Absences Test Gunners — xG Preview",
+    "meta": {
+      "matchId": "1635611",
+      "league": "UEFA Champions League",
+      "matchup": "Arsenal vs Borussia Dortmund",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Arsenal's Emirates midfield control faces a stern test without Saka, Zubimendi, and Raya, pointing toward Home Win / Draw with goals at both ends.",
+    "possibilityAssessment": [
+      "Arsenal remain strong enough in midfield via Odegaard and Rice to edge a 2:1 win or hold a 1:1 draw at home (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals is backed by 4.69 combined Champions League xG per match and Dortmund's zero-clean-sheet European record (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes reflects Dortmund's 2.46 xG per match attacking floor meeting an Arsenal backline missing Raya and Zubimendi (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635611",
+      "league": "UEFA Champions League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Borussia Dortmund",
+      "match_time": "20:00",
+      "match_highlight": "Kepa deputizes for Raya as Saka-less Arsenal host resurgent Dortmund.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635611,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the leading 2:1 Arsenal home-control script and the 1:1 draw branch, because losing Raya, Zubimendi, and Saka makes a single Home Win call too exposed to Dortmund's 2.46 xG attack."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.23 and 2.46 Champions League xG averages, Dortmund's 0% clean-sheet rate, and 54.7% baseline Over 2.5 expectancy."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Arsenal have scored in 100% of UCL fixtures against a winless-clean-sheet Dortmund defense, while Guirassy's return threatens Kepa behind a Zubimendi-less shield."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Arsenal's Emirates midfield edge over Dortmund's leaky defense, while 1:1 captures the Poisson baseline's densest stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with high combined xG and Over 2.5 lean, with two goals covering the tight 1:1 branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs have been level at half-time in 7 of 8 combined UCL matches and score overwhelmingly after the break, making a level interval followed by a win or draw most likely."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:08:35 UTC"
+}
