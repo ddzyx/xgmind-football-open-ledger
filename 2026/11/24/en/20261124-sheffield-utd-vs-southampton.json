@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563281,
+    "matchup": "Sheffield Utd vs Southampton",
+    "home_team": "Sheffield Utd",
+    "away_team": "Southampton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-sheffield-utd-vs-southampton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sheffield Utd vs Southampton Prediction & Match Analysis: Can Blades Resist Larin Without Tanganga?",
+    "meta": {
+      "matchId": "1563281",
+      "league": "Championship",
+      "matchup": "Sheffield Utd vs Southampton",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is the primary 1X2 projection, led by a 1:2 Southampton victory with Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Southampton's 1.75 xG/match superiority and Sheffield Utd's defensive/loan absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals & BTTS Yes driven by both sides missing starting centre-backs (Confidence: Moderate, Value: Moderate)",
+      "1:1 score draw via Sheffield Utd's 9 set-piece goals and Southampton's 12.5% away clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563281",
+      "league": "Championship",
+      "homeTeam": "Sheffield Utd",
+      "awayTeam": "Southampton",
+      "match_time": "19:45",
+      "match_highlight": "Blades missing Tanganga and Brereton Diaz against Saints' 1.75 xG attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563281,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Southampton win driven by their xG edge and Blades absences alongside a 1:1 draw rooted in Saints' away concession rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "2.81 combined lambda and missing starting centre-backs Tanganga and Schlotterbeck favor three goals over a low-scoring stalemate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Southampton have scored and conceded in 7 of 8 away league games, while Blades face defensive depletion without Tanganga."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Southampton's attacking edge against a reshuffled Blades defense, while 1:1 covers Saints' road draw tendency."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 1:2 projection, with two goals covering the tight 1:1 away-draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss reflects Southampton's second-half scoring punch after a tight opening, while Loss-Draw captures their 66.7% away lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:57:26 UTC"
+}
