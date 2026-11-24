@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563278,
+    "matchup": "Middlesbrough vs Swansea",
+    "home_team": "Middlesbrough",
+    "away_team": "Swansea",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-middlesbrough-vs-swansea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Middlesbrough vs Swansea Prediction & Match Analysis: Can Interim Swans Halt Boro's Riverside Surge?",
+    "meta": {
+      "matchId": "1563278",
+      "league": "Championship",
+      "matchup": "Middlesbrough vs Swansea",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Middlesbrough hold a clear statistical and personnel edge at the Riverside to claim a full-time home win in an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "Middlesbrough Home Win anchored by a 6W-2D-0L Riverside record and 2.06 xG/match output (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by 2.96 combined lambda and 87.5% Swansea away Over 2.5 frequency (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes driven by Swansea's 87.5% away scoring rate and Boro's Alfie Jones absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563278",
+      "league": "Championship",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Swansea",
+      "match_time": "19:45",
+      "match_highlight": "League leaders Middlesbrough test interim Swansea's depleted left flank and midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563278,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by the primary 2:1 projection as Middlesbrough's 2.06 xG/match and unbeaten home form overwhelm Swansea's depleted defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.96 lambda, 75.0% Boro home Over 2.5 rate, and 87.5% Swansea away Over 2.5 rate favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Middlesbrough's 100% home scoring rate and Swansea's 87.5% away scoring rate support both attacks finding the net."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 balances Boro's home firepower with Swansea's road scoring floor, while 2:0 reflects Boro's recent clean-sheet streak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 Goals and 2 Goals capture the highest-density Poisson buckets around the 2.96 total lambda projection."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Swansea trail at halftime in 62.5% of away games (Win-Win), while Boro's 68.4% second-half home goal share backs Draw-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:46:21 UTC"
+}
