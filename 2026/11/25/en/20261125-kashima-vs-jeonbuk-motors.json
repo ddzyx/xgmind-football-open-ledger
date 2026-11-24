@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629990,
+    "matchup": "Kashima vs Jeonbuk Motors",
+    "home_team": "Kashima",
+    "away_team": "Jeonbuk Motors",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-kashima-vs-jeonbuk-motors/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashima vs Jeonbuk Motors Tactical Breakdown & Probabilistic Modeling: Continental Supremacy Tested",
+    "meta": {
+      "matchId": "1629990",
+      "league": "AFC Champions League Elite",
+      "matchup": "Kashima vs Jeonbuk Motors",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kashima hold the decisive tactical and statistical edge for an ordinary full-time Home Win, anchored by a 2.12 home goal-expectancy lambda and clinical continental home scoring.",
+    "possibilityAssessment": [
+      "Home Win behind Kashima's 67.3 Forward Threat Index and 5-day recovery edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 and BTTS Yes convergence at 2:1 driven by 2.94 total lambda and recent host concessions (Confidence: Moderate, Value: Moderate)",
+      "2:0 Home Shutout branch capturing the 11.9% modal Poisson scoreline if Jeonbuk's 66.7% big-chance waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629990",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Kashima",
+      "awayTeam": "Jeonbuk Motors",
+      "match_time": "10:00",
+      "match_highlight": "Kashima's home ACLE firepower tests Jeonbuk's high-press road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629990,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kashima's 2.12 home lambda, 10-1 home ACLE goal record, and superior forward threat support a single Home Win projection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.94 combined lambda, 56.3% model Over 2.5 share, and 1.70 Bet365 Over price support at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Jeonbuk's 56.0% Poisson scoring probability meets Kashima's recent domestic defensive concessions and Tae-Hyeon Kim's fitness doubt."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 balances Kashima's home scoring superiority with recent defensive leaks, while 2:0 covers their 75.0% ACLE clean-sheet profile."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the 2.94 total lambda and 2:1 primary script, while two goals covers the 23.3% modal Poisson shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Kashima's 75% ACLE half-time draw rate and second-half surge favor Draw-Win, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:35:52 UTC"
+}
