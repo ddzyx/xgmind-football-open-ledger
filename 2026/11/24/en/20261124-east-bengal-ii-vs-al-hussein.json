@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630405,
+    "matchup": "East Bengal II vs Al Hussein",
+    "home_team": "East Bengal II",
+    "away_team": "Al Hussein",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-24 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-east-bengal-ii-vs-al-hussein/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "East Bengal II vs Al Hussein Prediction & Match Analysis: Can Habas Overcome Key Absences?",
+    "meta": {
+      "matchId": "1630405",
+      "league": "AFC Champions League Two",
+      "matchup": "East Bengal II vs Al Hussein",
+      "matchTime": "2026-11-24 13:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Hussein are projected to leave Salt Lake Stadium unbeaten via Draw / Away Win in a tightly contested 1:1 or 1:2 Group D battle.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by East Bengal II's winless continental run and Al Hussein's away resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals paired with BTTS: Yes as conversion wastefulness and visitor rust cap scoring around two goals (Confidence: Moderate, Value: Moderate)",
+      "Late 1:2 away breakaway if must-win home pressure leaves transition space after minute 65 (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630405",
+      "league": "AFC Champions League Two",
+      "homeTeam": "East Bengal II",
+      "awayTeam": "Al Hussein",
+      "match_time": "13:45",
+      "match_highlight": "Depleted East Bengal II defense faces rested Al Hussein in Group D.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630405,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate favored by visitor rust and a 1:2 away win exploiting Anwar Ali's absence, where backing a single outcome ignores the 20.9-day layoff."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 51.8% Poisson lean on a 2.60 total lambda, Edmund Lalrindika's absence, and East Bengal II's 42.9% big-chance waste rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 52.9% Poisson BTTS expectancy, zero home continental clean sheets for East Bengal II, and Al Hussein's 100% away Group D scoring rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects the 12.5% Poisson peak and group-table equilibrium, while 1:2 captures a late transition winner against an overextended host."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.1%) anchors the primary 1:1 script, while three goals (21.8%) covers a late decisive breakaway."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Reflects a cautious level opening half before either mutual containment holds (1:1) or Al Hussein's rest edge tells late (1:2)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 02:07:49 UTC"
+}
