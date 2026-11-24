@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629985,
+    "matchup": "Ratchaburi vs Johor Darul Takzim FC",
+    "home_team": "Ratchaburi",
+    "away_team": "Johor Darul Takzim FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-24 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261124-ratchaburi-vs-johor-darul-takzim-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ratchaburi vs Johor Darul Takzim FC Tactical Breakdown & Probabilistic Modeling: Rest Edge & Scoring Gaps",
+    "meta": {
+      "matchId": "1629985",
+      "league": "AFC Champions League Elite",
+      "matchup": "Ratchaburi vs Johor Darul Takzim FC",
+      "matchTime": "2026-11-24 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Johor Darul Takzim FC are projected to secure a full-time Away Win over Ratchaburi by capitalizing on superior squad depth, continental defensive control, and late-match stamina.",
+    "possibilityAssessment": [
+      "Johor Darul Takzim FC Away Win backed by 0.75 GA/match, 61.1% possession, and 119h recovery (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by 3.12 combined lambda and Ratchaburi's 2.50 ACLE goals conceded/match (Confidence: Moderate, Value: Moderate)",
+      "JDT 0:2 clean-sheet margin if Ratchaburi's domestic scoring blank persists and JDT finish conservatively (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629985",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Ratchaburi",
+      "awayTeam": "Johor Darul Takzim FC",
+      "match_time": "12:15",
+      "match_highlight": "Rested JDT test Ratchaburi's porous defense at Dragon Solar Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629985,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by a 1:2 primary projection, JDT pair superior 0.75 goals-conceded prevention and 61.1% control against a Ratchaburi side on 71 hours rest with three straight defeats."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.12 combined lambda (60.3% Over 2.5 probability) and Ratchaburi's 2.50 goals conceded per ACLE match point toward at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson projects a 58.3% BTTS Yes probability as Ratchaburi's available attackers retain a 67.4% home scoring chance against JDT's 32.6% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 (9.9% Poisson density) captures JDT's control alongside a home goal, while 0:2 (8.8%) reflects JDT's 50.0% ACLE clean-sheet rate if Ratchaburi blank again."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4%) and two goals (21.5%) represent the top two Poisson densities, balancing open second-half scoring against JDT's controlled road profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Neither team has led at half-time in four ACLE matches while JDT converted two of three HT draws into wins, with Loss-Loss covering an early JDT strike against tired hosts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 00:41:36 UTC"
+}
