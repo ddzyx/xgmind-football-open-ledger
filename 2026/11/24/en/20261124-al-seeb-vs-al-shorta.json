@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630406,
+    "matchup": "Al Seeb vs Al Shorta",
+    "home_team": "Al Seeb",
+    "away_team": "Al Shorta",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-24 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-al-seeb-vs-al-shorta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Seeb vs Al Shorta Tactical Breakdown & Probabilistic Modeling: Can Hosts Breach Unbeaten Leaders?",
+    "meta": {
+      "matchId": "1630406",
+      "league": "AFC Champions League Two",
+      "matchup": "Al Seeb vs Al Shorta",
+      "matchTime": "2026-11-24 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Al Shorta to avoid defeat in a low-scoring Group D fixture, led by an away victory with the draw retained.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Unbeaten Group D leaders hold strong scoring dominance while hosts retain stalemate resilience (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No: Low combined goal expectancy and host continental scoring drought favor a tight shutout (Confidence: Moderate, Value: High)",
+      "Goalless Stalemate (0:0): Extended home preparation and consecutive shutouts create a credible scoreless branch (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630406",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Al Seeb",
+      "awayTeam": "Al Shorta",
+      "match_time": "16:00",
+      "match_highlight": "Rested Al Seeb low block tests unbeaten Al Shorta's clinical attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630406,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Al Shorta's leading 0:1 breakthrough script alongside a 0:0 stalemate, as Al Seeb's rest edge and four straight shutouts make a single away-win call narrower."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.12 lambda total, 64.4% Poisson Under 2.5 probability, and Al Seeb's 0.50 Group D scoring average."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Al Seeb failed to score in 3 of 4 Group D matches while Al Shorta hold a 53.8% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "0:0"
+        ],
+        "comment": "Replicates the 1:0 Baghdad meeting as primary outcome while retaining a 0:0 stalemate for Al Seeb's rested defense."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Targets 1 goal ahead of 2 goals as Al Seeb's four-match shutout streak tightens variance around the 2.12 lambda anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Al Seeb's zero first-half Group D goals point to a level interval before Al Shorta strike late or share points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 04:12:29 UTC"
+}
