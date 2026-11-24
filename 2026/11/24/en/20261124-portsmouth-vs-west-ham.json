@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563280,
+    "matchup": "Portsmouth vs West Ham",
+    "home_team": "Portsmouth",
+    "away_team": "West Ham",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-portsmouth-vs-west-ham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portsmouth vs West Ham Prediction & Match Analysis: Can Depleted Pompey Halt West Ham's xG?",
+    "meta": {
+      "matchId": "1563280",
+      "league": "Championship",
+      "matchup": "Portsmouth vs West Ham",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "West Ham's 2.02 xG attack and 87.5% away unbeaten record support Draw / Away Win in a high-chance Fratton Park matchup featuring Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on West Ham's +0.85 xG/match edge and Portsmouth's eight confirmed absences, retaining the draw for West Ham's 50.0% away stalemate rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes backed by a 3.19 combined lambda and 75.0% Over 2.5 and BTTS rates in Pompey home and Hammers away games (Confidence: Moderate, Value: High)",
+      "Win-Draw HT/FT scenario driven by Portsmouth's 50.0% home half-time lead rate against West Ham's 100% away HT-deficit draw recovery record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563280",
+      "league": "Championship",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "West Ham",
+      "match_time": "19:45",
+      "match_highlight": "West Ham's 2.02 xG firepower tests injury-hit Portsmouth's leaky home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563280,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers West Ham's 1:2 attacking-superiority script while retaining the 1:1 draw branch given West Ham's four draws in eight away games and five-match conceding run."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.19 combined lambda (61.8% Over 2.5 probability) and 75.0% Over 2.5 rates in Portsmouth home and West Ham away Championship fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "West Ham have scored in 100% of 16 league games while Portsmouth boast an 87.5% home scoring rate against a visiting defense with zero clean sheets in five."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects West Ham's second-half quality overcoming Pompey's home opener, while 1:1 captures the high-probability draw branch if Parker's side wastes big chances."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson goal-count probabilities (22.3% for 3 goals, 20.9% for 2 goals) aligned directly with 1:2 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss pairs a cagey opening with West Ham's 68.4% second-half away goal share, while Win-Draw covers Portsmouth's 50.0% home HT lead rate followed by an away equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:53:44 UTC"
+}
