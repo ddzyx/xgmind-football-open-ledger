@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629989,
+    "matchup": "Gamba Osaka vs Port FC",
+    "home_team": "Gamba Osaka",
+    "away_team": "Port FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-gamba-osaka-vs-port-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gamba Osaka vs Port FC Prediction & Match Analysis: High Press vs Road Fragility — Scoreline Preview",
+    "meta": {
+      "matchId": "1629989",
+      "league": "AFC Champions League Elite",
+      "matchup": "Gamba Osaka vs Port FC",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and continental goal-per-match differentials point to a Gamba Osaka Home Win alongside Over 2.5 Goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win — Multiplicative goals modeling (3.77 vs 1.68 lambda) and +6.89% model-versus-market discrepancy support Gamba Osaka overcoming Port FC's 3.50-goals-conceded defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes — Combined 5.45 total lambda, 90.8% Over 2.5 probability, and 79.6% BTTS Yes baseline align with 3:1 and 2:1 winning scorelines (Confidence: High, Value: Moderate)",
+      "Late Lead-Erosion Contingency — Gamba's 99-hour turnaround and 50% rate of failing to win after half-time ACLE leads preserve late-concession tension (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629989",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Gamba Osaka",
+      "awayTeam": "Port FC",
+      "match_time": "10:00",
+      "match_highlight": "Gamba Osaka's high press faces Port FC's fragile away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629989,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Gamba Osaka's unbeaten continental home profile and high press overwhelm a Port FC defense beaten by three or more goals in both away ACLE fixtures, converging on a 3:1 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 5.45 combined goals lambda, 90.8% model Over 2.5 probability, and Port FC's 3.50 goals conceded per continental match strongly favor at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs hold 0% clean-sheet records across four ACLE matches, and Port FC's 32.6% set-piece dependency gives it a clear scoring floor against Gamba's high line."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 captures Gamba's territorial dominance against Port's porous backline alongside one away reply, while 2:1 covers a tighter script shaped by Gamba's 56.2% big-chance waste rate."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Tempering the raw 5.45 lambda for Gamba's recent domestic scoring dip and Eli Adams's ACL absence centers expected match volume on 4 and 3 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win reflects Gamba's 27.3% first-half goal share and Port's compact early resistance in away defeats, while Win-Win covers an early high-press breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:32:27 UTC"
+}
