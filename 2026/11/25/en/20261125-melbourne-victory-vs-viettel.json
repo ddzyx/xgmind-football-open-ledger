@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630407,
+    "matchup": "Melbourne Victory vs Viettel",
+    "home_team": "Melbourne Victory",
+    "away_team": "Viettel",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 07:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-melbourne-victory-vs-viettel/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Melbourne Victory vs Viettel Tactical Breakdown & Probabilistic Modeling: Home Control vs Scoring Drought",
+    "meta": {
+      "matchId": "1630407",
+      "league": "AFC Champions League Two",
+      "matchup": "Melbourne Victory vs Viettel",
+      "matchTime": "2026-11-25 07:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Melbourne Victory's 2.05 goal expectancy, returning regulars, and urgent Group E push support a controlled Home Win paired with Under 2.5 Goals and BTTS: No.",
+    "possibilityAssessment": [
+      "Home Win — Melbourne Victory dominate territorial progression and exploit Viettel's 2.50 goals conceded per game in Group E while pursuing second place (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No — Victory's 62.5% big-chance waste rate and Viettel's 0.25 goals per game point toward a 2:0 or 1:0 shutout (Confidence: Moderate, Value: Moderate)",
+      "Second-Half Breakthrough (Draw-Win) — A tight, scoreless first half mirroring Victory's four prior Group E halves gives way to late home pressure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630407",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Viettel",
+      "match_time": "07:45",
+      "match_highlight": "Can Melbourne Victory break Viettel's compact block cleanly?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630407,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 69.0% Dixon-Coles win projection, returning defensive anchor Philipp Ziereis, and Viettel's 2.50 goals conceded per game in Group E toward a 2:0 or 1:0 finish."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Victory's 62.5% big-chances-missed ratio and Viettel's 0.25 goals per match in Group E favor a controlled one- or two-goal shutout over a wide-open game."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Viettel have failed to score in four straight matches and both away ACL2 outings, while Ziereis bolsters Victory's 50.7% modeled clean-sheet probability."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "The top two Dixon-Coles densities (13.7% and 12.9%) capture Victory breaking down Viettel without conceding while reflecting residual finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.8%) anchors the primary 2:0 shutout script, with three goals (22.1%) covering late second-half fatigue if Viettel unravel after conceding."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Victory drew half-time in all four Group E ties before accelerating late, while Win-Win covers an early breakthrough against Viettel's porous away defense."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 20:08:49 UTC"
+}
