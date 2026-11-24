@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635713,
+    "matchup": "RB Leipzig vs Lens",
+    "home_team": "RB Leipzig",
+    "away_team": "Lens",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-rb-leipzig-vs-lens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "RB Leipzig vs Lens Prediction & Match Analysis: Can Digard's Depleted Defense Hold? — xG Preview",
+    "meta": {
+      "matchId": "1635713",
+      "league": "UEFA Champions League",
+      "matchup": "RB Leipzig vs Lens",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RB Leipzig hold a clear home victory path over a depleted Lens side in an open match expected to clear 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: RB Leipzig Home Win backed by superior available squad form and forward threat against Lens's depleted defense (Confidence: Moderate, Value: Moderate)",
+      "Secondary Scoring Thesis: Over 2.5 Goals and 4-goal cluster driven by 4.50 total lambda and >2.4 xGA per game for both clubs (Confidence: High, Value: Moderate)",
+      "Contingency Thesis: Both Teams To Score Yes with a tighter 2:1 margin if Didier Digard's 3-4-2-1 slows the tempo while exploiting Lukeba's absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635713",
+      "league": "UEFA Champions League",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Lens",
+      "match_time": "20:00",
+      "match_highlight": "Leipzig's 79.3 forward threat tests Digard's injury-hit Lens back three.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635713,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "RB Leipzig's attacking firepower and recent five-goal Bundesliga surge outweigh Lukeba's absence against a Lens side missing Gradit, Nawrocki, Édouard, and Cuisance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.50 combined lambda, 82.6% Poisson Over 2.5 expectancy, and both defenses conceding above 2.43 xGA per Champions League match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Leipzig have scored in all four UCL fixtures against a zero-clean-sheet Lens defense, while Lukeba's knee injury gives Thauvin's 1.57 xG attack a clear transition route."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 reflects Leipzig exploiting Lens's defensive injuries while conceding once; 2:1 covers Digard's 3-4-2-1 containing early pressure before second-half separation."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Aligns directly with the top 4-goal (19.0%) and 3-goal (16.9%) Poisson clusters and the projected 3:1 and 2:1 match scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Favors early home control converting into a full-time win, with Draw-Win covering a tight opening 45 minutes before second-half fatigue tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:23:30 UTC"
+}
