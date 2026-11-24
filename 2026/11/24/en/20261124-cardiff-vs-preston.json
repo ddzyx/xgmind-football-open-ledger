@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563276,
+    "matchup": "Cardiff vs Preston",
+    "home_team": "Cardiff",
+    "away_team": "Preston",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-cardiff-vs-preston/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cardiff City vs Preston North End: Expected Goals, Defensive Absences & Match Preview",
+    "meta": {
+      "matchId": "1563276",
+      "league": "Championship",
+      "matchup": "Cardiff vs Preston",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cardiff's high-possession home attack and returning full-back Joel Bagan anchor a Home Win / Draw projection alongside Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Cardiff Win / Draw covers the hosts' 2.04 xG home dominance against a depleted Preston backline while hedging against Cardiff's centre-back absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes reflects a 3.18 combined lambda, 61.6% Poisson Over 2.5 rate, and 87.5% home BTTS frequency for Cardiff (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency covers Cardiff's 70.0% big-chance waste rate and 50% home draw share if Preston convert an early counter (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563276",
+      "league": "Championship",
+      "homeTeam": "Cardiff",
+      "awayTeam": "Preston",
+      "match_time": "19:45",
+      "match_highlight": "Unbeaten home hosts test depleted Preston backline amid mutual defensive absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563276,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Cardiff's primary 2:1 home-win script against 24th-placed Preston alongside the 1:1 draw branch driven by Cardiff's three missing centre-backs, as a single win call ignores their 50% home draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.18 combined lambda, 61.6% Poisson Over 2.5 probability, and both sides' depleted defensive lines."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cardiff have scored in 8 of 8 home games with one clean sheet in 16 overall, while Preston carry zero away clean sheets."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Cardiff's home attacking edge over a patched-up Preston defense, while 1:1 covers big-chance waste and home defensive leaks."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.0%) lead the Poisson total distribution and align directly with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Cardiff score 61.9% of home goals before half-time against Preston's 50% away Loss-Loss rate, with Win-Draw covering Cardiff's 50% overall lead-erosion rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:38:27 UTC"
+}
