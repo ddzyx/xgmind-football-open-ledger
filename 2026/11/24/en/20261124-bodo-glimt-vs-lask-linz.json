@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635641,
+    "matchup": "Bodo/Glimt vs Lask Linz",
+    "home_team": "Bodo/Glimt",
+    "away_team": "Lask Linz",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-24 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-bodo-glimt-vs-lask-linz/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bodo/Glimt vs Lask Linz Prediction & Match Analysis: Can Arctic Control Curb LASK xG? — Scoreline Preview",
+    "meta": {
+      "matchId": "1635641",
+      "league": "UEFA Champions League",
+      "matchup": "Bodo/Glimt vs Lask Linz",
+      "matchTime": "2026-11-24 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bodo/Glimt are projected to secure a regulation-time Home Win at Aspmyra Stadion in an open match clearing Over 2.5 Goals with Both Teams To Score.",
+    "possibilityAssessment": [
+      "Bodo/Glimt leverage their +146 Elo margin, 62.0% possession control, and 95-hour recovery against Lask Linz's 2.17 xGA per game and Bello-depleted left flank (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes backed by Lask Linz's 2.08 Champions League xG per game and 1.30/1.40 market alignment on open scoring (Confidence: High, Value: Moderate)",
+      "H. Evjen's absence and Bodo/Glimt's 59.5% big-chance waste rate delay the breakthrough into the second half under a Draw-Win trajectory (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635641",
+      "league": "UEFA Champions League",
+      "homeTeam": "Bodo/Glimt",
+      "awayTeam": "Lask Linz",
+      "match_time": "17:45",
+      "match_highlight": "Bodo/Glimt's Arctic home control tests Lask Linz's high-tempo transition attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635641,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bodo/Glimt's +146 Elo advantage, unbeaten home European defense, and 22-hour rest margin support a 2:1 or 3:1 Home Win over Lask Linz's porous road back line."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Lask Linz's 2.08 xG and 2.17 xGA per Champions League match combine with Bet365's 1.30 Over 2.5 price and a 4.00 lambda total to project at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Lask Linz average 13.5 shots and 2.50 goals in Europe while conceding in every away UCL match, aligning with a 72.8% baseline BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 reflects Bodo/Glimt's home dominance tempered by 59.5% big-chance waste and Lask Linz's counter threat, with 3:1 capturing late fatigue on artificial turf."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the central convergence between Bodo/Glimt's home control and Lask Linz's high-event 2.08 xG / 2.17 xGA profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Bodo/Glimt have drawn 57.1% of Champions League first halves before pulling away late, while Win-Win covers an early strike against a Lask Linz side trailing at HT in 60% of UCL games."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 06:09:18 UTC"
+}
