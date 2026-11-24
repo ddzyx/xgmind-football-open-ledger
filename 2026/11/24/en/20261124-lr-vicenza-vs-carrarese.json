@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601618,
+    "matchup": "Vicenza Virtus vs Carrarese",
+    "home_team": "Vicenza Virtus",
+    "away_team": "Carrarese",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-24 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-lr-vicenza-vs-carrarese/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vicenza Virtus vs Carrarese Prediction & Match Analysis: Can Cuomo-Less Hosts Hold? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1601618",
+      "league": "Serie B",
+      "matchup": "Vicenza Virtus vs Carrarese",
+      "matchTime": "2026-11-24 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Carrarese's defensive containment and Vicenza Virtus's Cuomo-weakened backline favor Draw / Away Win alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Carrarese's second-half acceleration against a Vicenza defense missing Giuseppe Cuomo (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by Vicenza's 83.3% Over 2.5 rate and 0.0% home clean-sheet record (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency should Carrarese's 72.4% big-chance waste ratio limit their away scoring ceiling (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601618",
+      "league": "Serie B",
+      "homeTeam": "Vicenza Virtus",
+      "awayTeam": "Carrarese",
+      "match_time": "19:00",
+      "match_highlight": "Cuomo's suspension tests Vicenza's porous defense against Carrarese's Rubino-led attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601618,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Carrarese win exploiting Cuomo's suspension and a 1:1 draw given Carrarese's 72.4% big-chance waste, whereas an unconditional Away Win carries excessive finishing risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.75 combined lambda, Vicenza's 83.3% Serie B Over 2.5 frequency, and 2.35 home xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Vicenza's 1.57 xG per match meets a Carrarese side with a 16.7% clean-sheet rate while Vicenza hold 0.0% home clean sheets."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Vicenza's defensive leakage without Cuomo against Rubino and Rouhi, while 1:1 hedges Carrarese's away finishing slump."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 1:2 Over 2.5 primary script, while two goals represent the modal 24.2% Poisson fallback for a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Vicenza draw 80.0% of home first halves before fading late, while Carrarese score 70.0% of their goals after half-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 07:19:09 UTC"
+}
