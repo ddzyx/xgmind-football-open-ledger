@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1629987,
+    "matchup": "Shabab Al Ahli Dubai vs Al-Qadisiyah FC",
+    "home_team": "Shabab Al Ahli Dubai",
+    "away_team": "Al-Qadisiyah FC",
+    "league": "AFC Champions League Elite",
+    "kickoff_utc": "2026-11-24 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-shabab-al-ahli-dubai-vs-al-qadisiyah-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Shabab Al Ahli Dubai vs Al-Qadisiyah FC Prediction & Match Analysis: Can Home Press Hold Unbeaten Visitors?",
+    "meta": {
+      "matchId": "1629987",
+      "league": "AFC Champions League Elite",
+      "matchup": "Shabab Al Ahli Dubai vs Al-Qadisiyah FC",
+      "matchTime": "2026-11-24 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Qadisiyah FC hold the underlying scoring and midfield quality edge to leave Dubai unbeaten, though Shabab Al Ahli Dubai's home clean-sheet record keeps a low-margin stalemate firmly in play.",
+    "possibilityAssessment": [
+      "Draw / Away Win leans toward an Al-Qadisiyah FC result behind 1.5 vs 1.0 goal expectancy while covering a 1:1 draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals aligns with the 2.5 lambda_total anchor and Shabab Al Ahli Dubai's 75% Under 2.5 continental profile (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes via 1:1 or 1:2 reflects Al-Qadisiyah FC's 100% ACL scoring rate meeting a 25% continental clean-sheet ratio (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1629987",
+      "league": "AFC Champions League Elite",
+      "homeTeam": "Shabab Al Ahli Dubai",
+      "awayTeam": "Al-Qadisiyah FC",
+      "match_time": "16:00",
+      "match_highlight": "Home high-press discipline tests Al-Qadisiyah's clinical midfield after three weeks off.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1629987,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Aligned with the 1:1 and 1:2 projections, Draw / Away Win covers both an Al-Qadisiyah FC territorial breakthrough and a stubborn home stalemate where a single away-win call would ignore Bonsu Baah's absence and the hosts' 2-0-0 home ACL record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.5 lambda_total baseline (54.4% Poisson Under 2.5), Shabab Al Ahli Dubai's 0.75 goals-conceded rate, and Al-Qadisiyah FC's 61.9% big-chance waste ratio."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Qadisiyah FC have scored in all four ACL Elite outings (2.25 goals/match) with only one clean sheet (25%), while Shabab Al Ahli Dubai have netted in every home game this autumn."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 captures the modal 12.3% Poisson convergence of home resistance and visitor wastefulness, while 1:2 reflects Al-Qadisiyah FC's rest advantage paying off late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the highest single-bucket Poisson density (25.7%), while three goals covers the 1:2 away-win branch if an early strike opens transition lanes."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss pairs Shabab Al Ahli Dubai's tight first-half home structure with Al-Qadisiyah FC's fresher second-half legs, while Loss-Draw reflects the visitors' 83.3% away first-half goal share and 50% lead-not-won rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 04:09:03 UTC"
+}
