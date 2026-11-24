@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563282,
+    "matchup": "Wolves vs Derby",
+    "home_team": "Wolves",
+    "away_team": "Derby",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261124-wolves-vs-derby/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wolves vs Derby Tactical Breakdown & Match Analysis: Can Depleted Rams Resist Molineux xG?",
+    "meta": {
+      "matchId": "1563282",
+      "league": "Championship",
+      "matchup": "Wolves vs Derby",
+      "matchTime": "2026-11-24 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wolves are projected to secure a controlled 2:0 home victory at Molineux, leveraging superior expected-goal creation and second-half intensity against a relegation-threatened Derby County side.",
+    "possibilityAssessment": [
+      "Home Win: Wolves' dominant home expected-goal balance and second-half scoring surge align for three points at Molineux (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & BTTS No: Confirmed attacking absences strip Derby of transition threat against Wolves' 0.94 xGA defensive shell (Confidence: Moderate, Value: Moderate)",
+      "3:0 Margin Escalation: Prolonged second-half box pressure could stretch the margin to three unanswered goals if Derby's makeshift backline fades late (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563282",
+      "league": "Championship",
+      "homeTeam": "Wolves",
+      "awayTeam": "Derby",
+      "match_time": "20:00",
+      "match_highlight": "Wolves' Fer López and Mané probe Derby's injury-hit backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563282,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Wolves' 1.79 xG attack and 0.94 xGA defense strongly support a clean-sheet 2:0 home victory over a depleted Derby squad."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Derby's missing top scorer and Wolves' 2.40 recent match-goal average pull a 2.91 baseline toward a controlled 2:0 finish."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Derby's 37.5% blank rate worsens without Sammie Szmodics against a Wolves side allowing only 0.94 xGA per game."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "A controlled 2:0 shutout is primary, while 3:0 reflects Derby's recurring susceptibility to multi-goal away collapses."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Poisson densities peak at two and three goals, matching a two-goal home shutout or three-goal late surge."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Wolves score 60% of home goals after half-time, making a level break before a second-half breakthrough marginally likelier than leading throughout."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 09:01:36 UTC"
+}
