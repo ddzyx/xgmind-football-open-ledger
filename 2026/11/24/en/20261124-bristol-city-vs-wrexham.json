@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563275,
+    "matchup": "Bristol City vs Wrexham",
+    "home_team": "Bristol City",
+    "away_team": "Wrexham",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-24 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261124-bristol-city-vs-wrexham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Bristol City vs Wrexham: Expected Goals (xG), Injury Risks & Match Analysis",
+    "meta": {
+      "matchId": "1563275",
+      "league": "Championship",
+      "matchup": "Bristol City vs Wrexham",
+      "matchTime": "2026-11-24 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wrexham are projected to avoid defeat in a tight, low-scoring Championship contest shaped by superior away defensive prevention and Bristol City's home conversion struggles.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No (Confidence: Moderate, Value: High)",
+      "1:1 Stalemate Branch (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563275",
+      "league": "Championship",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Wrexham",
+      "match_time": "19:45",
+      "match_highlight": "Can Wrexham's away defense exploit Bristol City's home finishing drought?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563275,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 0:1 away shutout win and 1:1 draw scripts because Wrexham's 25.0% away win rate and midfield doubts make a single Away Win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.53 total lambda, Wrexham's 75.0% away Under 2.5 rate, and Bristol City's 62.5% home Under 2.5 frequency."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Bristol City's 62.5% home failed-to-score rate, 71.4% big-chance waste rate, and Wrexham's 37.5% away clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects Wrexham's second-half efficiency against a score-shy host, while 1:1 covers a lone conversion from Bristol City's 1.44 xG output."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals leads the Poisson distribution at 25.5% alongside the 1-goal shutout branch consistent with both clubs' venue Under 2.5 profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Wrexham score 66.7% of away goals after half-time, making a level interval followed by either a late away winner or a stalemate most probable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 08:34:29 UTC"
+}
