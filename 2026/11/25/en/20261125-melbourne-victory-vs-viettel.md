@@ -1,0 +1,83 @@
+# Melbourne Victory vs Viettel Tactical Breakdown & Probabilistic Modeling: Home Control vs Scoring Drought
+
+> **Competition**: AFC Champions League Two
+> **Kickoff**: 2026-11-25 07:45 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this contest lies a stark continental contrast between a desperate host fighting for AFC Champions League Two survival and a visitor enduring a protracted scoring drought. Scheduled at GMHBA Stadium (Kardinia Park) in Geelong—relocated from the AAMI Park listing in the fixture feed—this Group E Matchday 5 encounter pits third-placed Melbourne Victory (4 points) against bottom-placed Thể Công – Viettel (1 point). With Persib Bandung already through on 12 points and FC Seoul holding second on 6, Giovanni Savarese&#x27;s side cannot afford another slip after three straight domestic draws and two continental defeats to Persib. Viettel arrive under newly appointed permanent head coach Guilherme Almeida seeking their first group win after conceding 10 goals in four outings. XG Mind AI integrates goal-based Poisson expectancy, verified team news, and tactical profile metrics to deconstruct the most probable 90-minute script.
+
+📌 Melbourne Victory vs Viettel: Match Intelligence Brief
+
+Fixture ID
+
+: 1630407
+
+Matchup
+
+: Melbourne Victory vs Viettel
+
+Competition
+
+: AFC Champions League Two, Group Stage - 5 (Group E)
+
+Kickoff Time
+
+: 2026-11-25 07:45 UTC
+
+Key Tactical Watchpoint
+
+: Whether Melbourne Victory&#x27;s returning defensive anchor Philipp Ziereis and core playmaker Jordi Valadon can convert home territorial pressure into clinical finishing against a Viettel side that has failed to score in four consecutive matches.
+
+📊 1. Melbourne Victory Attacking Structure vs Viettel Defensive Counter
+
+⚔️ Head-to-Head History: Single Group E Deadlock Defines the Rivalry
+
+No competitive meetings occurred between these clubs prior to the current 2026/27 AFC Champions League Two campaign, leaving September&#x27;s Matchday 1 stalemate in Vietnam as their sole direct benchmark.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+2026-09-16
+
+AFC Champions League Two
+
+Viettel
+
+1:1 (0:0)
+
+Melbourne Victory
+
+📈 Team Form &amp; Tactical Style Breakdown: Territorial Patience vs Compact Transition Resistance
+
+Home Team (Melbourne Victory):
+
+Melbourne Victory enter Matchday 5 winless in their last five matches across all competitions (three draws, two losses, DDLDL), yet their underlying process remains far healthier than that sequence implies. In domestic A-League action, Savarese&#x27;s side drew 1:1 away at Auckland (November 21), 2:2 away at Adelaide United (November 8) via second-half goals from Jordi Valadon and Keegan Jelacic, and 1:1 at home to Central Coast Mariners (November 1), flanked by continental losses to group leaders Persib Bandung (0:2 away, 1:2 at home). Structurally, Victory operate without excessive sterile ball retention—averaging 46.6% possession alongside 3.4 possessions won in the final third—preferring vertical progression through Valadon (87.1 GIM, 7.4 form rating) into forwards Jelacic (61.7 OTI) and Charles Nduka (64.7 OTI), plus Matchday 1 scorer Clarismario Rodrigues (53.1 OTI).
+
+Their decisive flaw has been clinical wastefulness, reflected in a 62.5% big-chances-missed ratio and four consecutive 0:0 half-time scorelines in Group E.
+
+At home in this competition, however, Victory have scored in both fixtures (3:0 vs FC Seoul and 1:2 vs Persib), generating 1.25 goals per game overall in the group.
+
+Away Team (Viettel):
+
+Viettel&#x27;s continental and domestic campaigns have unraveled over the past two months, culminating in Velizar Popov&#x27;s departure on October 31 following an eight-match winless streak and the November 1 promotion of Brazilian assistant Guilherme Almeida. Across their four Group E matches, Viettel sit winless on one point (0W-1D-3L), averaging just 0.25 goals scored while conceding 2.50 per game, including heavy losses to FC Seoul (0:5 at home on October 28 after trailing 0:4 at half-time, and 0:3 away on November 4) plus a 0:1 defeat at Persib Bandung. Domestically, they sit 12th in the 2026/27 V.League 1 table (6 points from 8 matches, 7 goals for, 11 against).
+
+While Almeida&#x27;s recent 0:0 home draw against Song Lam Nghe An on November 20 showed modest defensive stabilization—holding SLNA to four shots and one on target—Viettel have failed to score in four straight matches across all competitions and carry a 100% failed-to-score rate in away Group E fixtures.
+
+Relying on Lucas Ribamar, Hernandes, and wing threat Khuất Văn Khang in low-block counter-attacks, their 0.0% Group E clean-sheet rate highlights persistent vulnerability when forced to defend sustained box pressure after the interval.
+
+🔍 Core Statistical Comparison: Home Scoring Floor Meets Severe Away Defensive Leakage
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261125-melbourne-victory-vs-viettel/)
