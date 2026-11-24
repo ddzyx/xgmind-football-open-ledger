@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556155,
+    "matchup": "Fagiano Okayama vs Shimizu S-pulse",
+    "home_team": "Fagiano Okayama",
+    "away_team": "Shimizu S-pulse",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-25 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-fagiano-okayama-vs-shimizu-s-pulse/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Fagiano Okayama vs Shimizu S-Pulse Prediction: Can High Press Break S-Pulse? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1556155",
+      "league": "J1 League",
+      "matchup": "Fagiano Okayama vs Shimizu S-pulse",
+      "matchTime": "2026-11-25 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fagiano Okayama are projected to avoid defeat in a tightly contested, low-scoring fixture led by a 1:0 home victory ahead of a 1:1 draw.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Okayama's 46.59% model win probability, 1.27 xGA prevention, and Shimizu's 0.73 goals-per-game output (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals and BTTS: No supported by a 2.32 combined lambda and high big-chance waste on both sides (Confidence: Moderate, Value: High)",
+      "Goalless half-time stalemate evolving into a late 1:1 draw if Okayama's finishing misses persist against Shimizu's second-half skew (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556155",
+      "league": "J1 League",
+      "homeTeam": "Fagiano Okayama",
+      "awayTeam": "Shimizu S-pulse",
+      "match_time": "10:00",
+      "match_highlight": "Okayama's high press targets Shimizu's 1.54 xGA defense without Sodai Hasukawa.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556155,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Okayama's 1:0 pressing-and-set-piece win script and the 1:1 draw script driven by Okayama's 42.9% home blank rate and Shimizu's late-goal profile, where a single call underestimates stalemate risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.32 total lambda, 59.1% Under 2.5 model probability, and heavy big-chance waste (67.9% home, 72.0% away)."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by Shimizu's 46.7% failed-to-score rate (0.73 goals/match) meeting Okayama's 42.9% home clean-sheet rate and 54.2% model BTTS-No baseline."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 and 1:1 share the top 13.2% Dixon-Coles density, capturing both Okayama's one-goal winning habit and Shimizu's late-equalizer route."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (27.1%) and 1 goal (21.5%) lead the Poisson total-goals distribution around a 2.32 expected-goals baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Okayama drew half-time in 10 of 15 matches (5 Draw-Win outcomes) while 3 of 4 recent H2H meetings were 0:0 at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-24 22:24:58 UTC"
+}
