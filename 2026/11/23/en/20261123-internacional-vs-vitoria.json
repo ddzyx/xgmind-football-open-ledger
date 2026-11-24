@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "fixture_id": 1492467,
+    "matchup": "Internacional vs Vitoria",
+    "home_team": "Internacional",
+    "away_team": "Vitoria",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-23 22:30:00",
+    "source_url": "https://xgmind.com/matches/20261123-internacional-vs-vitoria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "meta": {
+      "league": "Serie A",
+      "matchId": "1492467",
+      "matchup": "Internacional vs Vitoria",
+      "matchTime": "2026-11-23 22:30 UTC"
+    },
+    "predictions": {
+      "btts": "No",
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ],
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "overUnder": "Under 2.5",
+      "totalGoals": [
+        "2",
+        "1"
+      ]
+    },
+    "articleTitle": "Decoupling Internacional vs Vitoria: Expected Goals (xG), Absences & Match Analysis",
+    "coreRecommendation": "Back Internacional to avoid defeat via Home Win / Draw in a tight, Under 2.5 Beira-Rio relegation battle.",
+    "bet_recommendations": {
+      "bqc": {
+        "comment": "A cagey first half without Alan Patrick favors a level interval before Internacional either break through late (Draw-Win) or remain locked at 1:1 (Draw-Draw).",
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ]
+      },
+      "spf": {
+        "comment": "Covers a narrow 1:0 home win against winless-away Vitoria alongside the 1:1 draw script triggered by Alan Patrick's suspension, as neither single call captures both verified constraints.",
+        "selection": "Home Win / Draw"
+      },
+      "btts": {
+        "comment": "Internacional's 40.0% home clean-sheet rate and three consecutive shutout H2H clashes outweigh Vitoria's 1.04 xG attack and 37.5% away fail-to-score rate.",
+        "selection": "No"
+      },
+      "goals": {
+        "comment": "Poisson peaks at 2 goals (25.9%) with 1 goal (21.0%) matching recent 1:0 H2H tightness and reduced home creativity.",
+        "selection": [
+          "2",
+          "1"
+        ]
+      },
+      "score": {
+        "comment": "1:0 reflects Internacional's xG and venue edge tempered by Alan Patrick's ban, while 1:1 captures Poisson's modal scoreline if Kauan concedes once.",
+        "selection": [
+          "1:0",
+          "1:1"
+        ]
+      },
+      "league": "Serie A",
+      "matchId": "1492467",
+      "awayTeam": "Vitoria",
+      "homeTeam": "Internacional",
+      "fixtureId": 1492467,
+      "match_time": "22:30",
+      "over_under": {
+        "comment": "Supported by a 2.46 combined lambda, 55.4% Poisson Under 2.5 probability, Internacional's 66.7% home Under 2.5 rate, and Alan Patrick's absence.",
+        "selection": "Under 2.5"
+      },
+      "ai_confidence": "Moderate",
+      "match_highlight": "Alan Patrick's suspension meets Vitoria's winless away record and right-back shortage."
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    },
+    "recommendationLevel": "Moderate",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Vitoria's 0W-6D-10L away record and Alan Patrick's creative suspension (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & BTTS: No driven by 2.46 combined lambda, 40.0% home clean sheets, and three straight shutout H2H games (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if backup goalkeeper Kauan concedes to cleared Vitoria attackers Erick and Matheuzinho (Confidence: Moderate, Value: Moderate)"
+    ]
+  },
+  "result": {
+    "fulltime_score": "2-5",
+    "halftime_score": "1-2",
+    "hit_direction": false,
+    "hit_ou": false,
+    "hit_score": false,
+    "hit_goals": false,
+    "hit_htft": false,
+    "is_correct": false,
+    "settled_at": "2026-11-24 00:45:27 UTC"
+  }
+}
