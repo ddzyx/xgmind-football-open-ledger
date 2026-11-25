@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630409,
+    "matchup": "Al Faisaly vs Al-Rayyan SC",
+    "home_team": "Al Faisaly",
+    "away_team": "Al-Rayyan SC",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-al-faisaly-vs-al-rayyan-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Faisaly vs Al-Rayyan SC Tactical Breakdown & Probabilistic Modeling: Can Depleted Hosts Slow Mitrovic?",
+    "meta": {
+      "matchId": "1630409",
+      "league": "AFC Champions League Two",
+      "matchup": "Al Faisaly vs Al-Rayyan SC",
+      "matchTime": "2026-11-25 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Rayyan SC hold a decisive attacking and squad-availability edge to claim an Away Win in Amman despite conceding at least once.",
+    "possibilityAssessment": [
+      "Away Win driven by Al-Rayyan SC's 2.75 Group C goals per match and fit frontline (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 4.18 combined lambda and open transition dynamics (Confidence: High, Value: Moderate)",
+      "BTTS Yes contingency rooted in Al-Rayyan SC's recent road defensive leaks and host set-piece threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630409",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Al Faisaly",
+      "awayTeam": "Al-Rayyan SC",
+      "match_time": "16:00",
+      "match_highlight": "Can depleted Al Faisaly contain Mitrovic and Guedes in Amman?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630409,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Al-Rayyan SC's 2.75 Group C scoring rate and fit strike force should outpace an Al Faisaly side missing Confirmed Out top scorer Ahmad Ersan in a projected 1:2 or 1:3 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 4.18 combined lambda, Al-Rayyan SC's 75% Group C Over 2.5 rate, and their recent 4:3 and 5:3 away wins point strongly toward at least three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Rayyan SC have scored in every Group C game while keeping zero away clean sheets, leaving a clear route for both teams to score."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 reflects Al-Rayyan SC's finishing superiority tempered by one host breakthrough, while 1:3 captures late open-play space as Al Faisaly chase points."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Ahmad Ersan's absence trims host multi-goal upside toward a 3-goal peak (1:2), with 4 goals (1:3) closely following if late transitions open up."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Al-Rayyan SC scored 60% of their away Group C goals before the break to favor Loss-Loss, while Draw-Loss covers a tighter opening half under João Mota."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 04:08:47 UTC"
+}
