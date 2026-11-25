@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635728,
+    "matchup": "Slavia Praha vs Villarreal",
+    "home_team": "Slavia Praha",
+    "away_team": "Villarreal",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-slavia-praha-vs-villarreal/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Slavia Praha vs Villarreal: Expected Goals (xG), Injury Crisis & Match Intelligence",
+    "meta": {
+      "matchId": "1635728",
+      "league": "UEFA Champions League",
+      "matchup": "Slavia Praha vs Villarreal",
+      "matchTime": "2026-11-25 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Both depleted backlines and urgent table pressure point toward a decisive, high-scoring contest where Villarreal's clinical edge holds a slight advantage over Slavia Praha's home xG volume.",
+    "possibilityAssessment": [
+      "Villarreal clinical finishing (28.6% big-chance waste) capitalizes on Slavia's ten confirmed absences for a 1:2 away win, while Slavia's 1.83 xG and +23h rest edge support a 2:1 home upset (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals aligns across the 3.85 lambda_total baseline (73.9%) and Bet365 1.50 pricing with zero UCL clean sheets for either side (Confidence: High, Value: Moderate)",
+      "Second-half transition surge or HT/FT Loss-Draw reversal risk if Villarreal tire late on 76 hours' rest (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635728",
+      "league": "UEFA Champions League",
+      "homeTeam": "Slavia Praha",
+      "awayTeam": "Villarreal",
+      "match_time": "17:45",
+      "match_highlight": "Depleted defenses clash as Villarreal's 2.32 xGA meets Slavia's 1.83 xG.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635728,
+      "spf": {
+        "selection": "Home Win / Away Win",
+        "comment": "Covers both Villarreal's clinical 1:2 away win against Slavia's depleted spine and Slavia's 2:1 home upset route against a 2.32 xGA defense; a single call is weaker because both backlines lack key starters while neither side can settle for a draw."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.85 lambda_total (73.9% Over 2.5), Bet365's 1.50 line, and zero UCL clean sheets for either club."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Slavia's 1.83 xG meets Villarreal's 2.32 xGA without Juan Foyth, while Villarreal's 2.00 UCL goals per game test a host defense missing Chaloupek and Ogbu."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:1"
+        ],
+        "comment": "Primary 1:2 reflects Villarreal's finishing efficiency edge over Slavia's patched-up defense; secondary 2:1 captures Slavia's raw xG and rest advantage."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Top two exact-goal densities in the Poisson matrix (20.2% for 3 goals, 19.5% for 4 goals) driven by open second-half incentives."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Win"
+        ],
+        "comment": "Reflects a tight opening half (Slavia's 20% first-half UCL goal share and Villarreal's 100% away HT draw rate) opening into either decisive result."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 06:12:41 UTC"
+}
