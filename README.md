@@ -1,16 +1,16 @@
 # XG Mind — Open Football Forecast Ledger & Audit
 
 [![Website](https://img.shields.io/badge/Terminal-xgmind.com-10b981)](https://xgmind.com/)
-[![Public Ledger](https://img.shields.io/badge/Settled%20Matches-3,808-blue)](https://xgmind.com/performance/)
+[![Public Ledger](https://img.shields.io/badge/Settled%20Matches-3,845-blue)](https://xgmind.com/performance/)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Streamable%20HTTP-purple)](https://xgmind.com/mcp)
 
 > **Compiled from pre-match timestamped briefings and post-match official results by [XG Mind](https://xgmind.com/).**
 
 This repository is updated daily with XG Mind's public, non-retrospective match forecast verification ledger across 30+ football competitions. Pre-match reports are locked before kickoff and automatically settled after full-time without selective deletion.
 
-- **Last Updated (UTC)**: 2026-11-24 22:30 UTC
-- **Total Settled Matches**: **3,808**
-- **Cumulative 1X2 Hit Rate**: **67.8%**
+- **Last Updated (UTC)**: 2026-11-25 22:30 UTC
+- **Total Settled Matches**: **3,845**
+- **Cumulative 1X2 Hit Rate**: **67.9%**
 - **Cumulative Over/Under 2.5 Hit Rate**: **53.4%**
 - **Cumulative Exact Score Hit Rate**: **20.0%**
 
@@ -18,7 +18,7 @@ This repository is updated daily with XG Mind's public, non-retrospective match 
 
 | Month | Settled Matches | 1X2 Hit Rate | O/U 2.5 Hit Rate | Exact Score Rate |
 | :--- | ---: | ---: | ---: | ---: |
-| 2026-11 | 1,730 | 69.5% | 53.1% | 20.8% |
+| 2026-11 | 1,767 | 69.7% | 53.1% | 20.8% |
 | 2026-10 | 2,046 | 66.1% | 53.7% | 19.0% |
 | 2026-09 | 32 | 84.4% | 50.0% | 43.8% |
 
@@ -26,21 +26,21 @@ This repository is updated daily with XG Mind's public, non-retrospective match 
 
 | Date | Competition | Matchup | FT Score | 1X2 | O/U | Briefing |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 2026-11-24 | Premiership | Rangers vs Aberdeen | `3-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-rangers-vs-aberdeen/) |
-| 2026-11-24 | Championship | Wolves vs Derby | `3-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-wolves-vs-derby/) |
-| 2026-11-24 | UEFA Champions League | Slovan Bratislava vs Real Betis | `0-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-slovan-bratislava-vs-real-betis/) |
-| 2026-11-24 | UEFA Champions League | RB Leipzig vs Lens | `3-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-rb-leipzig-vs-lens/) |
-| 2026-11-24 | UEFA Champions League | Manchester City vs Napoli | `2-2` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261124-manchester-city-vs-napoli/) |
-| 2026-11-24 | UEFA Champions League | Feyenoord vs FC Porto | `0-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-feyenoord-vs-fc-porto/) |
-| 2026-11-24 | UEFA Champions League | Como vs AEK Athens FC | `1-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-como-vs-aek-athens-fc/) |
-| 2026-11-24 | UEFA Champions League | Arsenal vs Borussia Dortmund | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-arsenal-vs-borussia-dortmund/) |
-| 2026-11-24 | Championship | Sheffield Utd vs Southampton | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-sheffield-utd-vs-southampton/) |
-| 2026-11-24 | Championship | Portsmouth vs West Ham | `1-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261124-portsmouth-vs-west-ham/) |
-| 2026-11-24 | Championship | Norwich vs QPR | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261124-norwich-vs-qpr/) |
-| 2026-11-24 | Championship | Middlesbrough vs Swansea | `2-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-middlesbrough-vs-swansea/) |
-| 2026-11-24 | Championship | Charlton vs Lincoln | `4-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261124-charlton-vs-lincoln/) |
-| 2026-11-24 | Championship | Cardiff vs Preston | `0-4` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261124-cardiff-vs-preston/) |
-| 2026-11-24 | Championship | Bristol City vs Wrexham | `1-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261124-bristol-city-vs-wrexham/) |
+| 2026-11-25 | Championship | Stoke City vs Millwall | `2-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261125-stoke-city-vs-millwall/) |
+| 2026-11-25 | UEFA Champions League | Sporting CP vs Manchester United | `2-2` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261125-sporting-cp-vs-manchester-united/) |
+| 2026-11-25 | UEFA Champions League | Paris Saint Germain vs AS Roma | `2-2` | ❌ | ✅ | [Audit](https://xgmind.com/matches/20261125-paris-saint-germain-vs-as-roma/) |
+| 2026-11-25 | UEFA Champions League | Lille vs Bayern München | `2-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-lille-vs-bayern-m-nchen/) |
+| 2026-11-25 | UEFA Champions League | Inter vs VfB Stuttgart | `2-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261125-inter-vs-vfb-stuttgart/) |
+| 2026-11-25 | UEFA Champions League | Club Brugge KV vs Liverpool | `0-3` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261125-club-brugge-kv-vs-liverpool/) |
+| 2026-11-25 | UEFA Champions League | Atletico Madrid vs Viking | `2-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-atletico-madrid-vs-viking/) |
+| 2026-11-25 | Championship | Watford vs Blackburn | `0-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261125-watford-vs-blackburn/) |
+| 2026-11-25 | Championship | Burnley vs Birmingham | `0-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-burnley-vs-birmingham/) |
+| 2026-11-25 | Championship | Bolton vs West Brom | `1-3` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261125-bolton-vs-west-brom/) |
+| 2026-11-25 | Serie B | Pisa vs Modena | `1-1` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-pisa-vs-modena/) |
+| 2026-11-25 | Serie B | Padova vs Sampdoria | `1-2` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-padova-vs-sampdoria/) |
+| 2026-11-25 | Serie B | Mantova vs Arezzo | `3-0` | ✅ | ❌ | [Audit](https://xgmind.com/matches/20261125-mantova-vs-arezzo/) |
+| 2026-11-25 | AFC Champions League Two | Al Taawon vs Al-Nahda | `0-0` | ❌ | ❌ | [Audit](https://xgmind.com/matches/20261125-al-taawon-vs-al-nahda/) |
+| 2026-11-25 | Serie B | Cremonese vs Avellino | `0-1` | ✅ | ✅ | [Audit](https://xgmind.com/matches/20261125-cremonese-vs-avellino/) |
 
 ## Repository Files
 
