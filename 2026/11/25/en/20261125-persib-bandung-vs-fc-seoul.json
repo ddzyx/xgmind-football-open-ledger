@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1637495,
+    "matchup": "Persib Bandung vs FC Seoul",
+    "home_team": "Persib Bandung",
+    "away_team": "FC Seoul",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261125-persib-bandung-vs-fc-seoul/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Persib Bandung vs FC Seoul Prediction & Match Analysis: Home Fortress vs Seoul's Full-Strength Return",
+    "meta": {
+      "matchId": "1637495",
+      "league": "AFC Champions League Two",
+      "matchup": "Persib Bandung vs FC Seoul",
+      "matchTime": "2026-11-25 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Persib Bandung are projected to stay unbeaten in a tight Under 2.5 contest where home defensive discipline tilts a 1:0 script slightly ahead of a 1:1 draw.",
+    "possibilityAssessment": [
+      "Persib Bandung Win or Draw backed by 75.9% combined Poisson probability and three straight home Group E clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and BTTS: No anchored by a 2.24 total lambda and Persib's 0.25 goals-conceded average in Group E (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency driven by FC Seoul's +31-hour rest edge and restored senior attack after clinching K League 1 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1637495",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "FC Seoul",
+      "match_time": "12:15",
+      "match_highlight": "Persib's unbeaten home defense faces a full-strength FC Seoul attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1637495,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Persib's primary 1:0 home-fortress script and the 1:1 stalemate branch because a point seals first place for the hosts on 72 hours' rest."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.24 and Persib's 0.25 Group E goals-conceded rate project a controlled, low-scoring encounter (61.2% Under 2.5)."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Persib have kept clean sheets in all three home ACL Two games while FC Seoul carry a 58.9% big-chance waste rate and zero Group E BTTS matches."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 (13.7%) captures Persib's repeat home shutout potential, while 1:1 (13.4%) reflects Seoul's senior attackers converting once on superior rest."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.3%) and one goal (22.6%) lead the Dixon-Coles distribution and align cleanly with 1:1, 2:0, and 1:0 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Persib score 71.4% of their continental goals after half-time and won all three ACL Two matches that were level at the break, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 00:38:38 UTC"
+}
