@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563284,
+    "matchup": "Burnley vs Birmingham",
+    "home_team": "Burnley",
+    "away_team": "Birmingham",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-25 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-burnley-vs-birmingham/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Burnley vs Birmingham: Expected Goals (xG), Klarer Suspension & Match Preview",
+    "meta": {
+      "matchId": "1563284",
+      "league": "Championship",
+      "matchup": "Burnley vs Birmingham",
+      "matchTime": "2026-11-25 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Birmingham hold the stronger attacking and preventive process against depleted hosts, warranting a Draw / Away Win stance anchored around a 1:2 away victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Draw / Away Win, prioritizing Birmingham's superior xG output and Burnley's 0-win home record while covering the draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.19 combined lambda, 61.8% Poisson projection, and defensive vulnerabilities on both sides (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by a 63.3% model probability and a 1:1 draw contingency if Birmingham's road finishing stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563284",
+      "league": "Championship",
+      "homeTeam": "Burnley",
+      "awayTeam": "Birmingham",
+      "match_time": "19:45",
+      "match_highlight": "Klarer's ban tests Birmingham defense against winless Burnley's Turf Moor draw streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563284,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Birmingham's superior chance creation against Burnley's depleted backline alongside the Turf Moor draw risk created by Klarer's suspension and Burnley's six home draws, where a single Away Win call would ignore Birmingham's 37.5% road blank rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.19 combined lambda, 61.8% model probability, and Burnley's 1.79 xGA and 2.06 goals conceded per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Burnley's 87.5% season BTTS rate and Klarer's suspension pair with Birmingham's 1.75 xG and Burnley's 12.5% clean-sheet rate for a 63.3% BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Converges on a narrow 1:2 away win reflecting Birmingham's attacking superiority and three-goal modal total, with 1:1 as the high-density Turf Moor stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the top two Dixon-Coles total-goal buckets at 22.3% and 21.5%, capturing both an open 1:2 decision and a tighter 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Burnley enter half-time level in 50% of home games before Birmingham's deeper bench and rest edge tell after the interval, with Draw-Draw covering the 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 09:08:45 UTC"
+}
