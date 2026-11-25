@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635682,
+    "matchup": "Lille vs Bayern München",
+    "home_team": "Lille",
+    "away_team": "Bayern München",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-lille-vs-bayern-m-nchen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Lille vs Bayern München: Expected Goals, Lineup Crisis & Match Analysis",
+    "meta": {
+      "matchId": "1635682",
+      "league": "UEFA Champions League",
+      "matchup": "Lille vs Bayern München",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Severe attacking and goalkeeping absences for Bayern München compress their finishing edge, supporting a Home Win / Draw projection led by a 1:1 stalemate under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Primary 1X2 thesis projects Home Win / Draw led by a balanced 1:1 draw (Confidence: Moderate, Value: High)",
+      "Secondary goal projection targets Under 2.5 Goals on Bayern's missing finishing core (Confidence: Moderate, Value: Moderate)",
+      "Contingency Both Teams To Score: Yes reflects both sides' defensive vulnerabilities (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635682",
+      "league": "UEFA Champions League",
+      "homeTeam": "Lille",
+      "awayTeam": "Bayern München",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Bayern attack without Kane and Olise faces desperate Lille at home.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1635682,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:1 draw caused by Bayern's depleted frontline and a 2:1 Lille upset in transition, where a single outcome would expose variance around Bayern's midfield control."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Confirmed absences for Kane, Olise, Gnabry, and Davies trim Bayern's 2.54 xG pace against a Lille side averaging 0.95 UCL xG and four recent under-2.5 results in five matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Lille have scored and conceded in 100% of their UCL home games while Bayern lose Neuer and Davies, aligning with a 60.2% baseline BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix as the primary convergence point, with 2:1 capturing an open late upset if Lille exploit Bayern's makeshift backline."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the baseline distribution (22.6%) and fits an injury-compressed stalemate, while 3 goals covers the 2:1 transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Both teams hold a 75% UCL half-time draw rate before either sharing points in a 1:1 finish or Lille breaking through late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:20:59 UTC"
+}
