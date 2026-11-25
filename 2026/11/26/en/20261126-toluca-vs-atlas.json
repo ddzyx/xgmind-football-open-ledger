@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651505,
+    "matchup": "Toluca vs Atlas",
+    "home_team": "Toluca",
+    "away_team": "Atlas",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-26 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-toluca-vs-atlas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Toluca vs Atlas Prediction & Match Analysis: Can Home xG Overcome Keeper Suspension? — Scoreline Preview",
+    "meta": {
+      "matchId": "1651505",
+      "league": "Liga MX",
+      "matchup": "Toluca vs Atlas",
+      "matchTime": "2026-11-26 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Toluca Home Win / Draw alongside Over 2.5 goals and BTTS Yes, as Toluca's 1.91 xG-per-game home attack confronts an Atlas counter-punch aided by Hugo González's suspension.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Toluca's +139 ClubElo edge and 87.5% home Over 2.5 scoring pace against Atlas's 87.5% away unbeaten record (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals & BTTS: Yes driven by 3.52 combined expected goals, Atlas's 1.70 xGA/g backline, and Toluca's backup goalkeeper deployment (Confidence: High, Value: High)",
+      "HT/FT Win-Loss reversal risk if Toluca's 75% home half-time lead rate meets Atlas's 64.7% second-half away scoring surge (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651505",
+      "league": "Liga MX",
+      "homeTeam": "Toluca",
+      "awayTeam": "Atlas",
+      "match_time": "01:00",
+      "match_highlight": "Toluca's 1.91 xG attack tests Atlas without suspended keeper Hugo González.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651505,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Toluca's 2:1 home attacking win script and the 1:1 draw script created by Hugo González's suspension and Atlas's 6W-1D-1L away record, since neither side's scoring floor supports a risk-free single."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.52 lambda total, 68.3% Over 2.5 model probability, Toluca's 87.5% home Over 2.5 rate, and Atlas's 1.70 xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams failed to score in 0% of their respective home/away league games, and Toluca's keeper suspension pushes BTTS model expectancy to 64.9%."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 (9.5%) reflects Toluca's home xG superiority edging an Atlas reply, while 1:1 (8.9%) captures Atlas's road resilience and March 2026 Nemesio Díez precedent."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.5%) and 4 goals (18.9%) sit atop the Dixon-Coles distribution alongside a 3.52 combined expected-goal anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Toluca's 75% home half-time lead rate, whereas Draw-Draw covers a cautious first-half Liguilla stalemate ending 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 13:09:02 UTC"
+}
