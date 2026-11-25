@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630412,
+    "matchup": "Al Kuwait vs Al Wahda FC",
+    "home_team": "Al Kuwait",
+    "away_team": "Al Wahda FC",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-al-kuwait-vs-al-wahda-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Kuwait vs Al Wahda FC Tactical Breakdown & Match Analysis: Can Fresh Hosts Halt Late-Surging Leaders?",
+    "meta": {
+      "matchId": "1630412",
+      "league": "AFC Champions League Two",
+      "matchup": "Al Kuwait vs Al Wahda FC",
+      "matchTime": "2026-11-25 16:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Backing Al Kuwait to win or draw captures the hosts' superior home goal expectancy and substantial rest advantage while covering Al Wahda FC's documented late-game scoring resilience.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind Al Kuwait's 1.95 goal expectancy, four-for-four half-time leads, and 0.0% Al Wahda clean-sheet rate in Group A (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and 3 to 4 total goals driven by a 3.71 combined goal expectancy and 71.6% model probability (Confidence: High, Value: Moderate)",
+      "Second-half 2:2 draw contingency if Al Wahda's set-piece threat offsets Al Kuwait's early territorial surge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630412",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Al Kuwait",
+      "awayTeam": "Al Wahda FC",
+      "match_time": "16:00",
+      "match_highlight": "Al Kuwait's fast starts test travel-weary Al Wahda's leaky defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1630412,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Al Kuwait victory built on fresh legs and fast starts alongside a 2:2 draw given Al Wahda's comeback pedigree, whereas a single home call leaves second-half lead-loss risk exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.71 goal expectancy, 71.6% model probability, and 7 of 8 Group A matches clearing 2.5 goals support an open scoring contest."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks average 2.00 goals per Group A match with 0.0% failed-to-score rates against defenses holding 0.0% clean sheets in tonight's venue roles."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Al Kuwait's slight home expectancy and rest edge, while 2:2 accounts for Al Wahda's set-piece threat and second-half resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (20.8%) and 4 goals (19.3%) top the Dixon-Coles distribution and align directly with 2:1 and 2:2 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Al Kuwait has led at half-time in all four Group A games, creating a direct fork between holding on for 2:1 or conceding a late equalizer for 2:2."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 04:19:58 UTC"
+}
