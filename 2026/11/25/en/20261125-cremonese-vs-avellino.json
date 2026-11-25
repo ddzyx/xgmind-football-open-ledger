@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601615,
+    "matchup": "Cremonese vs Avellino",
+    "home_team": "Cremonese",
+    "away_team": "Avellino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-25 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-cremonese-vs-avellino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cremonese vs Avellino: Expected Goals, Bonazzoli Ban & Match Intelligence",
+    "meta": {
+      "matchId": "1601615",
+      "league": "Serie B",
+      "matchup": "Cremonese vs Avellino",
+      "matchTime": "2026-11-25 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Avellino to avoid defeat at Stadio Giovanni Zini in a tight Under 2.5 contest as Cremonese adjust to Federico Bonazzoli's suspension.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Avellino's intact starting spine and 80.0% away unbeaten record against Bonazzoli-depleted hosts (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No reflects Cremonese's 60.0% home scoreless rate without Bonazzoli and Avellino's 80.0% away Under 2.5 frequency (Confidence: Moderate, Value: High)",
+      "Cagey First-Half Deadlock accounts for Cremonese's 40.0% home clean-sheet rate and Avellino's 76-hour turnaround leading to a tight 0:1 or 1:1 finish (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601615",
+      "league": "Serie B",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Avellino",
+      "match_time": "18:00",
+      "match_highlight": "Bonazzoli ban tests Cremonese attack against set-piece threat Avellino.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601615,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Avellino's 100% away scoring record and Bonazzoli's ban support an away win, while Avellino's 60% away draw rate makes single Away Win too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.42 baseline lambda compresses further without Bonazzoli, aligning with Under 2.5 landing in 60.0% of Cremonese home games and 80.0% of Avellino away trips."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Cremonese have failed to score in 60.0% of home matches and lose top scorer Bonazzoli, shifting a 50.1% baseline BTTS No into clear majority territory."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Avellino's set-piece edge favors a 0:1 road win against depleted hosts, with 1:1 covering Avellino's 20.0% away clean-sheet rate and frequent road draws."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals leads the Dixon-Coles distribution at 26.7%, while Bonazzoli's absence elevates a single-goal outcome above three-goal scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half suits Cremonese's home solidity and Avellino's second-half away scoring skew, splitting between a late away winner or full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 06:16:31 UTC"
+}
