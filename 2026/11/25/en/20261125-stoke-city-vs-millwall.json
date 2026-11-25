@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563285,
+    "matchup": "Stoke City vs Millwall",
+    "home_team": "Stoke City",
+    "away_team": "Millwall",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-stoke-city-vs-millwall/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Stoke City vs Millwall Prediction & Match Analysis: Can Potters Break Millwall's Road Slide? — xG Preview",
+    "meta": {
+      "matchId": "1563285",
+      "league": "Championship",
+      "matchup": "Stoke City vs Millwall",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Stoke City are projected to control the outcome at home (Home Win / Draw), leaning toward a narrow 2:1 victory while retaining 1:1 due to forward fitness doubts and Millwall's high xG floor.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw driven by Stoke's home clean-sheet record and Millwall's three defensive absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes supported by 2.81 combined lambda, Millwall's 75.0% away Over 2.5 rate, and 57.2% Poisson BTTS projection (Confidence: Moderate, Value: Moderate)",
+      "1:1 stalemate hedge reflecting Stoke's 1.42 xGA per match and Millwall's 35.7% set-piece scoring dependency (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563285",
+      "league": "Championship",
+      "homeTeam": "Stoke City",
+      "awayTeam": "Millwall",
+      "match_time": "20:00",
+      "match_highlight": "Stoke's home form tests Millwall's high xG and depleted defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563285,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Stoke home win against Millwall's depleted defense alongside a 1:1 draw, as Stoke's 1.07 xG and Hirst doubt weaken a single-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.81 combined lambda, 53.3% Dixon-Coles Over 2.5 probability, and Millwall's 75.0% away Over 2.5 rate against Stoke's 93.8% scoring frequency."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 57.2% Poisson BTTS Yes and 1.73 market pricing as Millwall's 1.69 xG meets Stoke's 1.42 xGA and Millwall's three defensive absences."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Stoke's one-goal winning pattern against a weakened away backline, while 1:1 covers the 12.4% modal Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Personnel absences on both defenses nudge the 2.81-lambda distribution toward 3 goals (2:1), with 2 goals (24.4% baseline mode) covering 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Stoke have drawn 62.5% of home first halves before pulling ahead after the break, making Draw-Win primary and Draw-Draw the 1:1 stalemate fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 09:16:04 UTC"
+}
