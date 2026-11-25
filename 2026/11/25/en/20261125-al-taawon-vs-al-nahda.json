@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630413,
+    "matchup": "Al Taawon vs Al-Nahda",
+    "home_team": "Al Taawon",
+    "away_team": "Al-Nahda",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 18:15:00",
+    "source_url": "https://xgmind.com/matches/20261125-al-taawon-vs-al-nahda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Taawon vs Al-Nahda Tactical Breakdown & Prediction: Can Al-Nahda Breach Group C Leaders?",
+    "meta": {
+      "matchId": "1630413",
+      "league": "AFC Champions League Two",
+      "matchup": "Al Taawon vs Al-Nahda",
+      "matchTime": "2026-11-25 18:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Taawon is projected to secure a clean-sheet Group C home victory over Al-Nahda behind superior continental attacking depth and visitor road scoring fragility.",
+    "possibilityAssessment": [
+      "Home Win driven by Al Taawon's 2.00 goals per group match and Al-Nahda's 0.50 goals per game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals with BTTS No anchored by a 3.12 combined lambda and one-sided 2.48 home expectancy (Confidence: Moderate, Value: Moderate)",
+      "2:0 Clean-Sheet Margin Contingency accounting for Al Taawon's 83.3% big-chance waste rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630413",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Al Taawon",
+      "awayTeam": "Al-Nahda",
+      "match_time": "18:15",
+      "match_highlight": "Al Taawon's Group C attack targets Al-Nahda's porous away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630413,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Al Taawon's 2.48 home goal expectancy and 10-point Group C lead decisively outweigh an Al-Nahda side without a point or goal on the road."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.12 combined lambda and 60.3% Over 2.5 Poisson probability align with Al Taawon's multi-goal home record and Al-Nahda conceding 2.25 goals per group game."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Al-Nahda carries a 0.64 away lambda and has failed to score in both away Group C matches, supporting a 56.3% BTTS No baseline."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "3:0 captures Al Taawon's home attacking ceiling against leaky opposition, while 2:0 covers finishing waste and mirrors Al-Nahda's recent away defeats."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4%) and two goals (21.8%) represent the top two outcomes in the Poisson total-goal distribution around a 3.12 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Al Taawon led at halftime in both home Group C wins while Al-Nahda has zero first-half group goals, with Draw-Win covering an initial low-block resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 06:38:53 UTC"
+}
