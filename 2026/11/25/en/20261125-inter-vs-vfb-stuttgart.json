@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635673,
+    "matchup": "Inter vs VfB Stuttgart",
+    "home_team": "Inter",
+    "away_team": "VfB Stuttgart",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-inter-vs-vfb-stuttgart/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter vs VfB Stuttgart Prediction & Match Analysis: Midfield Absences vs xG Stability — Scoreline Preview",
+    "meta": {
+      "matchId": "1635673",
+      "league": "UEFA Champions League",
+      "matchup": "Inter vs VfB Stuttgart",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "VfB Stuttgart are projected to avoid defeat at the San Siro as Inter's weakened midfield faces a severe structural test against a high-efficiency European defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction backed by composite model edge and midfield transition vulnerability (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals anchored on 3.27 combined lambda expectancy and a 1:2 away victory script (Confidence: High, Value: Moderate)",
+      "Loss-Draw half-time turnaround and 1:1 stalemate branch if Stuttgart strike early before Inter's bench responds (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635673",
+      "league": "UEFA Champions League",
+      "homeTeam": "Inter",
+      "awayTeam": "VfB Stuttgart",
+      "match_time": "20:00",
+      "match_highlight": "Depleted Inter midfield faces Stuttgart's 0.82 xGA European defensive structure.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1635673,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a 1:2 Stuttgart second-half win and a 1:1 draw, as Inter's 2.10 xG attack and Stuttgart's 76.5% chance-waste prevent ruling out a stalemate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.27 lambda and 63.5% model Over 2.5 probability align with both sides averaging above 2.00 xG per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Inter's 0.0% UCL failed-to-score rate meets Stuttgart's 2.04 xG attack against a leaky 2.09 xGA home defense (65.3% BTTS model)."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Stuttgart exploiting Inter's midfield injuries after the break, while 1:1 covers the modal Poisson draw if finishing cools."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.1%) and 2 goals (20.8%) represent the top two probability buckets in the total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Inter's 100% home UCL half-time draw tendency risks a second-half fade to Draw-Loss, while Stuttgart's fast starts support a Loss-Draw counter."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:16:22 UTC"
+}
