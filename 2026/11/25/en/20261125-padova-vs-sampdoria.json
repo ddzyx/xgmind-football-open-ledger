@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601620,
+    "matchup": "Padova vs Sampdoria",
+    "home_team": "Padova",
+    "away_team": "Sampdoria",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-25 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-padova-vs-sampdoria/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Padova vs Sampdoria: Expected Goals, Lineup Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1601620",
+      "league": "Serie B",
+      "matchup": "Padova vs Sampdoria",
+      "matchTime": "2026-11-25 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sampdoria holds the underlying chance-creation and fitness advantage to avoid defeat at Stadio Euganeo, with a 1:1 draw as the modal outcome and 0:1 as the primary decisive alternative.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Sampdoria's 1.31 xG/match attack exploiting Padova's 1.86 xGA/match exposure and depleted frontline (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by 52.1% Poisson probability and 66.7% home / 71.4% away seasonal Under rates (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes anchored on 1:1 convergence as Sampdoria's 14.3% away clean-sheet rate meets four confirmed defensive-midfield exclusions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Win-Draw",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601620",
+      "league": "Serie B",
+      "homeTeam": "Padova",
+      "awayTeam": "Sampdoria",
+      "match_time": "19:00",
+      "match_highlight": "Artistico absence and Calabro ban test Padova against resurgent Sampdoria.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601620,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the modal 1:1 stalemate from Padova's home resilience and a 0:1 Sampdoria win fueled by superior xG and Artistico's absence, where a single outcome would ignore Sampdoria's away defensive gaps or Padova's 1.86 xGA vulnerability."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.1% Poisson Under probability, Padova's 66.7% Under rate, Sampdoria's 71.4% away Under rate, and Artistico's confirmed absence."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with the 1:1 primary scoreline and 53.1% BTTS probability as Padova's 1.86 xGA/match meets Sampdoria's 14.3% away clean-sheet rate and four squad absences."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.1% with both defenses compromised, while 0:1 (9.8%) captures the script if Padova's depleted attack fails to convert."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (25.8%) is the clear modal peak, while 1 goal reflects compressed home scoring potential without Artistico and Galazzi."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Draw",
+          "Loss-Loss"
+        ],
+        "comment": "Padova has dropped 75% of home half-time leads (Win-Draw), while Sampdoria led at the break in three of four wins this season (Loss-Loss from home perspective)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 07:13:28 UTC"
+}
