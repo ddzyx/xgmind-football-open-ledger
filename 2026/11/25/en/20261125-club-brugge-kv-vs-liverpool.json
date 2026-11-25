@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635642,
+    "matchup": "Club Brugge KV vs Liverpool",
+    "home_team": "Club Brugge KV",
+    "away_team": "Liverpool",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-club-brugge-kv-vs-liverpool/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Club Brugge KV vs Liverpool Prediction & Match Analysis: Can Reds' Attack Exploit 3.06 xGA? — xG Preview",
+    "meta": {
+      "matchId": "1635642",
+      "league": "UEFA Champions League",
+      "matchup": "Club Brugge KV vs Liverpool",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects an open, high-scoring encounter led by Liverpool's territorial superiority while formally retaining the draw.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win, prioritizing Liverpool's superior shot volume and expected-goal edge alongside a live stalemate branch (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals & BTTS Yes, backed by a 4.95 combined lambda and four consecutive UCL overs for both clubs (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 2:2 High-Scoring Draw, capturing the top raw Poisson scoreline (6.6%) if transition leaks offset away control (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "5",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:3",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635642",
+      "league": "UEFA Champions League",
+      "homeTeam": "Club Brugge KV",
+      "awayTeam": "Liverpool",
+      "match_time": "20:00",
+      "match_highlight": "Liverpool's 21-shot attack targets Brugge's 3.06 xGA defence without Ordóñez.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635642,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Liverpool's expected 2:3 win driven by their +1.22 xGD edge alongside a 2:2 draw if Brugge exploit Liverpool's 0-clean-sheet defence, making a single away call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.95 combined lambda, 87.1% model probability, and 4/4 UCL Overs for both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks average over 2.25 xG per UCL game against defences conceding 3.06 xGA (Brugge) and 0% clean sheets (Liverpool)."
+      },
+      "score": {
+        "selection": [
+          "2:3",
+          "2:2"
+        ],
+        "comment": "Adjusting Poisson expectancies for Brugge's 3.06 xGA favours a 2:3 Liverpool edge, with 2:2 (6.6%) capturing high-scoring draw risk."
+      },
+      "goals": {
+        "selection": [
+          "5",
+          "4"
+        ],
+        "comment": "Five and four goals match both our 2:3 and 2:2 scripts and hold top integer probabilities (17.5% and 17.7%) in the goal matrix."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Liverpool have drawn 75% of UCL first halves before accelerating, while Brugge's 63.6% second-half goal share keeps Draw-Draw live."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:12:13 UTC"
+}
