@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630410,
+    "matchup": "Al-Jazira vs Gol Gohar",
+    "home_team": "Al-Jazira",
+    "away_team": "Gol Gohar",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-al-jazira-vs-gol-gohar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Jazira vs Gol Gohar Tactical Breakdown & Probabilistic Modeling: Late Surge vs Compact Block",
+    "meta": {
+      "matchId": "1630410",
+      "league": "AFC Champions League Two",
+      "matchup": "Al-Jazira vs Gol Gohar",
+      "matchTime": "2026-11-25 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Jazira is projected to secure a controlled home victory over Gol Gohar by breaking through in the second half while maintaining a clean sheet.",
+    "possibilityAssessment": [
+      "Home Win supported by 63.5% Dixon-Coles win probability and 2.25 Group B goals per match against a zero-goal opponent (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and BTTS: No anchored by 1.99 combined goal expectancy and Gol Gohar's 100% Group B failed-to-score rate (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw stalemate contingency if Gol Gohar's half-time containment persists across 90 minutes as in Matchday 1 (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630410",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Al-Jazira",
+      "awayTeam": "Gol Gohar",
+      "match_time": "16:00",
+      "match_highlight": "Al-Jazira's second-half surge tests Gol Gohar's scoreless continental low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630410,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by 63.5% model win probability, undefeated Group B home form, and 1:0/2:0 shutout scorelines against a scoreless Gol Gohar attack."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.99 combined lambda (67.9% Under 2.5 probability) and Gol Gohar's four straight under-2.5 group games cap expected scoring volume."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Gol Gohar has zero goals in four Group B matches (36.9% scoring probability) while Al-Jazira holds a 63.1% clean-sheet projection."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 (20.4%) and 2:0 (16.0%) represent the highest Dixon-Coles densities for a patient second-half home breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total goal projections peak at 2 goals (27.5%) and 1 goal (26.2%) under conservative away attacking output."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Al-Jazira's 0% first-half goal share meets Gol Gohar's 100% half-time draw rate, favoring a second-half home win with 0:0 draw risk."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 04:12:49 UTC"
+}
