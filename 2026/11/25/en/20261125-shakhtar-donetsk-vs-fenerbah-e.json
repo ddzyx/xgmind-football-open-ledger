@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635724,
+    "matchup": "Shakhtar Donetsk vs Fenerbahçe",
+    "home_team": "Shakhtar Donetsk",
+    "away_team": "Fenerbahçe",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-shakhtar-donetsk-vs-fenerbah-e/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Shakhtar Donetsk vs Fenerbahçe: Expected Goals (xG) & Match Analysis",
+    "meta": {
+      "matchId": "1635724",
+      "league": "UEFA Champions League",
+      "matchup": "Shakhtar Donetsk vs Fenerbahçe",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Hybrid expected-goal modeling and verified defensive absences favor Shakhtar Donetsk to avoid defeat in an open exchange alongside Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Shakhtar Donetsk Win or Draw against an injury-hit Turkish backline (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals and Both Teams To Score Yes driven by Fenerbahçe's 2.75 UCL goals conceded per match (Confidence: Moderate, Value: High)",
+      "Two total goals via a 1:1 draw if Shakhtar's 83.3% big-chance waste rate limits finishing output (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635724",
+      "league": "UEFA Champions League",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Fenerbahçe",
+      "match_time": "20:00",
+      "match_highlight": "Fenerbahçe's leaking UCL defense faces rested Shakhtar on neutral London turf.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1635724,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 Shakhtar transition win and 1:1 draw, as Shakhtar's own four attacking absences make a single win call overly exposed despite Fenerbahçe's defensive losses."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.84 statistical lambda, 54.0% Poisson probability, 1.73 market pricing, and Fenerbahçe's 4.25 goals per UCL League Stage match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 54.9% model probability and 1.57 pricing as Fenerbahçe's 1.52 xG attack meets Shakhtar's 0% UCL clean-sheet rate while Aké and Oosterwolde miss out."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances Shakhtar's 17.2-day rest and Fenerbahçe's 2.75 UCL goals conceded (2:1) against the top-ranked 11.6% Poisson stalemate (1:1)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Captures the two highest-density scoring bands (22.3% for 3 goals, 24.1% for 2 goals) around a 2.84 total expected-goal anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Shakhtar's 75% UCL half-time draw rate before second-half fitness and Fenerbahçe's defensive absences decide between a 2:1 breakthrough or 1:1 split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:29:30 UTC"
+}
