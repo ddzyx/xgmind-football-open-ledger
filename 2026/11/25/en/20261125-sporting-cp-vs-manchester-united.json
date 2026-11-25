@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635735,
+    "matchup": "Sporting CP vs Manchester United",
+    "home_team": "Sporting CP",
+    "away_team": "Manchester United",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-sporting-cp-vs-manchester-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sporting CP vs Manchester United: Expected Goals (xG), Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1635735",
+      "league": "UEFA Champions League",
+      "matchup": "Sporting CP vs Manchester United",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sporting CP project as the stronger home side to defeat a depleted Manchester United squad in an open, multi-goal Champions League encounter.",
+    "possibilityAssessment": [
+      "Sporting CP Home Win driven by Luis Suárez's 74.1 FW-OTI, +23h recovery edge, and United's five confirmed absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes anchored by 3.50 combined lambda and 2.05 xG/match for both clubs (Confidence: Moderate, Value: Moderate)",
+      "1:1 or 2:2 Draw contingency if Sporting's 53.8% big-chance waste ratio resurfaces under Pochettino's high press (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635735",
+      "league": "UEFA Champions League",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Manchester United",
+      "match_time": "20:00",
+      "match_highlight": "Sporting's intact front line targets depleted United midfield in Lisbon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635735,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sporting CP's 2.19 home lambda, +23h rest edge, and United's five confirmed absences converge on a 2:1 or 3:1 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.50 combined lambda, mutual 2.05 xG/match averages, and United's 2.0 goals conceded per UCL game strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sporting's 88.8% scoring expectancy meets United's 1.50 xGA, while Zeno Debast's absence and Bruno Fernandes's 85.4 MF-OTI preserve United's 73.0% scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 leads the Dixon-Coles matrix at 9.5% density, with 3:1 (6.9%) capturing late-game spacing if Sporting exploit United's fatigued bench."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (21.6%) and four goals (18.9%) lead the goal-count distribution in line with a high-tempo 2:1 or 3:1 script."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "United's 100% away HT-behind rate in Europe points toward Win-Win, while Sporting's 75% HT-draw tendency keeps Draw-Win as the primary half-time branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:33:42 UTC"
+}
