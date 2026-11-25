@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563283,
+    "matchup": "Bolton vs West Brom",
+    "home_team": "Bolton",
+    "away_team": "West Brom",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-25 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-bolton-vs-west-brom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bolton vs West Brom Prediction & Match Analysis: Can Porous Home Defense Hold? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1563283",
+      "league": "Championship",
+      "matchup": "Bolton vs West Brom",
+      "matchTime": "2026-11-25 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "West Brom's superior xG creation and second-half scoring surge against Bolton's 2.00 xGA defense favor Draw / Away Win alongside Over 2.5 goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures West Brom's attacking dominance and Bolton's midfield absences while accounting for Isaac Price's fitness doubt (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by a 3.18 combined lambda and 75.0% BTTS rates in both sides' venue splits (Confidence: High, Value: Moderate)",
+      "1:1 Draw Stalemate Branch reflects the modal Poisson cell if Price misses out and Bolton's early home scoring holds (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563283",
+      "league": "Championship",
+      "homeTeam": "Bolton",
+      "awayTeam": "West Brom",
+      "match_time": "19:45",
+      "match_highlight": "Porous Bolton home defense tests West Brom's unbeaten Championship run",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563283,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the leading 1:2 West Brom second-half victory script and the 1:1 draw branch, as a single away call carries excess risk given West Brom's recent draws and Isaac Price's fitness doubt."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.18 combined lambda, 61.6% Over 2.5 model probability, and 62.5% Over 2.5 rates across both teams' home/away splits."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 63.3% BTTS model probability, 75.0% venue-split BTTS rates for both sides, and confirmed absences of holding midfielders Erhahon and Diakite."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with West Brom's 1.76 away lambda against Bolton's 2.00 xGA defense, while 1:1 covers the top Poisson cell if West Brom's doubtful scorers sit out."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.5%) represent the two highest-density Poisson outcomes matching the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "West Brom have drawn at half-time in 7 of 8 away games while scoring 66.7% of away goals after the break, pointing to a level interval followed by either an away win or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:37:34 UTC"
+}
