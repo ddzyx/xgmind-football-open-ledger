@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651503,
+    "matchup": "Monterrey vs Club America",
+    "home_team": "Monterrey",
+    "away_team": "Club America",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-26 03:10:00",
+    "source_url": "https://xgmind.com/matches/20261126-monterrey-vs-club-america/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Monterrey vs Club America Prediction & Match Analysis: Can Rayados Exploit Road Fragility? — xG Preview",
+    "meta": {
+      "matchId": "1651503",
+      "league": "Liga MX",
+      "matchup": "Monterrey vs Club America",
+      "matchTime": "2026-11-26 03:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Home Win / Draw for Monterrey in an open first leg leaning Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Monterrey's home unbeaten strength and Club America's 11.1% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by 3.31 combined lambda and dual defensive vulnerabilities across 2:1 and 1:1 scorelines (Confidence: Moderate, Value: High)",
+      "Second-half set-piece and transition variance if Henry Martin features against Monterrey's depleted center-back pairing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651503",
+      "league": "Liga MX",
+      "homeTeam": "Monterrey",
+      "awayTeam": "Club America",
+      "match_time": "03:10",
+      "match_highlight": "Monterrey's depleted backline faces Club America's 11.1% away clean-sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651503,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 home victory and secondary 1:1 draw scripts, because America's 11.1% away clean-sheet rate and Veiga's absence argue against an away win while Salcedo and Medina's absences leave a draw open."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.31 combined lambda (64.3% Over 2.5 probability), 1.28 vs 1.45 xGA rates, and both clubs' depleted defensive containment."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 65.9% model BTTS probability, 80.0% and 81.7% team-to-score expectancies, and low clean-sheet rates for both teams."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Monterrey's first-half home pressure against America's road leakage, while 1:1 captures the top 10.5% Dixon-Coles stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two buckets in the total-goal distribution (22.1% for 3 goals, 20.5% for 2 goals) around a 3.31 lambda_total."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Monterrey's 50.0% home half-time lead rate with 100% conversion, while Draw-Draw reflects America's 55.6% away half-time draw profile."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 15:38:20 UTC"
+}
