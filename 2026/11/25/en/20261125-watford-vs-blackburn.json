@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563286,
+    "matchup": "Watford vs Blackburn",
+    "home_team": "Watford",
+    "away_team": "Blackburn",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-25 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-watford-vs-blackburn/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Watford vs Blackburn: Expected Goals (xG), Coaching Turmoil & Match Intelligence",
+    "meta": {
+      "matchId": "1563286",
+      "league": "Championship",
+      "matchup": "Watford vs Blackburn",
+      "matchTime": "2026-11-25 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Blackburn's superior forward threat (1.50 goals per game) and away draw resilience support a Draw / Away Win call centered on 1:1 and 1:2, with Both Teams To Score (Yes) and Under 2.5 total goals.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win — Blackburn avoid defeat at Vicarage Road via compact away transitions or an Andri Gudjohnsen-led clinical counter (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Goals with BTTS Yes — Watford's home caution and 67.9% big-chance waste keep totals bounded to 2 or 3 goals while both 1.77 xGA defenses concede (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Watford 1:0 Home Shutout — An interim defensive bounce capitalizing on Blackburn's missing keeper Balazs Toth and Sam Morsy's midfield doubt (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563286",
+      "league": "Championship",
+      "homeTeam": "Watford",
+      "awayTeam": "Blackburn",
+      "match_time": "19:45",
+      "match_highlight": "Interim coaches clash as Blackburn's attack tests Watford's home steel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563286,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchored on the 1:1 modal draw and 1:2 away win, retaining both outcomes because Watford's home resilience balances Blackburn's finishing edge while a single-outcome call would ignore Rovers' 50% away draw rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.3% Poisson Under 2.5 rating, Watford's 56.2% season Under 2.5 frequency, and 2.58 combined lambda expectancy."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs allow 1.77 xGA per game and face defensive or goalkeeping absences, aligning with a 53.1% model probability and Blackburn's 75.0% season BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.2% given Blackburn's four away draws, while 1:2 captures Rovers' superior 56.9 FW-OTI breaking an unsettled host late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.8%) and three goals (21.7%) represent the two densest buckets in the total-goals distribution, matching the 1:1 and 1:2 projections."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both clubs show 50% half-time draw rates in tonight's venue splits, setting up an even first half before either staying deadlocked or tilting late to Blackburn."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 09:12:30 UTC"
+}
