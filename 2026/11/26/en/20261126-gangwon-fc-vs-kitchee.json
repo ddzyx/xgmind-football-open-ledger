@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630414,
+    "matchup": "Gangwon FC vs Kitchee",
+    "home_team": "Gangwon FC",
+    "away_team": "Kitchee",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-gangwon-fc-vs-kitchee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Gangwon FC vs Kitchee Prediction & Match Analysis: Can Home Pressure Unlock Kitchee's Block?",
+    "meta": {
+      "matchId": "1630414",
+      "league": "AFC Champions League Two",
+      "matchup": "Gangwon FC vs Kitchee",
+      "matchTime": "2026-11-26 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gangwon FC's domestic class and home set-piece pressure should tilt this tight Group H clash toward a narrow 1:0 home win, though persistent finishing waste makes covering the Draw essential under a low-scoring Under 2.5 and BTTS: No profile.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on a narrow Gangwon FC breakthrough or disciplined continental stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and BTTS: No driven by 1.67 combined goal lambda and Group H defensive containment (Confidence: Moderate, Value: High)",
+      "Draw-Win and Draw-Draw HT/FT progression reflecting Kitchee's compact first-half road structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630414",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Gangwon FC",
+      "awayTeam": "Kitchee",
+      "match_time": "10:00",
+      "match_highlight": "Must-win Gangwon test Kitchee's compact away block in cold Gangneung.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630414,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A single 1:0 Gangwon breakthrough leads on class and set-piece pressure, while retaining Draw covers their 0.50 ACL2 scoring rate and the 0:0 H2H against a compact Kitchee block."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams saw 75% of their Group H fixtures finish Under 2.5 with a 1.67 combined lambda and 76.5% Poisson Under probability."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kitchee failed to score in 50% of Group H games, Gangwon kept clean sheets in 50% of ACL2 outings, and the model (67.3%) aligns with Marathonbet's 1.66 BTTS: No price."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 reflects Gangwon's home territory and set-piece edge against zero Kitchee away clean sheets, while 0:0 captures the hosts' 62.9% big-chance waste and September's stalemate."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (30.1%) and 2 goals (26.9%) lead the Dixon-Coles distribution across tight continental containment scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kitchee drew the first half in both away Group H matches, pointing to a level interval before either a second-half Gangwon breakthrough or a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 22:08:24 UTC"
+}
