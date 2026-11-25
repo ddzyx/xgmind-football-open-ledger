@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601619,
+    "matchup": "Mantova vs Arezzo",
+    "home_team": "Mantova",
+    "away_team": "Arezzo",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-25 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-mantova-vs-arezzo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Mantova vs Arezzo: Expected Goals (xG), Injury Impact & Match Intelligence",
+    "meta": {
+      "matchId": "1601619",
+      "league": "Serie B",
+      "matchup": "Mantova vs Arezzo",
+      "matchTime": "2026-11-25 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Mantova Win / Draw paired with Under 2.5 and BTTS No reflects the hosts' clear attacking-territory superiority while respecting their recent finishing variance and slow first-half tempo.",
+    "possibilityAssessment": [
+      "Mantova Win or Draw led by Home Win via 1.75 vs 0.99 expected-goal lambdas and Arezzo's confirmed absence of Luca Chierico (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals backed by Mantova's 66.7% home Under 2.5 rate, sub-17% venue first-half goal shares, and Arezzo's 0.45 decayed recent scoring output (Confidence: Moderate, Value: Moderate)",
+      "BTTS No aligned with a 2:0 primary scoreline and Mantova's 66.7% home BTTS No record against an injury-hit visiting attack (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601619",
+      "league": "Serie B",
+      "homeTeam": "Mantova",
+      "awayTeam": "Arezzo",
+      "match_time": "19:00",
+      "match_highlight": "Mantova's high-press creation tests depleted Arezzo after slow first half.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601619,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win leads on 1.41 vs 1.02 xG and Arezzo's midfield absences, while Draw covers Mantova's 70.0% big-chance waste and 83.3% home half-time draw rate where a single win call leaves the 1:1 modal script exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Mantova's 66.7% home Under 2.5 rate, both sides' sub-17% venue first-half goal shares, and decayed recent scoring averages (0.61 and 0.45) outweigh the marginal 51.6% season Poisson Over lean."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Mantova have recorded BTTS No in 66.7% of home fixtures and face an Arezzo side with a 41.7% overall blank rate and confirmed midfield absentee Luca Chierico."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Mantova's pattern of two-goal home wins against Arezzo's 1.63 xGA defence, while 1:1 covers the top Poisson scoreline (11.7%) if home finishing waste persists."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (24.8%) anchors both the 2:0 and 1:1 core scripts, with 3 goals (22.1%) capturing the secondary branch if Mantova's 1.42 xGA concedes a reply in a 2:1 outcome."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Neither team has led at half-time in six respective venue outings (0/6 each), making a level interval followed by a Mantova breakthrough or deadlock the clearest chronological split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 07:09:12 UTC"
+}
