@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630408,
+    "matchup": "Nasaf vs Khalidiya",
+    "home_team": "Nasaf",
+    "away_team": "Khalidiya",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-25 13:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-nasaf-vs-khalidiya/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nasaf vs Khalidiya Tactical Breakdown & Probabilistic Modeling: Second-Half Asymmetry in Qarshi",
+    "meta": {
+      "matchId": "1630408",
+      "league": "AFC Champions League Two",
+      "matchup": "Nasaf vs Khalidiya",
+      "matchTime": "2026-11-25 13:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nasaf hold the form and goal-expectancy edge to win or draw at Markaziy Stadium in a tight Under 2.5 contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Nasaf's 72.3 weighted form score and 1.35 home lambda while retaining the 1:1 draw script (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals backed by 2.37 combined lambda, 57.8% model support, and mutual zero first-half group scoring (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency if Nasaf's 63.6% big-chance waste and 4-day turnaround allow fresh Khalidiya transitions to equalize (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630408",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Nasaf",
+      "awayTeam": "Khalidiya",
+      "match_time": "13:45",
+      "match_highlight": "Zero first-half goals for both teams shifts focus to second-half breakthroughs.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630408,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Nasaf's 43.7% win expectancy and 72.3 form lead the 1:0 script, while their 63.6% chance waste and 0:0 H2H justify retaining the 1:1 draw branch."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Combined goal expectancy of 2.37 (57.8% Under 2.5) aligns with 1.00 goals per game each and zero first-half group goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "At 52.0% probability, Nasaf's 0.94 recent goals-against trend and the prior 0:0 H2H support a narrow clean-sheet win over both teams scoring."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 converges on the Home Win, Under 2.5, and BTTS No thesis, while 1:1 (13.5% modal density) covers Khalidiya's away scoring threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (26.9%) and 1 goal (20.9%) dominate the Dixon-Coles distribution given cautious first-half profiles."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams carry a 0.0 first-half goal share in Group A, pointing to a level interval before Nasaf push for a second-half winner or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 02:07:43 UTC"
+}
