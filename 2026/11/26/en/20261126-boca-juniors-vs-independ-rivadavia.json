@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649565,
+    "matchup": "Boca Juniors vs Independ. Rivadavia",
+    "home_team": "Boca Juniors",
+    "away_team": "Independ. Rivadavia",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-26 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-boca-juniors-vs-independ-rivadavia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Boca Juniors vs Independ. Rivadavia Match Analysis & Preview: Post-Final Fatigue vs Suspension Crisis",
+    "meta": {
+      "matchId": "1649565",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Boca Juniors vs Independ. Rivadavia",
+      "matchTime": "2026-11-26 00:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Boca Juniors hold the tactical and defensive edge at La Bombonera against an Independ. Rivadavia side missing suspended star José Florentín, though a four-day post-final turnaround keeps a low-scoring draw in play within a Home Win / Draw and Under 2.5 framework.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as Boca Juniors pair an unbeaten 16-match home league record with five consecutive clean sheets, while retaining the Draw against post-Sudamericana fatigue and a 65.4% big-chance waste rate (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals aligns with a 1.79 combined lambda, 73.3% model probability, Boca's 81.2% home Under 2.5 rate, and Independ. Rivadavia's 66.7% away Under 2.5 rate (Confidence: High, Value: Moderate)",
+      "BTTS: No reflects Boca's 62.5% home clean-sheet rate and Independ. Rivadavia's 40.0% away failed-to-score rate without suspended catalyst José Florentín (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649565",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Independ. Rivadavia",
+      "match_time": "00:00",
+      "match_highlight": "Boca's five-match clean-sheet streak tests depleted Independ. Rivadavia after Sudamericana triumph.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649565,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win leads via Boca's 1:0 control and Rivadavia's key absences, while Draw covers a 0:0 stalemate after Boca's four-day turnaround from Colombia where a single call overlooks their 37.5% home draw rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.79 combined lambda, Boca's 0.55 xGA per game, and an 81.2% home Under 2.5 sample strongly restrict scoring volume."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Boca's 62.5% home clean-sheet rate and five straight shutouts meet an away attack that fails to score in 40.0% of road trips and misses suspended José Florentín."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "1:0 captures Boca's dominant home defensive control and 65.4% chance waste, while 0:0 covers a rested away low block holding firm."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "1 goal (28.7%) and 2 goals (27.4%) represent the top two Poisson densities inside an Under 2.5 low-margin script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Boca have drawn 68.8% of home first halves this season, pointing to a level interval before either a late breakthrough or full-time deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 12:08:18 UTC"
+}
