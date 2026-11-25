@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630416,
+    "matchup": "Tampines Rovers vs Shanghai Shenhua",
+    "home_team": "Tampines Rovers",
+    "away_team": "Shanghai Shenhua",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-tampines-rovers-vs-shanghai-shenhua/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tampines Rovers vs Shanghai Shenhua Prediction & Match Analysis: Rest Edge vs Turf — Scoreline Preview",
+    "meta": {
+      "matchId": "1630416",
+      "league": "AFC Champions League Two",
+      "matchup": "Tampines Rovers vs Shanghai Shenhua",
+      "matchTime": "2026-11-26 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Shanghai Shenhua are projected to claim an away victory at Jalan Besar Stadium in a competitive, three-goal contest.",
+    "possibilityAssessment": [
+      "Away Win for Shanghai Shenhua driven by 434-hour rest advantage and full attacking availability (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals supported by Tampines Rovers conceding 2.50 goals per group game and Bet365 1.50 pricing (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency if Shanghai Shenhua's 18-day layoff and 58.2% big-chance waste rate stall second-half conversion (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630416",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Tampines Rovers",
+      "awayTeam": "Shanghai Shenhua",
+      "match_time": "10:00",
+      "match_highlight": "Fresh Shanghai Shenhua test porous Tampines defense on Jalan Besar turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630416,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by our 1:2 primary scoreline, Shanghai Shenhua's 340-hour rest surplus, full attacking availability, and qualification urgency outweigh Tampines' artificial-turf edge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Tampines Rovers' 2.50 goals conceded per ACL Two match and recent scoring rhythm align with Shenhua's fresh attack and 1.50 Over 2.5 market pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tampines scored in Shanghai and netted eight across their last two games, while Shenhua hold a 25% Group G clean-sheet rate against Marathonbet's 1.59 BTTS Yes line."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 repeats the reverse fixture as Tampines score early on turf before tiring, while 0:2 covers a cleaner away shutout aligned with the two-goal Poisson peak."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the 1:2 primary projection against Tampines' leaky group defense, while two goals hedge the 0:2 branch supported by the 27.4% Poisson mode."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Both sides carry 0% Group G half-time lead rates pointing toward an even interval before Shenhua's superior fitness tells, with Loss-Loss covering an early visiting breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 22:16:09 UTC"
+}
