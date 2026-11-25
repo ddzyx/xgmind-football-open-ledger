@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630415,
+    "matchup": "Kuching FA vs Phnom Penh Crown",
+    "home_team": "Kuching FA",
+    "away_team": "Phnom Penh Crown",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 10:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-kuching-fa-vs-phnom-penh-crown/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kuching FA vs Phnom Penh Crown Prediction & Match Analysis: Rested Hosts Target Depleted Leaders",
+    "meta": {
+      "matchId": "1630415",
+      "league": "AFC Champions League Two",
+      "matchup": "Kuching FA vs Phnom Penh Crown",
+      "matchTime": "2026-11-26 10:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kuching FA are projected to defeat a depleted Phnom Penh Crown side at Stadium Taha Ariffin through early wing pressure and improved central defensive stability.",
+    "possibilityAssessment": [
+      "Home Win behind fast-start territorial control and consecutive 2:0 clean-sheet structure (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and BTTS: No anchored by 2.34 lambda_total and Crown's confirmed attacking absences (Confidence: Moderate, Value: Moderate)",
+      "2:1 Home Win contingency if Moses Dyer exploits second-half transition space late on (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630415",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Kuching FA",
+      "awayTeam": "Phnom Penh Crown",
+      "match_time": "10:00",
+      "match_highlight": "Rested Kuching FA target depleted Group H leaders at home.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630415,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Kuching FA's unbeaten home ACL2 record, consecutive 2:0 clean sheets, and +26h rest advantage align cleanly against a winless Phnom Penh Crown missing Pich Koeut, Guytho Mijland, and Rintaro Sakakibara."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.34 lambda_total, 58.5% Poisson Under 2.5 projection, and Crown's confirmed forward injuries outweigh Bet365's Over 2.5 lean and support a contained scoreline."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "With Guytho Mijland and Rintaro Sakakibara ruled out injured and Kuching FA keeping back-to-back 2:0 shutouts, the 51.9% baseline BTTS-No projection gains further support."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 reflects Kuching FA's established fast-start clean-sheet template over a thinned attack, while 2:1 covers a late Moses Dyer transition response."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals lead the Poisson distribution at 27.0% alongside the 2:0 base script, with three goals capturing the secondary 2:1 counter-attacking branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kuching FA's 100% first-half home ACL2 goal share favors Win-Win, while Crown's 50% HT draw rate makes a second-half Draw-Win breakthrough the secondary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 22:12:32 UTC"
+}
