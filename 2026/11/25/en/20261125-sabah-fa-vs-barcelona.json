@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635718,
+    "matchup": "Sabah FA vs Barcelona",
+    "home_team": "Sabah FA",
+    "away_team": "Barcelona",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261125-sabah-fa-vs-barcelona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sabah FA vs Barcelona: Expected Goals (xG), Yamal Absence & Match Analysis",
+    "meta": {
+      "matchId": "1635718",
+      "league": "UEFA Champions League",
+      "matchup": "Sabah FA vs Barcelona",
+      "matchTime": "2026-11-25 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Barcelona are projected to secure a regulation-time away victory in Baku through sustained territorial control and attacking depth, though defensive absences leave room for Sabah FA to register a goal in a high-scoring contest.",
+    "possibilityAssessment": [
+      "Away Win — Barcelona's 2.23 xG per match and deep attacking rotation project to overwhelm Sabah FA's 3.00 xGA defense despite missing Lamine Yamal (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes — Combined 3.92 expected goals and Barcelona's midfield and centre-back absences point toward a 1:3 or 1:2 away victory (Confidence: High, Value: Moderate)",
+      "Draw-Loss Half-Time/Full-Time — Sabah FA's 80% home half-time draw rate could keep the opening 45 minutes level before Barcelona's bench pulls clear (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:3",
+        "1:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635718",
+      "league": "UEFA Champions League",
+      "homeTeam": "Sabah FA",
+      "awayTeam": "Barcelona",
+      "match_time": "17:45",
+      "match_highlight": "Barcelona's possession machine faces Sabah's porous backline without Lamine Yamal.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635718,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Barcelona's 2.23 xG per match and superior attacking depth outweigh Lamine Yamal's absence against a Sabah FA side conceding 3.00 xGA per game without suspended defender Aden McCarthy."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A combined 3.92 statistical goal expectancy and four consecutive Over 2.5 Champions League matches for Barcelona support at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sabah FA have scored in ten of eleven European outings this season and face a Barcelona side missing Rodri and Andreas Christensen with a 25.0% clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:3",
+          "1:2"
+        ],
+        "comment": "1:3 captures Barcelona's 3.50 UCL goals-per-game output and Sabah's home scoring route, while 1:2 reflects potential early resistance after Barcelona's short turnaround."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Four and three goals represent the two peak density bands around the 3.92 total lambda, aligning with both 1:3 and 1:2 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Barcelona's class advantage supports leading by half-time in a Loss-Loss script, while Sabah's 80% home half-time draw rate keeps Draw-Loss as the primary alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 06:08:43 UTC"
+}
