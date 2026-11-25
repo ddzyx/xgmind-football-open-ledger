@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1635703,
+    "matchup": "Paris Saint Germain vs AS Roma",
+    "home_team": "Paris Saint Germain",
+    "away_team": "AS Roma",
+    "league": "UEFA Champions League",
+    "kickoff_utc": "2026-11-25 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-paris-saint-germain-vs-as-roma/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Paris Saint Germain vs AS Roma: Expected Goals, Winger Absences & Match Analysis",
+    "meta": {
+      "matchId": "1635703",
+      "league": "UEFA Champions League",
+      "matchup": "Paris Saint Germain vs AS Roma",
+      "matchTime": "2026-11-25 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris Saint Germain are projected to secure an ordinary Home Win in a high-scoring encounter featuring goals at both ends.",
+    "possibilityAssessment": [
+      "Home Win behind PSG's 3.12 xG creation and full-back thrust (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and 3:1 primary scoreline anchored by 4.49 combined lambda (Confidence: High, Value: Moderate)",
+      "BTTS Yes with 2:1 tighter home margin if wing absences slow early conversion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1635703",
+      "league": "UEFA Champions League",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "AS Roma",
+      "match_time": "20:00",
+      "match_highlight": "PSG wing absences test 3.12 xG engine against Roma's clinical front three.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1635703,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "PSG's 3.12 xG/match territorial dominance and superior second-half depth project a 3:1 or 2:1 home victory over Roma."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 4.49 lambda, 82.5% Over 2.5 model probability, and 1.33 market pricing point toward a three-to-four goal match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Roma's 1.66 xG attack (74.8 FW-OTI) meets PSG's 1.58 xGA defense and zero home UCL clean sheets, supporting BTTS Yes (71.5% model)."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 (7.8%) and 2:1 (7.5%) top the Dixon-Coles matrix and align PSG's home edge with Roma's scoring floor and wing-injury friction."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "4 goals leads the total-goals distribution (19.0%), while 3 goals (16.9%) covers the tighter margin created by PSG's flank absences."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "PSG led at half-time in all four UCL matches (Win-Win), while Roma's high press could hold level to the break before fading (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 08:24:33 UTC"
+}
