@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492461,
+    "matchup": "Atletico-MG vs Corinthians",
+    "home_team": "Atletico-MG",
+    "away_team": "Corinthians",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-25 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-atletico-mg-vs-corinthians/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Atletico-MG vs Corinthians Prediction & Match Analysis: Can Galo Break Low-Block Resistance? — xG Preview",
+    "meta": {
+      "matchId": "1492461",
+      "league": "Serie A",
+      "matchup": "Atletico-MG vs Corinthians",
+      "matchTime": "2026-11-25 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw leads with a narrow Atletico-MG victory projected in a low-scoring, Under 2.5 and BTTS: No contest shaped by Corinthians' confirmed attacking absences and the hosts' short turnaround.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: No (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492461",
+      "league": "Serie A",
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Corinthians",
+      "match_time": "23:00",
+      "match_highlight": "Atletico-MG home resilience meets Yuri Alberto-less Corinthians in tight grind.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492461,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Atletico-MG's strong home record (1:0) and the 1:1 stalemate script driven by recent home scoring fatigue, since neither single result alone captures the host recovery risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.35 lambda_total, 58.3% Under 2.5 model probability, >67% big-chance waste on both sides, and Yuri Alberto's suspension."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Corinthians' 0.95 away lambda and Yuri Alberto's STJD ban tilt the matchup toward a home clean sheet (38.7% baseline) against a tiring host."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects Atletico-MG's tendency for narrow one-goal home wins alongside the 1:1 baseline draw threat from late fatigue."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Matches the top two Dixon-Coles total-goal densities (27.0% for 2 goals, 21.1% for 1 goal) in a compact defensive battle."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams score predominantly after half-time, making a level interval followed by either a late home breakthrough or stalemate most probable."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 11:08:21 UTC"
+}
