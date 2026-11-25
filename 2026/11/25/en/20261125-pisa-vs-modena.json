@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601622,
+    "matchup": "Pisa vs Modena",
+    "home_team": "Pisa",
+    "away_team": "Modena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-25 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261125-pisa-vs-modena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pisa vs Modena Prediction & Match Analysis: Can Home xG Expose Wingback Absences? — Scoreline Preview",
+    "meta": {
+      "matchId": "1601622",
+      "league": "Serie B",
+      "matchup": "Pisa vs Modena",
+      "matchTime": "2026-11-25 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pisa's superior xG output and set-piece pressure against Modena's depleted flanks support a Home Win / Draw projection leaning toward a 2:1 home victory in an Over 2.5, both-teams-to-score contest.",
+    "possibilityAssessment": [
+      "Pisa avoid defeat (Home Win / Draw) behind 1.85 xG/match and home set-piece volume against an injury-hit Modena flank (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes driven by Pisa's 83.3% home Over 2.5 / BTTS rate and Modena's 100% away scoring floor (Confidence: Moderate, Value: High)",
+      "Second-half stalemate or 1:1 draw contingency if Modena's 56.5% possession and 66.7% HT deficit-recovery rate offset flank absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601622",
+      "league": "Serie B",
+      "homeTeam": "Pisa",
+      "awayTeam": "Modena",
+      "match_time": "19:00",
+      "match_highlight": "Pisa's set-piece firepower tests Modena's injury-hit flanks at Arena Garibaldi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601622,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Pisa's 2:1 home win script led by 1.85 xG/game and Modena's flank absences alongside the 1:1 draw branch given Pisa's 0.0% home clean-sheet rate, where a single call would ignore near-even 36.62% vs 35.77% model balance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.66 combined lambda, 3.36 combined xG/match, Pisa's 83.3% home Over 2.5 rate, and Modena's confirmed flank absences."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Pisa have zero clean sheets in six home matches while Modena have scored in every road game yet defend without Tonoli and Zampano."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Pisa's home chance volume and set-piece edge over Modena's depleted wide defense, while 1:1 covers the 13.0% Poisson mode."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligned with the 2:1 primary and 1:1 secondary scorelines around a 2.66 total lambda and open home venue profile."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win captures a tight first half (50% Pisa home HT draws) followed by a home breakthrough; Win-Draw covers Pisa striking early before Modena's 66.7% HT deficit-recovery trend equalizes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-25 07:18:02 UTC"
+}
