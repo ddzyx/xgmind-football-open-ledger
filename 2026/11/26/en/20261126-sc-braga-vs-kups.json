@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636389,
+    "matchup": "SC Braga vs KuPS",
+    "home_team": "SC Braga",
+    "away_team": "KuPS",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-sc-braga-vs-kups/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Braga vs KuPS Prediction & Match Analysis: Can Braga Crack KuPS's Low Block? — xG Preview",
+    "meta": {
+      "matchId": "1636389",
+      "league": "UEFA Europa Conference League",
+      "matchup": "SC Braga vs KuPS",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Braga is strongly positioned to secure a controlled home victory with a clean sheet against a defensively exposed and competitively rusty KuPS side.",
+    "possibilityAssessment": [
+      "SC Braga Home Win driven by 1.88 xG per game against KuPS's 2.54 xGA per game and 4-for-4 home European wins (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals paired with BTTS No via one-sided home attacking volume (Confidence: Moderate, Value: High)",
+      "2:0 Home Shutout contingency if Braga's 75.0% big-chance wastefulness persists early (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636389",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "SC Braga",
+      "awayTeam": "KuPS",
+      "match_time": "20:00",
+      "match_highlight": "Braga's 1.88 xG attack tests KuPS's 2.54 xGA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636389,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Braga's four home European shutout wins and overwhelming shot-volume edge support a decisive 3:0 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.15 combined lambda, 61.0% model Over 2.5 rate, and KuPS's 2.54 xGA per match favor at least three goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Braga enters on four straight clean sheets and zero BTTS outcomes in nine European matches against a blunt KuPS attack."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "3:0 reflects Braga's 2.19 home lambda against KuPS's porous road defense, while 2:0 covers early finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3%) and two goals (21.7%) represent the two highest-density outcomes in the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Braga led at half-time and won all four home European ties, with Draw-Win covering an opening-half low-block stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:19:20 UTC"
+}
