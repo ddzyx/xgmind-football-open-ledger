@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603083,
+    "matchup": "Al-Faisaly FC vs Al Diriyah",
+    "home_team": "Al-Faisaly FC",
+    "away_team": "Al Diriyah",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-26 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261126-al-faisaly-fc-vs-al-diriyah/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Faisaly FC vs Al Diriyah Prediction & Match Analysis: Can Interim Coach Dahman Plug a 24-Goal Leak?",
+    "meta": {
+      "matchId": "1603083",
+      "league": "Pro League",
+      "matchup": "Al-Faisaly FC vs Al Diriyah",
+      "matchTime": "2026-11-26 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Diriyah are projected to avoid defeat in a tight, low-scoring Pro League encounter where their road defensive structure outweighs Al-Faisaly FC's post-break managerial reset.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No driven by 2.16 combined lambda and 75.9% away big-chance waste (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency if interim boss Mohamed Dahman organizes a compact mid-block after the four-week break (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603083",
+      "league": "Pro League",
+      "homeTeam": "Al-Faisaly FC",
+      "awayTeam": "Al Diriyah",
+      "match_time": "17:30",
+      "match_highlight": "Al Diriyah road discipline tests Al-Faisaly's new interim coach",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603083,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 0:1 away control script and the 1:1 stalemate risk, as Al Diriyah's 75.9% big-chance waste prevents a single Away Win lock."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.16 combined lambda, a 63.3% Dixon-Coles Under 2.5 projection, and Al Diriyah's 8-of-12 Under 2.5 league record."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Aligned with a 56.3% model probability, Al Diriyah's 40.0% away clean-sheet rate, and only 1 BTTS result in their 5 road league games."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 captures Al Diriyah's narrow away-win efficiency, while 1:1 reflects their finishing wastage against a home side with 4 draws in 12 matches."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.6%) and one goal (23.6%) lead the Dixon-Coles distribution and match both projected scoreline branches."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Al Diriyah led at HT in 3 of 5 away games and converted every HT lead, while Al-Faisaly never led at HT and held 4 home HT draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 05:38:11 UTC"
+}
