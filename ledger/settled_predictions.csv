@@ -1,6 +1,56 @@
 match_date,league,home_team,away_team,final_score,half_score,outcome,hit_1x2,ou_line,ou_result,hit_ou,hit_score,hit_goals,hit_htft,hit_perfect,hit_btts,published_utc,report_url
+2026-11-26,UEFA Europa Conference League,FC Nordsjaelland,Panathinaikos,3-2,0-1,H,0,2.5,OVER,1,0,0,0,0,1,2026-11-26 09:42:30,https://xgmind.com/matches/20261126-fc-nordsjaelland-vs-panathinaikos/
+2026-11-26,UEFA Europa Conference League,Inter Club d'Escaldes,FC Copenhagen,2-0,1-0,H,0,2.5,UNDER,0,0,1,0,0,0,2026-11-26 09:39:00,https://xgmind.com/matches/20261126-inter-club-d-escaldes-vs-fc-copenhagen/
+2026-11-26,UEFA Europa Conference League,HNK Hajduk Split,St. Truiden,0-2,0-1,A,1,2.5,UNDER,1,0,1,0,0,1,2026-11-26 09:34:48,https://xgmind.com/matches/20261126-hnk-hajduk-split-vs-st-truiden/
+2026-11-26,UEFA Europa Conference League,Gent,FK Crvena Zvezda,1-1,1-0,D,1,2.5,UNDER,0,1,1,0,0,1,2026-11-26 09:30:44,https://xgmind.com/matches/20261126-gent-vs-fk-crvena-zvezda/
+2026-11-26,UEFA Europa Conference League,SC Freiburg,Twente,2-1,1-0,H,1,2.5,OVER,1,1,1,0,0,1,2026-11-26 09:26:54,https://xgmind.com/matches/20261126-sc-freiburg-vs-twente/
+2026-11-26,UEFA Europa Conference League,CSKA Sofia,Trabzonspor,1-2,1-0,A,1,2.5,OVER,1,1,1,0,0,1,2026-11-26 09:23:18,https://xgmind.com/matches/20261126-cska-sofia-vs-trabzonspor/
+2026-11-26,UEFA Europa Conference League,SC Braga,KuPS,4-0,2-0,H,1,2.5,OVER,1,0,0,1,0,1,2026-11-26 09:19:20,https://xgmind.com/matches/20261126-sc-braga-vs-kups/
+2026-11-26,UEFA Europa Conference League,Borac Banja Luka,Atalanta,2-3,2-0,A,1,2.5,OVER,1,0,0,0,0,1,2026-11-26 09:15:55,https://xgmind.com/matches/20261126-borac-banja-luka-vs-atalanta/
+2026-11-26,UEFA Europa League,Torreense,Celtic,1-2,1-1,A,1,2.5,OVER,1,1,1,1,1,1,2026-11-26 09:11:57,https://xgmind.com/matches/20261126-torreense-vs-celtic/
+2026-11-26,UEFA Europa League,Sunderland,Jagiellonia,1-1,0-0,D,1,2.5,UNDER,0,1,1,1,0,1,2026-11-26 09:08:20,https://xgmind.com/matches/20261126-sunderland-vs-jagiellonia/
+2026-11-26,UEFA Europa League,Sparta Praha,AZ Alkmaar,2-4,2-0,A,1,2.5,OVER,1,0,0,0,0,1,2026-11-26 08:37:24,https://xgmind.com/matches/20261126-sparta-praha-vs-az-alkmaar/
+2026-11-26,UEFA Europa League,OFI,Anderlecht,1-3,0-2,A,1,2.5,OVER,0,0,0,1,0,0,2026-11-26 08:33:58,https://xgmind.com/matches/20261126-ofi-vs-anderlecht/
+2026-11-26,UEFA Europa League,NEC Nijmegen,Rennes,3-1,1-1,H,0,2.5,OVER,1,0,0,0,0,1,2026-11-26 08:30:12,https://xgmind.com/matches/20261126-nec-nijmegen-vs-rennes/
+2026-11-26,UEFA Europa League,Lyon,Lillestrom,0-0,0-0,D,1,2.5,UNDER,0,0,0,1,0,0,2026-11-26 08:26:52,https://xgmind.com/matches/20261126-lyon-vs-lillestrom/
+2026-11-26,UEFA Europa League,Juventus,Omonia Nicosia,4-1,2-1,H,1,2.5,OVER,1,0,0,1,0,1,2026-11-26 08:18:57,https://xgmind.com/matches/20261126-juventus-vs-omonia-nicosia/
+2026-11-26,UEFA Europa League,1899 Hoffenheim,Sturm Graz,3-1,0-1,H,1,2.5,OVER,1,1,1,0,0,1,2026-11-26 08:15:22,https://xgmind.com/matches/20261126-1899-hoffenheim-vs-sturm-graz/
+2026-11-26,UEFA Europa League,Ferencvarosi TC,Celje,0-0,0-0,D,0,2.5,UNDER,0,0,0,0,0,0,2026-11-26 08:12:04,https://xgmind.com/matches/20261126-ferencvarosi-tc-vs-celje/
+2026-11-26,UEFA Europa League,Crystal Palace,Real Sociedad,2-1,0-0,H,0,2.5,OVER,1,0,1,0,0,1,2026-11-26 08:08:17,https://xgmind.com/matches/20261126-crystal-palace-vs-real-sociedad/
+2026-11-26,UEFA Europa Conference League,Pafos,FC Midtjylland,0-2,0-1,A,1,2.5,UNDER,0,0,0,0,0,0,2026-11-26 07:38:39,https://xgmind.com/matches/20261126-pafos-vs-fc-midtjylland/
+2026-11-26,UEFA Europa Conference League,Kauno Žalgiris,Riga,2-0,0-0,H,0,2.5,UNDER,0,0,1,0,0,0,2026-11-26 07:05:50,https://xgmind.com/matches/20261126-kauno-algiris-vs-riga/
+2026-11-26,UEFA Europa Conference League,FK Jablonec,FC Lugano,2-0,0-0,H,0,2.5,UNDER,0,0,1,0,0,0,2026-11-26 07:00:35,https://xgmind.com/matches/20261126-fk-jablonec-vs-fc-lugano/
+2026-11-26,UEFA Europa Conference League,Saburtalo,Getafe,1-0,1-0,H,1,2.5,UNDER,0,0,0,0,0,0,2026-11-26 06:56:48,https://xgmind.com/matches/20261126-saburtalo-vs-getafe/
+2026-11-26,UEFA Europa Conference League,Heart Of Midlothian,Monaco,2-3,2-2,A,1,2.5,OVER,1,0,0,0,0,1,2026-11-26 06:52:03,https://xgmind.com/matches/20261126-heart-of-midlothian-vs-monaco/
+2026-11-26,UEFA Europa Conference League,Egnatia Rrogozhinë,Lincoln Red Imps FC,2-1,0-0,H,1,2.5,OVER,0,1,1,1,0,1,2026-11-26 06:48:55,https://xgmind.com/matches/20261126-egnatia-rrogozhin-vs-lincoln-red-imps-fc/
+2026-11-26,UEFA Europa Conference League,Brighton,Universitatea Craiova,4-0,2-0,H,1,2.5,OVER,0,0,0,1,0,1,2026-11-26 06:44:49,https://xgmind.com/matches/20261126-brighton-vs-universitatea-craiova/
+2026-11-26,UEFA Europa Conference League,Brann,Aarhus,1-4,0-2,A,0,2.5,OVER,1,0,0,0,0,1,2026-11-26 06:41:38,https://xgmind.com/matches/20261126-brann-vs-aarhus/
+2026-11-26,UEFA Europa Conference League,Ajax,FC Thun,4-0,2-0,H,1,2.5,OVER,1,0,1,1,0,0,2026-11-26 06:38:08,https://xgmind.com/matches/20261126-ajax-vs-fc-thun/
+2026-11-26,UEFA Europa League,Red Bull Salzburg,Ararat-Armenia,2-0,0-0,H,1,2.5,UNDER,0,0,1,1,0,0,2026-11-26 06:32:43,https://xgmind.com/matches/20261126-red-bull-salzburg-vs-ararat-armenia/
+2026-11-26,UEFA Europa League,Union St. Gilloise,Lech Poznan,2-2,0-2,D,0,2.5,OVER,1,0,1,0,0,0,2026-11-26 06:29:26,https://xgmind.com/matches/20261126-union-st-gilloise-vs-lech-poznan/
+2026-11-26,UEFA Europa League,Plzen,Benfica,4-0,3-0,H,0,2.5,OVER,1,0,1,0,0,0,2026-11-26 06:25:56,https://xgmind.com/matches/20261126-plzen-vs-benfica/
+2026-11-26,UEFA Europa League,Olympiakos Piraeus,AC Milan,2-4,1-0,A,0,2.5,OVER,0,0,0,0,0,0,2026-11-26 06:22:08,https://xgmind.com/matches/20261126-olympiakos-piraeus-vs-ac-milan/
+2026-11-26,UEFA Europa League,Marseille,Levski Sofia,1-0,1-0,H,1,2.5,UNDER,1,1,1,0,0,1,2026-11-26 06:18:56,https://xgmind.com/matches/20261126-marseille-vs-levski-sofia/
+2026-11-26,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,0-2,0-2,A,1,2.5,UNDER,0,1,1,1,0,0,2026-11-26 06:15:11,https://xgmind.com/matches/20261126-dinamo-zagreb-vs-bayer-leverkusen/
+2026-11-26,UEFA Europa League,Celta Vigo,Bournemouth,1-2,1-0,A,1,2.5,OVER,1,1,1,0,0,1,2026-11-26 06:11:58,https://xgmind.com/matches/20261126-celta-vigo-vs-bournemouth/
+2026-11-26,UEFA Europa League,Beşiktaş,Hapoel Beer Sheva,2-1,0-0,H,1,2.5,OVER,1,1,1,1,1,1,2026-11-26 06:08:26,https://xgmind.com/matches/20261126-besiktas-vs-hapoel-beer-sheva/
+2026-11-26,Pro League,Al-Faisaly FC,Al Diriyah,2-2,0-2,D,1,2.5,OVER,0,0,0,0,0,0,2026-11-26 05:38:11,https://xgmind.com/matches/20261126-al-faisaly-fc-vs-al-diriyah/
+2026-11-26,UEFA Europa Conference League,Kairat Almaty,Mjallby AIF,1-0,1-0,H,0,2.5,UNDER,1,0,0,0,0,0,2026-11-26 03:38:07,https://xgmind.com/matches/20261126-kairat-almaty-vs-mjallby-aif/
+2026-11-26,Pro League,Abha,Al Shabab,0-1,0-1,A,1,2.5,UNDER,0,0,0,1,0,0,2026-11-26 03:08:35,https://xgmind.com/matches/20261126-abha-vs-al-shabab/
+2026-11-26,Pro League,Al-Fateh,Al Riyadh,1-0,0-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-26 02:37:53,https://xgmind.com/matches/20261126-al-fateh-vs-al-riyadh/
+2026-11-26,AFC Champions League Two,Wofoo Tai Po,Adelaide United,1-7,0-3,A,1,2.5,OVER,1,0,0,1,0,1,2026-11-26 00:45:19,https://xgmind.com/matches/20261126-wofoo-tai-po-vs-adelaide-united/
+2026-11-26,AFC Champions League Two,Svay Rieng,Machida Zelvia,2-0,0-0,H,0,2.5,UNDER,1,0,1,0,0,1,2026-11-26 00:41:47,https://xgmind.com/matches/20261126-svay-rieng-vs-machida-zelvia/
+2026-11-26,AFC Champions League Two,BG Pathum United,Home United,0-3,0-1,A,1,2.5,OVER,1,0,1,0,0,0,2026-11-26 00:38:47,https://xgmind.com/matches/20261126-bg-pathum-united-vs-home-united/
+2026-11-26,AFC Champions League Two,Tampines Rovers,Shanghai Shenhua,1-7,1-3,A,1,2.5,OVER,1,0,0,1,0,1,2026-11-25 22:16:09,https://xgmind.com/matches/20261126-tampines-rovers-vs-shanghai-shenhua/
+2026-11-26,AFC Champions League Two,Kuching FA,Phnom Penh Crown,3-0,1-0,H,1,2.5,OVER,0,0,1,1,0,1,2026-11-25 22:12:32,https://xgmind.com/matches/20261126-kuching-fa-vs-phnom-penh-crown/
+2026-11-26,AFC Champions League Two,Gangwon FC,Kitchee,3-2,1-1,H,1,2.5,OVER,0,0,0,1,0,0,2026-11-25 22:08:24,https://xgmind.com/matches/20261126-gangwon-fc-vs-kitchee/
+2026-11-26,Liga MX,Monterrey,Club America,0-0,0-0,D,1,2.5,UNDER,0,0,0,1,0,0,2026-11-25 15:38:19,https://xgmind.com/matches/20261126-monterrey-vs-club-america/
+2026-11-26,Liga MX,Toluca,Atlas,2-0,1-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-25 13:09:02,https://xgmind.com/matches/20261126-toluca-vs-atlas/
+2026-11-26,Liga Profesional Argentina,Boca Juniors,Independ. Rivadavia,2-0,1-0,H,1,2.5,UNDER,1,0,1,0,0,1,2026-11-25 12:08:18,https://xgmind.com/matches/20261126-boca-juniors-vs-independ-rivadavia/
+2026-11-25,Serie A,Atletico-MG,Corinthians,1-1,0-0,D,1,2.5,UNDER,1,1,1,1,1,0,2026-11-25 11:08:20,https://xgmind.com/matches/20261125-atletico-mg-vs-corinthians/
 2026-11-25,Championship,Stoke City,Millwall,2-1,2-0,H,1,2.5,OVER,1,1,1,0,0,1,2026-11-25 09:16:03,https://xgmind.com/matches/20261125-stoke-city-vs-millwall/
 2026-11-25,UEFA Champions League,Sporting CP,Manchester United,2-2,1-0,D,0,2.5,OVER,1,0,1,0,0,1,2026-11-25 08:33:42,https://xgmind.com/matches/20261125-sporting-cp-vs-manchester-united/
+2026-11-25,UEFA Champions League,Shakhtar Donetsk,Fenerbahçe,0-1,0-0,A,0,2.5,UNDER,0,0,0,0,0,0,2026-11-25 08:29:30,https://xgmind.com/matches/20261125-shakhtar-donetsk-vs-fenerbah-e/
 2026-11-25,UEFA Champions League,Paris Saint Germain,AS Roma,2-2,1-1,D,0,2.5,OVER,1,0,1,0,0,1,2026-11-25 08:24:32,https://xgmind.com/matches/20261125-paris-saint-germain-vs-as-roma/
 2026-11-25,UEFA Champions League,Lille,Bayern München,2-1,0-1,H,1,2.5,OVER,0,1,1,0,0,1,2026-11-25 08:20:59,https://xgmind.com/matches/20261125-lille-vs-bayern-m-nchen/
 2026-11-25,UEFA Champions League,Inter,VfB Stuttgart,2-0,0-0,H,0,2.5,UNDER,0,0,1,0,0,0,2026-11-25 08:16:22,https://xgmind.com/matches/20261125-inter-vs-vfb-stuttgart/
