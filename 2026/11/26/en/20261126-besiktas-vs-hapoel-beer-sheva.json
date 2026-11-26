@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636231,
+    "matchup": "Beşiktaş vs Hapoel Beer Sheva",
+    "home_team": "Beşiktaş",
+    "away_team": "Hapoel Beer Sheva",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-besiktas-vs-hapoel-beer-sheva/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Beşiktaş vs Hapoel Beer Sheva: Expected Goals (xG), Absences & Match Analysis",
+    "meta": {
+      "matchId": "1636231",
+      "league": "UEFA Europa League",
+      "matchup": "Beşiktaş vs Hapoel Beer Sheva",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Beşiktaş are projected to secure a Home Win in regulation time as their 2.12 xG-per-match attack exploits a depleted Hapoel Beer Sheva spine missing Ofir Marciano, Lucas Ventura, and Dan Biton.",
+    "possibilityAssessment": [
+      "Home Win behind Beşiktaş's 60.46% blended model win probability and 2.27 expected-goal lambda against a weakened Israeli defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes anchored by a 3.21 combined lambda and Beşiktaş's 4-for-4 League Stage Over 2.5 / BTTS record (Confidence: Moderate, Value: Moderate)",
+      "Clean-sheet 2:0 home control contingency if Hapoel Beer Sheva's 83.3% big-chance waste rate leaves them scoreless (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636231",
+      "league": "UEFA Europa League",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Hapoel Beer Sheva",
+      "match_time": "17:45",
+      "match_highlight": "Vlahović and Kökçü test Marciano-less Hapoel defense after Batumi storm detour.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636231,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by the 2:1 primary scoreline and a 2.12 vs 0.97 xG edge over a Hapoel Beer Sheva side missing Marciano, Ventura, and Biton."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.21 combined lambda, a 62.2% Poisson Over 2.5 rating, and Beşiktaş's 4.75-goal League Stage match average."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson models assign 55.1% to BTTS Yes as Beşiktaş's 2.00 goals-conceded rate and missing center-backs Agbadou and Akdağ lower clean-sheet security."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Beşiktaş's attacking superiority and defensive leakage, while 2:0 covers Hapoel failing to score without Dan Biton."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (21.2%) represent the top two total-goal densities matching the 2:1 and 2:0 trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win aligns with Beşiktaş's 60% first-half draw rate and late acceleration, while Win-Win covers an early strike past Hapoel's backup keeper."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:08:27 UTC"
+}
