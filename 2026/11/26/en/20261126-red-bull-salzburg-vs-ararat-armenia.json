@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636334,
+    "matchup": "Red Bull Salzburg vs Ararat-Armenia",
+    "home_team": "Red Bull Salzburg",
+    "away_team": "Ararat-Armenia",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-red-bull-salzburg-vs-ararat-armenia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Red Bull Salzburg vs Ararat-Armenia: Expected Goals (xG), Injury Crisis & Match Analysis",
+    "meta": {
+      "matchId": "1636334",
+      "league": "UEFA Europa League",
+      "matchup": "Red Bull Salzburg vs Ararat-Armenia",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Poisson expectancy (1.90 vs 1.41 lambda) and an exposed away net favor a narrow Red Bull Salzburg win or high-density draw in a match tracking toward 2:1 or 1:1.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Red Bull Salzburg's final-third pressing edge against a 3.50-GA defense without suspended goalkeeper Joao Bravim (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS: Yes driven by a 3.31 combined lambda and mutual 2.09/2.17 League Stage xGA averages (Confidence: Moderate, Value: High)",
+      "1:1 stalemate contingency if Haris Tabakovic's absence and Salzburg's 77.8% big-chance waste persist against a 33.3% set-piece threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636334",
+      "league": "UEFA Europa League",
+      "homeTeam": "Red Bull Salzburg",
+      "awayTeam": "Ararat-Armenia",
+      "match_time": "17:45",
+      "match_highlight": "Injury-hit Salzburg test Europe's leakiest defense without suspended keeper Bravim.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636334,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Salzburg home win against Ararat-Armenia's backup keeper alongside a 1:1 draw given Salzburg's 10 confirmed absences and 77.8% big-chance waste, avoiding a single win call that ignores host finishing risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.31 combined lambda (64.3% Over 2.5 model probability) and porous 2.09 vs 2.17 League Stage xGA figures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 64.8% BTTS model probability as Ararat-Armenia scored in all 3 UEL away games while Salzburg hold a 12.5% clean-sheet ratio."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 aligns with the 48.6% home-win edge and modal 3-goal bucket, while 1:1 captures the top single-cell Poisson outcome (10.3%) if Salzburg misfire."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two Poisson total-goal buckets (22.1% for 3 goals, 20.5% for 2 goals) across the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Salzburg produce 81.8% of their UEL goals after half-time and won 3 of 3 level intervals, leaving Draw-Win vs Draw-Draw as the decisive second-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:32:43 UTC"
+}
