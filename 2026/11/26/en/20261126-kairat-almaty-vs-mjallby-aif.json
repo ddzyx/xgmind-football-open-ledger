@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636435,
+    "matchup": "Kairat Almaty vs Mjallby AIF",
+    "home_team": "Kairat Almaty",
+    "away_team": "Mjallby AIF",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261126-kairat-almaty-vs-mjallby-aif/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kairat Almaty vs Mjallby AIF Match Analysis: Expected Goals (xG), Travel Fatigue & Scoreline Preview",
+    "meta": {
+      "matchId": "1636435",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Kairat Almaty vs Mjallby AIF",
+      "matchTime": "2026-11-26 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling favors Mjallby AIF to avoid defeat in Almaty, balancing their superior expected-goal profile against cross-continental travel fatigue.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Mjallby AIF's second-half threat with the 1:1 stalemate retained (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals paired with Both Teams To Score: Yes converging on a controlled two-goal contest (Confidence: Moderate, Value: Moderate)",
+      "Mjallby AIF 1:2 second-half breakthrough if Kairat Almaty's box prevention fractures late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636435",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Kairat Almaty",
+      "awayTeam": "Mjallby AIF",
+      "match_time": "15:30",
+      "match_highlight": "Rested Kairat 5-3-2 defense faces Mjallby second-half surge after long travel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636435,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Mjallby's higher-probability second-half victory (1:2) and the modal 1:1 stalemate, as travel fatigue and Jacob Bergström's knock prevent a single away-win call from capturing the draw risk."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 51.6% Poisson Under 2.5 baseline, Mjallby's 0.96 xGA per match, and three consecutive Under 2.5 European outings for the visitors."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kairat have scored in all three Conference League ties while keeping zero clean sheets against Mjallby's 80.4% Poisson scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 reflects the highest single Poisson density (12.3%) across rested hosts and travel-weary visitors, while 1:2 covers Mjallby's second-half breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.6%) and three goals (21.8%) dominate the Poisson goal distribution around a 2.61 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Mjallby have been level at halftime in all three European matches with 100% second-half scoring, pointing to a tight first half before either an away surge or shared spoils."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 03:38:07 UTC"
+}
