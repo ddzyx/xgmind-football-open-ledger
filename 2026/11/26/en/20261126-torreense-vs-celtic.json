@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636349,
+    "matchup": "Torreense vs Celtic",
+    "home_team": "Torreense",
+    "away_team": "Celtic",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-torreense-vs-celtic/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Torreense vs Celtic: Expected Goals (xG), Squad Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1636349",
+      "league": "UEFA Europa League",
+      "matchup": "Torreense vs Celtic",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Celtic hold the stronger attacking and long-term pedigree to avoid defeat in an open, both-teams-to-score Europa League encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Celtic's midfield creation and superior Elo against a porous Torreense defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes backed by a 3.30 total lambda and zero European clean sheets from either side (Confidence: Moderate, Value: High)",
+      "Second-half Celtic surge exploiting Torreense's 30-hour rest deficit and 19.8 shots conceded per UEL match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636349",
+      "league": "UEFA Europa League",
+      "homeTeam": "Torreense",
+      "awayTeam": "Celtic",
+      "match_time": "20:00",
+      "match_highlight": "Porous European defenses meet as depleted Celtic visit counter-punching Torreense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636349,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Celtic's superior forward OTI and ClubElo edge producing a 1:2 away win alongside the 2:2 draw branch driven by Celtic's own 1.81 xGA/match and Nygren's absence, since neither defense supports a confident single-outcome call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.30 combined lambda, 64.1% Poisson Over 2.5 probability, and 1.98 vs 1.81 xGA per game across two teams with zero UEL clean sheets."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams average over 1.08 xG/match while conceding 1.81+ xGA/match, producing 84.3% home and 76.5% away scoring probabilities and 4/4 BTTS Yes in UEL play."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Balances Celtic's second-half attacking depth against Torreense's efficient counter-attacks and both clubs' clean-sheet failures."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Anchors on the 22.1% modal 3-goal Poisson outcome and 18.2% 4-goal open-game branch in a 3.30 lambda matchup."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Celtic's 16.7% first-half UEL goal share keeping the interval level before second-half pressure decides either an away win or high-scoring draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:11:57 UTC"
+}
