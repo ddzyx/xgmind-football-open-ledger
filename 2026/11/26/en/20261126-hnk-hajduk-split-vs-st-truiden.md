@@ -1,0 +1,83 @@
+# HNK Hajduk Split vs St. Truiden Preview & Match Analysis: Can Livaja-Less Hosts Crack Belgian Defense?
+
+> **Competition**: UEFA Europa Conference League
+> **Kickoff**: 2026-11-26 20:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this Matchday 4 UEFA Europa Conference League encounter at Stadion Poljud lies a stark tactical test between defensive resilience and depleted attacking firepower. With HNK Hajduk Split sitting 13th on six points and Belgian visitors St. Truiden holding 10th place on seven points, both sides enter regulation play in Split well positioned for knockout qualification. Yet circumstances surrounding the touchline and stands have reshaped the contest: Hajduk captain Marko Livaja is sidelined with back pain, first-choice goalkeeper Ivica Ivusic remains unavailable, and UEFA disciplinary sanctions restrict Poljud to roughly 8,000 schoolchildren rather than a full home crowd. XG Mind AI deploys an independent Dixon-Coles and ClubElo quantitative matrix alongside verified squad intelligence and tactical profiling to deconstruct how this low-margin European clash is set to unfold.
+
+📌 HNK Hajduk Split vs St. Truiden: Match Intelligence Brief
+
+Fixture ID
+
+: 1636420
+
+Matchup
+
+: HNK Hajduk Split vs St. Truiden
+
+Competition
+
+: UEFA Europa Conference League, League Stage - 4
+
+Kickoff Time
+
+: 2026-11-26 20:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether St. Truiden&#x27;s 87.9-percentile high press can capitalize on the absence of Marko Livaja and Ivica Ivusic inside a subdued Stadion Poljud.
+
+📊 1. HNK Hajduk Split Attacking Structure vs St. Truiden Defensive Counter
+
+⚔️ Head-to-Head History: Maiden Competitive Meeting Between Croatian and Belgian Sides
+
+No competitive head-to-head meetings have occurred between HNK Hajduk Split and St. Truiden in recent seasons, leaving tonight&#x27;s League Stage fixture as the first tactical benchmark between the two clubs.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+N/A
+
+N/A
+
+HNK Hajduk Split
+
+No prior meetings
+
+St. Truiden
+
+📈 Team Form &amp; Tactical Style Breakdown: Compact Croatian Patience vs High-Pressing Belgian Transition
+
+Home Team (HNK Hajduk Split):
+
+Under head coach Gonzalo Garcia, HNK Hajduk Split arrive in encouraging all-competition form (WDWLW), averaging 1.63 decayed goals scored and 0.69 decayed goals conceded across their last five outings, highlighted by a 5:0 domestic rout of HNK Gorica, a 1:0 away win at NK Osijek, and a 2:1 victory at NK Lokomotiva Zagreb on November 21. In UEFA Europa Conference League play, however, their output has been notably tighter: across three League Stage matches they have netted 1.00 goal and conceded 0.67 per match, beating Ajax 2:1 at Poljud and FC Thun 1:0 away before falling 1:0 at Lincoln Red Imps despite holding 66% possession and 15 shots with only one effort on target. Across six total European matches this season, Hajduk kept a clean sheet in two, failed to score in one, and remained unbeaten in all three home European ties while scoring 75% of their home goals after half-time.
+
+Without Marko Livaja&#x27;s link-up play and Ivica Ivusic in goal, Hajduk must rely heavily on Michele Sego (five goals and one assist in Europe) and wide runner Dalisson to manufacture transitions from a disciplined 4-2-3-1 block.
+
+Their central defensive pairing of Dario Maresic and Ron Raci must also withstand sustained ball-winning pressure without a vocal full-capacity Poljud crowd.
+
+Away Team (St. Truiden):
+
+St. Truiden travel to Split unbeaten in three UEFA Europa Conference League League Stage fixtures (W-D-W trajectory in Europe: 2:0 against FC Iberia 1999, 1:0 away at FC Midtjylland, and 1:1 against SK Brann), scoring 1.33 goals per match while conceding just 0.33. Appointed on November 6 following Frederic De Meyer&#x27;s departure, head coach Jonas De Roeck has immediately energized the Belgian side&#x27;s attack—producing a 4:1 Belgian Pro League triumph over Zulte Waregem and a 2:2 draw at Charleroi on November 21, lifting their time-decayed scoring rate to 2.14 goals per match across their last five outings (DWDLL). Tactically, St. Truiden rank in the 87.9th percentile for both pressing intensity and defensive actions, averaging 52.7% possession overall and 57.7% across their three League Stage ties while generating 6.7 final-third ball recoveries per match.
+
+Crucially, St. Truiden&#x27;s defensive structure anchored by Visar Musliu, Shogo Taniguchi, and goalkeeper Leo Kokubo kept clean sheets in two of their three League Stage outings, yet a 62.5% big-chance waste rate and zero set-piece goals reveal a persistent finishing bottleneck.
+
+How cleanly playmaker Ilias Sebaoui and midfielder Ryan Merlen convert territorial pressure against Hajduk&#x27;s deep block will define their ceiling tonight.
+
+🔍 Core Statistical Comparison: Identical Low-Scoring Profiles Despite Stylistic Contrast
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261126-hnk-hajduk-split-vs-st-truiden/)
