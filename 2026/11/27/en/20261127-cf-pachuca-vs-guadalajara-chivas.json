@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651504,
+    "matchup": "CF Pachuca vs Guadalajara Chivas",
+    "home_team": "CF Pachuca",
+    "away_team": "Guadalajara Chivas",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-27 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-cf-pachuca-vs-guadalajara-chivas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CF Pachuca vs Guadalajara Chivas Prediction & Match Analysis: Can Chivas Survive Without Romo? — xG Preview",
+    "meta": {
+      "matchId": "1651504",
+      "league": "Liga MX",
+      "matchup": "CF Pachuca vs Guadalajara Chivas",
+      "matchTime": "2026-11-27 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "CF Pachuca are projected to avoid defeat against Guadalajara Chivas in a tightly contested 1:1 stalemate or 2:1 home victory in this Apertura 2026 Quarter-final first leg.",
+    "possibilityAssessment": [
+      "Primary match direction leans toward Home Win / Draw anchored by a 1:1 modal script and 2:1 home upside (Confidence: Moderate, Value: Moderate)",
+      "Goal projections favor Under 2.5 alongside BTTS: Yes as both sides maintain 100% venue scoring floors (Confidence: Moderate, Value: Moderate)",
+      "Second-half tempo acceleration creates a credible 2:1 three-goal branch if early scoring opens midfield spaces (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Loss-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651504",
+      "league": "Liga MX",
+      "homeTeam": "CF Pachuca",
+      "awayTeam": "Guadalajara Chivas",
+      "match_time": "01:00",
+      "match_highlight": "Romo's absence tests Chivas's top defense against surging Pachuca at home.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651504,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the primary 1:1 draw script and the 2:1 home-win branch, as a single call would ignore either Chivas's 100% away unbeaten rate or Romo's confirmed absence."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Chivas's 75.0% away Under 2.5 rate and first-leg knockout caution nudge a balanced 2.70 lambda_total slightly below 2.5 goals at 1:1."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither side has failed to score in eight respective home/away league games, and both lose a key defensive/midfield starter."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Poisson matrix (12.7%) and matches Chivas's five away draws, while 2:1 reflects Pachuca's home surge against a Romo-less midfield."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (25.1%) and three goals (22.0%) represent the two highest-probability bands on the Poisson distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Loss-Draw tracks Chivas's 50% away HT lead rate and Pachuca's 75% home comeback rate, while Draw-Win covers a tight first half broken late by the hosts."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 13:08:37 UTC"
+}
