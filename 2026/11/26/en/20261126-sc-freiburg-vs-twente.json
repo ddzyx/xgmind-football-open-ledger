@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636410,
+    "matchup": "SC Freiburg vs Twente",
+    "home_team": "SC Freiburg",
+    "away_team": "Twente",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-sc-freiburg-vs-twente/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling SC Freiburg vs Twente: Expected Goals (xG), Keeper Absences & Preview",
+    "meta": {
+      "matchId": "1636410",
+      "league": "UEFA Europa Conference League",
+      "matchup": "SC Freiburg vs Twente",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Freiburg are projected to remain unbeaten at Europa-Park-Stadion (Home Win / Draw) in a goal-rich encounter clearing 2.5 goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw via Freiburg home control and Twente defensive depletion (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals & BTTS Yes backed by 3.16 total lambda and 1.50/1.53 market pricing (Confidence: Moderate, Value: High)",
+      "Contingency Angle: 2:2 High-Scoring Draw if Twente's 94.8th-percentile press offsets backup goalkeeper risk (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636410",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Twente",
+      "match_time": "20:00",
+      "match_highlight": "Twente lose keeper Unnerstall and center-back depth before visiting Freiburg.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636410,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Freiburg's 2:1 home-win script against Twente's depleted defense while retaining the 2:2 draw given Twente's 4.00 UECL xG/match attack."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.16 combined lambda (61.2% Over 2.5 probability), Bet365's 1.53 Over line, and both sides' high-scoring UECL trends."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 60.2% Poisson BTTS expectancy, Twente's intact front four, and both clubs' sub-21% current-season clean-sheet ratios."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Freiburg exploiting Joël Drommel and a thinned Twente backline; 2:2 covers Twente's second-half pressing threat if Freiburg miss chances."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals leads the Poisson exact-total distribution at 22.3% (matching 2:1), while 4 goals (17.6%) covers the open 2:2 escalation branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Freiburg have won all three UECL matches level at half-time (Draw-Win), while Draw-Draw covers Twente trading second-half goals to split the points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:26:54 UTC"
+}
