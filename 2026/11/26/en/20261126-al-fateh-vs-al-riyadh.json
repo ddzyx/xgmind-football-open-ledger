@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603084,
+    "matchup": "Al-Fateh vs Al Riyadh",
+    "home_team": "Al-Fateh",
+    "away_team": "Al Riyadh",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-26 14:25:00",
+    "source_url": "https://xgmind.com/matches/20261126-al-fateh-vs-al-riyadh/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Al-Fateh vs Al Riyadh: Expected Goals (xG), Finishing Waste & Match Analysis",
+    "meta": {
+      "matchId": "1603084",
+      "league": "Pro League",
+      "matchup": "Al-Fateh vs Al Riyadh",
+      "matchTime": "2026-11-26 14:25 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Fateh's 1.21 vs 0.87 xG-per-match edge and 38.7% Dixon-Coles win probability favor Home Win / Draw against an Al Riyadh side winless in six away matches.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Al-Fateh lead expected goals and midfield OTI while Al Riyadh sit 0W-3D-3L away, with the draw retained for finishing variance (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals — Combined lambda of 2.75 and both defenses conceding over 2.05 goals per match point to three or more goals (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 Score Draw — Highest single Poisson scoreline density (12.7%) if Al-Fateh's 78.9% big-chance miss rate persists against Al Riyadh's second-half transitions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603084",
+      "league": "Pro League",
+      "homeTeam": "Al-Fateh",
+      "awayTeam": "Al Riyadh",
+      "match_time": "14:25",
+      "match_highlight": "Al-Fateh xG edge meets Al Riyadh's winless away defensive fragility.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603084,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Al-Fateh breakthrough driven by 1.21 xG/match and a 1:1 draw if finishing waste persists; a single Home Win is weaker given Al-Fateh's 0W-1D-5L home record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.75 combined lambda, 51.9% Poisson Over 2.5 probability, and defensive concession rates of 2.08 and 2.27 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 56.4% Poisson BTTS probability and identical 16.7% clean-sheet rates for Al-Fateh at home and Al Riyadh away."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Al-Fateh's midfield creation edge against leaky road defending, while 1:1 covers the top 12.7% Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the Over 2.5 and 2:1 primary script, with 2 goals covering the 24.8% modal Poisson bin and 1:1 contingency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides reach half-time level around 50% of the time before Al-Fateh's xG edge either breaks through late or settles level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 02:37:54 UTC"
+}
