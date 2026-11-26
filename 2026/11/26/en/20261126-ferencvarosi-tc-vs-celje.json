@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636261,
+    "matchup": "Ferencvarosi TC vs Celje",
+    "home_team": "Ferencvarosi TC",
+    "away_team": "Celje",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-ferencvarosi-tc-vs-celje/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Ferencvarosi TC vs Celje: Expected Goals (xG), Absences & Match Analysis",
+    "meta": {
+      "matchId": "1636261",
+      "league": "UEFA Europa League",
+      "matchup": "Ferencvarosi TC vs Celje",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Ferencvarosi TC project to secure a home victory in an open League Stage encounter as their high-pressing attack exploits Celje's leaky European defense.",
+    "possibilityAssessment": [
+      "Home Win driven by Ferencvarosi TC's 2.15 xG and 8.0 final-third recoveries meeting Celje's 2.30 xGA backline (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by a 3.72 combined lambda and Celje's recent five-match scoring streak (Confidence: High, Value: Moderate)",
+      "Second-half Budapest acceleration breaking a competitive opening 45 minutes into a 2:1 or 3:1 finish (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636261",
+      "league": "UEFA Europa League",
+      "homeTeam": "Ferencvarosi TC",
+      "awayTeam": "Celje",
+      "match_time": "20:00",
+      "match_highlight": "Ferencvarosi TC's final-third pressing tests Celje's porous European backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636261,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Backed by 2.15 xG per game and a 152-point ClubElo advantage at Groupama Aréna, Ferencvarosi TC project to outscore a Celje side conceding 2.30 xGA in Europe."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.72 combined lambda and 71.8% model Over 2.5 probability reflect Ferencvarosi TC's 2.75 goals per game and Celje's 0.0% European clean-sheet record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ferencvarosi TC have scored in all 12 European outings while Celje boast five straight wins and a 64.7% model scoring probability against a 1.27-xGA home defense."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Model top projections 2:1 (9.1%) and 3:1 (8.1%) reconcile Budapest's home dominance without suspended Bamidele Yusuf against Celje's transitional threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Total-goal probabilities peak at 3 goals (20.8%) and 4 goals (19.3%), matching both teams' 3.50-goal League Stage match averages."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Ferencvarosi TC's 31.2% home first-half goal share and 100% draw-to-win conversion make Draw-Win primary, with Win-Win covering an early breakthrough against Celje's 75% half-time deficit rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:12:04 UTC"
+}
