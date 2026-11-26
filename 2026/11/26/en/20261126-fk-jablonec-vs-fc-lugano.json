@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636431,
+    "matchup": "FK Jablonec vs FC Lugano",
+    "home_team": "FK Jablonec",
+    "away_team": "FC Lugano",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-fk-jablonec-vs-fc-lugano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FK Jablonec vs FC Lugano Prediction & Match Analysis: Home Low Block vs Lugano Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1636431",
+      "league": "UEFA Europa Conference League",
+      "matchup": "FK Jablonec vs FC Lugano",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win represents the optimal probabilistic direction as FC Lugano's League Stage firepower (3.67 goals per game) confronts FK Jablonec's European home resilience in a match projecting goals at both ends.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Lugano's midfield creation and scoring consistency lead the matchup while Jablonec's home containment retains draw coverage (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes driven by a 3.35 combined lambda_total and defensive absences on both sides (Confidence: Moderate, Value: High)",
+      "1:1 Tactical Stalemate contingency if Jablonec repeats its Brighton home low-block script against a Delcroix-less Lugano back three (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636431",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "FK Jablonec",
+      "awayTeam": "FC Lugano",
+      "match_time": "17:45",
+      "match_highlight": "Lugano's 11-goal Conference League attack tests Jablonec's home low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636431,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Lugano's 49.5% away-win edge from our 1:2 primary scoreline alongside 1:1 draw coverage because Lugano has zero clean sheets in four European away games."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.35 combined lambda_total, Lugano's 3.67 League Stage goals per game, and Jablonec's recent 2.13 decayed goals conceded without Jan Hanuš."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by Lugano's 0.0% failed-to-score rate in nine European matches, 100% BTTS across four European away trips, and confirmed absences of Jan Hanuš and Hannes Delcroix."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Lugano's midfield superiority overcoming a depleted host defense, while 1:1 covers Jablonec's compact home low-block stalemate script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.0%) and two goals (20.2%) hold the highest Dixon-Coles density across our 1:2 away win and 1:1 draw branches."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss captures Lugano's 66.7% European half-time lead rate and 100% hold rate, while Draw-Draw covers Jablonec's compact home containment."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 07:00:35 UTC"
+}
