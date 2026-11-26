@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630418,
+    "matchup": "Svay Rieng vs Machida Zelvia",
+    "home_team": "Svay Rieng",
+    "away_team": "Machida Zelvia",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261126-svay-rieng-vs-machida-zelvia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Svay Rieng vs Machida Zelvia Prediction & Tactical Breakdown: Can Hosts Crack Machida's Wall?",
+    "meta": {
+      "matchId": "1630418",
+      "league": "AFC Champions League Two",
+      "matchup": "Svay Rieng vs Machida Zelvia",
+      "matchTime": "2026-11-26 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Machida Zelvia's unbeaten Group G defense and set-piece edge make Draw / Away Win alongside Under 2.5 and BTTS: No the sharpest analytical alignment.",
+    "possibilityAssessment": [
+      "Draw / Away Win leaning Machida Zelvia via defensive control and set-piece conversion (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals with 2 or 1 goal projections backed by 1.98 lambda_total (Confidence: Moderate, Value: High)",
+      "BTTS: No anchored by Machida Zelvia's 75% Group G clean-sheet rate and 0:1 primary scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630418",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Svay Rieng",
+      "awayTeam": "Machida Zelvia",
+      "match_time": "12:15",
+      "match_highlight": "Machida Zelvia's airtight continental defense tests Svay Rieng's potent home attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630418,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 0:1 Machida breakthrough alongside a 1:1 stalemate, as Machida's recent 0.67 decayed goal average and Svay Rieng's home resilience discourage a single away call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.98 lambda_total (68.2% Under 2.5) and 75% Under 2.5 Group G frequency for both teams point firmly toward a low-scoring contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Machida Zelvia have conceded just 0.25 goals per match in Group G with two away clean sheets, supporting a 59.8% BTTS: No model projection."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "Balances Machida Zelvia's narrow away winning profile (two 1-goal Group G away wins) against a tight 1:1 draw if Svay Rieng breach them once."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "The Dixon-Coles distribution peaks at 2 goals (27.7%) and 1 goal (26.0%), matching the tight defensive tempo of both sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Svay Rieng's strong first-half home resistance points to a level interval before Machida either break through late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 00:41:47 UTC"
+}
