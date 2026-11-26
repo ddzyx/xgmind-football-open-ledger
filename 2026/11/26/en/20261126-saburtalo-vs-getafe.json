@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636426,
+    "matchup": "Saburtalo vs Getafe",
+    "home_team": "Saburtalo",
+    "away_team": "Getafe",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-saburtalo-vs-getafe/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saburtalo vs Getafe Tactical Breakdown & Probabilistic Modeling: Can Getafe End Their Scoring Drought?",
+    "meta": {
+      "matchId": "1636426",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Saburtalo vs Getafe",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saburtalo Win or Draw leads the probabilistic distribution in Tbilisi as Getafe's depleted defense and three-match scoreless run meet a host still seeking its first League Stage victory.",
+    "possibilityAssessment": [
+      "Primary 1X2 Direction: Home Win / Draw — Saburtalo's 48.6% home win probability leads over a 25.8% draw baseline against an injury-hit Getafe back line (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Over 2.5 Goals and BTTS Yes backed by 2.75 combined lambda and 0.0% clean-sheet rates for both clubs (Confidence: Moderate, Value: Moderate)",
+      "Draw Containment Angle: 1:1 stalemate and Draw-Draw HT/FT if Getafe's 80% half-time draw discipline persists through 90 minutes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636426",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Saburtalo",
+      "awayTeam": "Getafe",
+      "match_time": "17:45",
+      "match_highlight": "Can Getafe's depleted backline survive Tbilisi and snap a three-match scoreless run?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636426,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Saburtalo's home edge and Getafe's defensive absences support a 2:1 home breakthrough, while the Draw is retained for a 1:1 stalemate given Saburtalo's winless UECL record and Getafe's first-half discipline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.75 combined lambda (51.9% Over 2.5) and 0.0% European clean-sheet rates for both clubs point toward a three-goal 2:1 outcome."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither team has kept a Conference League clean sheet (66.7% and 80.0% BTTS rates in their scoring profiles), aligning with a 54.8% model BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Saburtalo's home lambda edge over a leaky Getafe defense, while 1:1 covers the top-density 12.3% modal draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the primary 2:1 projection (22.2%), while two goals covers the dense 24.8% modal bucket via a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Getafe's 80% half-time draw rate (100% away in the sample) points to a level break before either a second-half Saburtalo winner or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:56:48 UTC"
+}
