@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636277,
+    "matchup": "Juventus vs Omonia Nicosia",
+    "home_team": "Juventus",
+    "away_team": "Omonia Nicosia",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-juventus-vs-omonia-nicosia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Juventus vs Omonia Nicosia Prediction & Match Analysis: Can Spalletti's Rotation Sustain Control?",
+    "meta": {
+      "matchId": "1636277",
+      "league": "UEFA Europa League",
+      "matchup": "Juventus vs Omonia Nicosia",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back a Juventus Home Win alongside Over 2.5 Goals and Both Teams To Score: Yes in Turin.",
+    "possibilityAssessment": [
+      "Juventus Home Win driven by 2.23 xG per match and Omonia's 1.82 xGA concession rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and 2:1 or 3:1 scoreline corridors backed by 3.49 total lambda and 67.7% model probability (Confidence: High, Value: High)",
+      "Both Teams To Score: Yes as Omonia exploit missing Locatelli and Thuram in Juventus's rotated midfield (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636277",
+      "league": "UEFA Europa League",
+      "homeTeam": "Juventus",
+      "awayTeam": "Omonia Nicosia",
+      "match_time": "20:00",
+      "match_highlight": "Rotated Juventus midfield tests Omonia's counter threat at Allianz Stadium.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636277,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Juventus's 2.23 xG home attacking edge and +205 Elo superiority overwhelm Omonia's 1.82 xGA defense in a 2:1 or 3:1 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.49 combined lambda, 67.7% model Over 2.5 probability, and Juventus's 100% Over 2.5 UEL record strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Juventus have conceded in 3 of 4 UEL games (1.41 xGA) and miss Locatelli and Thuram, while Omonia scored in all 4 league-phase fixtures."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 leads the Dixon-Coles matrix (9.6%) while 3:1 (7.6%) covers late second-half separation against Omonia's tiring low block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (21.6%) and four (18.9%) goals hold top distributional mass around the 3.49 expected-goal anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Juventus's 54.5% first-half goal share favors Win-Win, while Omonia's 50% HT draw rate against a rotated XI makes Draw-Win the primary first-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:18:57 UTC"
+}
