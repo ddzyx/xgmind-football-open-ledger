@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636412,
+    "matchup": "Gent vs FK Crvena Zvezda",
+    "home_team": "Gent",
+    "away_team": "FK Crvena Zvezda",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-gent-vs-fk-crvena-zvezda/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Gent vs FK Crvena Zvezda: Expected Goals, Key Absences & Match Analysis",
+    "meta": {
+      "matchId": "1636412",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Gent vs FK Crvena Zvezda",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gent is projected to avoid defeat (Home Win / Draw) behind a 2:1 primary convergence and 1:1 draw contingency.",
+    "possibilityAssessment": [
+      "Home Win / Draw capitalizes on Gent's 1.64 home lambda and Zvezda's depleted midfield while covering finishing variance (Confidence: Moderate, Value: High)",
+      "Over 2.5 and BTTS: Yes align with a 2.80 total goal expectancy and Zvezda's 0% European clean-sheet record (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency (1:1) protects against Gent's 87.5% big-chance waste rate and Christian Burgess's defensive absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636412",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Gent",
+      "awayTeam": "FK Crvena Zvezda",
+      "match_time": "20:00",
+      "match_highlight": "Gent's home xG faces Zvezda's depleted midfield and porous European backline.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636412,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Gent's 2:1 home-win script leads on 1.64 home lambda against Zvezda's Elšnik-less midfield, while Draw covers a 1:1 finish driven by Gent's 87.5% big-chance waste and Burgess's absence."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.80 combined lambda, Zvezda's 100% league-stage Over 2.5 record (2.00 GA/match), and Burgess's injury edge Over 2.5 (53.1%) past the 1:1 two-goal branch."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Gent's 1.60 xG/match meets a 0% clean-sheet Zvezda backline, while Christian Burgess's absence leaves Gent vulnerable to Marko Arnautović and Zvezda's 1.77 xG/match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Gent's home xG edge over a leaky visitor that still finds a goal, while 1:1 (12.1% modal score) captures potential home finishing frustration."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) aligns with the 2:1 primary scoreline and 2.80 total lambda, while 2 goals (24.4% bucket) covers the tight 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams carry high half-time draw rates in Europe (50% Gent, 66.7% Zvezda), making a level interval followed by either a Gent breakthrough or 1:1 stalemate most likely."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:30:44 UTC"
+}
