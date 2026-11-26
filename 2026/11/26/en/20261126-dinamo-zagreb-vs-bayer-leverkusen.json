@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636255,
+    "matchup": "Dinamo Zagreb vs Bayer Leverkusen",
+    "home_team": "Dinamo Zagreb",
+    "away_team": "Bayer Leverkusen",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-dinamo-zagreb-vs-bayer-leverkusen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dinamo Zagreb vs Bayer Leverkusen Prediction & Match Analysis: Can Leko's Backline Resist Schick?",
+    "meta": {
+      "matchId": "1636255",
+      "league": "UEFA Europa League",
+      "matchup": "Dinamo Zagreb vs Bayer Leverkusen",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayer Leverkusen hold a decisive pressing, xG, and ClubElo superiority over Dinamo Zagreb to project an Away Win at Stadion Maksimir.",
+    "possibilityAssessment": [
+      "Away Win driven by Leverkusen's 2.95 xG per game and 8.3 final-third recoveries (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes anchored by a 2.83 combined lambda and Bet365 totals/BTTS alignment (Confidence: Moderate, Value: High)",
+      "1:1 draw variance if Leverkusen's 72.2% big-chance waste rate persists against Dominik Kotarski (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636255",
+      "league": "UEFA Europa League",
+      "homeTeam": "Dinamo Zagreb",
+      "awayTeam": "Bayer Leverkusen",
+      "match_time": "17:45",
+      "match_highlight": "Leverkusen's 2.95 xG high press tests Nevistić-less Dinamo Zagreb.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636255,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Bayer Leverkusen's 2.95 xG per game, 0.68 xGA, and 2-0-0 away UEL record support a 1:2 or 0:2 Away Win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.83 combined lambda (53.8% Over 2.5) and Bet365's 1.50 Over price align with Leverkusen's 2.95 xG and Dinamo's 1.31 xGA."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Dinamo's 67.4% scoring probability and 100% home UEL scoring rate pair with Leverkusen's 81.9% scoring expectancy for a 55.8% BTTS Yes lean."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 reconciles Leverkusen's class edge with Dinamo's home scoring floor, while 0:2 covers Leverkusen's 32.6% away clean-sheet shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.3%) aligns with the 1:2 primary script, while two goals (24.2%) covers the 0:2 away shutout alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Leverkusen led at half-time in both away UEL wins (Loss-Loss), while Dinamo's 100% home HT-draw rate makes Draw-Loss the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:15:12 UTC"
+}
