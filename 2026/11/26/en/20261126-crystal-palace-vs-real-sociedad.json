@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636252,
+    "matchup": "Crystal Palace vs Real Sociedad",
+    "home_team": "Crystal Palace",
+    "away_team": "Real Sociedad",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-crystal-palace-vs-real-sociedad/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Crystal Palace vs Real Sociedad Prediction & Match Analysis: Can Frank Patch Midfield Bans? — xG Preview",
+    "meta": {
+      "matchId": "1636252",
+      "league": "UEFA Europa League",
+      "matchup": "Crystal Palace vs Real Sociedad",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Real Sociedad to avoid defeat (Draw / Away Win) in an Over 2.5 and BTTS Yes matchup anchored around a 1:2 away win or 2:2 draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by 58.01% combined Dixon-Coles and ClubElo probability alongside positive model-vs-market edge on Draw (+2.00%) and Away Win (+2.38%) (Confidence: Moderate, Value: High)",
+      "Over 2.5 and BTTS Yes supported by a 3.00 combined lambda, 60.7% BTTS model rate, and Bet365 totals pricing at 1.57 (Confidence: High, Value: Moderate)",
+      "2:2 Draw hedge driven by Palace's 21.7% set-piece threat and Pino attacking Sociedad's depleted right-back flank (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636252",
+      "league": "UEFA Europa League",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Real Sociedad",
+      "match_time": "20:00",
+      "match_highlight": "Suspended Wharton leaves Palace's midfield exposed against Sociedad's creators.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636252,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win captures both the leading 1:2 away win driven by Palace's midfield bans and the 2:2 draw branch driven by Sociedad's missing right-backs, where a single Away Win would leave Palace's Selhurst Park pressing threat uncovered."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.00 combined lambda, 57.7% Over 2.5 model rate, 1.57 market price, and key midfield/full-back absences point toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams carry a 0.0% failed-to-score rate in four Europa League matches, 79.6%/75.6% scoring probabilities, and compromised clean-sheet structures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 reflects Sociedad's superior midfield creation exploiting Palace's missing pivot, while 2:2 covers a high-tempo home response against Sociedad's backup right-back."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals align directly with the 3.00 lambda total and both 1:2 and 2:2 scoreline trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures an energetic level first half before Palace's depleted midfield fades late, while Loss-Draw reflects Sociedad striking early against Palace's 75% HT-behind rate before a second-half home equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:08:17 UTC"
+}
