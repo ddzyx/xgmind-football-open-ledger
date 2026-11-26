@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636405,
+    "matchup": "Egnatia Rrogozhinë vs Lincoln Red Imps FC",
+    "home_team": "Egnatia Rrogozhinë",
+    "away_team": "Lincoln Red Imps FC",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-egnatia-rrogozhin-vs-lincoln-red-imps-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Egnatia Rrogozhinë vs Lincoln Red Imps FC Tactical Breakdown & Probabilistic Modeling: Low-Block Test",
+    "meta": {
+      "matchId": "1636405",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Egnatia Rrogozhinë vs Lincoln Red Imps FC",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Egnatia Rrogozhinë are projected to dictate territory and remain unbeaten (Home Win / Draw) in a tight League Stage contest centered on 1:1 and 2:1 scorelines.",
+    "possibilityAssessment": [
+      "Egnatia Rrogozhinë Home Win / Draw backed by 1.51 vs 1.02 goal lambdas and 75.1% combined 1X2 model coverage (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals supported by a 53.6% Dixon-Coles baseline and five consecutive Under 2.5 European outings for Egnatia (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) driven by Egnatia's 0.0% League Stage clean-sheet rate and Eneo Bitri's suspension (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636405",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Egnatia Rrogozhinë",
+      "awayTeam": "Lincoln Red Imps FC",
+      "match_time": "17:45",
+      "match_highlight": "Suspended Eneo Bitri tests Egnatia's possession edge against Lincoln's low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636405,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Egnatia's 48.0% home win expectation (2:1) and the modal 1:1 draw (12.9%), as Egnatia's four draws in five UEFA games and Eneo Bitri's suspension make a single win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Dixon-Coles modeling gives Under 2.5 a 53.6% edge, aligned with Egnatia's 0.67 League Stage goals per game and five straight Under 2.5 European fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 50.4% BTTS-Yes baseline, Lincoln's 2.00 goals conceded per League Stage game, and Egnatia's 0.0% clean-sheet rate without suspended defender Eneo Bitri."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 12.9% given Egnatia's European draw tendency and defensive absence, while 2:1 (9.3%) reflects Egnatia's 1.51 home lambda converting territory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals carry the highest model probability at 26.1% alongside 1:1, with three goals at 21.5% covering the 2:1 home breakthrough branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Lincoln have gone into half-time level in 75% of tracked matches, pointing to a balanced first half before Egnatia either break through late (Draw-Win) or settle for a 1:1 stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:48:55 UTC"
+}
