@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636457,
+    "matchup": "FC Nordsjaelland vs Panathinaikos",
+    "home_team": "FC Nordsjaelland",
+    "away_team": "Panathinaikos",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-fc-nordsjaelland-vs-panathinaikos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Nordsjaelland vs Panathinaikos: Expected Goals, Defensive Fragility & Match Analysis",
+    "meta": {
+      "matchId": "1636457",
+      "league": "UEFA Europa Conference League",
+      "matchup": "FC Nordsjaelland vs Panathinaikos",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Panathinaikos hold a decisive League Stage chance-creation advantage, making Draw / Away Win with Both Teams To Score and Over 2.5 Goals the optimal risk-adjusted projection.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Panathinaikos 1:2 victory and covered by 1:1 stalemate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes driven by 3.28 total lambda and 0% away clean-sheet rate (Confidence: Moderate, Value: High)",
+      "Two-goal stalemate branch (1:1) if home doubtful defenders pass fit on artificial turf (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636457",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "FC Nordsjaelland",
+      "awayTeam": "Panathinaikos",
+      "match_time": "20:00",
+      "match_highlight": "Panathinaikos's 3.19 xG attack tests Nordsjaelland's porous 2.28 xGA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636457,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 away win anchored by Panathinaikos's 3.19 xG alongside the 1:1 draw branch given the visitors' 0% UECL clean-sheet rate and narrow Elo gap."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.28 combined lambda, a 63.7% Over 2.5 model probability, and Panathinaikos clearing 2.5 goals in 6 of 7 Conference League ties."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 59.8% BTTS expectancy, Panathinaikos conceding in all 7 European outings, and Nordsjaelland scoring in all 4 home UECL matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Converges on the top two Dixon-Coles scorelines (9.8% and 9.5%) reflecting Panathinaikos's repeatable two-goal output and Nordsjaelland's home scoring floor."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the two highest probabilities in the total-goal distribution (22.1% for 3 goals, 20.7% for 2 goals) across the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Panathinaikos's 57.1% half-time draw rate and both teams' second-half scoring skew, diverging only on whether the visitors break through late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:42:31 UTC"
+}
