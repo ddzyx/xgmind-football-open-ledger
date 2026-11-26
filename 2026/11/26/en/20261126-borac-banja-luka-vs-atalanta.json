@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636386,
+    "matchup": "Borac Banja Luka vs Atalanta",
+    "home_team": "Borac Banja Luka",
+    "away_team": "Atalanta",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-borac-banja-luka-vs-atalanta/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Borac Banja Luka vs Atalanta Prediction & Match Analysis: Can Depleted La Dea Hold? — xG Preview",
+    "meta": {
+      "matchId": "1636386",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Borac Banja Luka vs Atalanta",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Atalanta to avoid defeat with an away victory leading (Draw / Away Win), paired with Over 2.5 goals and both teams to score.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Atalanta's 1.97 xG attacking superiority and Borac's home scoring threat (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes driven by 2.97 combined lambda and Atalanta's depleted goalkeeper and center-back group (Confidence: Moderate, Value: High)",
+      "1:1 Draw hedge capturing Atalanta's 80% European half-time draw tendency and 96-hour post-Inter turnaround (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636386",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Borac Banja Luka",
+      "awayTeam": "Atalanta",
+      "match_time": "20:00",
+      "match_highlight": "Atalanta's firepower tests Borac's home resilience despite Carnesecchi's absence.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636386,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 Atalanta win driven by 1.97 xG/game and the 1:1 draw risk caused by Atalanta's missing goalkeeper and center-backs, where a single outcome would understate defensive uncertainty."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.97 combined lambda, 57.0% baseline probability, Borac's 2.27 xGA/game, and Atalanta's recent 2.09 decayed goals-conceded rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 60.3% baseline probability, Atalanta's 1.97 xG/game, and Borac's home scoring consistency facing backup keeper Marco Sportiello without Hien or Kossounou."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Atalanta's attacking edge overcoming a home reply, while 1:1 reflects the modal Dixon-Coles stalemate if Borac contain Sarri's side on 96 hours rest."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the 1:2 primary and 1:1 secondary scorelines as the two highest-density outcomes around the 2.97 total-goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects Atalanta's 80% European half-time draw rate and Borac's second-half focus before either Atalanta pull away late or share a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:15:55 UTC"
+}
