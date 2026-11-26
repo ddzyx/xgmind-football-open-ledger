@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593709,
+    "matchup": "Macarthur vs Melbourne City",
+    "home_team": "Macarthur",
+    "away_team": "Melbourne City",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-27 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261127-macarthur-vs-melbourne-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Macarthur vs Melbourne City: Expected Goals (xG), Mabil Absence & Match Preview",
+    "meta": {
+      "matchId": "1593709",
+      "league": "A-League",
+      "matchup": "Macarthur vs Melbourne City",
+      "matchTime": "2026-11-27 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Blended Dixon-Coles and ClubElo modeling points to a tight Draw / Away Win outcome anchored around a 1:1 deadlock and a secondary 1:2 away breakthrough.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Melbourne City's 0.64 xGA defensive structure and 70.0% big-chance waste rate converging near a stalemate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 backed by a 2.32 total lambda and 59.1% model probability (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes supported by zero clean sheets across nine combined league matches and 50.0% set-piece goal shares (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:2"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593709",
+      "league": "A-League",
+      "homeTeam": "Macarthur",
+      "awayTeam": "Melbourne City",
+      "match_time": "08:40",
+      "match_highlight": "City's 0.64 xGA structure meets Macarthur's 50% set-piece threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593709,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A single direction is too narrow with a near-even 36.72%/28.66%/34.68% model split, so Draw / Away Win covers both the leading 1:1 stalemate and City's 1:2 xG-backed victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.32 total lambda, 59.1% Under 2.5 baseline, and City's 0.64 xGA paired with 70.0% big-chance waste favor a two-goal ceiling."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither team has kept a league clean sheet this season (0.0% for both), while City's 1.28 xG and Macarthur's set-piece threat support both sides scoring."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:2"
+        ],
+        "comment": "1:1 leads the Poisson matrix at 13.7%, while 1:2 captures Melbourne City's superior underlying metrics breaking through late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two total goals holds the highest matrix share at 27.1%, with three goals serving as the secondary transition branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Both clubs score 66.7% of goals in the second half and rarely lead at the break, pointing to a level half-time before either a draw or late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 21:08:45 UTC"
+}
