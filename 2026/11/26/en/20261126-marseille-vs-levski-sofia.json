@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636298,
+    "matchup": "Marseille vs Levski Sofia",
+    "home_team": "Marseille",
+    "away_team": "Levski Sofia",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-marseille-vs-levski-sofia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Marseille vs Levski Sofia: Expected Goals (xG), Finishing Waste & Match Intelligence",
+    "meta": {
+      "matchId": "1636298",
+      "league": "UEFA Europa League",
+      "matchup": "Marseille vs Levski Sofia",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Marseille are projected to edge a tight, low-scoring UEFA Europa League contest at the Orange Vélodrome, though their 80.0% big-chance miss rate keeps a 1:1 draw formally in scope.",
+    "possibilityAssessment": [
+      "Home Win / Draw driven by Marseille's 181-point ClubElo superiority and available front-line talent versus Levski's 1.45 xGA/match, balanced against Marseille's 80.0% big-chance waste (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by a 2.30 lambda_total, 59.6% Poisson Under 2.5 probability, and 75.0% Under 2.5 frequency across both teams' four Europa League fixtures (Confidence: Moderate, Value: High)",
+      "BTTS: No anchored by a narrow 1:0 home control script as Levski Sofia cope without injured Radoslav Kirilov, sidelined Serginho, and omitted forward Mustapha Sangaré (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636298",
+      "league": "UEFA Europa League",
+      "homeTeam": "Marseille",
+      "awayTeam": "Levski Sofia",
+      "match_time": "17:45",
+      "match_highlight": "Marseille's finishing efficiency tests Levski's resilient yet depleted European rearguard.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636298,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Marseille hold the clear ClubElo and home-venue edge for a 1:0 victory, while retaining Draw covers the 1:1 script created by their 80.0% big-chance miss rate and 1.53 xGA/match where a single call would ignore genuine continental finishing friction."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both clubs average 1.00 xG per Europa League match with a 2.30 combined lambda and 59.6% Poisson Under 2.5 probability, alongside three Under 2.5 finishes in four European games each."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "With Radoslav Kirilov, Serginho, and Mustapha Sangaré unavailable for Levski Sofia, Marseille's territorial control favors a 52.7% clean-sheet shutout path despite only one clean sheet in four UEL games."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 is the top Home Win matrix cell (11.1%) matching Marseille's narrow Leverkusen win and Levski's zero multi-goal UEL defeats, while 1:1 (13.9%) covers Marseille's 1.53 xGA vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.2%) and one goal (21.7%) hold the highest probability density in the total-goals distribution and align directly with both 1:0 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Marseille have not led at half-time in four Europa League outings, making a level first half followed by either a late 1:0 home breakthrough (Draw-Win) or a 1:1 stalemate (Draw-Draw) the primary chronological fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:18:56 UTC"
+}
