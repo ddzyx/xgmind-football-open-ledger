@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636421,
+    "matchup": "Heart Of Midlothian vs Monaco",
+    "home_team": "Heart Of Midlothian",
+    "away_team": "Monaco",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-heart-of-midlothian-vs-monaco/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Heart Of Midlothian vs Monaco: Expected Goals (xG), Injury Crisis & Match Intelligence",
+    "meta": {
+      "matchId": "1636421",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Heart Of Midlothian vs Monaco",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Monaco hold a clear European xG and defensive-quality edge over injury-depleted Heart Of Midlothian, supporting a Draw / Away Win projection led by an away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Monaco's 1:2 road victory, with 1:1 retained for Golovin's absence and Tynecastle resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes anchored by Hearts' 2.00 UECL goals conceded per game and 100% home scoring rate (Confidence: Moderate, Value: Moderate)",
+      "Loss-Draw second-half Hearts recovery hedge if Monaco's post-interval control fades without Golovin (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636421",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Heart Of Midlothian",
+      "awayTeam": "Monaco",
+      "match_time": "17:45",
+      "match_highlight": "Monaco's 1.69 UECL xG tests Hearts' 16-player outfield squad.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636421,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Monaco's 1:2 win leads via superior xG and Hearts' defensive injuries, while 1:1 covers Golovin's absence and Monaco's recent Ligue 1 draws where a single call is overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.58 lambda total, Bet365's 1.53 Over 2.5 price, and Hearts' five consecutive Over 2.5 matches across all competitions."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear the scoring threshold with Hearts holding 0% UECL clean sheets and Monaco conceding in both away UECL fixtures."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Monaco's clinical 2.33 UECL goals per game against depleted hosts, while 1:1 mirrors the 13.0% Poisson modal draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 1:2 script and 2.58 lambda total, while two goals protect the 25.8% Poisson mode at 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Monaco led at half-time in all five UECL ties to drive Loss-Loss, whereas Hearts' 75% second-half goal share supports a Loss-Draw hedge."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:52:03 UTC"
+}
