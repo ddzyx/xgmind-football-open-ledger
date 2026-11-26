@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636329,
+    "matchup": "Union St. Gilloise vs Lech Poznan",
+    "home_team": "Union St. Gilloise",
+    "away_team": "Lech Poznan",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-union-st-gilloise-vs-lech-poznan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Union St. Gilloise vs Lech Poznan Prediction & Match Analysis: Can Depleted Visitors Resist High Press?",
+    "meta": {
+      "matchId": "1636329",
+      "league": "UEFA Europa League",
+      "matchup": "Union St. Gilloise vs Lech Poznan",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Union St. Gilloise's 98.6th-percentile high press and intact attacking midfield core project to overwhelm an injury-depleted Lech Poznan defense for a comfortable multi-goal home victory.",
+    "possibilityAssessment": [
+      "Home Win: Union St. Gilloise's 2.48 xG output and five-match winning run outclass a 35th-placed visitor conceding 3.15 xGA per Europa League game without seven injured players (Confidence: High, Value: High)",
+      "Over 2.5 Goals & 3:0 Shutout: High home goal expectancy (lambda_home 3.40) and Lech's severely weakened forward line support a one-sided Over 2.5 outcome with BTTS No (Confidence: High, Value: High)",
+      "3:1 Consolation Branch: Missing Kevin Mac Allister creates minor set-piece vulnerability if Lech convert a single dead-ball chance after trailing 3:0 (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636329",
+      "league": "UEFA Europa League",
+      "homeTeam": "Union St. Gilloise",
+      "awayTeam": "Lech Poznan",
+      "match_time": "17:45",
+      "match_highlight": "Union St. Gilloise's elite high press targets injury-hit Lech Poznan's fragile backline.",
+      "ai_confidence": "High",
+      "fixtureId": 1636329,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Projected 3:0 and 3:1 home wins reflect Union St. Gilloise's 2.48 vs 1.27 xG superiority and Lech Poznan's depleted attacking and defensive ranks."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.25 combined lambda, Union St. Gilloise's 2.50 goals per League Phase match, and Lech Poznan's 3.15 xGA defensive allowance."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Union St. Gilloise's 0.84 xGA and 50% European clean-sheet rate meet a Lech attack averaging 0.50 goals per League Phase game without Ishak, Walemark, Sayyadmanesh, and Rodriguez."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "3:1"
+        ],
+        "comment": "3:0 leads the unadjusted matrix and strengthens with Lech's attacking absences, while 3:1 covers a late set-piece reply without Mac Allister."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Adjusting the 4.25 lambda total for Lech Poznan's missing attackers centers goal expectancy on 3 goals with 4 goals as the main upper branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Lech Poznan have trailed at half-time in 75% of away European games, while Draw-Win captures Union St. Gilloise's 80% second-half home scoring share if Lech resist early."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:29:26 UTC"
+}
