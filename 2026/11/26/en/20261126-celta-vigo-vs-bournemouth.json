@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636244,
+    "matchup": "Celta Vigo vs Bournemouth",
+    "home_team": "Celta Vigo",
+    "away_team": "Bournemouth",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-celta-vigo-vs-bournemouth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Celta Vigo vs Bournemouth Tactical Breakdown & Probabilistic Modeling: High-Press xG vs Depleted Spine",
+    "meta": {
+      "matchId": "1636244",
+      "league": "UEFA Europa League",
+      "matchup": "Celta Vigo vs Bournemouth",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bournemouth project to claim an away victory at Balaidos behind a 47.8% blended model edge and a 2.23 to 1.19 xG per game attacking advantage.",
+    "possibilityAssessment": [
+      "Away Win driven by Bournemouth's 2.23 xG per match, 6.3 final-third recoveries, and 154-point ClubElo superiority (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by a 2.76 lambda total, 52.1% model probability, and 7 of 8 combined Europa League fixtures clearing 2.5 goals (Confidence: Moderate, Value: Moderate)",
+      "0:2 away clean-sheet branch if Celta Vigo's attacking absences prevent them from breaching Bournemouth's 0.99 xGA per match structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636244",
+      "league": "UEFA Europa League",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Bournemouth",
+      "match_time": "17:45",
+      "match_highlight": "Bournemouth's high press targets Celta's Starfelt- and Roman-less spine.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636244,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Bournemouth's 2.23 xG per game, 4-0-0 Europa League record, and Celta's three confirmed spine absences center the projection on a 1:2 away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.76 lambda total, 52.1% model Over 2.5 probability, and 7 of 8 combined European games going over support a 3-goal expectation."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bournemouth hold an 80.6% scoring projection against zero Celta clean sheets, while Celta scored in both home UEL ties and Bournemouth conceded in both away UEL ties."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 mirrors Celta's twin home UEL defeats and Bournemouth's road win at Real Sociedad, while 0:2 covers the branch where Celta's depleted attack is shut out."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three total goals align with the primary 1:2 Over 2.5 script, while two goals represent the 24.7% Poisson mode tied to a 0:2 clean-sheet scenario."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Bournemouth led at half-time in 3 of 4 UEL matches (Loss-Loss from home view), while Draw-Loss covers Celta holding level early before fading late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:11:58 UTC"
+}
