@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636395,
+    "matchup": "Brighton vs Universitatea Craiova",
+    "home_team": "Brighton",
+    "away_team": "Universitatea Craiova",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-brighton-vs-universitatea-craiova/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Brighton vs Universitatea Craiova: Expected Goals, Absences & Match Analysis",
+    "meta": {
+      "matchId": "1636395",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Brighton vs Universitatea Craiova",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brighton are projected to secure an ordinary home victory with a clean sheet at the American Express Stadium, anchored around a controlled 2:0 scoreline.",
+    "possibilityAssessment": [
+      "Home Win — Superior possession structure (70.2%) and a +289.0 ClubElo advantage favor Brighton to dictate territory and take all three points (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 / BTTS: No (2:0) — Five straight UECL clean sheets meet Craiova without injured 11-goal top scorer Assad Al-Hamlawi while Brighton manage wing absences (Confidence: Moderate, Value: High)",
+      "3:0 Margin Expansion / Draw-Win — Early frustration from big-chance waste (64.3%) could delay the breakthrough until after half-time, or late space could stretch the margin to three (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636395",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Brighton",
+      "awayTeam": "Universitatea Craiova",
+      "match_time": "17:45",
+      "match_highlight": "Brighton's unbreached UECL defense meets Craiova without top scorer Assad Al-Hamlawi.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636395,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a +289.0 ClubElo gap, 2.57 xG vs 0.47 xGA per UECL match, and Craiova's confirmed loss of Assad Al-Hamlawi, pointing to a 2:0 or 3:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Poisson totals peak at 2 goals (25.2%, 50.1% Under 2.5) and Brighton's 64.3% big-chance waste plus attacking absences favor two goals over a high-scoring shootout."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Brighton have kept clean sheets in all five UECL ties (0.47 xGA/gm) while Craiova enter without injured 11-goal striker Assad Al-Hamlawi and hold 0.0% set-piece dependency."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 reflects Brighton's controlled possession and recent Under 2.5 scoring pace with a shutout, while 3:0 captures late margin expansion if early conversion improves."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "The quantitative goal distribution peaks at 2 goals (25.2%) followed closely by 3 goals (22.0%), matching the 2:0 primary and 3:0 secondary scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Brighton won both home UECL ties from half-time (Win-Win), while Craiova's high press could hold a level break before tiring late (Draw-Win)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:44:49 UTC"
+}
