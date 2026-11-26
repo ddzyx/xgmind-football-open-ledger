@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636305,
+    "matchup": "OFI vs Anderlecht",
+    "home_team": "OFI",
+    "away_team": "Anderlecht",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-ofi-vs-anderlecht/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling OFI vs Anderlecht: Expected Goals, Lineup Absences & Tactical Intelligence",
+    "meta": {
+      "matchId": "1636305",
+      "league": "UEFA Europa League",
+      "matchup": "OFI vs Anderlecht",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Anderlecht are projected to earn a controlled away victory against a depleted OFI side without conceding.",
+    "possibilityAssessment": [
+      "Anderlecht win via superior xG process and OFI absences (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and clean-sheet control anchored by OFI low shot output (Confidence: Moderate, Value: High)",
+      "Anderlecht half-time lead pegged back to 1:1 on set-piece variance (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636305",
+      "league": "UEFA Europa League",
+      "homeTeam": "OFI",
+      "awayTeam": "Anderlecht",
+      "match_time": "20:00",
+      "match_highlight": "Anderlecht 1.63 xG attack tests depleted OFI 1.98 xGA defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636305,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Anderlecht hold decisive xG, xGA, and available-personnel edges over an OFI side missing Kodro and Krizmanić."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Model leans Under 2.5 at 53.6% with OFI generating 0.64 xG per game and Anderlecht managing leads conservatively."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kodro's confirmed absence blunts a 0.64 xG OFI attack against an Anderlecht side with 60% away European clean sheets."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "0:2 mirrors Anderlecht's recent European control, while 0:1 accounts for their 75.0% big-chance waste rate and Lilo's form."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals is the 26.1% modal total, with one goal serving as the primary low-conversion shutout branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Anderlecht led at half-time in 80% of away European ties, with a late 1:1 set-piece equalizer as the main risk path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:33:58 UTC"
+}
