@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492478,
+    "matchup": "Sao Paulo vs Remo",
+    "home_team": "Sao Paulo",
+    "away_team": "Remo",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-26 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-sao-paulo-vs-remo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sao Paulo vs Remo Prediction & Match Analysis: Improvised Defense vs Relegated Attack — xG Preview",
+    "meta": {
+      "matchId": "1492478",
+      "league": "Serie A",
+      "matchup": "Sao Paulo vs Remo",
+      "matchTime": "2026-11-26 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Sao Paulo's returning attacking catalysts Artur and Lucas Moura give the hosts a clear structural edge to secure a full-time Home Win over relegated Remo at Morumbi.",
+    "possibilityAssessment": [
+      "Home Win supported by a 1.40-to-1.04 xG gap, Remo's 12 losses in 16 away matches, and the returns of Artur and Lucas Moura against a Marllon-less backline (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals backed by Sao Paulo's 62.8% big-chance waste rate, 10 of 17 home Under 2.5 finishes, and Remo's 50% road blank rate without suspended scorer Jaja Silva (Confidence: Moderate, Value: Moderate)",
+      "HT/FT Win-Draw variance remains a secondary contingency if Sao Paulo's five defensive absences concede late after leading at half-time (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492478",
+      "league": "Serie A",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Remo",
+      "match_time": "23:00",
+      "match_highlight": "Sao Paulo's returning attackers test relegated Remo's depleted road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492478,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Sao Paulo's returning creators Artur and Lucas Moura face a 1.66 xGA Remo defense missing Marllon and top scorer Jaja Silva, projecting a controlled 2:0 or 1:0 home win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sao Paulo's 62.8% big-chance waste rate and 10-of-17 home Under 2.5 trend align with Remo's 50% away failed-to-score rate without Jaja Silva to contain scoring below 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Remo have failed to score in 8 of 16 away matches and lose suspended 10-goal top scorer Jaja Silva, lowering their scoring floor below Sao Paulo's clean-sheet threshold."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 reflects lambda_home 1.88 against Remo's depleted defense with a home shutout, while 1:0 covers Sao Paulo's finishing waste against a compact low block."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals carries the highest model density at 24.8%, while 1 goal covers a narrow 1:0 shutout if Remo's deep block limits Sao Paulo's conversion."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Remo trailed at half-time in 10 of 16 away matches favoring Win-Win, while Sao Paulo's 6 Draw-Win results at Morumbi support a second-half breakthrough alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 11:08:28 UTC"
+}
