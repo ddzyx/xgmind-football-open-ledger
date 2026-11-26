@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636420,
+    "matchup": "HNK Hajduk Split vs St. Truiden",
+    "home_team": "HNK Hajduk Split",
+    "away_team": "St. Truiden",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-hnk-hajduk-split-vs-st-truiden/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "HNK Hajduk Split vs St. Truiden Preview & Match Analysis: Can Livaja-Less Hosts Crack Belgian Defense?",
+    "meta": {
+      "matchId": "1636420",
+      "league": "UEFA Europa Conference League",
+      "matchup": "HNK Hajduk Split vs St. Truiden",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and confirmed team news favor St. Truiden to avoid defeat in a tight, low-scoring UEFA Europa Conference League contest under Under 2.5 goals and BTTS No.",
+    "possibilityAssessment": [
+      "Draw / Away Win (St. Truiden double chance, led by narrow 0:1 away victory script) (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals & BTTS: No (anchored by 1.88 combined lambda and defensive restraint) (Confidence: High, Value: Moderate)",
+      "1:1 Draw Contingency (late-game parity if St. Truiden domestic defensive leaks resurface) (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636420",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "HNK Hajduk Split",
+      "awayTeam": "St. Truiden",
+      "match_time": "20:00",
+      "match_highlight": "Livaja-less Hajduk face disciplined St. Truiden inside partially closed Stadion Poljud.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636420,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Confirmed absences for Marko Livaja and Ivica Ivusic tilt a tight tie toward St. Truiden in a 0:1 script, while St. Truiden's 62.5% big-chance waste rate keeps a 1:1 draw too live for a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 1.88 combined goal lambda, 70.9% Under 2.5 model probability, St. Truiden's 0.33 UECL goals conceded per match, and Livaja's absence suppress scoring volume."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Supported by a 62.3% BTTS No model share, St. Truiden's 66.7% UECL clean-sheet rate, and Hajduk Split missing primary creator Marko Livaja."
+      },
+      "score": {
+        "selection": [
+          "0:1",
+          "1:1"
+        ],
+        "comment": "0:1 reflects St. Truiden edging a depleted host, while 1:1 covers the secondary stalemate branch if Belgian domestic defensive leaks resurface."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.6%) and one goal (27.3%) dominate the Dixon-Coles distribution alongside a 1.88 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Hajduk's low first-half home scoring share points to a level interval before St. Truiden either break through late (Draw-Loss) or settle level (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:34:48 UTC"
+}
