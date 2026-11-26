@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636460,
+    "matchup": "Pafos vs FC Midtjylland",
+    "home_team": "Pafos",
+    "away_team": "FC Midtjylland",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-pafos-vs-fc-midtjylland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Pafos vs FC Midtjylland: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1636460",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Pafos vs FC Midtjylland",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project FC Midtjylland to avoid defeat (Draw / Away Win), paired with Over 2.5 Goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win leads on Midtjylland's superior attacking creation while retaining the Draw for home freshness (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes backed by 3.72 combined lambda and porous defensive xGA profiles (Confidence: Moderate, Value: High)",
+      "High-scoring 2:2 Draw hedge covers Midtjylland's 71-hour turnaround and midfield absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636460",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Pafos",
+      "awayTeam": "FC Midtjylland",
+      "match_time": "17:45",
+      "match_highlight": "Midtjylland's 2.14 xG attack tests Pafos's 3.23 xGA European back line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636460,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Midtjylland's 2.14 xG-per-game edge drives the 1:2 away-win thesis, while Pafos's 52-hour rest edge makes a 2:2 draw too credible for a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.72 combined lambda and 71.8% Over 2.5 baseline reflect both teams conceding over 2.1 xGA per European match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Pafos scored in all four European games with zero clean sheets, while Midtjylland's 2.14 xG attack meets unverified defensive depth."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "A 1:2 away victory captures Midtjylland's superior chance quality, with 2:2 representing late-game fatigue parity."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the two highest-probability Poisson buckets at 20.8% and 19.3%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey opening half favours a level interval before Midtjylland break through (Draw-Loss) or Pafos salvage a late draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 07:38:39 UTC"
+}
