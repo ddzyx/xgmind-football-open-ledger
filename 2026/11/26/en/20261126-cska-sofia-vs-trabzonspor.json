@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636402,
+    "matchup": "CSKA Sofia vs Trabzonspor",
+    "home_team": "CSKA Sofia",
+    "away_team": "Trabzonspor",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-cska-sofia-vs-trabzonspor/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "CSKA Sofia vs Trabzonspor Prediction & Match Analysis: High Press vs Clinical xG — Model Preview",
+    "meta": {
+      "matchId": "1636402",
+      "league": "UEFA Europa Conference League",
+      "matchup": "CSKA Sofia vs Trabzonspor",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Trabzonspor's superior 2.27 xG creation and ClubElo edge favor an Away Win as the leading outcome, with the Draw retained inside a Draw / Away Win framework alongside Over 2.5 Goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Trabzonspor victory via superior 2.27 xG/match and 176-point ClubElo gap (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes driven by 3.21 combined lambda and zero home UECL clean sheets (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency if CSKA Sofia's 98.3rd-percentile press disrupts Trabzonspor's injury-hit midfield (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636402",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Trabzonspor",
+      "match_time": "20:00",
+      "match_highlight": "CSKA Sofia's aggressive home press tests Trabzonspor's injury-hit midfield control.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636402,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Trabzonspor's Elo-backed 1:2 winning script while retaining the high-density 1:1 draw branch because CSKA Sofia's high press and midfield doubts keep a stalemate live."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.21 combined lambda, 62.2% Over 2.5 model probability, and CSKA Sofia conceding 2.00 goals per UECL game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 64.4% BTTS Yes probability, CSKA Sofia scoring in all three UECL matches (79.4% to score), and Trabzonspor's 80.4% scoring projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Trabzonspor's superior 2.27 xG output breaking CSKA's leaky defense, while 1:1 captures the top baseline matrix density if the home press holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (21.3%) represent the two highest-probability outcomes in the Poisson distribution around 3.21 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Trabzonspor's 66.7% UECL half-time lead conversion rate, while Draw-Draw covers a cagey 1:1 containment script across both halves."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:23:19 UTC"
+}
