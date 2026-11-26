@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636428,
+    "matchup": "Inter Club d'Escaldes vs FC Copenhagen",
+    "home_team": "Inter Club d'Escaldes",
+    "away_team": "FC Copenhagen",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-inter-club-d-escaldes-vs-fc-copenhagen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Inter Club d'Escaldes vs FC Copenhagen Prediction & Match Analysis: Can FCK Handle Spine Absences?",
+    "meta": {
+      "matchId": "1636428",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Inter Club d'Escaldes vs FC Copenhagen",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win provides the optimal balance between FC Copenhagen's superior League Stage xG profile and the clean-sheet vulnerability introduced by their reshaped travelling backline.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures FC Copenhagen's attacking transition superiority over Inter's 2.23 xGA defense alongside a 1:1 stalemate risk (Confidence: Moderate, Value: High)",
+      "Over 2.5 aligns with a 2.72 combined lambda, Copenhagen's 88.9% UEFA Over 2.5 rate, and defensive spine absences (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes reflects Inter's 1.03 League Stage xG scoring floor meeting a Copenhagen unit missing Ramaj and Sørensen (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636428",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "FC Copenhagen",
+      "match_time": "20:00",
+      "match_highlight": "Copenhagen's missing defensive spine tests Inter's home scoring floor at altitude.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636428,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Anchors FC Copenhagen's 1:2 class-driven win as the lead script while retaining the 1:1 draw branch because confirmed absences of Ramaj and Sørensen plus three away UEFA draws weaken a single away-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.72 total lambda, Copenhagen's 88.9% UEFA Over 2.5 frequency, Inter's 2.23 xGA/match, and reduced away clean-sheet stability."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Inter have scored in five of six UEFA ties (1.03 League Stage xG) and face stand-in keeper Alex Rúnarsson without Asger Sørensen, while Copenhagen hold an 80.4% scoring expectation."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 elevates above its 9.5% baseline as FCK spine absences erode away clean-sheet odds, while 1:1 preserves the 12.3% modal Dixon-Coles stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 1:2 Over 2.5 script adjusted for defensive absences, with 2 goals covering the 1:1 draw alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides score over 62% of their UEFA goals after half-time, pointing to a level opening half before either Copenhagen pull clear or Inter hold 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:39:01 UTC"
+}
