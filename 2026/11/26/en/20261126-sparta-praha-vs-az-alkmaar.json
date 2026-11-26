@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636336,
+    "matchup": "Sparta Praha vs AZ Alkmaar",
+    "home_team": "Sparta Praha",
+    "away_team": "AZ Alkmaar",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-sparta-praha-vs-az-alkmaar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sparta Praha vs AZ Alkmaar: Expected Goals, Coaching Turmoil & Match Intelligence",
+    "meta": {
+      "matchId": "1636336",
+      "league": "UEFA Europa League",
+      "matchup": "Sparta Praha vs AZ Alkmaar",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win represents the most balanced full-time direction, led by an AZ Alkmaar victory in a match projected to produce goals at both ends.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures AZ Alkmaar's superior attacking output alongside draw coverage for their striker absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes reflect 3.15 combined lambda and zero Europa League home clean sheets for Sparta Praha (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge accounts for AZ Alkmaar's potential finishing drop-off without Mexx Meerdink if Sparta compress space (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636336",
+      "league": "UEFA Europa League",
+      "homeTeam": "Sparta Praha",
+      "awayTeam": "AZ Alkmaar",
+      "match_time": "20:00",
+      "match_highlight": "Interim Sparta face AZ possession without Karabec, Guddal, and Meerdink.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636336,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers AZ Alkmaar's 1:2 winning path via superior xG creation and the 1:1 draw script created by Mexx Meerdink's absence, where a single call leaves too much exposure to finishing variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.15 combined lambda, 3.62 combined UEL xG per match, and Sparta's 0% Europa League clean-sheet rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 63.3% model probability as Sparta carry 77.7% scoring likelihood against a Schouten-less AZ backline while conceding 1.75 UEL xGA per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects AZ's wide creative superiority over Sparta's depleted defence, while 1:1 covers the top-density Poisson stalemate if AZ waste chances."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3% baseline) and 2 goals (21.8% baseline) capture the primary 1:2 and secondary 1:1 trajectories."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides hold a 50% UEL half-time draw rate and AZ score 71.4% of their European goals after the break, pointing to level intervals before a decisive or drawn second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:37:25 UTC"
+}
