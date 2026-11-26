@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603080,
+    "matchup": "Abha vs Al Shabab",
+    "home_team": "Abha",
+    "away_team": "Al Shabab",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-26 15:05:00",
+    "source_url": "https://xgmind.com/matches/20261126-abha-vs-al-shabab/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Abha vs Al Shabab: Expected Goals (xG), Injury Risks & Match Intelligence",
+    "meta": {
+      "matchId": "1603080",
+      "league": "Pro League",
+      "matchup": "Abha vs Al Shabab",
+      "matchTime": "2026-11-26 15:05 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Shabab holds a clear attacking and structural edge over winless, injury-hit Abha to secure an Away Win in a competitive 1:2 contest.",
+    "possibilityAssessment": [
+      "Al Shabab Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes (Confidence: Moderate, Value: Moderate)",
+      "Draw-Draw HT/FT stalemate risk (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603080",
+      "league": "Pro League",
+      "homeTeam": "Abha",
+      "awayTeam": "Al Shabab",
+      "match_time": "15:05",
+      "match_highlight": "Al Shabab's prolific frontline tests winless Abha's depleted home defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603080,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Al Shabab's 1.62 xG per game and intact creative core overwhelm winless Abha's injury-depleted backline in a projected 1:2 away win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.68 expected goals, Al Shabab's 14 goals in five matches, and both sides allowing over 1.55 xGA per game favor three total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Abha has zero home clean sheets against Al Shabab's 81.2% scoring projection, while Al Shabab's 1.65 xGA/gm leaves room for an Abha set-piece goal."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Al Shabab's attacking edge alongside mutual defensive leaks, while 0:2 reflects a shutout if Abha's 88.2% big-chance waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.0% baseline) aligns with the 1:2 primary script, with two goals (25.2%) covering a 0:2 Al Shabab clean-sheet win."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Al Shabab scores 65.0% of its goals before half-time and wins when leading early, whereas Draw-Draw covers Abha's 80.0% home half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 03:08:35 UTC"
+}
