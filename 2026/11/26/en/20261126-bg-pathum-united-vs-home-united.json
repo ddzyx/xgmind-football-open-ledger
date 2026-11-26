@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630417,
+    "matchup": "BG Pathum United vs Home United",
+    "home_team": "BG Pathum United",
+    "away_team": "Home United",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261126-bg-pathum-united-vs-home-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "BG Pathum United vs Home United Tactical Breakdown & Probabilistic Modeling: Rest vs Unbeaten Steel",
+    "meta": {
+      "matchId": "1630417",
+      "league": "AFC Champions League Two",
+      "matchup": "BG Pathum United vs Home United",
+      "matchTime": "2026-11-26 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home United are projected to extend their unbeaten Group F run against BG Pathum United through a 1:2 away win or 1:1 draw, driven by superior continental defensive control and second-half transition quality.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Home United's 3W-1D-0L Group F lead, 0.25 goals conceded per match, and 70.7% combined Dixon-Coles probability (Confidence: Moderate, Value: High)",
+      "Over 2.5 and BTTS Yes anchored by BG Pathum's 100% home Over 2.5 Group F record and Home United's 22 goals across their last five matches (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency reflecting Home United's single-point qualification threshold and identical scorelines in both prior meetings (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630417",
+      "league": "AFC Champions League Two",
+      "homeTeam": "BG Pathum United",
+      "awayTeam": "Home United",
+      "match_time": "12:15",
+      "match_highlight": "Fresh BG Pathum attack tests Home United's unbeaten Group F defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630417,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Home United's 1:2 away transition win and 1:1 qualification draw, as BG Pathum's 18-day freshness makes excluding the stalemate overly narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "BG Pathum's 100% home Over 2.5 Group F record and Home United's 4.48 decayed goals-for average align with Bet365's 1.65 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither team has failed to score in four Group F fixtures, and BG Pathum's zero home clean sheets pair with a 52.5% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Home United's second-half road edge over a scoring host, while 1:1 mirrors both previous meetings and the 13.1% modal Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflects the primary 1:2 open second-half script, while two goals covers the 25.8% modal Poisson count via a 1:1 deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss follows Home United's two away Group F wins from level halftimes, whereas Win-Draw accounts for BG Pathum's 66.7% first-half goal share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 00:38:48 UTC"
+}
