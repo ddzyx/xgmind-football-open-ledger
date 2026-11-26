@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636343,
+    "matchup": "Sunderland vs Jagiellonia",
+    "home_team": "Sunderland",
+    "away_team": "Jagiellonia",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-sunderland-vs-jagiellonia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Sunderland vs Jagiellonia: Expected Goals (xG), Xhaka Absence & Match Intelligence",
+    "meta": {
+      "matchId": "1636343",
+      "league": "UEFA Europa League",
+      "matchup": "Sunderland vs Jagiellonia",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Projecting Home Win / Draw alongside Over 2.5 Goals and BTTS Yes, anchored by Sunderland's 2.37 xG process and 2:1 / 1:1 scoreline convergence.",
+    "possibilityAssessment": [
+      "Sunderland Home Win / Draw captures 81.14% combined model probability behind 2.37 vs 1.01 UEL xG superiority and Jagiellonia's 0% away European clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes leverage 2.94 combined lambda and symmetrical 1.37-1.38 xGA defensive vulnerability (Confidence: Moderate, Value: High)",
+      "Draw-Draw / 1:1 contingency addresses Sunderland's 83.3% big-chance miss rate and Xhaka-less midfield transition exposure (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636343",
+      "league": "UEFA Europa League",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Jagiellonia",
+      "match_time": "20:00",
+      "match_highlight": "Sunderland's 2.37 xG process meets Jagiellonia's fragile European away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636343,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchors on a 2:1 Sunderland victory via 2.37 UEL xG while covering a 1:1 draw because Xhaka and Brobbey's absences plus an 83.3% big-chance miss rate make a single-outcome call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.94 combined lambda, 56.3% Over 2.5 model probability, and Jagiellonia's 1.75 goals conceded per Europa League match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Sunderland's 1.37 xGA without Xhaka and Ballard gives Jagiellonia (75% away UEL BTTS rate, 64.7% model scoring probability) a strong path to score alongside Sunderland's 85.0% scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Sunderland's superior chance creation overcoming one concession, while 1:1 (11.0% top model density) captures finishing friction."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the 2:1 primary script and Over 2.5 lean (22.4% model share), with two goals covering the 1:1 draw branch (23.4% model share)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sunderland's 25% first-half goal share and Jagiellonia's 75% away half-time draw rate point to a level interval before a decisive second-half Home Win or 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 09:08:20 UTC"
+}
