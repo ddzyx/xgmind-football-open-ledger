@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1630419,
+    "matchup": "Wofoo Tai Po vs Adelaide United",
+    "home_team": "Wofoo Tai Po",
+    "away_team": "Adelaide United",
+    "league": "AFC Champions League Two",
+    "kickoff_utc": "2026-11-26 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261126-wofoo-tai-po-vs-adelaide-united/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Wofoo Tai Po vs Adelaide United Prediction & Tactical Breakdown: Fragile Defense Meets Continental Urgency",
+    "meta": {
+      "matchId": "1630419",
+      "league": "AFC Champions League Two",
+      "matchup": "Wofoo Tai Po vs Adelaide United",
+      "matchTime": "2026-11-26 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Adelaide United are projected to claim an open-play away victory over eliminated Wofoo Tai Po in a match featuring goals at both ends.",
+    "possibilityAssessment": [
+      "Away Win — Adelaide United's midfield playmaking and set-piece threat target Wofoo Tai Po's 2.75 goals-conceded-per-game continental defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3 / 4 total goals) — Supported by 2.89 combined goal expectancy, Bet365 1.44 pricing, and nine of the clubs' last ten combined matches clearing 2.5 goals (Confidence: High, Value: Moderate)",
+      "BTTS: Yes — Tai Po's recent scoring output in four of five matches tests an Adelaide defense with 17 goals conceded across its last five fixtures (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1630419",
+      "league": "AFC Champions League Two",
+      "homeTeam": "Wofoo Tai Po",
+      "awayTeam": "Adelaide United",
+      "match_time": "12:15",
+      "match_highlight": "Adelaide's creative core faces Tai Po's leaky defense in Group F.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1630419,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Derived from the 1:2 primary scoreline, Adelaide's available creative core and qualification urgency decisively outmatch 0-0-4 Wofoo Tai Po."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.89 combined goal expectancy, 75.0% Over 2.5 rates for both teams in ACL Two, and 1.44 market pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 55.4% Dixon-Coles BTTS probability, Adelaide's zero clean sheets in five consecutive matches, and 1.64 Marathonbet pricing."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "Balances Adelaide's 1.83 attacking lambda against Tai Po's 2.75 ACL Two goals-conceded rate and Adelaide's recent defensive fragility."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Aligns with 2.89 combined lambda, Tai Po's five-match Over 2.5 run (3 to 5 goals), and Adelaide's open recent fixtures."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Captures Tai Po's 0.0% ACL Two first-half goal share and 75.0% half-time trailing rate alongside a tighter opening-half contingency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 00:45:20 UTC"
+}
