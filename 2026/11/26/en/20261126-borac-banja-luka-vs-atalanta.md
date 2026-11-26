@@ -1,0 +1,83 @@
+# Borac Banja Luka vs Atalanta Prediction & Match Analysis: Can Depleted La Dea Hold? — xG Preview
+
+> **Competition**: UEFA Europa Conference League
+> **Kickoff**: 2026-11-26 20:00 UTC
+> **Source**: [XG Mind AI — Predictive Football Terminal](https://xgmind.com)
+
+---
+
+At the heart of this contest lies a sharp clash between Serie A attacking pedigree and an injury-hit visiting rearguard as Borac Banja Luka welcome Atalanta to Gradski Stadium for Matchday 4 of the UEFA Europa Conference League league phase. With Atalanta sitting 16th on four points and Borac Banja Luka close behind in 21st on three, both sides enter Thursday night needing points to solidify their knockout-round trajectory. While Maurizio Sarri brings an intact, high-output frontline to Bosnia and Herzegovina, the confirmed absence of first-choice goalkeeper Marco Carnesecchi and the travel omissions of key center-backs Isak Hien and Odilon Kossounou test Atalanta&#x27;s defensive structure. XG Mind AI&#x27;s quantitative modeling, tactical matchup diagnostics, and verified squad intelligence deconstruct how this tactical tension translates into expected goals, scoreline projections, and match progression.
+
+📌 Borac Banja Luka vs Atalanta: Match Intelligence Brief
+
+Fixture ID
+
+: 1636386
+
+Matchup
+
+: Borac Banja Luka vs Atalanta
+
+Competition
+
+: UEFA Europa Conference League, League Stage - 4
+
+Kickoff Time
+
+: 2026-11-26 20:00 UTC
+
+Key Tactical Watchpoint
+
+: Whether Atalanta&#x27;s elite attacking core can outscore the defensive fragility created by losing Marco Carnesecchi, Isak Hien, and Odilon Kossounou on a 96-hour turnaround.
+
+📊 1. Borac Banja Luka Attacking Structure vs Atalanta Defensive Counter
+
+⚔️ Head-to-Head History: First Competitive Meeting Between Both Sides
+
+Borac Banja Luka and Atalanta have no prior competitive head-to-head meetings on record in recent seasons.
+
+Date
+
+Competition
+
+Home Team
+
+Score (HT)
+
+Away Team
+
+—
+
+No prior competitive meetings
+
+Borac Banja Luka
+
+—
+
+Atalanta
+
+📈 Team Form &amp; Tactical Style Breakdown: Compact Home Resilience vs High-Possession Verticality
+
+Home Team (Borac Banja Luka):
+
+Head coach Vinko Marinović&#x27;s side enters Matchday 4 in brisk domestic scoring form, winning four of their last five matches across all competitions, highlighted by consecutive 4-goal Premijer Liga victories—a 4:0 triumph away at Željezničar Sarajevo on November 21 and a 4:1 home win over Radnik Bijeljina on November 8—alongside a 4:2 win at Čelik and a 2:0 cup victory over Cazin. In UEFA Europa Conference League league-phase action, however, their results reveal a sharper ceiling against organized opposition: a 2:1 defeat at Panathinaikos, a 2:0 home win over KuPS, and a 2:0 loss away to Mjällby AIF on November 5.
+
+At Gradski Stadium, Borac Banja Luka plays with disciplined compactness (47.5% season average possession) and looks to break directly through forward Luka Juričić and emerging talent Matej Deket, yet their European backline has conceded 2.27 xGA per match across three league-phase outings.
+
+Their broader eight-match Conference League sample shows strong scoring reliability at home—finding the net in seven of eight continental ties (12.5% failed-to-score rate overall and 0% across four home fixtures, albeit a small four-game venue sample)—while managing just an 11.1% current-season clean-sheet ratio and wasting 80.0% of their big chances.
+
+Stopping Atalanta&#x27;s half-space combinations without leaving space behind their full-backs is Borac&#x27;s defining structural test.
+
+Away Team (Atalanta):
+
+Under Maurizio Sarri, Atalanta arrive in Banja Luka carrying dramatic offensive firepower paired with persistent defensive instability. Across their last five competitive fixtures, La Dea have recorded one win, three draws, and one defeat—most notably battling back from multiple deficits in a thrilling 4:4 Serie A draw against Inter Milan on November 22, preceded by a 1:0 away win at Monza, a 1:1 Conference League home draw against Kairat Almaty (Nikola Krstović equalizing in the 82nd minute), a 3:0 home loss to Parma, and a 2:2 draw at Fiorentina. In three Conference League league-phase games (3:1 vs Pafos, 2:0 loss at Ajax, and 1:1 vs Kairat), Atalanta have generated 1.97 xG per game while dominating 58.1% possession, though they have conceded 1.33 goals and 1.18 xGA per match.
+
+With Charles De Ketelaere (two goals against Inter), Nikola Krstović, Nicola Zalewski, Franck Kessié, and Eljif Elmas all fit and traveling, Atalanta possess overwhelming creative and finishing quality compared to Borac&#x27;s domestic opponents.
+
+However, their decayed recent goals-conceded average stands at 2.09 across their last five outings, and failing to score in two of their five Conference League matches (40.0% failed-to-score rate, with one draw and one defeat in their two road ties) underlines vulnerability when their build-up loses tempo.
+
+---
+
+*This match preview is generated by XG Mind AI quant model for sports analytical research.*
+
+👉 [Read Full Tactical Breakdown & Probability Matrix on XG Mind AI](https://xgmind.com/matches/20261126-borac-banja-luka-vs-atalanta/)
