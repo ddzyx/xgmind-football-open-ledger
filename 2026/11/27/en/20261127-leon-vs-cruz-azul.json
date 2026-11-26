@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651502,
+    "matchup": "Leon vs Cruz Azul",
+    "home_team": "Leon",
+    "away_team": "Cruz Azul",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-27 03:10:00",
+    "source_url": "https://xgmind.com/matches/20261127-leon-vs-cruz-azul/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Leon vs Cruz Azul: Expected Goals (xG), Road Defensive Flaws & Preview",
+    "meta": {
+      "matchId": "1651502",
+      "league": "Liga MX",
+      "matchup": "Leon vs Cruz Azul",
+      "matchTime": "2026-11-27 03:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leaning toward Cruz Azul represents the strongest risk-adjusted 1X2 direction alongside Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win leaning Cruz Azul (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals and BTTS Yes backed by 3.33 lambda_total (Confidence: Moderate, Value: High)",
+      "Contingency Angle: First-leg 1:1 stalemate via Leon's 75.0% home unbeaten record (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651502",
+      "league": "Liga MX",
+      "homeTeam": "Leon",
+      "awayTeam": "Cruz Azul",
+      "match_time": "03:10",
+      "match_highlight": "Leon's 100% home scoring meets Cruz Azul's winless road clean-sheet record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651502,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Cruz Azul's 1:2 second-half edge and a 1:1 first-leg draw, since Cruz Azul's zero away clean sheets make a single away win too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.33 lambda_total, 64.7% model probability, and Cruz Azul's 77.8% away Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Leon has scored in all eight home league games while Cruz Azul has conceded in all nine away fixtures, aligning with a 66.0% BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Cruz Azul's 1.98 xG attacking superiority overcoming Leon's home scoring floor, with 1:1 covering first-leg Liguilla caution."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two bands in the Poisson total-goals distribution (22.0% for 3 goals, 20.3% for 2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Leon draws 62.5% of home first halves before Cruz Azul's 85.7% HT-draw conversion threatens late, with Draw-Draw covering a full-time stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 15:38:29 UTC"
+}
