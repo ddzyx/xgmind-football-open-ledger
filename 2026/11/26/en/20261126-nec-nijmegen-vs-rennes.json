@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636301,
+    "matchup": "NEC Nijmegen vs Rennes",
+    "home_team": "NEC Nijmegen",
+    "away_team": "Rennes",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261126-nec-nijmegen-vs-rennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "NEC Nijmegen vs Rennes Prediction & Match Analysis: Can Depleted Hosts Hold? — xG Preview",
+    "meta": {
+      "matchId": "1636301",
+      "league": "UEFA Europa League",
+      "matchup": "NEC Nijmegen vs Rennes",
+      "matchTime": "2026-11-26 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win with Over 2.5 goals and BTTS Yes captures Rennes' class edge against NEC's depleted backline while covering the hosts' home scoring threat.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Rennes' 1.00 xGA defense and Dia-Lepaul attack target NEC's missing centre-backs, while Rongier's absence keeps 1:1 live (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes: NEC concede 2.32 xGA/match with zero UEL clean sheets yet score 2.00 goals/match against a Rongier-less midfield (Confidence: Moderate, Value: High)",
+      "1:1 Draw Hedge: Should Rennes' 57.1% big-chance waste rate persist on the road, NEC's second-half attack can secure a point (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636301",
+      "league": "UEFA Europa League",
+      "homeTeam": "NEC Nijmegen",
+      "awayTeam": "Rennes",
+      "match_time": "20:00",
+      "match_highlight": "Dia and Lepaul test NEC's depleted backline without captain Rongier",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636301,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Rennes win driven by NEC's 2.32 xGA defensive crisis and a 1:1 draw given Rennes' UEL draw habit without Rongier, whereas a single away call leaves no margin for NEC's 2.00 goals/game attack."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.99 lambda_total (57.5% Over 2.5 model probability) as NEC's 2.32 xGA/match meets Rennes' 77.8 FW-OTI attack."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 60.6% Dixon-Coles BTTS probability, zero NEC clean sheets in four UEL games, and Rongier's midfield absence aiding NEC's 2.00 goals/game output."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Rennes' superior 1.58 lambda and forward threat against NEC's depleted defense, while 1:1 covers the top modal Poisson outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the lineup-adjusted 1:2 Over 2.5 script, with 2 goals covering the 23.0% modal 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures NEC's low 25% first-half UEL goal share before Rennes pull away late, while Loss-Draw tracks NEC's slow-start comeback pattern."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 08:30:13 UTC"
+}
