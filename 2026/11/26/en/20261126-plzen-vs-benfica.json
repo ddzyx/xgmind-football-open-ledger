@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636315,
+    "matchup": "Plzen vs Benfica",
+    "home_team": "Plzen",
+    "away_team": "Benfica",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-plzen-vs-benfica/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Plzen vs Benfica Tactical Breakdown & Probabilistic Modeling: Key Absences & Goal Expectancy",
+    "meta": {
+      "matchId": "1636315",
+      "league": "UEFA Europa League",
+      "matchup": "Plzen vs Benfica",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Benfica project to extend their perfect UEFA Europa League campaign with an away victory over Plzen driven by superior forward depth and elevated total-goal expectancy.",
+    "possibilityAssessment": [
+      "Benfica Away Win driven by 82.5 FW-OTI and 3.25 League Stage goals per match against a Jemelka-less defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals backed by a 3.26 combined lambda total and 80.0% same-competition Over 2.5 rates for both teams (Confidence: High, Value: Moderate)",
+      "Both Teams To Score Yes reflecting Benfica's 20.0% clean-sheet rate and Fredrik Aursnes's midfield absence (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636315",
+      "league": "UEFA Europa League",
+      "homeTeam": "Plzen",
+      "awayTeam": "Benfica",
+      "match_time": "17:45",
+      "match_highlight": "League leaders Benfica test Plzen's defense despite missing Gianluca Prestianni.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636315,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Benfica's 3.25 goals per League Stage match and deep traveling forward options anchor a projected 1:2 or 1:3 away victory despite two midfield absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.26 combined lambda total alongside 80.0% same-competition Over 2.5 frequencies for both sides points cleanly to three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Benfica have scored in 100.0% of their 10 same-competition matches but kept just a 20.0% clean-sheet rate, leaving room for a Plzen reply."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "A 1:2 margin reflects Benfica's adjusted midfield without Prestianni and Aursnes, while 1:3 captures their 80.0% win-by-two-plus European profile."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Exact goal probabilities peak at 3 goals (22.2%) and 4 goals (18.1%) around the 3.26 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Benfica led at half-time and won in 70.0% of same-competition matches, while Draw-Loss covers their 60.0% away half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:25:56 UTC"
+}
