@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636393,
+    "matchup": "Brann vs Aarhus",
+    "home_team": "Brann",
+    "away_team": "Aarhus",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-brann-vs-aarhus/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Brann vs Aarhus Prediction & Match Analysis: Can Brann's High xG Break Aarhus? — Preview",
+    "meta": {
+      "matchId": "1636393",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Brann vs Aarhus",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Brann hold the decisive attacking edge to avoid defeat (Home Win leading, Draw covered) in an open contest projected for Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win / Draw — Brann's 2.14 xG per game against Aarhus's 1.86 xGA defense establishes Home Win as the primary trajectory, while confirmed midfield absences (Jacob Lungi Sørensen and Sondre Tronstad) and zero European clean sheets require retaining the Draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes — Combined 3.00 lambda, 57.7% Over 2.5 probability, and Brann's 87.5% European BTTS frequency support a multi-goal exchange (Confidence: Moderate, Value: High)",
+      "1:1 Tactical Containment Draw — If Aarhus replicate their 0:0 Braga compactness and exploit Brann's 46-hour rest deficit once in transition, two goals settle the match (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636393",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Brann",
+      "awayTeam": "Aarhus",
+      "match_time": "17:45",
+      "match_highlight": "Brann's 2.14 xG attack faces Aarhus without two key injured midfielders.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636393,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Brann's 2.14 xG against Aarhus's 1.86 xGA drives the leading 2:1 home win script, while two confirmed midfield absences and zero European clean sheets make a single Home Win call too exposed without covering the 1:1 draw script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.00 combined lambda (57.7% Over 2.5 model probability), Brann's 2.33 League Stage goals per game, and 62.5% Over 2.5 rate across eight European outings."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brann carry a 0.0% clean-sheet rate across eight European fixtures and lose Confirmed Out central midfielders Sørensen and Tronstad, lifting Aarhus's scoring prospect alongside Brann's 87.6% scoring probability."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Brann's territorial xG edge conceding once to transition play, while 1:1 covers Aarhus's defensive containment and rest advantage."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 3.00 total lambda and 2:1 primary scoreline, with 2 goals covering the 22.9% Poisson peak via a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Brann lead at half-time in 50% of European games against an Aarhus side with zero first-half League Stage goals (Win-Win), while Aarhus's 66.7% half-time draw rate underpins the Draw-Draw alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:41:38 UTC"
+}
