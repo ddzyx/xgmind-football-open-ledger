@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636438,
+    "matchup": "Kauno Žalgiris vs Riga",
+    "home_team": "Kauno Žalgiris",
+    "away_team": "Riga",
+    "league": "UEFA Europa Conference League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-kauno-algiris-vs-riga/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kauno Žalgiris vs Riga Prediction & Match Analysis: Can Zanetti's Riga Break Their 1:1 Draw Habit?",
+    "meta": {
+      "matchId": "1636438",
+      "league": "UEFA Europa Conference League",
+      "matchup": "Kauno Žalgiris vs Riga",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Riga's superior European scoring-to-conceding balance supports Draw / Away Win alongside Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Riga's defensive containment and Kauno Žalgiris's 3.67 League Stage goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by 2.73 combined goal expectancy and Kauno Žalgiris's 3-for-3 Over 2.5 League Stage run (Confidence: Moderate, Value: Moderate)",
+      "1:1 Scoreline & HT/FT Draw-Draw protecting against cautious road tactics extending Riga's 75.0% level-HT draw rate (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636438",
+      "league": "UEFA Europa Conference League",
+      "homeTeam": "Kauno Žalgiris",
+      "awayTeam": "Riga",
+      "match_time": "17:45",
+      "match_highlight": "New Riga coach Zanetti tests Kauno's leaky European back line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636438,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Riga's leading away-win expectancy against Kauno's 3.67 GA/game alongside the 1:1 draw script driven by Riga's three League Stage draws and 48-hour coaching change, avoiding an overcommitted single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 51.4% Over 2.5 model probability, 2.73 lambda_total, and Kauno Žalgiris clearing 2.5 goals in all three League Stage defeats."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 52.2% BTTS model probability, Riga's 75.0% BTTS rate across eight European ties, and Kauno's home scoring threat against a 25.0% clean-sheet visitors' defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Riga's attacking edge over Kauno's 3.67 GA/game, while 1:1 matches the 11.7% modal Poisson score and Riga's three straight League Stage stalemates."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns 3 goals with the primary 1:2 Over 2.5 thesis and 2 goals with the 24.9% modal total-goal branch for a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Kauno trailing at HT and losing in all three League Stage games, while Draw-Draw covers Riga's 75.0% rate of turning level half-times into full-time draws."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 07:05:50 UTC"
+}
