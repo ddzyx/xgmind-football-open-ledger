@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1636307,
+    "matchup": "Olympiakos Piraeus vs AC Milan",
+    "home_team": "Olympiakos Piraeus",
+    "away_team": "AC Milan",
+    "league": "UEFA Europa League",
+    "kickoff_utc": "2026-11-26 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261126-olympiakos-piraeus-vs-ac-milan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Olympiakos Piraeus vs AC Milan Prediction & Match Analysis: Can Milan Breach Karaiskakis? — xG Preview",
+    "meta": {
+      "matchId": "1636307",
+      "league": "UEFA Europa League",
+      "matchup": "Olympiakos Piraeus vs AC Milan",
+      "matchTime": "2026-11-26 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Olympiakos Piraeus is projected to avoid defeat against an injury-depleted AC Milan side in a controlled, low-scoring Europa League fixture.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Olympiakos's 0.64 xGA home containment and Milan's ten confirmed absences (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals driven by both teams' key striker and midfield absences (Confidence: Moderate, Value: Moderate)",
+      "Exact 1:1 draw contingency if Pulisic or Rabiot converts a rare transition opening (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1636307",
+      "league": "UEFA Europa League",
+      "homeTeam": "Olympiakos Piraeus",
+      "awayTeam": "AC Milan",
+      "match_time": "17:45",
+      "match_highlight": "Olympiakos's elite home defense tests AC Milan's injury-hit European attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1636307,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:0 home containment win against Milan's 1.92 xGA depleted backline and a 1:1 draw given Olympiakos's striker absences, whereas a lone call would understate finishing variance."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 50.3% Under Poisson baseline, Olympiakos's 0.64 xGA per match, and major attacking absences on both sides."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by Olympiakos's 75.0% Europa League clean-sheet rate against a Milan attack shut out in three of four European games without Modric and Chukwueze."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Reflects the top Poisson density outcomes adjusted for Olympiakos's 78.6% big-chance waste without El Kaabi and Milan's counter-punch risk."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligns with the highest Poisson goal-count cluster (25.3% for 2 goals) and tight defensive control suppressing total output."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Follows Olympiakos's 100% home Europa League half-time draw pattern before second-half pressure either breaks Milan or settles level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-26 06:22:09 UTC"
+}
