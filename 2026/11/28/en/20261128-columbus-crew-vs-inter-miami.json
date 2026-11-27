@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649500,
+    "matchup": "Columbus Crew vs Inter Miami",
+    "home_team": "Columbus Crew",
+    "away_team": "Inter Miami",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-columbus-crew-vs-inter-miami/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Columbus Crew vs Inter Miami: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1649500",
+      "league": "Major League Soccer",
+      "matchup": "Columbus Crew vs Inter Miami",
+      "matchTime": "2026-11-28 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Columbus Crew hold the clearer structural edge at ScottsMiracle-Gro Field against a defensively depleted Inter Miami side, making a home win or scoring draw the balanced regulation-time projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Columbus's five-match winning run and Miami's missing left-side defenders (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS Yes supported by a 3.44 combined lambda and sub-30% clean-sheet rates (Confidence: High, Value: Moderate)",
+      "Second-half Miami surge creating a 2:2 draw variance branch if Columbus fail to kill an early lead (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649500",
+      "league": "Major League Soccer",
+      "homeTeam": "Columbus Crew",
+      "awayTeam": "Inter Miami",
+      "match_time": "01:00",
+      "match_highlight": "Depleted Miami backline faces rampant Crew attack at ScottsMiracle-Gro Field.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649500,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both the primary 2:1 Columbus Crew victory against Miami's depleted defense and the 2:2 draw branch driven by Messi and Suarez, as Miami's 1.97 xG/match attack makes a single Home Win call less resilient."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.44 combined lambda and both clubs exceeding 72% Over 2.5 frequency across 2026 league play strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above a 78% scoring probability while facing defenses with 27.3% (Columbus) and 15.2% (Inter Miami) clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "Columbus's 1.89 home lambda against Miami's compromised flanks favors a 2:1 win, with 2:2 capturing Miami's late-game elimination push."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Model probabilities peak at 3 goals (21.8%) and 4 goals (18.7%), matching open game states around the 3.44 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Columbus's 58.6% home first-half goal share points to an interval lead, with Miami's 62.1% second-half away scoring split making Win-Draw the key recovery fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 13:08:14 UTC"
+}
