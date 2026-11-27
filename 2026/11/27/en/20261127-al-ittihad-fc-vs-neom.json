@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603086,
+    "matchup": "Al-Ittihad FC vs NEOM",
+    "home_team": "Al-Ittihad FC",
+    "away_team": "NEOM",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-27 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261127-al-ittihad-fc-vs-neom/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Al-Ittihad FC vs NEOM: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1603086",
+      "league": "Pro League",
+      "matchup": "Al-Ittihad FC vs NEOM",
+      "matchTime": "2026-11-27 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Ittihad FC's superior home attacking output and 95-hour recovery edge favor a Home Win / Draw outcome alongside Over 2.5 goals and BTTS: Yes in an open Jeddah clash.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by a 2:1 primary script where Al-Ittihad converts home territory and late freshness (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS: Yes driven by 2.77 combined lambda, 1.50 home xGA, and market alignment at 1.65 and 1.62 (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if NEOM's 1.15 xGA block exploits Al-Ittihad's 52.6% big-chance waste and hits once on transition (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603086",
+      "league": "Pro League",
+      "homeTeam": "Al-Ittihad FC",
+      "awayTeam": "NEOM",
+      "match_time": "17:30",
+      "match_highlight": "Al-Ittihad's 2.09 xG attack tests NEOM's 1.15 xGA shield on short rest.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603086,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Al-Ittihad's leading 2:1 home-control script alongside the 1:1 draw branch, as a 42.5% model win rate and 1.50 xGA make a naked Home Win too narrow against NEOM's organization."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.77 combined lambda (52.3% model Over 2.5 probability), Al-Ittihad's 2.09 xG/1.50 xGA profile, and strong market alignment at 1.65."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 56.4% model BTTS rate, Al-Ittihad's 80% home BTTS frequency with only 20% home clean sheets, and NEOM's five-match scoring streak."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reconciles Al-Ittihad's home attacking edge and rest advantage with defensive fragility, while 1:1 covers the top Dixon-Coles scoreline density at 12.5%."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects the primary 2:1 Over 2.5 trajectory at 22.2% probability, with 2 goals capturing the highest single-integer Poisson density (24.6%) via 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win mirrors Al-Ittihad's 80% home half-time lead rate and superior freshness, while Draw-Draw captures NEOM's 66.7% away half-time draw resilience."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 05:46:01 UTC"
+}
