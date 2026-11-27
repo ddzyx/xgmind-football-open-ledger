@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650292,
+    "matchup": "Saint-Omer vs Caen",
+    "home_team": "Saint-Omer",
+    "away_team": "Caen",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-saint-omer-vs-caen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint-Omer vs Caen Prediction & Match Analysis: Can R1 Hosts Rattle Clichy's Squad? — Scoreline Preview",
+    "meta": {
+      "matchId": "1650292",
+      "league": "Coupe de France",
+      "matchup": "Saint-Omer vs Caen",
+      "matchTime": "2026-11-27 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SM Caen are projected to secure a clean-sheet Away Win in regulation time at Stade Gaston-Bonnet, with Over 2.5 goals led by a 0:3 primary scoreline.",
+    "possibilityAssessment": [
+      "Primary Thesis: Away Win for SM Caen in 90 minutes, converting their three-tier Ligue 3 attacking superiority against a porous Régional 1 defense (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 goals driven by a 0:3 Caen shutout as amateur defensive resistance fades in the final half-hour (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 0:2 controlled away win (Under 2.5) if Gaël Clichy rotates heavily and Caen manage energy conservatively after taking a two-goal lead (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650292",
+      "league": "Coupe de France",
+      "homeTeam": "Saint-Omer",
+      "awayTeam": "Caen",
+      "match_time": "19:00",
+      "match_highlight": "Three-tier class gap meets Caen fitness doubts at Stade Gaston-Bonnet",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650292,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Caen's Ligue 3 attacking depth and Round 7 away blueprint support a decisive regulation victory over 10th-placed Régional 1 hosts Saint-Omer."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Caen's ~1.77 goals per game in Ligue 3 against a Saint-Omer backline that conceded 14 goals across four recent league defeats projects three or more goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Saint-Omer blanked in recent league defeats to Loon-Plage and Liancourt-Clermont, while Caen posted a 2-0 away shutout in Round 7 at Choisy-au-Bac."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "0:3 reflects late amateur fatigue against third-tier depth, while 0:2 covers a controlled cup progression mirroring Caen's Round 7 win."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture a one-sided professional win, with two goals representing the conservative lead-management alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Caen scored inside 22 minutes in both recent away outings to favor Loss-Loss, while Draw-Loss covers a tight opening half before late separation."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 07:11:16 UTC"
+}
