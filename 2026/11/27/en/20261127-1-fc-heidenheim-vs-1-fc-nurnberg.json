@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576245,
+    "matchup": "1. FC Heidenheim vs 1. FC Nürnberg",
+    "home_team": "1. FC Heidenheim",
+    "away_team": "1. FC Nürnberg",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-27 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261127-1-fc-heidenheim-vs-1-fc-nurnberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Heidenheim vs 1. FC Nürnberg Prediction & Match Analysis: Set Pieces vs Leaky Defense — xG Preview",
+    "meta": {
+      "matchId": "1576245",
+      "league": "2. Bundesliga",
+      "matchup": "1. FC Heidenheim vs 1. FC Nürnberg",
+      "matchTime": "2026-11-27 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Heidenheim's Home Win / Draw trajectory leads an open Over 2.5 and BTTS Yes contest built on set-piece dominance versus vulnerable road prevention.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as Heidenheim's +0.86 net xG edge and dead-ball volume target Nürnberg's 1.95 xGA defense while covering a high-scoring stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes align across 4.05 combined lambda and 1.36 market consensus pricing (Confidence: High, Value: Moderate)",
+      "2:2 draw contingency covers Heidenheim's 50% lead-not-won rate and backup goalkeeping exposure if Nürnberg control second-half possession (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576245",
+      "league": "2. Bundesliga",
+      "homeTeam": "1. FC Heidenheim",
+      "awayTeam": "1. FC Nürnberg",
+      "match_time": "17:30",
+      "match_highlight": "Heidenheim set-piece barrage tests leaky Nürnberg defense without injured Zoma.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576245,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Built on the 2:1 primary win and 2:2 draw scripts, retaining both because Heidenheim's home xG and set-piece edge is offset by confirmed goalkeeper and defensive absences against an unbeaten road side."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 4.05 combined lambda, 76.9% Over 2.5 model probability, and 1.95 xGA conceded by Nürnberg."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both teams hold high scoring floors (91.7% home, 79.0% away) with clean-sheet rates capped at 25.0% and Heidenheim missing starting goalkeeper Thomas Dähne."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Heidenheim's 2.19 xG edge over Nürnberg's 1.95 xGA, while 2:2 captures the hosts' 50% home draw and lead-erosion risk."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "4 goals (19.5%) and 3 goals (19.3%) top the Poisson distribution around a 4.05 combined lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Nürnberg's 60% away half-time draw rate and Heidenheim's slow home starts (30.8% 1H goal share) point to a level interval before a decisive second-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 05:41:55 UTC"
+}
