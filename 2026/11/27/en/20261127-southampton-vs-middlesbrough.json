@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563294,
+    "matchup": "Southampton vs Middlesbrough",
+    "home_team": "Southampton",
+    "away_team": "Middlesbrough",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-27 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-southampton-vs-middlesbrough/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Southampton vs Middlesbrough Prediction & Match Analysis: St. Mary's Fortress vs Boro's Attack — xG Preview",
+    "meta": {
+      "matchId": "1563294",
+      "league": "Championship",
+      "matchup": "Southampton vs Middlesbrough",
+      "matchTime": "2026-11-27 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Southampton to protect their unbeaten home record against depleted Middlesbrough in an open encounter expected to produce goals at both ends.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by St. Mary's 7W-1D-0L trajectory and Boro's 37.5% road win rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 & BTTS Yes supported by 2.98 lambda total and key defensive absences on both sides (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency driven by 60%+ big-chance waste rates and three straight 1:1 H2H results at St. Mary's (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563294",
+      "league": "Championship",
+      "homeTeam": "Southampton",
+      "awayTeam": "Middlesbrough",
+      "match_time": "20:00",
+      "match_highlight": "Unbeaten Saints at St. Mary's test league-leading Middlesbrough's depleted midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563294,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Southampton's 2:1 home projection leads on their 7W-1D-0L venue record and Boro's road absences, while 1:1 draw coverage addresses Schlotterbeck's injury and four draws in five recent meetings."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.98 lambda total, 57.2% model Over expectancy, and defensive absences on both teams point to three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks hold 77%+ scoring probabilities against compromised back lines, aligning with 60.6% model BTTS expectancy."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Southampton's second-half home edge over depleted Boro, while 1:1 captures the 11.8% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals fits the 2:1 Over script under defensive absences, with two goals covering big-chance waste in a 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A tight 57%-vs-61% possession first half sets up either a late Southampton surge (63.6% second-half home goals) or a shared stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:26:04 UTC"
+}
