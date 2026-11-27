@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556162,
+    "matchup": "Kashiwa Reysol vs Sanfrecce Hiroshima",
+    "home_team": "Kashiwa Reysol",
+    "away_team": "Sanfrecce Hiroshima",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-28 07:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-kashiwa-reysol-vs-sanfrecce-hiroshima/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kashiwa Reysol vs Sanfrecce Hiroshima Tactical Breakdown & Probabilistic Modeling: Harada Ban vs 2.24 xG",
+    "meta": {
+      "matchId": "1556162",
+      "league": "J1 League",
+      "matchup": "Kashiwa Reysol vs Sanfrecce Hiroshima",
+      "matchTime": "2026-11-28 07:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lean toward Sanfrecce Hiroshima avoiding defeat via Draw / Away Win alongside Over 2.5 goals and BTTS Yes, anchored by a 1:2 primary scoreline.",
+    "possibilityAssessment": [
+      "Sanfrecce Hiroshima win or draw (Draw / Away Win) driven by 2.24 xG offense vs Kashiwa's Harada-less right flank and late stamina cover (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals anchored by a 2.98 combined lambda, 57.2% model Over 2.5 rate, and 75.0% Kashiwa home Over 2.5 frequency (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) supported by 69.9% home and 83.1% away scoring projections against recent defensive concessions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556162",
+      "league": "J1 League",
+      "homeTeam": "Kashiwa Reysol",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "match_time": "07:00",
+      "match_highlight": "Harada ban tests Kashiwa against Sanfrecce's 2.24 xG",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556162,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sanfrecce Hiroshima's 1:2 xG-backed away victory alongside the 1:1 draw branch given the visitors' 69-hour turnaround and three straight league draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 2.98 combined lambda, 57.2% model Over 2.5 probability, and Kashiwa's 75.0% home Over 2.5 rate favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kashiwa's 12.5% home clean-sheet rate and Harada's suspension meet Sanfrecce's recent two-goal concessions without Takumu Kawamura."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Projects Sanfrecce's superior chance quality converting a 1:2 win, with the modal 1:1 stalemate covering midweek fatigue."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Balances the Over 2.5 primary script (1:2) against the tightly clustered 2-goal Poisson peak (23.1%) of a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams generate around two-thirds of their league goals after half-time, pointing to a level break before a second-half Sanfrecce winner or 1:1 split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 19:08:43 UTC"
+}
