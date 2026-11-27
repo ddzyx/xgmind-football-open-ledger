@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650303,
+    "matchup": "Le Pays du Valois vs Valenciennes",
+    "home_team": "Le Pays du Valois",
+    "away_team": "Valenciennes",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-27 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-le-pays-du-valois-vs-valenciennes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Le Pays du Valois vs Valenciennes Prediction & Match Analysis: Can Depleted VAFC Handle Synthetic Pitch?",
+    "meta": {
+      "matchId": "1650303",
+      "league": "Coupe de France",
+      "matchup": "Le Pays du Valois vs Valenciennes",
+      "matchTime": "2026-11-27 19:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Le Pays du Valois are projected to avoid defeat in 90 minutes on their synthetic home pitch against a seven-man-depleted Valenciennes side.",
+    "possibilityAssessment": [
+      "Home Win / Draw via synthetic-turf intensity and visitor defensive absences (Confidence: Moderate, Value: High)",
+      "Over 2.5 total goals driven by open cross-tier defensive profiles (Confidence: Moderate, Value: High)",
+      "BTTS: Yes with both attacks exploiting 1.80 and 1.62 league conceding rates (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650303",
+      "league": "Coupe de France",
+      "homeTeam": "Le Pays du Valois",
+      "awayTeam": "Valenciennes",
+      "match_time": "19:00",
+      "match_highlight": "Depleted Valenciennes face synthetic-turf cup test against athletic Le Pays du Valois.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1650303,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 home upset over VAFC's injury-hit backline and a 1:1 90-minute draw mirroring VAFC's recent cup stalemates, as a single home win omits VAFC's Ligue 3 resilience."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Valois' 3.50-goal National 2 match average meets a Valenciennes defense conceding 1.62 Ligue 3 goals per game and missing four defenders."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Valois have scored in six straight matches against a depleted VAFC backline, while Ekra and Courtet retain scoring punch against Valois' 1.80 conceding rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Valois exploiting VAFC's four defensive absences late on synthetic turf, while 1:1 captures a tighter Ligue 3 containment script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the primary 2:1 projection, with two goals covering the 1:1 regulation draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both scripts anticipate a cagey opening half before either Valois pull clear against tired visitor legs or the sides remain deadlocked."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 07:14:41 UTC"
+}
