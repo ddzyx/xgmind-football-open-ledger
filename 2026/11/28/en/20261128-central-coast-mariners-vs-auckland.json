@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1593710,
+    "matchup": "Central Coast Mariners vs Auckland",
+    "home_team": "Central Coast Mariners",
+    "away_team": "Auckland",
+    "league": "A-League",
+    "kickoff_utc": "2026-11-28 08:40:00",
+    "source_url": "https://xgmind.com/matches/20261128-central-coast-mariners-vs-auckland/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Central Coast Mariners vs Auckland: Expected Goals, Squad Gaps & Match Intelligence",
+    "meta": {
+      "matchId": "1593710",
+      "league": "A-League",
+      "matchup": "Central Coast Mariners vs Auckland",
+      "matchTime": "2026-11-28 08:40 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Superior expected-goal creation against an injury-hit visiting midfield supports Central Coast Mariners to avoid defeat at Polytec Stadium, led by a 2:1 home breakthrough ahead of a 1:1 draw branch.",
+    "possibilityAssessment": [
+      "Central Coast Mariners Win or Draw via sustained territorial pressure and 1.87 xG output against a 0% away clean-sheet Auckland defence (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals and BTTS Yes driven by 2.85 combined lambda and defensive absences led by Trent Sainsbury and Aaron Calver (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / Draw-Draw stalemate if Mariners' 71.4% big-chance waste persists against Auckland's compact mid-block and Lachlan Bayliss's late transition threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1593710",
+      "league": "A-League",
+      "homeTeam": "Central Coast Mariners",
+      "awayTeam": "Auckland",
+      "match_time": "08:40",
+      "match_highlight": "Mariners' 1.87 xG attack tests injury-hit Auckland midfield without Trent Sainsbury.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1593710,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 home breakthrough driven by Mariners' 1.87 xG edge over Auckland's depleted midfield and a 1:1 stalemate given Mariners' 0-3-2 finishing waste and Auckland's three-match draw streak."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.85 lambda, Mariners' 3.51 combined xG and xGA per game, and key defensive absences including Trent Sainsbury and Aaron Calver support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides hold 20.0% clean-sheet rates and miss key defensive personnel, while Auckland have scored in 80% of league matches against Mariners' 84.0% baseline scoring expectancy."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Mariners' territorial xG superiority breaking through Auckland's road defence while conceding once without Sainsbury, with 1:1 covering finishing friction."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the primary 2:1 script above the 2.85 lambda_total anchor, while 2 goals aligns with the modal 1:1 Poisson branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams are level at half-time in 60% of league games and Mariners score 75% of match goals after the break, making a level first half followed by a home winner or stalemate the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 21:08:23 UTC"
+}
