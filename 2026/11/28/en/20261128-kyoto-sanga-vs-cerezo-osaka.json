@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556164,
+    "matchup": "Kyoto Sanga vs Cerezo Osaka",
+    "home_team": "Kyoto Sanga",
+    "away_team": "Cerezo Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-28 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-kyoto-sanga-vs-cerezo-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kyoto Sanga vs Cerezo Osaka: Expected Goals (xG), Suspensions & Match Intelligence",
+    "meta": {
+      "matchId": "1556164",
+      "league": "J1 League",
+      "matchup": "Kyoto Sanga vs Cerezo Osaka",
+      "matchTime": "2026-11-28 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kyoto Sanga's rested front line and Cerezo Osaka's dual suspensions tilt the balance toward a home victory in an open 2:1 contest, while retaining the draw to cover Kyoto's finishing waste.",
+    "possibilityAssessment": [
+      "Kyoto Sanga Home Win or Draw driven by +25 hours rest and Cerezo's Cools/Sakuragawa bans (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score (Yes) backed by 2.76 combined lambda and Cerezo's 0% away clean-sheet rate (Confidence: Moderate, Value: High)",
+      "Second-half 1:1 stalemate via Cerezo's 24.2% set-piece dependency and 50.0% away recovery rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556164",
+      "league": "J1 League",
+      "homeTeam": "Kyoto Sanga",
+      "awayTeam": "Cerezo Osaka",
+      "match_time": "05:00",
+      "match_highlight": "Rested Kyoto attack targets Cerezo defense missing suspended Dion-Johan Cools.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556164,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Kyoto win against Cerezo's suspended, fatigued backline alongside a 1:1 draw if Kyoto's 66.7% big-chance wastefulness persists; single Home Win was weaker given Kyoto's 42.9% home win rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.76 combined lambda, 52.1% Dixon-Coles Over 2.5 probability, Kyoto's 71.4% home Over 2.5 rate, and Cerezo's 1.74 xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 55.1% model BTTS Yes, Cerezo's 0.0% away clean-sheet rate (0/8), and Kyoto's 14.3% home clean-sheet rate against Cerezo's 24.2% set-piece threat."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Kyoto's 1.62 home lambda and Cerezo's Cools suspension, while 1:1 covers the 12.3% Dixon-Coles modal scoreline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2:1 Over 2.5 thesis, with 2 goals covering the 24.7% Poisson mode if Sakuragawa's ban limits away output."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Kyoto lead at HT in 57.1% of home games while Cerezo trail at HT in 75.0% of away games, making a home hold or second-half equalizer the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 17:08:47 UTC"
+}
