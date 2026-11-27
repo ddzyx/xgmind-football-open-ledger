@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570468,
+    "matchup": "Levante vs Racing Santander",
+    "home_team": "Levante",
+    "away_team": "Racing Santander",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-27 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-levante-vs-racing-santander/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Levante vs Racing Santander Prediction & Match Analysis: Flank Absences vs 2.34 xGA Defense — xG Preview",
+    "meta": {
+      "matchId": "1570468",
+      "league": "La Liga",
+      "matchup": "Levante vs Racing Santander",
+      "matchTime": "2026-11-27 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Levante Win or Draw (Home Win / Draw) alongside Over 2.5 Goals and BTTS: Yes, anchored on a 2:1 home breakthrough with 2:2 covering high-scoring draw risk.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Levante hold the home victory edge against Racing's 0.0% clean-sheet record while retaining draw protection (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals and BTTS: Yes — 3.75 total lambda and compromised defenses point to at least three goals with both teams scoring (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 2:2 High-Scoring Draw — Wide-corridor counters from Zabiri and Vicente force a level finish if Levante's chance waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570468",
+      "league": "La Liga",
+      "homeTeam": "Levante",
+      "awayTeam": "Racing Santander",
+      "match_time": "20:00",
+      "match_highlight": "Levante's depleted full-backs meet Racing's 2.34 xGA road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570468,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 2:1 home breakthrough against Racing's five-in-six away loss rate and the 2:2 draw branch driven by Levante's missing full-backs and six league draws, since neither an outright single win nor excluding the hosts is justified."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.75 expected goals, 72.3% model probability, 66.7% venue Over 2.5 rates for both clubs, and depleted defensive units."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides hold 0.0% clean-sheet rates in tonight's venue roles while projecting 88.0% and 80.4% single-side scoring probabilities."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects the modal Dixon-Coles scoreline against Racing's leaky defense, while 2:2 covers the open transition stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (20.7%) and 4 goals (19.4%) dominate the Poisson distribution around a 3.75 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Levante score 71.4% of home goals after halftime while Racing have 0% away half-time leads, splitting second-half resolution between Draw-Win and Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:18:59 UTC"
+}
