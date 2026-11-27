@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556169,
+    "matchup": "Vissel Kobe vs JEF United Chiba",
+    "home_team": "Vissel Kobe",
+    "away_team": "JEF United Chiba",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-28 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-vissel-kobe-vs-jef-united-chiba/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Vissel Kobe vs JEF United Chiba: Expected Goals (xG), Home Leaks & Match Intelligence",
+    "meta": {
+      "matchId": "1556169",
+      "league": "J1 League",
+      "matchup": "Vissel Kobe vs JEF United Chiba",
+      "matchTime": "2026-11-28 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Home Win / Draw led by Vissel Kobe's second-half attacking quality, paired with Over 2.5 Goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Vissel Kobe's home unbeaten record and set-piece edge, with Draw covering post-travel fatigue (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes backed by 2.73 expected total goals and both sides' high home/away BTTS rates (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge if Kobe's midweek travel dulls late chance conversion against Chiba's early transition block (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556169",
+      "league": "J1 League",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "JEF United Chiba",
+      "match_time": "06:00",
+      "match_highlight": "Kobe's second-half surge tests Chiba's fragile away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556169,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Vissel Kobe's 2:1 home edge and a 1:1 draw branch given Kobe's five-match winless run, continental travel, and three home league draws."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.73 combined expected goals and strong venue trends with six of eight Kobe home games and five of eight Chiba away games clearing 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kobe have kept clean sheets in only two of eight home league matches while Chiba score early and concede 1.62 goals per match."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Kobe's superior forward xG against a leaking road defense, while 1:1 represents the highest single Poisson density if travel fatigue lingers."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 2:1 script and venue Over 2.5 frequency, with two goals covering the 1:1 stalemate boundary."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kobe score just 29.2% of goals before the break and convert 62.5% of half-time draws into wins, while Draw-Draw covers an unanswered second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 18:11:34 UTC"
+}
