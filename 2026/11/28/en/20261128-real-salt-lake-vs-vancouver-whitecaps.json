@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651121,
+    "matchup": "Real Salt Lake vs Vancouver Whitecaps",
+    "home_team": "Real Salt Lake",
+    "away_team": "Vancouver Whitecaps",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 03:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-real-salt-lake-vs-vancouver-whitecaps/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Real Salt Lake vs Vancouver Whitecaps: Expected Goals, Key Absences & Match Preview",
+    "meta": {
+      "matchId": "1651121",
+      "league": "Major League Soccer",
+      "matchup": "Real Salt Lake vs Vancouver Whitecaps",
+      "matchTime": "2026-11-28 03:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Vancouver Whitecaps to avoid defeat across 90 minutes (Draw / Away Win) balances their dominant 2026 structural profile against Brian White's confirmed injury absence.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers Vancouver's superior xG/xGA edge and the road stalemate risk without Brian White (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with 2.97 combined lambda, Bet365's 1.48 totals price, and elimination urgency (Confidence: Moderate, Value: Moderate)",
+      "Vancouver 1:2 narrow away victory reflects half-space quality overcoming RSL's home resistance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651121",
+      "league": "Major League Soccer",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "Vancouver Whitecaps",
+      "match_time": "03:00",
+      "match_highlight": "Depleted RSL chase series survival against White-less Whitecaps",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651121,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Vancouver's leading 1:2 win path from superior xG and midfield quality alongside a 1:1 draw branch created by Brian White's absence and RSL's 73.3% home unbeaten rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.97 combined lambda, 57.0% model probability, RSL's 66.7% home Over 2.5 rate, and Bet365's 1.48 price."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with 59.8% Dixon-Coles BTTS probability, RSL's 80.0% home scoring rate, and RSL's porous 9.1% season clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Vancouver's clinical edge with Müller and Gauld, while 1:1 reflects the top 11.7% Poisson mode if White's absence caps away conversion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals reflect elimination tempo and 2.97 lambda, while two goals anchor the tighter 1:1 road-draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Vancouver drew 40.0% of away first halves with 66.7% of away-game goals coming after the break, making a level interval leading to either a 1:2 away win or 1:1 draw the primary fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 15:09:08 UTC"
+}
