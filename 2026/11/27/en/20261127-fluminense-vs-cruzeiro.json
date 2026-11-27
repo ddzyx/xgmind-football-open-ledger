@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492475,
+    "matchup": "Fluminense vs Cruzeiro",
+    "home_team": "Fluminense",
+    "away_team": "Cruzeiro",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-27 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-fluminense-vs-cruzeiro/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Fluminense vs Cruzeiro: Expected Goals, Midfield Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1492475",
+      "league": "Serie A",
+      "matchup": "Fluminense vs Cruzeiro",
+      "matchTime": "2026-11-27 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Fluminense's dominant Maracana record against a Lucas Romero-less Cruzeiro midfield favors Home Win / Draw, led by a narrow 2:1 home victory with both teams projected to score.",
+    "possibilityAssessment": [
+      "Fluminense's 68.8% home win rate and 1.75 expected-goal projection exploit Cruzeiro's 20.0% away clean-sheet rate and missing midfield screen (Confidence: Moderate, Value: Moderate)",
+      "Combined 2.97 lambda expectancy and 68.8%-73.3% venue BTTS rates support Over 2.5 goals and Both Teams To Score Yes (Confidence: Moderate, Value: High)",
+      "Cruzeiro's 93.3% away scoring floor behind Matheus Pereira and returning Kaio Jorge sustains a 1:1 draw contingency if Fluminense miss big chances (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492475",
+      "league": "Serie A",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Cruzeiro",
+      "match_time": "23:00",
+      "match_highlight": "Fluminense's Maracana surge tests a Romero-less Cruzeiro midfield.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1492475,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Fluminense home win against depleted visitors alongside a 1:1 draw given Cruzeiro's 93.3% away scoring floor and single-point third-place target, where a single call would understate Fluminense's finishing waste."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.97 combined lambda, 68.8%-73.3% home/away Over 2.5 rates, and Cruzeiro's loss of holding midfielder Lucas Romero."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fluminense (6.2% home failed-to-score) and Cruzeiro (6.7% away failed-to-score) meet defenses keeping clean sheets in just 31.2% home and 20.0% away matches respectively."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Fluminense's 56.2% one-goal home winning frequency, while 1:1 reflects the modal Dixon-Coles outcome if Hulk's drought stalls home conversion."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads once Romero's absence lifts transition openness above the raw 2.97 lambda baseline, with 2 goals anchoring the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs generate around 70% of venue goals after half-time, pointing to a level interval before Fluminense convert (85.7% home draw-then-win) or settle at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 11:08:10 UTC"
+}
