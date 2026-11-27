@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647384,
+    "matchup": "FC Seoul vs Daejeon Citizen",
+    "home_team": "FC Seoul",
+    "away_team": "Daejeon Citizen",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-28 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-fc-seoul-vs-daejeon-citizen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Seoul vs Daejeon Citizen: Expected Goals (xG), Klimala Ban & Match Intelligence",
+    "meta": {
+      "matchId": "1647384",
+      "league": "K League 1",
+      "matchup": "FC Seoul vs Daejeon Citizen",
+      "matchTime": "2026-11-28 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Daejeon Citizen are projected to avoid defeat in a competitive contest where both teams find the net and second-half momentum favors the fresher visitors.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Daejeon's 76.5% away unbeaten rate, 27-hour rest advantage, and 1.66 xG/match attack (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes driven by a 3.19 combined lambda and Daejeon's 29.4% clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Second-Half Decisive Shift (Draw-Loss) backed by FC Seoul's 61.1% home half-time draw rate and post-travel fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647384",
+      "league": "K League 1",
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Daejeon Citizen",
+      "match_time": "05:00",
+      "match_highlight": "Suspended Klimala and 64-hour turnaround test champions against surging Daejeon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647384,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Daejeon's leading 1:2 away-win script against fatigued, Klimala-less hosts while retaining the 1:1 draw branch given Seoul's 0.89 goals conceded per game, making a single selection too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.19 combined lambda, 61.8% baseline Over 2.5 probability, and Daejeon's 58.8% away Over 2.5 rate alongside 1.38 xGA/match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Grounded in 63.7% baseline BTTS probability, Daejeon's 29.4% clean-sheet rate, and both clubs generating above 1.65 xG per game."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Pairs the leading 1:2 away win driven by Seoul's 64-hour recovery deficit with the 1:1 stalemate reflecting Seoul's strong home defensive structure."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the two highest Dixon-Coles goal buckets (22.3% for 3 goals, 21.5% for 2 goals) across the 1:2 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects FC Seoul's 61.1% home half-time draw rate and 21.4% first-half goal share before Daejeon's fresher legs tilt or share the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 17:16:02 UTC"
+}
