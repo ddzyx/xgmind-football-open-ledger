@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575551,
+    "matchup": "Maritimo vs Nacional",
+    "home_team": "Maritimo",
+    "away_team": "Nacional",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-27 20:15:00",
+    "source_url": "https://xgmind.com/matches/20261127-maritimo-vs-nacional/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Maritimo vs Nacional: Expected Goals, Spine Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1575551",
+      "league": "Primeira Liga",
+      "matchup": "Maritimo vs Nacional",
+      "matchTime": "2026-11-27 20:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Maritimo are projected to hold Home Win / Draw in a tight Under 2.5 Madeira derby anchored around a 1:1 stalemate and a 1:0 home squeeze.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures both the leading 1:1 exchange and a narrow 1:0 home win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 aligns with sub-40 forward threat indices, >61% big-chance waste, and 1.70 totals pricing (Confidence: Moderate, Value: Moderate)",
+      "Maritimo 1:0 shutout branch triggers if Nacional's 60% away failed-to-score rate holds without Filipe Soares (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575551",
+      "league": "Primeira Liga",
+      "homeTeam": "Maritimo",
+      "awayTeam": "Nacional",
+      "match_time": "20:15",
+      "match_highlight": "Injury-hit Nacional test winless road defense in tight Madeira derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575551,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the leading 1:1 draw and 1:0 home win because Nacional are 0W-1D-4L away with Filipe Soares out while Maritimo's 20% win rate limits a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Modest forward OTI below 40, heavy big-chance waste, and 1.70 market support pull expected scoring below the 2.71 lambda baseline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Maritimo's 10% clean-sheet rate and Nacional's 0% away clean-sheet rate point toward a 1:1 exchange despite muted totals."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "1:0"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 12.7%, while 1:0 covers a narrow home edge if Nacional's away scoring struggles persist."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals ranks highest in the baseline distribution at 25.0%, with 1 goal boosted by derby caution and four recent 1-0/0-1 Nacional matches."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Maritimo have 0% half-time leads in ten league games and Nacional have 0% away, favouring level intervals before a draw or late home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:38:33 UTC"
+}
