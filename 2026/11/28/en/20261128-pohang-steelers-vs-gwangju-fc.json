@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647401,
+    "matchup": "Pohang Steelers vs Gwangju FC",
+    "home_team": "Pohang Steelers",
+    "away_team": "Gwangju FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-28 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-pohang-steelers-vs-gwangju-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Pohang Steelers vs Gwangju FC: Expected Goals, Fatigue & Match Analysis",
+    "meta": {
+      "matchId": "1647401",
+      "league": "K League 1",
+      "matchup": "Pohang Steelers vs Gwangju FC",
+      "matchTime": "2026-11-28 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pohang Steelers should avoid defeat at Pohang Steel Yard by pairing a primary 2:1 home victory with formal coverage for a 1:1 draw.",
+    "possibilityAssessment": [
+      "Pohang Steelers Home Win / Draw driven by Gwangju's 2.04 xGA defensive fragility and Pohang's 1.89 home lambda (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by 3.08 combined expected goals and Gwangju's 56.2% away Over 2.5 frequency (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Gwangju's 11-goal five-match surge meeting Pohang's recent late-game concessions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647401",
+      "league": "K League 1",
+      "homeTeam": "Pohang Steelers",
+      "awayTeam": "Gwangju FC",
+      "match_time": "07:30",
+      "match_highlight": "Pohang's 1.41 xG attack tests Gwangju's 2.04 xGA defense amid fatigue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647401,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Pohang's 2:1 xG-driven home victory script alongside the 1:1 draw branch fueled by Pohang's 93-hour ACLE turnaround and 63.9% big-chance waste."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.08 lambda_total (59.4% Over 2.5 baseline), Gwangju's 2.04 xGA/match concession rate, and both sides' recent open scoring trends."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear the scoring threshold (84.9% home vs 69.6% away to score) against Gwangju's 14.7% clean-sheet rate and Pohang's five-match concession run."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Pohang's narrow winning margin profile (zero 2+ goal home wins) while 1:1 captures the highest single-cell Poisson density (10.9%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) and 2 goals (22.3%) represent the two highest-probability outcomes around the 3.08 expected-goal baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Pohang's 75.0% home first-half goal share against Gwangju's 31.25% away Loss-Loss rate, while Draw-Draw covers Gwangju's 85.7% away level-HT draw retention."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 19:41:52 UTC"
+}
