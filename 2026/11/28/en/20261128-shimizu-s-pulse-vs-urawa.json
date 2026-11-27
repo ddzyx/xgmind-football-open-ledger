@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556168,
+    "matchup": "Shimizu S-pulse vs Urawa",
+    "home_team": "Shimizu S-pulse",
+    "away_team": "Urawa",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-28 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-shimizu-s-pulse-vs-urawa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Shimizu S-pulse vs Urawa: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1556168",
+      "league": "J1 League",
+      "matchup": "Shimizu S-pulse vs Urawa",
+      "matchTime": "2026-11-28 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Match modeling projects Draw / Away Win led by a narrow 1:2 Urawa victory alongside Over 2.5 goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Urawa's 1.55 xG output and 1:2 primary scoreline with 1:1 draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals backed by Urawa's 81.2% season Over 2.5 rate and 2.69 combined lambda (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes supported by both clubs' low clean-sheet rates and 54.7% model probability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556168",
+      "league": "J1 League",
+      "homeTeam": "Shimizu S-pulse",
+      "awayTeam": "Urawa",
+      "match_time": "05:00",
+      "match_highlight": "Urawa's midfield creation faces Shimizu's depleted backline at Nihondaira.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556168,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 1:2 Urawa win driven by superior xG and 1:1 draw risk from Urawa's road defensive leaks, avoiding a single away call due to their 3W-1D-5L away record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.69 combined lambda, Urawa's 81.2% Over 2.5 league rate, and Shimizu's 12.5% clean-sheet mark."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses post low clean-sheet rates (12.5% home, 18.8% away) while Urawa concede 2.06 goals per game alongside 1.62 scored."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Urawa's one-goal away winning pattern (1:2) alongside the modal 1:1 draw branch if Shimizu hold firm late."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Centers on a 3-goal Over 2.5 outcome (1:2) with 2 goals (1:1) as the main lower-scoring branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Shimizu draw 62.5% of home first halves before Urawa's stronger second-half depth either forces a Draw-Loss win or settles into a Draw-Draw stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 17:12:28 UTC"
+}
