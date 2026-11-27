@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650265,
+    "matchup": "Cannes vs Le Puy Foot",
+    "home_team": "Cannes",
+    "away_team": "Le Puy Foot",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-27 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-cannes-vs-le-puy-foot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cannes vs Le Puy Foot Match Analysis & Tactical Breakdown: Defensive Discipline in Coupe de France",
+    "meta": {
+      "matchId": "1650265",
+      "league": "Coupe de France",
+      "matchup": "Cannes vs Le Puy Foot",
+      "matchTime": "2026-11-27 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cannes are projected to avoid defeat in regulation time via a tight, low-scoring script anchored to Home Win / Draw, Under 2.5, and BTTS: No.",
+    "possibilityAssessment": [
+      "Cannes win or draw in 90 minutes behind superior Ligue 3 defensive prevention (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals and BTTS: No driven by Cannes' 0.62 goals-conceded rate and both teams' recent 0:0 stalemates (Confidence: Moderate, Value: High)",
+      "Goalless 0:0 regulation stalemate forcing extra time if Cannes' attack stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650265",
+      "league": "Coupe de France",
+      "homeTeam": "Cannes",
+      "awayTeam": "Le Puy Foot",
+      "match_time": "18:00",
+      "match_highlight": "Cannes' elite home defense tests seven-goal striker Antoine Gauthier.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650265,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "A 1:0 home win leads on Cannes' defensive solidity and August H2H victory, while a 0:0 draw covers both sides' high Ligue 3 stalemate rates rather than forcing a single outcome."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cannes average 1.70 total goals per Ligue 3 match and both sides played 0:0 draws on November 21, strongly supporting Under 2.5."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Cannes allow just 0.62 goals per league game and kept clean sheets in their last two matches, while Le Puy carry a 66.7% cup big-chance missed ratio."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "A 1:0 home breakthrough or a 0:0 knockout deadlock captures the tight balance of two level 19-point Ligue 3 rivals."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Compressed scoring profiles around 1.7 to 1.9 expected total goals concentrate probability mass on 1 or 2 goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half shapes point to a level interval before either a late Cannes winner (Draw-Win) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 06:08:20 UTC"
+}
