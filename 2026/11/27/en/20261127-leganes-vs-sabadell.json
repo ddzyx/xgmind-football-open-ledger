@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570043,
+    "matchup": "Leganes vs Sabadell",
+    "home_team": "Leganes",
+    "away_team": "Sabadell",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-27 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261127-leganes-vs-sabadell/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Leganes vs Sabadell: Expected Goals (xG), Injury Impact & Match Analysis",
+    "meta": {
+      "matchId": "1570043",
+      "league": "Segunda División",
+      "matchup": "Leganes vs Sabadell",
+      "matchTime": "2026-11-27 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Leganes are projected to remain unbeaten at Butarque in a tight, Under 2.5 contest shaped by Sabadell's midfield absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Leganes victory (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals driven by Sabadell's 75% away Under 2.5 rate (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency if Leganes' 72.2% big-chance waste persists (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570043",
+      "league": "Segunda División",
+      "homeTeam": "Leganes",
+      "awayTeam": "Sabadell",
+      "match_time": "19:30",
+      "match_highlight": "Carrión's resurgent attack tests Sabadell's injury-hit midfield at Butarque.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570043,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a controlled 2:0 Leganes win driven by superior available attackers alongside a 1:1 draw given Sabadell's 1.12 xGA prevention and Leganes' 72.2% big-chance waste."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.6% Under 2.5 baseline, Sabadell's 75.0% away Under 2.5 rate, and six confirmed Sabadell absences stripping transition firepower."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Sabadell have failed to score in 62.5% of away matches and lose top forward Nicholas Gioacchini plus midfielders Arthur and Urri."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:1"
+        ],
+        "comment": "2:0 reflects Leganes breaking down a fatigued, injury-depleted Sabadell late, while 1:1 captures Leganes' 14.3% home clean-sheet vulnerability."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals represent the 25.9% modal peak aligning with both 2:0 and 1:1, while three goals cover the 21.7% upside branch if Leganes concede once."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Sabadell have drawn 62.5% of away first halves before thinning second-half depth favors Leganes, with Draw-Draw covering a full-match stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 07:41:55 UTC"
+}
