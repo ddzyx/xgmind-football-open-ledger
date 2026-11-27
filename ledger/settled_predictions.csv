@@ -1,4 +1,18 @@
 match_date,league,home_team,away_team,final_score,half_score,outcome,hit_1x2,ou_line,ou_result,hit_ou,hit_score,hit_goals,hit_htft,hit_perfect,hit_btts,published_utc,report_url
+2026-11-27,Jupiler Pro League,OH Leuven,Kortrijk,2-2,1-0,D,0,2.5,OVER,0,0,0,0,0,0,2026-11-27 08:23:15,https://xgmind.com/matches/20261127-oh-leuven-vs-kortrijk/
+2026-11-27,Ligue 1,Stade Brestois 29,Paris FC,1-0,1-0,H,0,2.5,UNDER,0,0,0,0,0,0,2026-11-27 08:11:33,https://xgmind.com/matches/20261127-stade-brestois-29-vs-paris-fc/
+2026-11-27,Serie A,Venezia,Bologna,0-0,0-0,D,1,2.5,UNDER,0,0,0,1,0,0,2026-11-27 08:08:01,https://xgmind.com/matches/20261127-venezia-vs-bologna/
+2026-11-27,Segunda División,Leganes,Sabadell,0-0,0-0,D,1,2.5,UNDER,1,0,0,1,0,1,2026-11-27 07:41:55,https://xgmind.com/matches/20261127-leganes-vs-sabadell/
+2026-11-27,Bundesliga,Werder Bremen,Borussia Mönchengladbach,3-3,1-1,D,0,2.5,OVER,1,0,0,0,0,1,2026-11-27 07:38:17,https://xgmind.com/matches/20261127-werder-bremen-vs-borussia-m-nchengladbach/
+2026-11-27,Coupe de France,Le Pays du Valois,Valenciennes,1-2,0-0,A,0,2.5,OVER,1,0,1,0,0,1,2026-11-27 07:14:41,https://xgmind.com/matches/20261127-le-pays-du-valois-vs-valenciennes/
+2026-11-27,Coupe de France,Saint-Omer,Caen,1-0,0-0,H,0,2.5,UNDER,0,0,0,0,0,1,2026-11-27 07:11:16,https://xgmind.com/matches/20261127-saint-omer-vs-caen/
+2026-11-27,Eredivisie,Groningen,Willem II,1-1,0-1,D,0,2.5,UNDER,0,0,0,0,0,1,2026-11-27 07:07:55,https://xgmind.com/matches/20261127-groningen-vs-willem-ii/
+2026-11-27,Coupe de France,Cannes,Le Puy Foot,1-1,0-0,D,1,2.5,UNDER,1,0,1,1,0,0,2026-11-27 06:08:20,https://xgmind.com/matches/20261127-cannes-vs-le-puy-foot/
+2026-11-27,Pro League,Al-Ittihad FC,NEOM,1-0,0-0,H,1,2.5,UNDER,0,0,0,0,0,0,2026-11-27 05:46:01,https://xgmind.com/matches/20261127-al-ittihad-fc-vs-neom/
+2026-11-27,2. Bundesliga,1. FC Heidenheim,1. FC Nürnberg,3-1,1-1,H,1,2.5,OVER,1,0,1,1,0,1,2026-11-27 05:41:55,https://xgmind.com/matches/20261127-1-fc-heidenheim-vs-1-fc-nurnberg/
+2026-11-27,2. Bundesliga,VfL Bochum,SV Darmstadt 98,2-0,0-0,H,1,2.5,UNDER,1,0,1,1,0,1,2026-11-27 05:38:24,https://xgmind.com/matches/20261127-vfl-bochum-vs-sv-darmstadt-98/
+2026-11-27,Pro League,Al-Qadisiyah FC,Al-Fayha,2-0,0-0,H,1,2.5,UNDER,0,0,0,1,0,0,2026-11-27 02:38:49,https://xgmind.com/matches/20261127-al-qadisiyah-fc-vs-al-fayha/
+2026-11-27,Pro League,Al Kholood,Al Khaleej Saihat,2-1,1-1,H,1,2.5,OVER,1,1,1,0,0,1,2026-11-27 00:37:36,https://xgmind.com/matches/20261127-al-kholood-vs-al-khaleej-saihat/
 2026-11-27,A-League,Macarthur,Melbourne City,2-0,2-0,H,0,2.5,UNDER,1,0,1,0,0,0,2026-11-26 21:08:45,https://xgmind.com/matches/20261127-macarthur-vs-melbourne-city/
 2026-11-27,Liga MX,Leon,Cruz Azul,0-4,0-2,A,1,2.5,OVER,1,0,0,0,0,0,2026-11-26 15:38:29,https://xgmind.com/matches/20261127-leon-vs-cruz-azul/
 2026-11-27,Liga MX,CF Pachuca,Guadalajara Chivas,2-1,0-1,H,1,2.5,OVER,0,1,1,0,0,1,2026-11-26 13:08:37,https://xgmind.com/matches/20261127-cf-pachuca-vs-guadalajara-chivas/
