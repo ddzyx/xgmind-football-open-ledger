@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647399,
+    "matchup": "FC Anyang vs Jeju United FC",
+    "home_team": "FC Anyang",
+    "away_team": "Jeju United FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-28 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-fc-anyang-vs-jeju-united-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling FC Anyang vs Jeju United FC: Expected Goals, Defensive Flaws & Match Intelligence",
+    "meta": {
+      "matchId": "1647399",
+      "league": "K League 1",
+      "matchup": "FC Anyang vs Jeju United FC",
+      "matchTime": "2026-11-28 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Jeju United FC hold the statistical edge to avoid defeat and push for victory at Anyang Stadium in a matchup projecting goals at both ends.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Jeju United FC's away scoring reliability and superior defensive prevention (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Anyang's 75.0% home BTTS rate and Jeju's 94.1% away scoring rate (Confidence: Moderate, Value: High)",
+      "2 Total Goals / Under 2.5 contingency hedge capturing the 25.1% modal total-goals bucket and 1:1 scoreline (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647399",
+      "league": "K League 1",
+      "homeTeam": "FC Anyang",
+      "awayTeam": "Jeju United FC",
+      "match_time": "05:00",
+      "match_highlight": "Jeju's 94.1% away scoring rate tests Anyang's zero home clean sheets.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647399,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Jeju's leading 1:2 away-win script while covering the 1:1 draw script because Anyang's high season draw rate weakens a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.70 combined lambda, 50.6% Poisson Over 2.5 probability, and Anyang's 56.2% home Over 2.5 rate with zero home clean sheets."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 54.4% model BTTS probability, Anyang's 75.0% home BTTS rate, and Jeju scoring in 16 of 17 away matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Jeju's 1.55 lambda_away and recurring H2H scorelines, while 1:1 reflects the 12.6% modal Poisson draw cell."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals reflects Anyang's open home profile and 8/10 H2H Over 2.5 rate, while 2 goals tracks the 25.1% Poisson peak."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Jeju draw 64.7% of away first halves before pressing late, splitting between a second-half breakthrough and a 1:1 deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 17:19:24 UTC"
+}
