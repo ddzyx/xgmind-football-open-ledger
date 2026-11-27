@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556161,
+    "matchup": "Kashima vs Fagiano Okayama",
+    "home_team": "Kashima",
+    "away_team": "Fagiano Okayama",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-28 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-kashima-vs-fagiano-okayama/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Kashima vs Fagiano Okayama: Expected Goals (xG), Defensive Gaps & Match Intelligence",
+    "meta": {
+      "matchId": "1556161",
+      "league": "J1 League",
+      "matchup": "Kashima vs Fagiano Okayama",
+      "matchTime": "2026-11-28 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kashima hold the attacking and home-pitch edge, yet Fagiano Okayama's unbroken away scoring streak makes a narrow home win or 1:1 draw the balanced full-time projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Kashima's 1.66 lambda and 62.5% home win rate against Okayama's one-goal road resilience (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and Both Teams To Score supported by 2.70 combined lambda and Okayama's 87.5% away BTTS frequency (Confidence: Moderate, Value: Moderate)",
+      "1:1 draw contingency if Okayama's 3-4-2-1 pressing block disrupts Kashima's build-up and exploits a set-piece chance (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556161",
+      "league": "J1 League",
+      "homeTeam": "Kashima",
+      "awayTeam": "Fagiano Okayama",
+      "match_time": "06:00",
+      "match_highlight": "Kashima home firepower tests Okayama's 100% away scoring streak.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556161,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Kashima's 1.61 xG per game and 62.5% home win rate favor a 2:1 win, while Okayama's 8-for-8 away scoring record and 12.2% 1:1 baseline prevent relying on a single home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.70 lambda, Kashima's 60.0% season Over 2.5 rate, and Okayama's 75.0% away Over 2.5 rate support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kashima's 20.0% overall clean-sheet rate and Okayama's 12.5% away clean-sheet rate align with Okayama scoring in all eight away league matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Kashima's home attacking edge alongside Okayama's unbroken road scoring and four single-goal away losses, with 1:1 covering the tightest draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary script and Kashima's 3.67 actual goals per match, while two goals match the 25.1% modal Poisson bin and 1:1 alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Kashima lead at half-time in 50.0% of home league matches and have won all five HT leads this season, while Okayama's 62.5% away HT draw rate sustains the Draw-Draw fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 18:08:44 UTC"
+}
