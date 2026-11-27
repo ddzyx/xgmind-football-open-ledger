@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550216,
+    "matchup": "Venezia vs Bologna",
+    "home_team": "Venezia",
+    "away_team": "Bologna",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261127-venezia-vs-bologna/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Venezia vs Bologna Prediction: Can Venezia's xG Expose Bologna's Flanks? — Scoreline & xG Preview",
+    "meta": {
+      "matchId": "1550216",
+      "league": "Serie A",
+      "matchup": "Venezia vs Bologna",
+      "matchTime": "2026-11-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bologna's away form and midfield superiority support Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win: Bologna's 1.67 xG/match and 4W-0D-2L road record anchor the 1:2 away-win script while covering the 1:1 draw branch (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5: Combined 3.02 lambda_total and 58.1% Poisson Over 2.5 expectation outweigh Venezia's low actual conversion rate (Confidence: Moderate, Value: High)",
+      "BTTS Yes: Identical 8.3% season clean-sheet rates and Bologna's 1.40 xGA/match support goals at both ends (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550216",
+      "league": "Serie A",
+      "homeTeam": "Venezia",
+      "awayTeam": "Bologna",
+      "match_time": "19:45",
+      "match_highlight": "Depleted Bologna flanks tested by Venezia xG and returning midfielders.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550216,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Bologna victory and the 1:1 draw script, as a single away-win call ignores Bologna's confirmed full-back absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.02 lambda_total, 58.1% Poisson Over 2.5 projection, and combined 3.36 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 59.4% BTTS Yes probability, identical 8.3% clean-sheet rates, and both sides' defensive absences."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Bologna's offensive superiority over Venezia's 1.96 xGA defense, while 1:1 reflects the highest Poisson density branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals anchors the Over 2.5 1:2 trajectory, while 2 goals accounts for Venezia's finishing variance in a 1:1 draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams share 20% first-half venue goal shares and high half-time draw rates before Bologna's second-half surge or a 1:1 split."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:08:02 UTC"
+}
