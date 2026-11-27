@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603087,
+    "matchup": "Al Kholood vs Al Khaleej Saihat",
+    "home_team": "Al Kholood",
+    "away_team": "Al Khaleej Saihat",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-27 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261127-al-kholood-vs-al-khaleej-saihat/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al Kholood vs Al Khaleej Saihat Prediction & Tactical Breakdown: Can 1.91 xG Snap a 5-Game Slide?",
+    "meta": {
+      "matchId": "1603087",
+      "league": "Pro League",
+      "matchup": "Al Kholood vs Al Khaleej Saihat",
+      "matchTime": "2026-11-27 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al Kholood are projected to avoid defeat via Home Win / Draw in an open, high-scoring contest expected to clear Over 2.5 goals with Both Teams To Score.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Al Kholood's 47.0% win projection and Al Khaleej's 50.0% league draw rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS: Yes driven by a 3.28 combined lambda and Al Kholood's 100.0% home Over 2.5 trend (Confidence: Moderate, Value: High)",
+      "Al Khaleej second-half recovery (Win-Loss) if Al Kholood waste early chances and fade defensively (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603087",
+      "league": "Pro League",
+      "homeTeam": "Al Kholood",
+      "awayTeam": "Al Khaleej Saihat",
+      "match_time": "12:15",
+      "match_highlight": "High-xG Al Kholood seeks home rebound against surging Al Khaleej.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603087,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Al Kholood's 2:1 xG-led home rebound and the 2:2 draw branch, as 0.0% home clean sheets and 71.1% big-chance waste make a single home call too exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.28 combined lambda, 63.7% model probability, and Al Kholood's 5-for-5 Over 2.5 home record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 64.6% model probability as Al Kholood's 0.0% clean-sheet rate meets Al Khaleej's 16.7% away clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Al Kholood's 1.85-to-1.43 lambda advantage tempered by finishing waste, while 2:2 captures Al Khaleej's late away scoring surge."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (22.1%) and 4 goals (18.1%) capture the core Dixon-Coles volume around the 3.28 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win matches Al Kholood's 62.5% home first-half goal share against Al Khaleej's 0.0% away HT lead rate, while Draw-Draw reflects Al Khaleej's 100.0% away Draw-Draw conversion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 00:37:36 UTC"
+}
