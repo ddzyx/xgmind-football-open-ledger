@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576242,
+    "matchup": "VfL Bochum vs SV Darmstadt 98",
+    "home_team": "VfL Bochum",
+    "away_team": "SV Darmstadt 98",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-27 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261127-vfl-bochum-vs-sv-darmstadt-98/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfL Bochum vs SV Darmstadt 98 Prediction & Match Analysis: Can Bochum Exploit Schuhen's Absence?",
+    "meta": {
+      "matchId": "1576242",
+      "league": "2. Bundesliga",
+      "matchup": "VfL Bochum vs SV Darmstadt 98",
+      "matchTime": "2026-11-27 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfL Bochum holds the clearer structural and personnel edge to win or draw against an away-winless Darmstadt side missing its starting goalkeeper and center-back, in a tight Under 2.5 contest.",
+    "possibilityAssessment": [
+      "VfL Bochum Win or Draw backed by 16.17 shots/game and Darmstadt's 0W-0D-5L road collapse (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No supported by Bochum's 83.3% home Under 2.5 rate and Darmstadt's 80.0% away scoring drought (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency via Darmstadt set pieces exploiting Bochum's 0.0% home clean-sheet record and 72.4% big-chance waste (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576242",
+      "league": "2. Bundesliga",
+      "homeTeam": "VfL Bochum",
+      "awayTeam": "SV Darmstadt 98",
+      "match_time": "17:30",
+      "match_highlight": "Bochum hosts winless-away Darmstadt missing captain goalkeeper Schuhen and defender Pfeiffer.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576242,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bochum's primary 1:0 edge against depleted road travelers alongside the 1:1 draw script created by Bochum's 72.4% big-chance waste and winless home clean-sheet record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Five of six Bochum home league games ended Under 2.5 and Darmstadt failed to score in 80.0% of away fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Darmstadt's 80.0% away failed-to-score rate and Luca Marseiler's absence pull their road scoring floor below the clean-sheet threshold."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Bochum's four 1-goal league wins against a weakened defense, while 1:1 captures Bochum's 0.0% home clean-sheet record."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals leads the Poisson distribution (25.7%), with 3 goals (21.7%) as the secondary branch if an early goal opens transitions."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Bochum scores 60.0% of home goals after half-time, pointing to a level break before either a second-half breakthrough or a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 05:38:24 UTC"
+}
