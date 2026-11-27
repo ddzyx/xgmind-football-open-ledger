@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557485,
+    "matchup": "Nottingham Forest vs Chelsea",
+    "home_team": "Nottingham Forest",
+    "away_team": "Chelsea",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-27 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261127-nottingham-forest-vs-chelsea/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nottingham Forest vs Chelsea Prediction & Match Analysis: Can Forest's xG Crack Chelsea's Backline?",
+    "meta": {
+      "matchId": "1557485",
+      "league": "Premier League",
+      "matchup": "Nottingham Forest vs Chelsea",
+      "matchTime": "2026-11-27 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nottingham Forest's 1.61 expected goals per match and Callum Hudson-Odoi's return position the hosts to avoid defeat in an open encounter against Chelsea.",
+    "possibilityAssessment": [
+      "Thesis 1: Home Win / Draw leads as Forest's 43.83% blended win model edge combines with a 25.81% draw cover against conversion variance (Confidence: Moderate, Value: Moderate)",
+      "Thesis 2: Over 2.5 Goals and BTTS: Yes align with a 3.01 combined lambda and weak clean-sheet records on both sides (Confidence: Moderate, Value: High)",
+      "Thesis 3: A 1:1 Draw hedge captures the 11.2% modal scoreline if Forest's 79.3% big-chance waste persists against Moises Caicedo's returning midfield shield (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557485",
+      "league": "Premier League",
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Chelsea",
+      "match_time": "20:00",
+      "match_highlight": "Forest's high-volume chance creation tests Chelsea's injury-depleted backline at City Ground.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557485,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a leading 2:1 home breakthrough driven by Forest's xG edge alongside the 1:1 modal draw script if finishing waste persists."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.01 combined lambda, 57.9% model Over 2.5 probability, and Chelsea's 1.61 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 58.7% model probability, Forest's 9.1% clean-sheet rate, and Chelsea's 18.2% clean-sheet rate without Maxence Lacroix."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Forest's 1.83 home lambda breaking through Chelsea's depleted defense, while 1:1 covers the 11.2% modal stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Model goal probabilities cluster tightly around 3 goals (22.4%) and 2 goals (22.9%) in line with the 2:1 and 1:1 scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Forest's 80.0% home half-time draw rate and Chelsea's 60.0% away half-time draw rate point to a level break before second-half separation or a 1:1 share."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:15:06 UTC"
+}
