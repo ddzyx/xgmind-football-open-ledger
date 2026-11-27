@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647400,
+    "matchup": "Bucheon FC 1995 vs Gimcheon Sangmu FC",
+    "home_team": "Bucheon FC 1995",
+    "away_team": "Gimcheon Sangmu FC",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-28 07:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-bucheon-fc-1995-vs-gimcheon-sangmu-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bucheon FC 1995 vs Gimcheon Sangmu FC Prediction & Match Analysis: Squad Turnover vs Home xGA",
+    "meta": {
+      "matchId": "1647400",
+      "league": "K League 1",
+      "matchup": "Bucheon FC 1995 vs Gimcheon Sangmu FC",
+      "matchTime": "2026-11-28 07:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Gimcheon Sangmu FC's midfield control and away unbeaten resilience give them the edge to avoid defeat at Bucheon Stadium, though military squad turnover and high draw tendencies keep a 1:1 stalemate alongside a 1:2 away win.",
+    "possibilityAssessment": [
+      "Draw / Away Win leaning Gimcheon Sangmu FC on 50.7 MF-OTI and 81.2% away unbeaten rate with Draw coverage for 20 league stalemates (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 2.80 lambda_total, Bucheon's 1.74 xGA per game, and five straight 3+ goal home-side fixtures (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by 56.0% Poisson probability, Rodrigo Bassani's return, and Bucheon's 17.6% home clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647400",
+      "league": "K League 1",
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "Gimcheon Sangmu FC",
+      "match_time": "07:30",
+      "match_highlight": "Gimcheon's high press targets suspension-hit Bucheon amid military discharge turnover.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647400,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Gimcheon's leading 1:2 away victory script against leaky, suspension-hit Bucheon while retaining the 1:1 draw path driven by Gimcheon's 20-draw record and squad discharges."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.80 combined lambda, Bucheon's 1.74 xGA per match, and five consecutive 3+ goal Bucheon fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 56.0% model probability as Gimcheon's 80.4% scoring expectancy meets Rodrigo Bassani's return against a 1.53 xGA visiting defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Gimcheon's xG and midfield superiority over a weakened host, while 1:1 reflects Gimcheon's 56.3% away draw rate and finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 1:2 primary script and Bucheon's open recent matches, with 2 goals covering the 24.4% Poisson modal bin."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides show high first-half draw rates (68.8% away for Gimcheon) before Gimcheon either pull clear late or settle for a draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 19:38:35 UTC"
+}
