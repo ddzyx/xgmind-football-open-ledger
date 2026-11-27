@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552830,
+    "matchup": "Stade Brestois 29 vs Paris FC",
+    "home_team": "Stade Brestois 29",
+    "away_team": "Paris FC",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261127-stade-brestois-29-vs-paris-fc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Stade Brestois 29 vs Paris FC: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552830",
+      "league": "Ligue 1",
+      "matchup": "Stade Brestois 29 vs Paris FC",
+      "matchTime": "2026-11-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris FC are projected to avoid defeat (Draw / Away Win) in an open Ligue 1 clash where both sides score, led by a 1:2 away win over a 1:1 draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win driven by Paris FC's 0.93 xGA prevention and full core vs Brest's defensive absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score Yes backed by 2.80 combined lambda and >74% single-side scoring rates (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency covering the modal Poisson scoreline if Paris FC's away caution persists (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552830",
+      "league": "Ligue 1",
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Paris FC",
+      "match_time": "19:45",
+      "match_highlight": "Chardonnet-less Brest face Sinayoko and Lopez in an attacking xG duel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552830,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Paris FC win via superior finishing and health alongside a 1:1 stalemate reflecting Paris FC's 40% away win rate and Brest's 1.95 xG."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.80 lambda total, 53.1% Poisson Over 2.5 rate, and both clubs clearing 54% Over 2.5 frequency this season."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Brest score in 90.9% of league games via set pieces while missing Chardonnet against a 1.84 xG Paris FC attack, matching the 57.3% BTTS Yes baseline."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Paris FC's clinical edge over a depleted Brest backline, while 1:1 covers the 12.5% modal Poisson draw."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the 1:2 tactical expectation above 2.80 lambda, with 2 goals covering the 24.4% Poisson mode."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Paris FC have drawn 60% of away first halves without trailing, setting up a level break before either an away winner or a 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:11:33 UTC"
+}
