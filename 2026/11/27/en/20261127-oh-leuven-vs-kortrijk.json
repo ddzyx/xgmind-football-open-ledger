@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558692,
+    "matchup": "OH Leuven vs Kortrijk",
+    "home_team": "OH Leuven",
+    "away_team": "Kortrijk",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-27 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261127-oh-leuven-vs-kortrijk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "OH Leuven vs Kortrijk Prediction & Match Analysis: Can Shoffner's Press Crack KVK? — xG Preview",
+    "meta": {
+      "matchId": "1558692",
+      "league": "Jupiler Pro League",
+      "matchup": "OH Leuven vs Kortrijk",
+      "matchTime": "2026-11-27 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "OH Leuven are projected to claim an ordinary Home Win with a clean sheet against bottom-placed Kortrijk.",
+    "possibilityAssessment": [
+      "Home Win — OH Leuven press Kortrijk's Lambert-less midfield and injury-hit goalkeeping setup to secure a home shutout (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals & BTTS: No — Kortrijk's 0.33 goals-per-game output and OHL's 75.0% big-chance waste keep total scoring contained (Confidence: Moderate, Value: Moderate)",
+      "Half-time stalemate or late OHL lead erosion if OHL's four fitness doubts blunt attacking depth against a compact block (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558692",
+      "league": "Jupiler Pro League",
+      "homeTeam": "OH Leuven",
+      "awayTeam": "Kortrijk",
+      "match_time": "19:45",
+      "match_highlight": "High-pressing OH Leuven target Kortrijk spine missing Lambert and Ilic.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558692,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "OH Leuven's 2:0 and 1:0 shutout scripts capitalize on Kortrijk's 83.3% away failed-to-score rate and absences of Boris Lambert and Marko Ilic."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Kortrijk's 0.33 goals per game and OHL's 75.0% big-chance waste pull real scoring below the 2.74 raw lambda anchor."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Kortrijk failed to score in 5 of 6 away matches with 0 set-piece goals, while OHL kept clean sheets in 2 of their last 3 home games."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 matches both of OHL's home league win margins this season, while 1:0 covers Kortrijk's recent narrow 0:1 road structure."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals is the modal 24.8% statistical bucket and fits 2:0, while 1 goal reflects OHL's 1.00 goal/game average against a compact block."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Kortrijk trailed at half-time and lost in 5 of 6 away fixtures (Win-Win), while OHL's 25% home first-half goal share makes Draw-Win the key second-half alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-27 08:23:15 UTC"
+}
