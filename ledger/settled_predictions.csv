@@ -1,4 +1,8 @@
 match_date,league,home_team,away_team,final_score,half_score,outcome,hit_1x2,ou_line,ou_result,hit_ou,hit_score,hit_goals,hit_htft,hit_perfect,hit_btts,published_utc,report_url
+2026-11-27,A-League,Macarthur,Melbourne City,2-0,2-0,H,0,2.5,UNDER,1,0,1,0,0,0,2026-11-26 21:08:45,https://xgmind.com/matches/20261127-macarthur-vs-melbourne-city/
+2026-11-27,Liga MX,Leon,Cruz Azul,0-4,0-2,A,1,2.5,OVER,1,0,0,0,0,0,2026-11-26 15:38:29,https://xgmind.com/matches/20261127-leon-vs-cruz-azul/
+2026-11-27,Liga MX,CF Pachuca,Guadalajara Chivas,2-1,0-1,H,1,2.5,OVER,0,1,1,0,0,1,2026-11-26 13:08:37,https://xgmind.com/matches/20261127-cf-pachuca-vs-guadalajara-chivas/
+2026-11-26,Serie A,Sao Paulo,Remo,3-1,1-0,H,1,2.5,OVER,0,0,0,1,0,0,2026-11-26 11:08:27,https://xgmind.com/matches/20261126-sao-paulo-vs-remo/
 2026-11-26,UEFA Europa Conference League,FC Nordsjaelland,Panathinaikos,3-2,0-1,H,0,2.5,OVER,1,0,0,0,0,1,2026-11-26 09:42:30,https://xgmind.com/matches/20261126-fc-nordsjaelland-vs-panathinaikos/
 2026-11-26,UEFA Europa Conference League,Inter Club d'Escaldes,FC Copenhagen,2-0,1-0,H,0,2.5,UNDER,0,0,1,0,0,0,2026-11-26 09:39:00,https://xgmind.com/matches/20261126-inter-club-d-escaldes-vs-fc-copenhagen/
 2026-11-26,UEFA Europa Conference League,HNK Hajduk Split,St. Truiden,0-2,0-1,A,1,2.5,UNDER,1,0,1,0,0,1,2026-11-26 09:34:48,https://xgmind.com/matches/20261126-hnk-hajduk-split-vs-st-truiden/
