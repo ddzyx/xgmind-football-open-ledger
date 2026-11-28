@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601626,
+    "matchup": "Catanzaro vs Avellino",
+    "home_team": "Catanzaro",
+    "away_team": "Avellino",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-catanzaro-vs-avellino/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Catanzaro vs Avellino Prediction & Match Analysis: Can Home Momentum Crack Avellino? — xG Preview",
+    "meta": {
+      "matchId": "1601626",
+      "league": "Serie B",
+      "matchup": "Catanzaro vs Avellino",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Avellino are projected to avoid defeat at Stadio Nicola Ceravolo under a Draw / Away Win direction led by a narrow 1:2 road win alongside an Over 2.5 and BTTS Yes scoring profile.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction anchored by Avellino's 1.45 xG attack and 83.3% away unbeaten record against Catanzaro's 1.93 xGA defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and 3-goal primary total supported by a 3.07 combined lambda and Catanzaro's back-to-back 3:1 league results (Confidence: Moderate, Value: Moderate)",
+      "BTTS Yes supported by Catanzaro's 100% home scoring rate and Avellino's 66.7% away both-teams-to-score frequency (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601626",
+      "league": "Serie B",
+      "homeTeam": "Catanzaro",
+      "awayTeam": "Avellino",
+      "match_time": "14:00",
+      "match_highlight": "Avellino's road unbeaten run tests resurgent Catanzaro's leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601626,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the primary 1:2 Avellino win against Catanzaro's 1.93 xGA defense and the 1:1 draw script given Avellino's 50% road draw rate and 0% 2+ goal away win rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.07 lambda and 59.2% Poisson Over 2.5 probability reflect Catanzaro's high-conceding 1.93 xGA profile and Avellino's 1.62 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Catanzaro have scored in 5 of 5 home games (80.0% home BTTS) and Avellino in 6 of 6 away trips (66.7% away BTTS), aligning with the 60.7% model BTTS Yes projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Avellino's attacking and defensive prevention superiority within a one-goal road margin, while 1:1 covers their frequent away stalemates."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals and 2 goals tie at 22.4% each in the Poisson distribution, separating the 1:2 Over 2.5 base script from a tighter 1:1 road stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Avellino's 50% away half-time draw rate and 66.7% second-half away goal share point to a level opening 45 minutes before Avellino either win late or share a 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:19:57 UTC"
+}
