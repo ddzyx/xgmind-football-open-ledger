@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650261,
+    "matchup": "Bayonne vs Club Franciscain",
+    "home_team": "Bayonne",
+    "away_team": "Club Franciscain",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-bayonne-vs-club-franciscain/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bayonne vs Club Franciscain Tactical Breakdown & Preview: Transatlantic Cup Clash at Didier-Deschamps",
+    "meta": {
+      "matchId": "1650261",
+      "league": "Coupe de France",
+      "matchup": "Bayonne vs Club Franciscain",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Bayonne are projected to secure a controlled 90-minute home victory at Stade Didier-Deschamps in a low-scoring Coupe de France tie.",
+    "possibilityAssessment": [
+      "Mainland Home Win via Second-Half Control (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored on disciplined defensive profiles (Confidence: Moderate, Value: Moderate)",
+      "Draw contingency if compact visiting block forces a 90-minute stalemate (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650261",
+      "league": "Coupe de France",
+      "homeTeam": "Bayonne",
+      "awayTeam": "Club Franciscain",
+      "match_time": "15:00",
+      "match_highlight": "Mainland defensive discipline meets unbeaten Martinique cup travelers in Bayonne.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650261,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Bayonne's mainland defensive consistency, home venue, and bench depth support a 2:0 or 1:0 victory over traveling regional opposition."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Bayonne's 2.20-goal league match average and Club Franciscain's compact defensive record support a sub-2.5 knockout contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Bayonne's 0.90 league goals-conceded rate at home should contain Club Franciscain's transition attack after long-haul travel."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "A patient first half gives way to either a clinical 2:0 second-half surge or a narrow 1:0 home control script."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Conservative knockout game states and strong defensive numbers on both sides cluster total scoring at one or two goals."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Visiting resistance can keep the opening half level before Bayonne break through late, with a full-time stalemate as the primary risk path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:08:01 UTC"
+}
