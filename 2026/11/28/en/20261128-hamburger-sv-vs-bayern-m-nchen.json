@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575235,
+    "matchup": "Hamburger SV vs Bayern München",
+    "home_team": "Hamburger SV",
+    "away_team": "Bayern München",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-28 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-hamburger-sv-vs-bayern-m-nchen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Hamburger SV vs Bayern München Tactical Breakdown: Injury Crisis & xG Asymmetry Preview",
+    "meta": {
+      "matchId": "1575235",
+      "league": "Bundesliga",
+      "matchup": "Hamburger SV vs Bayern München",
+      "matchTime": "2026-11-28 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is the optimal risk-adjusted projection, led by a narrow Bayern München victory while formally covering the draw due to heavy Bavarian attacking absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win with Bayern München Win leading over the retained Draw script (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals anchored by 3 total goals as Bayern's midfield volume meets HSV's 2.40 goals-conceded rate (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Bayern's 20% clean-sheet rate, Jonas Urbig in goal, and the 1:1 draw contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575235",
+      "league": "Bundesliga",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "Bayern München",
+      "match_time": "14:30",
+      "match_highlight": "Depleted Bayern attack tests leaky HSV defense without Muheim.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575235,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Bayern's superior midfield and Elo edge for a 1:2 away win while covering the 1:1 draw script given Kane, Olise, Musiala, and Neuer are out."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.53 baseline lambda total, Bayern's 80% league Over 2.5 rate, and HSV conceding 2.40 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bayern keep clean sheets in only 20% of Bundesliga matches and start backup keeper Jonas Urbig, while HSV concede 1.87 xGA per game without Miro Muheim."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Bayern's narrowed away edge without Kane and Olise, while 1:1 covers finishing friction on a 66-hour turnaround."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the modal 1:2 script and 21.5% baseline peak, with 2 goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "HSV have drawn 60% of first halves while Bayern's depleted frontline favors a tight opening 45 minutes before deciding or sharing points late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:42:15 UTC"
+}
