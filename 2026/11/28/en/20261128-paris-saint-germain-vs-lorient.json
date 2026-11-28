@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552835,
+    "matchup": "Paris Saint Germain vs Lorient",
+    "home_team": "Paris Saint Germain",
+    "away_team": "Lorient",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-paris-saint-germain-vs-lorient/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Paris Saint Germain vs Lorient: Expected Goals (xG), Wing Absences & Preview",
+    "meta": {
+      "matchId": "1552835",
+      "league": "Ligue 1",
+      "matchup": "Paris Saint Germain vs Lorient",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Paris Saint Germain's territorial compression and set-piece superiority support a controlled Home Win alongside Under 2.5 goals and BTTS No against Lorient's low-volume attack.",
+    "possibilityAssessment": [
+      "Home Win — Sustained Parisian territory, 8 set-piece goals, and second-half depth overcome Lorient's compact away shell (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & 2:0 Shutout — Missing wide dribblers Doue, Kvaratskhelia, and Nuno Mendes compress scoring volume into 1-2 goals (Confidence: Moderate, Value: Moderate)",
+      "Draw (1:1) Contingency — Short 71-hour UCL turnaround and Lorient's four away clean sheets sustain stalemate risk if finishing falters (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "1:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552835",
+      "league": "Ligue 1",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "Lorient",
+      "match_time": "19:45",
+      "match_highlight": "PSG's 68.3% possession meets Lorient's four away clean sheets",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552835,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win reflects Paris Saint Germain's 64.6% blended model advantage and 2.55 xG per game against Lorient's 0.91-goal-per-game attack, expressed through tight 2:0 and 1:0 scripts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Confirmed wing absences for Paris Saint Germain and Lorient's 1.10 xGA per game across four away clean sheets in five compress expected scoring below 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Lorient average just 0.91 goals and 2.8 shots on target per game with Mohamed Bamba out, leaving their scoring floor too low against Paris Saint Germain's territorial control."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "1:0"
+        ],
+        "comment": "2:0 and 1:0 sit atop the Poisson home-win distribution (10.9% and 11.0%) and capture both a two-goal breakthrough and a tight low-block grind."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals leads the Poisson total-goals curve at 24.4%, while 1 goal captures the attrition branch if Lorient's back five resists until late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Lorient have drawn at half-time in 7 of 11 league matches while Paris Saint Germain score 68% of their goals after the break, making Draw-Win primary and Win-Win the early-breakthrough alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:21:24 UTC"
+}
