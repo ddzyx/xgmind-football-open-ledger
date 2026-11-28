@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650284,
+    "matchup": "Nimes vs Grenoble",
+    "home_team": "Nimes",
+    "away_team": "Grenoble",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-nimes-vs-grenoble/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nimes vs Grenoble Prediction & Match Analysis: Can Rotated Ligue 2 Visitors Resist the Hosts?",
+    "meta": {
+      "matchId": "1650284",
+      "league": "Coupe de France",
+      "matchup": "Nimes vs Grenoble",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nimes is projected to avoid regulation-time defeat (Home Win / Draw) in a closely fought Coupe de France tie anchored on a 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw led by a balanced 1:1 draw with a secondary 2:1 home upset path (Confidence: Moderate, Value: Moderate)",
+      "Secondary Goal Thesis: Under 2.5 Goals paired with BTTS Yes as both defenses concede once in a controlled cup tempo (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: Exact Home Win 2:1 and HT/FT Reversal Win-Draw capturing Nimes's early home thrust against fatigued visitors (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650284",
+      "league": "Coupe de France",
+      "homeTeam": "Nimes",
+      "awayTeam": "Grenoble",
+      "match_time": "17:00",
+      "match_highlight": "Fresh Nimes leaders test rotated, depleted Grenoble backline at Stade des Antonins.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650284,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the central 1:1 stalemate and the 2:1 home win script, as Grenoble's missing starters and 4.9-day turnaround make an outright away win difficult to isolate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Cautious knockout first-half patterns combined with Grenoble's 75.0% big-chance waste and missing forwards favor a two-goal ceiling over an open shootout."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Nimes's strong home league form meets a rotated Grenoble defense conceding 1.69 goals per Ligue 2 match, while Bonnet and Djitte keep the visitors' scoring floor intact."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 reflects near-even adjusted Elo parity and shared defensive leaks, while 2:1 captures late home pressure telling on tired Ligue 2 legs."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Matches the 1:1 equilibrium and 2:1 home-breakthrough branch in a competitive cup tie with limited finishing efficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Win"
+        ],
+        "comment": "Grenoble's recent 0:0 half-time pattern points toward an even opening 45 minutes before second-half goals yield either a 1:1 draw or a late Nimes winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:31:59 UTC"
+}
