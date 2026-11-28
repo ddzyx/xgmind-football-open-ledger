@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647178,
+    "matchup": "Palmeiras vs Estudiantes L.P.",
+    "home_team": "Palmeiras",
+    "away_team": "Estudiantes L.P.",
+    "league": "CONMEBOL Libertadores",
+    "kickoff_utc": "2026-11-28 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-palmeiras-vs-estudiantes-l-p/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Palmeiras vs Estudiantes L.P.: Expected Goals (xG), Midfield Absences & Final Preview",
+    "meta": {
+      "matchId": "1647178",
+      "league": "CONMEBOL Libertadores",
+      "matchup": "Palmeiras vs Estudiantes L.P.",
+      "matchTime": "2026-11-28 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Palmeiras' 1.76 xG attacking advantage and Estudiantes' dual central midfield absences favor a Palmeiras win or draw in a controlled, low-scoring Libertadores final.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Palmeiras leads on continental xG and midfield talent while Draw covers neutral-venue final parity (Confidence: Moderate, Value: High)",
+      "Secondary Angle: Under 2.5 & BTTS No — Combined 2.24 lambda and Estudiantes' 48.8% scoring expectancy point to 1 or 2 total goals (Confidence: High, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw Hedge — Estudiantes' 36.4% set-piece reliance targets Palmeiras' 33.3% continental clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647178",
+      "league": "CONMEBOL Libertadores",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Estudiantes L.P.",
+      "match_time": "20:00",
+      "match_highlight": "Palmeiras xG superiority meets Estudiantes' depleted midfield at Centenario.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647178,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Palmeiras breakthrough against depleted opponents and a 1:1 neutral-venue stalemate, as Estudiantes' unbeaten 10-game continental record makes a single win call overly exposed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.24 combined lambda, 61.2% model Under density, and two sub-0.85 xGA defenses."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Palmeiras' 0.70 xGA prevention and 51.2% clean-sheet projection limit an Estudiantes attack scoring at 1.07 xG without Neves and Rodriguez."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 leads at 16.2% model density via Palmeiras' creative edge, while 1:1 covers Estudiantes' set-piece equalizer threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Total-goal probabilities peak at 2 goals (27.3%) and 1 goal (22.7%), matching the 1:0 and 1:1 scoreline cluster."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Palmeiras leads at half-time in 66.7% of Libertadores games for Win-Win, while Draw-Draw covers a cagey 0-0 break holding to full-time."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:45:11 UTC"
+}
