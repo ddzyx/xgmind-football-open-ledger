@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650290,
+    "matchup": "Reipertswiller vs Sundhoffen",
+    "home_team": "Reipertswiller",
+    "away_team": "Sundhoffen",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-reipertswiller-vs-sundhoffen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Reipertswiller vs Sundhoffen Tactical Breakdown & Match Analysis: R1 Derby for Historic Last-64 Spot",
+    "meta": {
+      "matchId": "1650290",
+      "league": "Coupe de France",
+      "matchup": "Reipertswiller vs Sundhoffen",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Reipertswiller's Régional 1 Poule B home strength and recent clean-sheet run support a narrow 1:0 victory or 1:1 regulation-time draw against an organized Sundhoffen side.",
+    "possibilityAssessment": [
+      "Reipertswiller Home Win / Draw covering home Poule B form and Sundhoffen's away cup resilience (Confidence: Low, Value: Moderate)",
+      "Under 2.5 Total Goals grounded in both clubs' 0:1 seventh-round wins and knockout caution (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No reflecting back-to-back Reipertswiller shutouts and Sundhoffen's clean sheet at Amnéville (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650290",
+      "league": "Coupe de France",
+      "homeTeam": "Reipertswiller",
+      "awayTeam": "Sundhoffen",
+      "match_time": "16:00",
+      "match_highlight": "Two unbeaten R1 cup sides battle for a historic last-64 spot.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650290,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Reipertswiller's Poule B home edge for a 1:0 win and a 1:1 cup stalemate against road-tested Sundhoffen, as missing xG and lineups preclude isolating a single result."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both teams won 0:1 in Round 7 and face intense Round of 64 qualification stakes that favor compact defending."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Consecutive Reipertswiller shutouts and Sundhoffen's clean sheet at CSO Amnéville point toward at least one team failing to score in a 1:0 script."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Reipertswiller's patient home edge, while 1:1 captures Sundhoffen's ability to punish an opening and force a draw."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Goal density clusters tightly at 1 to 2 goals given both sides' 100% Under 2.5 cup profile and two-week preparation."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Knockout tension favors a scoreless first half before Reipertswiller's second-half push either delivers a late winner or ends level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:53:27 UTC"
+}
