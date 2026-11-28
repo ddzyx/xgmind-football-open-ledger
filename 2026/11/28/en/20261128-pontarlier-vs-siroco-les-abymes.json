@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650287,
+    "matchup": "Pontarlier vs Siroco Les Abymes",
+    "home_team": "Pontarlier",
+    "away_team": "Siroco Les Abymes",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-pontarlier-vs-siroco-les-abymes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Pontarlier vs Siroco Les Abymes Prediction & Match Analysis: Home Depth vs Cup Grit — Scoreline Preview",
+    "meta": {
+      "matchId": "1650287",
+      "league": "Coupe de France",
+      "matchup": "Pontarlier vs Siroco Les Abymes",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Pontarlier's mainland national-tier attacking depth and home conditions at Stade Paul Robbe project a controlled regulation-time home win with a clean sheet.",
+    "possibilityAssessment": [
+      "Home Win — Pontarlier breaks down Siroco Les Abymes through sustained wing pressure and multi-scorer depth (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & BTTS: No — Compact early visiting resistance limits the game to a 2:0 home victory, though late fatigue keeps 3:0 live (Confidence: Moderate, Value: Moderate)",
+      "Pontarlier 3:0 — An early breakthrough similar to the Montigny tie forces the visitors out of their block in the final half-hour (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650287",
+      "league": "Coupe de France",
+      "homeTeam": "Pontarlier",
+      "awayTeam": "Siroco Les Abymes",
+      "match_time": "14:00",
+      "match_highlight": "Mainland home depth tests Caribbean visitors' late-November stamina.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650287,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by Pontarlier's national-tier scoring depth, home advantage at Stade Paul Robbe, and a 2:0 core projection."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Siroco's compact early defensive block and modest away scoring floor favor a controlled 2:0 home win over an open shootout."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Pontarlier's clean sheet in Round 7 and home structure should contain an overseas regional attack adjusting to winter conditions."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 reflects disciplined home control against an organized block, while 3:0 covers late visiting fatigue."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Pontarlier's 2.10 decayed cup scoring average against a low-scoring visitor points squarely to two or three total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Pontarlier can strike before half-time as at Montigny, with Draw-Win covering a scoreless opening period against Siroco's compact shell."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:30:23 UTC"
+}
