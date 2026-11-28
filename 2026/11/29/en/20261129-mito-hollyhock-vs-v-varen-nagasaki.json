@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556166,
+    "matchup": "Mito Hollyhock vs V-varen Nagasaki",
+    "home_team": "Mito Hollyhock",
+    "away_team": "V-varen Nagasaki",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-29 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-mito-hollyhock-vs-v-varen-nagasaki/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Mito Hollyhock vs V-Varen Nagasaki Tactical Breakdown & Probabilistic Modeling: Set-Piece Grit vs Road Woes",
+    "meta": {
+      "matchId": "1556166",
+      "league": "J1 League",
+      "matchup": "Mito Hollyhock vs V-varen Nagasaki",
+      "matchTime": "2026-11-29 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win paired with Under 2.5 goals captures V-Varen Nagasaki's superior xG and ClubElo baseline while accounting for their winless away record and Mito Hollyhock's set-piece revival.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by a 1:1 equilibrium with 0:1 visiting upside (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored by lambda_total 2.35 and 75% away Under rate (Confidence: Moderate, Value: High)",
+      "0:1 narrow away shutout if Mito's 0.86 xG open-play attack stalls (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Draw",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556166",
+      "league": "J1 League",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "V-varen Nagasaki",
+      "match_time": "05:00",
+      "match_highlight": "Mito set-piece grit meets Nagasaki superior xG and winless road drought.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556166,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the modal 1:1 stalemate and Nagasaki's 0:1 away edge because Nagasaki's 1.17 vs 0.86 xG advantage is tempered by a 0-3-5 away record and Mito's recent two-match revival."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.35 lambda_total, 58.3% Dixon-Coles Under 2.5 probability, and 62.5% home / 75.0% away Under 2.5 venue splits."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses hold just a 12.5% venue clean-sheet rate alongside 1.66 and 1.46 xGA per match, favoring a 1:1 exchange despite low total-goal expectancy."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "0:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.8%, while 0:1 (11.2%) covers a repeat of Nagasaki's May and June 1:0 playoff wins if Mito's open-play attack stalls."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Aligned with the top two Poisson total-goal densities of 27.0% for 2 goals and 21.1% for 1 goal under conservative relegation-battle pacing."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Draw",
+          "Draw-Loss"
+        ],
+        "comment": "Mito draw 62.5% of home first halves while Nagasaki score 80% of away goals after the break, creating a second-half fork between a 1:1 stalemate and a late away winner."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 17:10:04 UTC"
+}
