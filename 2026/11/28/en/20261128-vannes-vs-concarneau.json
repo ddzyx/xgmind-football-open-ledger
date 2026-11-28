@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650305,
+    "matchup": "Vannes vs Concarneau",
+    "home_team": "Vannes",
+    "away_team": "Concarneau",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 19:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-vannes-vs-concarneau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vannes vs Concarneau Tactical Breakdown & Probabilistic Modeling: Ligue 3 Depth vs Cup Momentum",
+    "meta": {
+      "matchId": "1650305",
+      "league": "Coupe de France",
+      "matchup": "Vannes vs Concarneau",
+      "matchTime": "2026-11-28 19:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "US Concarneau are projected to avoid defeat inside 90 minutes, with a 2-1 away victory leading a secondary 1-1 stalemate scenario.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Ligue 3 defensive structure and attacking depth favor Concarneau over 90 minutes while covering their 38.5% league draw rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals / 1:2 Away Win — Vannes's four-match scoring streak meets a clinical Concarneau forward line in a three-goal cup battle (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes / 1:1 Draw Hedge — Concarneau's 66.7% big-chance waste rate leaves room for an in-form Vannes counter-attack to force a level scoreline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650305",
+      "league": "Coupe de France",
+      "homeTeam": "Vannes",
+      "awayTeam": "Concarneau",
+      "match_time": "19:00",
+      "match_highlight": "Ligue 3 discipline faces Vannes's surging attack in Breton cup clash.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650305,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A 1:2 Concarneau win leads on third-tier quality while a 1:1 draw covers Concarneau's high league draw rate and cup finishing variance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Vannes's 14 goals across four recent matches and vulnerable National 2 backline support a three-goal 1:2 trajectory."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Vannes's hot scoring streak at Stade de la Rabine and Concarneau's Ligue 3 attacking depth point to goals at both ends."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Divisional quality tilts a competitive derby 1:2 toward Concarneau, with 1:1 covering finishing wastefulness."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Total goal expectancy centers on 2 to 3 goals, aligning with tight regional cup margins and Under 3.5 market consensus."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams tend toward cagey openings and late action, favoring a level half-time before Concarneau press late or split points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:38:28 UTC"
+}
