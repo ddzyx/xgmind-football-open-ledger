@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651506,
+    "matchup": "Atlas vs Toluca",
+    "home_team": "Atlas",
+    "away_team": "Toluca",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-29 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-atlas-vs-toluca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Atlas vs Toluca: Expected Goals (xG), Home Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1651506",
+      "league": "Liga MX",
+      "matchup": "Atlas vs Toluca",
+      "matchTime": "2026-11-29 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Toluca are projected to avoid defeat at Estadio Jalisco as Atlas's two-goal aggregate chase exposes a leaky home defense to superior transition quality.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by an Away Win as Toluca's 1.83 xG attack exploits an Atlas side with zero home clean sheets in nine matches (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.49 combined lambda and Atlas's forced offensive commitment (Confidence: Moderate, Value: High)",
+      "1:1 draw contingency if Toluca slow tempo after halftime to protect their 2-0 aggregate cushion (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651506",
+      "league": "Liga MX",
+      "homeTeam": "Atlas",
+      "awayTeam": "Toluca",
+      "match_time": "01:00",
+      "match_highlight": "Atlas chase two goals despite conceding in every home league game.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651506,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Toluca's leading 1:2 transition win against Atlas's open home defense alongside the 1:1 aggregate-management draw, as a single away call ignores Toluca's 44.4% away draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.49 lambda_total, 67.7% Over 2.5 model probability, and Atlas's urgent need to chase two goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 66.6% BTTS probability, Atlas's 88.9% home BTTS rate, and zero Atlas home clean sheets in nine matches."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Toluca's 49.06% win edge against an overextended host, while 1:1 captures conservative second-leg tie management."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals hold peak Poisson density at 21.6%, followed closely by two goals at 19.0%."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw 55.6% of first halves at these venues before second-half urgency decides whether Toluca pull away or see out a level night."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 13:08:26 UTC"
+}
