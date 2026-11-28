@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576250,
+    "matchup": "VfL Osnabrück vs Hannover 96",
+    "home_team": "VfL Osnabrück",
+    "away_team": "Hannover 96",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-28 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-vfl-osnabruck-vs-hannover-96/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling VfL Osnabrück vs Hannover 96: Expected Goals (xG), Striker Crisis & Match Preview",
+    "meta": {
+      "matchId": "1576250",
+      "league": "2. Bundesliga",
+      "matchup": "VfL Osnabrück vs Hannover 96",
+      "matchTime": "2026-11-28 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfL Osnabrück's 91.7th-percentile press and 1.89 home lambda tilt the matchup toward a home win or draw against a Hannover 96 side missing striker Benjamin Källman and holding an 8.3% clean-sheet rate.",
+    "possibilityAssessment": [
+      "Home Win / Draw covers Osnabrück's 68.15% blended unbeaten projection and second-half home surge while hedging their three-game scoring drought (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals and BTTS Yes align with the 3.30 total lambda and both clubs' 16.7% venue clean-sheet rates (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 draw branch covers finishing waste (75.0% and 73.5% big chances missed) if Hannover's makeshift attack holds territory (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576250",
+      "league": "2. Bundesliga",
+      "homeTeam": "VfL Osnabrück",
+      "awayTeam": "Hannover 96",
+      "match_time": "19:30",
+      "match_highlight": "Osnabrück's 91.7th-percentile press tests striker-less Hannover at Bremer Brücke.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576250,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home breakthrough driven by Osnabrück's 1.89 home lambda and Hannover's 66.7% away loss rate alongside a 1:1 draw if Osnabrück's 75.0% big-chance waste persists, whereas a single Home Win leaves no protection for the hosts' three-game scoring drought."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.30 combined lambda, 64.1% model probability, and 66.7% Over 2.5 frequency in both clubs' home/away venue splits."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Driven by 64.7% BTTS model probability, Osnabrück's 1.76 xGA/match, and Hannover's 8.3% clean-sheet rate across 12 league rounds."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Osnabrück's home attacking edge against Hannover's depleted forward line, while 1:1 captures the 10.3% modal Poisson draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.1%) and 2 goals (20.6%) represent the top two exact-total densities around the 3.30 lambda anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Osnabrück's 25.0% first-half home goal share and Hannover's 0.0% away HT lead rate point to Draw-Win, with Win-Draw covering Hannover's 66.7% HT-deficit recovery rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:42:15 UTC"
+}
