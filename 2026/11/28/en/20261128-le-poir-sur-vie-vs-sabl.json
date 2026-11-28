@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650276,
+    "matchup": "Le Poiré sur Vie vs Sablé",
+    "home_team": "Le Poiré sur Vie",
+    "away_team": "Sablé",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-le-poir-sur-vie-vs-sabl/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Le Poiré sur Vie vs Sablé Tactical Breakdown & Probabilistic Modeling: Tier Gap vs Cup Compactness",
+    "meta": {
+      "matchId": "1650276",
+      "league": "Coupe de France",
+      "matchup": "Le Poiré sur Vie vs Sablé",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Le Poiré sur Vie are projected to win in regulation time at Stade de l'Idonnière, led by a 2:1 scoreline projection.",
+    "possibilityAssessment": [
+      "Home Win behind fourth-tier quality and late-game home incision (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by a 2:1 knockout script as Sablé chase the second half (Confidence: Moderate, Value: Moderate)",
+      "2:0 home clean-sheet progression if hosts replicate their Avranches containment (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650276",
+      "league": "Coupe de France",
+      "homeTeam": "Le Poiré sur Vie",
+      "awayTeam": "Sablé",
+      "match_time": "17:00",
+      "match_highlight": "Fourth-tier home edge meets Sablé's compact fifth-tier defensive resistance.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650276,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Le Poiré sur Vie's one-tier advantage and back-to-back home wins over Vertou and Avranches support a 2:1 regulation victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average above 1.20 goals scored per league match and knockout urgency favors a three-goal 2:1 finish over 2:0."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Le Poiré sur Vie concede 1.20 goals per league game while fifth-tier Sablé bring multi-scorer momentum into the 8th round."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 mirrors Le Poiré sur Vie's seventh-round home win over Vertou, while 2:0 reflects their recent clean-sheet win over Avranches."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Goal expectation clusters at 3 goals via an open final half-hour, with 2 goals covering a controlled home shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Sablé's defensive organization supports a level first half before Le Poiré sur Vie pull away, with early home control as secondary."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:23:35 UTC"
+}
