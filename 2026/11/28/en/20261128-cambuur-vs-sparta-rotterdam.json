@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552234,
+    "matchup": "Cambuur vs Sparta Rotterdam",
+    "home_team": "Cambuur",
+    "away_team": "Sparta Rotterdam",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-28 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-cambuur-vs-sparta-rotterdam/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Cambuur vs Sparta Rotterdam: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552234",
+      "league": "Eredivisie",
+      "matchup": "Cambuur vs Sparta Rotterdam",
+      "matchTime": "2026-11-28 20:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Sparta Rotterdam's superior underlying chance creation (1.92 xG per match) and 100% away scoring record support Draw / Away Win in a high-scoring encounter despite their four defensive absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored by Sparta's 39.09% blended win probability, 61.9 forward OTI, and Cambuur's 57.1% home loss rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS: Yes backed by a 3.69 combined lambda, 71.3% Over 2.5 model projection, and 100% Over 2.5 home/away venue splits (Confidence: High, Value: Moderate)",
+      "High-scoring 2:2 draw branch covering Cambuur's 33.3% rate of surrendering half-time leads against Sparta's depleted backline (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552234",
+      "league": "Eredivisie",
+      "homeTeam": "Cambuur",
+      "awayTeam": "Sparta Rotterdam",
+      "match_time": "20:00",
+      "match_highlight": "Sparta's superior xG attack tests Cambuur despite four defensive absences.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552234,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Sparta's 1:2 away win edge built on superior 1.92 xG creation alongside the 2:2 draw script triggered by Sparta's four defensive absences, avoiding a single away call that assumes clean-sheet security."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 3.69 combined lambda, 71.3% model probability, and 100% Over 2.5 rates across both Cambuur's home and Sparta's away fixtures."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by 71.1% BTTS probability, Sparta's 0% clean-sheet rate with four defenders/GK out, and Cambuur's 1.76 xGA conceded per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "1:2 captures Sparta's higher attacking xG and OTI edging an open contest, while 2:2 accounts for Cambuur punishing Sparta's makeshift defense."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Reflects the top two Poisson total-goal densities (20.9% for 3 goals, 19.3% for 4 goals) under a 3.69 expected-goal total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss mirrors a competitive first half before Sparta's 58.3% second-half away scoring share prevails; Win-Draw covers Cambuur's 33.3% rate of dropping half-time leads."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:38:14 UTC"
+}
