@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563296,
+    "matchup": "West Brom vs Bristol City",
+    "home_team": "West Brom",
+    "away_team": "Bristol City",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-west-brom-vs-bristol-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "West Brom vs Bristol City Prediction & Match Analysis: Can Heggebo Offset Price's Absence? — xG Preview",
+    "meta": {
+      "matchId": "1563296",
+      "league": "Championship",
+      "matchup": "West Brom vs Bristol City",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back West Brom's home attacking floor with Draw protection via Home Win / Draw alongside Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Aune Heggebo's box threat and The Hawthorns unbeaten record versus 1:1 stalemate risk (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.02 combined expected goals and Bristol City's 62.5% away Over 2.5 frequency (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes supported by 17.6% home vs 11.8% away clean-sheet rates and dead-ball exposure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563296",
+      "league": "Championship",
+      "homeTeam": "West Brom",
+      "awayTeam": "Bristol City",
+      "match_time": "15:00",
+      "match_highlight": "Heggebo leads depleted West Brom against set-piece threat Bristol City",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563296,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 2:1 West Brom script and the 1:1 stalemate branch because Isaac Price's absence and Nzingoula's suspension make a single win call overly exposed to Bristol City's 75.0% away unbeaten record."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.02 combined lambda (1.99 home vs 1.03 away), Bristol City's 62.5% away Over 2.5 rate without Luke McNally, and four Over 2.5 outcomes in West Brom's last five league matches."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses post low clean-sheet rates (17.6% West Brom vs 11.8% Bristol City), while Bristol City have scored in 75.0% of away fixtures and generate 43.8% of goals from set plays."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Converges on West Brom's home attacking advantage over a McNally-less defense (2:1) while retaining the 10.5% top-density 1:1 draw if Price's absence blunts finishing."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the tight Poisson peak between 3 goals (22.4%) and 2 goals (22.8%), with depleted midfield screens and defensive injuries favoring 3 goals slightly."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides enter level at half-time over 60% of the time in relevant samples and score over 60% of goals after the break, making second-half separation (2:1) or stalemate (1:1) the primary splits."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:55:01 UTC"
+}
