@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650263,
+    "matchup": "Bourg-en-bresse 01 vs Thionville Lusitanos",
+    "home_team": "Bourg-en-bresse 01",
+    "away_team": "Thionville Lusitanos",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-bourg-en-bresse-01-vs-thionville-lusitanos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bourg-en-bresse 01 vs Thionville Lusitanos Preview & Match Analysis: Can Della Maggiore Halt Visitors?",
+    "meta": {
+      "matchId": "1650263",
+      "league": "Coupe de France",
+      "matchup": "Bourg-en-bresse 01 vs Thionville Lusitanos",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Thionville Lusitanos are projected to avoid defeat in regulation time in a tight, low-scoring Coupe de France encounter.",
+    "possibilityAssessment": [
+      "Draw / Away Win backed by Ligue 3 defensive solidity and August's away win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 supported by 2.42 Ligue 3 goal expectancy and cautious knockout tempo (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No driven by Bourg-en-bresse 01's 0.46 league goals-per-match floor against 0.86 away GA/match (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650263",
+      "league": "Coupe de France",
+      "homeTeam": "Bourg-en-bresse 01",
+      "awayTeam": "Thionville Lusitanos",
+      "match_time": "17:00",
+      "match_highlight": "Can Della Maggiore's struggling hosts contain Thionville's organized away counter-attack?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650263,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Thionville Lusitanos' 0:2 clinical transition blueprint alongside a cautious 1:1 cup stalemate, as unconfirmed cup XIs and home recovery edge prevent isolating a single outcome."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Ligue 3 goal rates derive a 2.42 total expectancy, with Bourg-en-bresse 01 averaging 0.46 goals per league match against Thionville's 0.86 away conceding average."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Bourg-en-bresse 01's low third-tier scoring output faces a compact visiting defense with two clean sheets in seven away league matches."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 mirrors Thionville's August league win at this stadium, while 1:1 captures their 42.9% away draw rate if the hosts find one breakthrough."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals fits both 0:2 and 1:1 scripts, while one goal reflects Thionville's consecutive 1:0 November league margins."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Thionville's fast transition starts from August, whereas Draw-Draw captures a cagey opening half in knockout competition."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:15:55 UTC"
+}
