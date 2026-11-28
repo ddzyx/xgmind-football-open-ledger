@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651507,
+    "matchup": "Club America vs Monterrey",
+    "home_team": "Club America",
+    "away_team": "Monterrey",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-11-29 03:10:00",
+    "source_url": "https://xgmind.com/matches/20261129-club-america-vs-monterrey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Club America vs Monterrey Tactical Breakdown & Probabilistic Modeling: Liguilla Edge vs Depleted Attack",
+    "meta": {
+      "matchId": "1651507",
+      "league": "Liga MX",
+      "matchup": "Club America vs Monterrey",
+      "matchTime": "2026-11-29 03:10 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Club America's home scoring consistency and Monterrey's must-win defensive exposure favor a Home Win or Draw outcome in a competitive second leg.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Club America's superior forward threat index and returning wide starters against a shorthanded visiting defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes driven by Monterrey's obligation to chase an outright win and America's 27.8% season clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency if Club America's finishing wastefulness persists through a tactical second half (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651507",
+      "league": "Liga MX",
+      "homeTeam": "Club America",
+      "awayTeam": "Monterrey",
+      "match_time": "03:10",
+      "match_highlight": "Brian Rodriguez returns against Chavez-less Monterrey with semifinal qualification on the line.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651507,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Anchors the 2:1 home breakthrough while covering a 1:1 stalemate since a single Home Win call carries unnecessary exposure to America's 50% home draw rate and recent finishing slump."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.28 combined lambda, 63.7% baseline Over 2.5 probability, and Monterrey's tactical obligation to push forward for a win."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "America have scored in all eight home league games while keeping clean sheets in just 27.8% overall, allowing Monterrey's wide creators a realistic scoring path."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects America's second-half acceleration against depleted visitors, while 1:1 covers the modal Dixon-Coles stalemate scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals leads the Poisson distribution at 22.1% probability, with two goals close behind at 20.7% if Monterrey's attacking injuries slow the tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "All four 2026 meetings were level at half-time and America score two-thirds of home goals after the break, making a tight first half followed by a home surge or stalemate most likely."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 15:38:19 UTC"
+}
