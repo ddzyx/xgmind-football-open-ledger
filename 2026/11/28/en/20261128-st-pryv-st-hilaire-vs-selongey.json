@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650294,
+    "matchup": "St-Pryvé St-Hilaire vs Selongey",
+    "home_team": "St-Pryvé St-Hilaire",
+    "away_team": "Selongey",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-st-pryv-st-hilaire-vs-selongey/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St-Pryvé St-Hilaire vs Selongey Tactical Breakdown & Match Analysis: Cup Recovery After 7-0 Rout",
+    "meta": {
+      "matchId": "1650294",
+      "league": "Coupe de France",
+      "matchup": "St-Pryvé St-Hilaire vs Selongey",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "St-Pryvé St-Hilaire's divisional edge and home venue tilt the 90-minute balance toward Home Win / Draw in an open matchup where both leaky defenses support BTTS: Yes and Over 2.5.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction targets Home Win / Draw, expecting St-Pryvé St-Hilaire's fourth-tier attacking quality to edge Selongey while covering their high league draw tendency (Confidence: Low, Value: Moderate)",
+      "Total goals lean toward Over 2.5 and BTTS: Yes as both clubs average over 3.20 total goals and more than 2.10 goals conceded per league match (Confidence: Moderate, Value: Moderate)",
+      "Contingency scenario monitors a 1:1 stalemate if St-Pryvé prioritizes defensive containment after last week's 7-0 loss and Selongey strikes on a second-half counter (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650294",
+      "league": "Coupe de France",
+      "homeTeam": "St-Pryvé St-Hilaire",
+      "awayTeam": "Selongey",
+      "match_time": "17:00",
+      "match_highlight": "Winless fourth-tier host seeks cup rebound against opportunistic Selongey",
+      "ai_confidence": "Low",
+      "fixtureId": 1650294,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a narrow 2:1 fourth-tier home win and a 1:1 stalemate, as St-Pryvé's winless 0-6-4 league run and Kenny Mavuba's absence prevent trusting a single win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams average over 2.10 goals conceded and over 3.20 total goals per league fixture, outweighing early cup caution."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "St-Pryvé has conceded multiple goals in four straight league games without Kenny Mavuba, while Selongey concedes 2.13 per game in National 2."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects St-Pryvé's attacking tier edge over a porous defense with one away reply; 1:1 captures St-Pryvé's 60% league draw profile in a tighter cup script."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary script, while two goals cover a more cautious 1:1 or 2:0 knockout pattern."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Win reflects cautious first-half containment before home quality tells late; Win-Draw captures an early host lead eroded by second-half defensive lapses."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:36:18 UTC"
+}
