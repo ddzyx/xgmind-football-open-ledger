@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570039,
+    "matchup": "Eibar vs Burgos",
+    "home_team": "Eibar",
+    "away_team": "Burgos",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-eibar-vs-burgos/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Eibar vs Burgos: Expected Goals (xG), Lineup Shifts & Match Analysis",
+    "meta": {
+      "matchId": "1570039",
+      "league": "Segunda División",
+      "matchup": "Eibar vs Burgos",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Model probabilities and venue splits point toward Eibar securing at least a point at Ipurua in a competitive match where both attacks find the net.",
+    "possibilityAssessment": [
+      "Eibar holds a 43.20% blended win probability anchored by superior midfield playmaking and ClubElo home advantage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes align with a 2.81 combined lambda and open away defensive metrics for Burgos (Confidence: Moderate, Value: Moderate)",
+      "A 1:1 draw remains a live contingency if Eibar's 61.1% big-chance waste rate persists against Burgos's set-piece threat (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570039",
+      "league": "Segunda División",
+      "homeTeam": "Eibar",
+      "awayTeam": "Burgos",
+      "match_time": "17:30",
+      "match_highlight": "Eibar's unbeaten Ipurua floor confronts Burgos's away defensive fragility and set-piece threat.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570039,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the leading 2:1 home-win script driven by Eibar's 85.7% home unbeaten rate and the 1:1 draw script triggered by Eibar's 61.1% big-chance waste rate, as a single home win omits Burgos's set-piece equalizer threat."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.81 combined lambda, 53.3% Over 2.5 model probability, Eibar's 1.44 xGA per game, and Burgos's 66.7% away Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Eibar has scored in 100% of its home league matches against Burgos's 16.7% away clean-sheet rate, while Eibar's 28.6% home clean-sheet rate and flank absences allow Burgos's 28.6% set-piece attack to score."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Eibar's leading win probability with both teams scoring, while 1:1 captures the 12.3% top Poisson scoreline and Eibar's recent home draw pattern."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the Over 2.5 and 2:1 primary projection given 2.81 combined lambda, while 2 goals covers the high-density 1:1 alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "High first-half draw rates (42.9% home, 46.7% away) and Eibar's 54.5% second-half home goal share support Draw-Win first, with Draw-Draw covering Eibar's 66.7% home level-to-draw conversion."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:33:06 UTC"
+}
