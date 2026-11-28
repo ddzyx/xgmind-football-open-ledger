@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650283,
+    "matchup": "Montluçon vs Clermont Foot",
+    "home_team": "Montluçon",
+    "away_team": "Clermont Foot",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-montlu-on-vs-clermont-foot/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Montluçon vs Clermont Foot Tactical Breakdown & Probabilistic Modeling: Four-Tier Gap Meets Cup Derby",
+    "meta": {
+      "matchId": "1650283",
+      "league": "Coupe de France",
+      "matchup": "Montluçon vs Clermont Foot",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Clermont Foot's four-division superiority, Ligue 2 possession control, and proven Round 7 cup ruthlessness point to a controlled away victory over Régional 1 hosts Montluçon.",
+    "possibilityAssessment": [
+      "Clermont Foot Away Win backed by four-tier quality and Round 7 scoring sharpness (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by visitor box penetration against sixth-tier defending (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 / 0:2 Away Shutout contingency if Montluçon's low block frustrates early finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650283",
+      "league": "Coupe de France",
+      "homeTeam": "Montluçon",
+      "awayTeam": "Clermont Foot",
+      "match_time": "18:00",
+      "match_highlight": "Four-tier gulf tests Montluçon's home low block against Clermont Foot.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650283,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Clermont Foot's Ligue 2 squad depth and 0:5 Round 7 blueprint support a clear 0:3 regulation victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Clermont's attacking edge against sixth-tier defenders favors three goals despite their 68.4% Ligue 2 chance-waste rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Montluçon's sixth-tier attack faces a steep scoring barrier against Clermont's 30.8% Ligue 2 clean-sheet structure."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "0:3 reflects an early breakthrough and late expansion, while 0:2 covers patient second-half breakdown of Montluçon's block."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Goal distribution centers on two to three visitor strikes with Montluçon held scoreless."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Clermont's early-half pace favors leading at the break, while Draw-Loss captures first-half home resistance before late fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:19:57 UTC"
+}
