@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557484,
+    "matchup": "Manchester United vs Brentford",
+    "home_team": "Manchester United",
+    "away_team": "Brentford",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-manchester-united-vs-brentford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Manchester United vs Brentford Prediction & Match Analysis: Can Pochettino Fix 2.02 xGA? — Scoreline Preview",
+    "meta": {
+      "matchId": "1557484",
+      "league": "Premier League",
+      "matchup": "Manchester United vs Brentford",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win stands as the primary 1X2 projection because Brentford's high press, set-piece efficiency, and 48-hour rest edge target a winless Manchester United defense missing Manuel Ugarte and Carlos Baleba.",
+    "possibilityAssessment": [
+      "Brentford avoid defeat via Draw / Away Win behind superior defensive prevention and pressing intensity (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.42 combined lambda and zero venue clean sheets for either side (Confidence: High, Value: Moderate)",
+      "2:2 high-scoring draw contingency reflecting Brentford's four away draws and United's late second-half scoring surges (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557484",
+      "league": "Premier League",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Brentford",
+      "match_time": "15:00",
+      "match_highlight": "Brentford's high press tests United's winless home defense under Pochettino.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557484,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A single Away Win is withheld because Brentford have zero away wins in five tries, so Draw / Away Win captures both the 1:2 away edge and 2:2 stalemate script."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.42 combined lambda, 66.4% model Over 2.5 expectancy, and zero venue clean sheets for either side."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks hold above-81% model scoring probabilities against backlines conceding 2.02 and 1.48 xGA per match with 0% venue clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "2:2"
+        ],
+        "comment": "Brentford's clinical edge and fresher legs favor a 1:2 away win, with 2:2 covering their away draw pattern and United's late scoring surges."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three and four total goals represent the top Over 2.5 Poisson density cells at 21.8% and 18.6% respectively under a 3.42 expected total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "United's 80% home half-time draw rate sets up a Draw-Loss script as fatigue bites, while Loss-Draw covers an early Brentford strike followed by a late home equalizer."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:11:52 UTC"
+}
