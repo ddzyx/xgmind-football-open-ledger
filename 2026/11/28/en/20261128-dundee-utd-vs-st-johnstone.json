@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556713,
+    "matchup": "Dundee Utd vs ST Johnstone",
+    "home_team": "Dundee Utd",
+    "away_team": "ST Johnstone",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-dundee-utd-vs-st-johnstone/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Dundee Utd vs ST Johnstone Prediction & Match Analysis: Can Saints Expose Tannadice? — xG Preview",
+    "meta": {
+      "matchId": "1556713",
+      "league": "Premiership",
+      "matchup": "Dundee Utd vs ST Johnstone",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dundee Utd hold a decisive creative and set-piece edge over a fragile ST Johnstone backline, but home clean-sheet leakage makes Home Win / Draw paired with Over 2.5 and BTTS: Yes the balanced projection.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw backed by 1.56 vs 1.27 xG, 1.52 vs 1.85 xGA, and Dundee Utd's 83.3% home unbeaten rate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals and BTTS: Yes supported by 3.06 combined lambda, 59.0% Over 2.5 model probability, and 60.8% BTTS probability (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Win-Draw HT/FT scenario driven by Dundee Utd's 71.4% first-half goal share and 33.3% home half-time lead drop rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556713",
+      "league": "Premiership",
+      "homeTeam": "Dundee Utd",
+      "awayTeam": "ST Johnstone",
+      "match_time": "15:00",
+      "match_highlight": "Fast-starting Dundee Utd attack tests porous ST Johnstone away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556713,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 home-win script and 1:1 draw branch because Dundee Utd dominate xG (1.56 vs 1.27) and set pieces yet keep just 16.7% home clean sheets with zero 2+ goal home wins."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.06 lambda, 59.0% Over 2.5 Poisson mass, and ST Johnstone's 1.85 xGA per game favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks clear high scoring floors (82.8% and 72.7% team-to-score baseline) against defenses with 16.7% home and 14.3% away clean-sheet rates."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Dundee Utd's attacking superiority and single-goal home winning pattern, while 1:1 captures the top 11.3% modal Poisson scoreline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4% probability) aligns with the primary 2:1 Over 2.5 script, while 2 goals (22.5%) covers the tight 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Dundee Utd score 71.4% of goals in the first half against a side trailing at HT in 57.1% of away trips, making Win-Win primary and Win-Draw the key second-half risk."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:23:33 UTC"
+}
