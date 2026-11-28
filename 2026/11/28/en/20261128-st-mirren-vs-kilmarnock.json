@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556717,
+    "matchup": "ST Mirren vs Kilmarnock",
+    "home_team": "ST Mirren",
+    "away_team": "Kilmarnock",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-st-mirren-vs-kilmarnock/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling ST Mirren vs Kilmarnock: Expected Goals, Goalkeeping Doubts & Match Analysis",
+    "meta": {
+      "matchId": "1556717",
+      "league": "Premiership",
+      "matchup": "ST Mirren vs Kilmarnock",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "ST Mirren vs Kilmarnock projects toward a narrow home edge or shared points in an open, two-way scoring contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw captures ST Mirren's superior home-adjusted Elo baseline and Kilmarnock's 5-of-7 away defeat rate while covering home conversion and lead-protection slips (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes align with 3.43 combined expected goals and both defenses conceding above 2.05 xGA per match (Confidence: Moderate, Value: Moderate)",
+      "1:1 tight-finishing draw branch accounts for both squads wasting over 72% of their big chances alongside Jonah Ayunga's absence (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556717",
+      "league": "Premiership",
+      "homeTeam": "ST Mirren",
+      "awayTeam": "Kilmarnock",
+      "match_time": "15:00",
+      "match_highlight": "Porous Premiership defenses collide as ST Mirren's Phillips tests Kilmarnock's makeshift keeper.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556717,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Home Win / Draw covers ST Mirren's 2:1 territorial edge over a 33-goal-conceded away defense alongside the 1:1 branch driven by the hosts' 72.7% big-chance waste rate, leaving a single Home Win too exposed to late lead slippage."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined lambda_total of 3.43 (66.6% Over 2.5 probability) and both defenses conceding over 2.05 xGA per game support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "An 83.0% home and 81.0% away single-side scoring floor against 14.3% clean-sheet rates drives a 67.7% Both Teams To Score projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects ST Mirren's home xG and midfield threat against an exposed visiting backline, while 1:1 captures the highest-density draw script if wasteful finishing persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.8%) and 2 goals (19.5%) lead the Poisson total-goals distribution as high chance creation meets mutual big-chance inefficiency."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "ST Mirren score 62.5% of home-match goals in the first half against a Kilmarnock side that lost 8 of 8 after trailing at HT, while ST Mirren's 66.7% home lead-not-won rate makes Win-Draw the key second-half fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:29:48 UTC"
+}
