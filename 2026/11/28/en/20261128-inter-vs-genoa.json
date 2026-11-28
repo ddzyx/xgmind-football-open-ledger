@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550211,
+    "matchup": "Inter vs Genoa",
+    "home_team": "Inter",
+    "away_team": "Genoa",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-inter-vs-genoa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Inter vs Genoa: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1550211",
+      "league": "Serie A",
+      "matchup": "Inter vs Genoa",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Inter are projected to extend their unbeaten Serie A home run with a 2:1 victory over Genoa in a contest featuring Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win behind Inter's 2.70 xG attacking output and 6W-0D-0L San Siro record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes driven by a 3.15 combined lambda and Bastoni's absence (Confidence: Moderate, Value: High)",
+      "Inter 2:0 clean-sheet branch if Colombo-less Genoa stall on the road (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550211",
+      "league": "Serie A",
+      "homeTeam": "Inter",
+      "awayTeam": "Genoa",
+      "match_time": "19:45",
+      "match_highlight": "Bastoni and Ostigard absences test both back threes at San Siro.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550211,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Inter's 2.70 xG attack and 6-0-0 home record support a 2:1 home win over Østigård-less Genoa."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.15 combined lambda and Inter's 83.3% home Over 2.5 rate align with 3+ total goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Inter's 1.42 goals conceded per game without Bastoni and Çalhanoğlu give Genoa a 60.5% scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 reflects Bastoni's absence eroding Inter's clean sheet, while 2:0 covers a blunt Colombo-less Genoa display."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three (22.3%) and two (21.7%) total goals represent the top two probability buckets around the 3.15 lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Inter drew 4 of 6 home halves before winning 100% of level halftime games, while Win-Win covers an early strike."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:08:16 UTC"
+}
