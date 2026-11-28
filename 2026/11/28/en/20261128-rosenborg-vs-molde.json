@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1494816,
+    "matchup": "Rosenborg vs Molde",
+    "home_team": "Rosenborg",
+    "away_team": "Molde",
+    "league": "Eliteserien",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-rosenborg-vs-molde/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Rosenborg vs Molde Prediction & Match Analysis: Can Depleted Molde Hold Lerkendal? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1494816",
+      "league": "Eliteserien",
+      "matchup": "Rosenborg vs Molde",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Quantitative modeling and Lerkendal home-away splits point to a high-scoring Rosenborg win or draw led by a 2:1 primary projection.",
+    "possibilityAssessment": [
+      "Primary 2:1 / 3:1 home control trajectory driven by 2.13 home lambda and Molde's confirmed defensive absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes supported by 3.83 combined lambdas and Molde's 2.32 xG per match (Confidence: High, Value: Moderate)",
+      "Contingency 2:2 stalemate or Loss-Draw HT/FT reversal if Molde's fast away starts exploit Pereira's absence before fading late (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1494816",
+      "league": "Eliteserien",
+      "homeTeam": "Rosenborg",
+      "awayTeam": "Molde",
+      "match_time": "17:00",
+      "match_highlight": "Rosenborg's Lerkendal edge meets Molde's elite attack and depleted defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1494816,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains the leading 2:1 Rosenborg victory at Lerkendal alongside the 2:2 shootout draw because Molde's 2.32 xG attack can match goals despite missing Linnes and Haugan."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.83 combined lambdas, a 73.6% Dixon-Coles Over 2.5 probability, and 18 of 25 combined home/away league games clearing 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 72.4% BTTS projection, Molde scoring in 12 of 13 away league matches, and only 1 away clean sheet alongside 4 home shutouts for Rosenborg."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 tops the Dixon-Coles matrix at 8.4% with Molde's backline depleted, while 2:2 (7.1%) covers the open transitional branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (20.3%) and 4 goals (19.5%) represent the two highest-density buckets under 3.83 total goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Rosenborg have led at half-time in 8 of 12 home games (7 Win-Win), while Molde's attacking threat creates a second-half equalizer path for Win-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:12:07 UTC"
+}
