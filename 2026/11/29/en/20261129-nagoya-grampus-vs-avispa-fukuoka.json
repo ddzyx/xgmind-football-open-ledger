@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556167,
+    "matchup": "Nagoya Grampus vs Avispa Fukuoka",
+    "home_team": "Nagoya Grampus",
+    "away_team": "Avispa Fukuoka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-29 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-nagoya-grampus-vs-avispa-fukuoka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Nagoya Grampus vs Avispa Fukuoka Tactical Breakdown: Can Jofuku End Fukuoka's Road Drought?",
+    "meta": {
+      "matchId": "1556167",
+      "league": "J1 League",
+      "matchup": "Nagoya Grampus vs Avispa Fukuoka",
+      "matchTime": "2026-11-29 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nagoya Grampus are projected to win or draw in a tight, low-scoring encounter centered on a 1:0 or 1:1 scoreline.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as Nagoya's possession and set-piece edge meet Fukuoka's 0-0-7 away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals is supported by a 2.31 combined lambda, 59.3% model probability, and dual finishing constraints (Confidence: Moderate, Value: High)",
+      "Single-goal margin or 1:1 stalemate contingency covers Nagoya's 74.1% big-chance waste and 0% home clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556167",
+      "league": "J1 League",
+      "homeTeam": "Nagoya Grampus",
+      "awayTeam": "Avispa Fukuoka",
+      "match_time": "06:00",
+      "match_highlight": "Nagoya's set-piece edge tests Jofuku's winless road travelers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556167,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Nagoya's home territorial edge against Fukuoka's 0-0-7 road record alongside the draw script driven by Nagoya's 0% home clean-sheet rate, where a single win call would ignore Nagoya's 28.6% home win rate."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by a 2.31 total lambda, 59.3% Poisson Under 2.5 probability, and both sides' 72%+ big-chance waste rates."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Fukuoka average 0.98 xG, have failed to score in 57.1% of away matches, and carry just 7.4% set-piece dependency."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects a controlled home breakthrough and road shutout, while 1:1 captures the highest Dixon-Coles matrix cell (13.5%) if Nagoya concede at home again."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.1%) and one goal (21.6%) represent the top two exact-total probabilities under a 2.31 expected-goal ceiling."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides record low first-half goal shares (37.5% Nagoya home, 25.0% Fukuoka away), pointing toward a level interval before a decisive home goal or 1:1/0:0 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 18:12:49 UTC"
+}
