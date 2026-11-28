@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650286,
+    "matchup": "OCPAM vs Reims",
+    "home_team": "OCPAM",
+    "away_team": "Reims",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-ocpam-vs-reims/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "OCPAM vs Reims Prediction & Match Analysis: Can Ligue 2 Visitors Break Down Charleville Without Fofana?",
+    "meta": {
+      "matchId": "1650286",
+      "league": "Coupe de France",
+      "matchup": "OCPAM vs Reims",
+      "matchTime": "2026-11-28 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Reims projects to secure a controlled away victory within 90 minutes as Ligue 2 defensive stability and second-half depth overcome National 2 hosts OCPAM despite Yaya Fofana's injury absence.",
+    "possibilityAssessment": [
+      "Reims Away Win driven by two-division superiority and set-piece edge (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals shaped by Reims' 50.0% big-chance waste rate and OCPAM's compact block (Confidence: Moderate, Value: Moderate)",
+      "First-Half Stalemate Contingency if rested OCPAM holds firm until late Ligue 2 substitutions (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "0:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650286",
+      "league": "Coupe de France",
+      "homeTeam": "OCPAM",
+      "awayTeam": "Reims",
+      "match_time": "12:30",
+      "match_highlight": "Reims seeks cup progression without injured playmaker Yaya Fofana.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650286,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Two-division class gap, intact Ligue 2 defensive spine, and second-half attacking depth support a 0:2 or 0:1 Reims away victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Yaya Fofana's absence, Reims' 50.0% big-chance waste rate, and OCPAM's 1.00 goal-per-match N2 attack keep projected output below 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "OCPAM averages 1.00 goals per National 2 match and failed to score in last season's 0:1 home cup tie against Reims' Ligue 2 defense."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:1"
+        ],
+        "comment": "Patient Ligue 2 territorial dominance against a fourth-tier defense conceding 1.63 goals per game converges on a 0:2 or 0:1 away shutout."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Projected expectancy around 2.2 goals favors two total goals if Reims adds a late clincher, or one goal if OCPAM's low block holds late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Reims' recent cup ties began 0:0 at half-time before late breakthroughs, while early set-piece conversion provides the secondary Loss-Loss path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:56:04 UTC"
+}
