@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650268,
+    "matchup": "Epinal vs Amiens",
+    "home_team": "Epinal",
+    "away_team": "Amiens",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-epinal-vs-amiens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Epinal vs Amiens Tactical Breakdown & Probabilistic Modeling: Can Amiens's Defense Hold in Vosges?",
+    "meta": {
+      "matchId": "1650268",
+      "league": "Coupe de France",
+      "matchup": "Epinal vs Amiens",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win (leaning Amiens SC) alongside Under 2.5 goals and Both Teams To Score: No best captures this cross-divisional Coupe de France clash.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win — Amiens win inside 90 minutes leads on third-tier structure, with the Draw retained for a tight cup stalemate (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 Total Goals — Both primary 0:2 and secondary 1:1 scripts compress below three goals (Confidence: Moderate, Value: High)",
+      "Contingency Angle: Both Teams To Score: No — Amiens's third-tier defensive record restricts Epinal's scoring floor (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650268",
+      "league": "Coupe de France",
+      "homeTeam": "Epinal",
+      "awayTeam": "Amiens",
+      "match_time": "14:00",
+      "match_highlight": "Can fourth-tier Epinal crack Amiens's disciplined National defense?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650268,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both a controlled 0:2 Amiens win and a 1:1 stalemate, as a single Away Win call ignores Amiens's five league draws and seven cup absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Amiens's sub-0.5 league conceding rate and Epinal's compact home structure compress expected scoring below 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Amiens's third-tier defensive solidity and 100.0% tracked cup clean-sheet rate limit fourth-tier Epinal's scoring routes."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Amiens's superior second-half quality and clean sheet, while 1:1 covers a stubborn home set-piece resistance."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals bridge both 0:2 and 1:1 scripts, with one goal covering a narrow single-strike cup grind."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A cagey first half at La Colombière projects either a second-half Amiens breakthrough (Draw-Loss) or a full-time stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:27:22 UTC"
+}
