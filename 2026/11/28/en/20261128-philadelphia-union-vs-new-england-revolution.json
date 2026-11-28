@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649503,
+    "matchup": "Philadelphia Union vs New England Revolution",
+    "home_team": "Philadelphia Union",
+    "away_team": "New England Revolution",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 21:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-philadelphia-union-vs-new-england-revolution/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Philadelphia Union vs New England Revolution Prediction & Match Analysis: Can xG Beat GK Doubt?",
+    "meta": {
+      "matchId": "1649503",
+      "league": "Major League Soccer",
+      "matchup": "Philadelphia Union vs New England Revolution",
+      "matchTime": "2026-11-28 21:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Philadelphia Union's superior 1.99 xG home attack and ClubElo edge support Home Win / Draw in regulation alongside Over 2.5 Goals and Both Teams To Score.",
+    "possibilityAssessment": [
+      "Philadelphia Union dominate home territory and chance creation against New England's 5.9% away clean-sheet defense, anchoring Home Win / Draw (Confidence: Moderate, Value: High)",
+      "Combined 3.23 expected-goal lambda and ~67% season Over 2.5 frequencies support Over 2.5 Total Goals (Confidence: Moderate, Value: High)",
+      "Union defensive absences (Sery Larsen out, Blake doubtful) preserve a 70.5% New England scoring projection for BTTS: Yes (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649503",
+      "league": "Major League Soccer",
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "New England Revolution",
+      "match_time": "21:30",
+      "match_highlight": "Philadelphia's 1.99 xG home attack tests New England's leaky road defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649503,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Philadelphia's 52.94% blended win projection drives a 2:1 primary script, while GK/CB absences and 59.8% big-chance waste make Draw (1:1) essential to retain over a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.23 total lambda (62.6% Over 2.5 model probability) aligns with Philadelphia's 68.8% home Over 2.5 rate and New England's 76.5% road Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "New England kept just 1 clean sheet in 17 away matches (5.9%), while Philadelphia's 21.2% clean-sheet rate and GK/CB doubts give the visitors a 70.5% scoring projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Philadelphia's 2.01 vs 1.22 lambda dominance with an away transition reply, whereas 1:1 (10.2% top density) captures home finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) is the modal exact-total bucket matching 2:1, with 2 goals (21.1%) covering a tighter 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Philadelphia won 5 of 16 home games via Win-Win while New England trailed at HT in 47.1% of road trips; Draw-Draw covers a locked 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 09:38:05 UTC"
+}
