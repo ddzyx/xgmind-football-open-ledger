@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601625,
+    "matchup": "Carrarese vs Juve Stabia",
+    "home_team": "Carrarese",
+    "away_team": "Juve Stabia",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-carrarese-vs-juve-stabia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Carrarese vs Juve Stabia Tactical Breakdown & Match Analysis: Away Absences Tilt Serie B Clash",
+    "meta": {
+      "matchId": "1601625",
+      "league": "Serie B",
+      "matchup": "Carrarese vs Juve Stabia",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Carrarese projects as the preferred side on a Home Win / Draw trajectory as superior 1.36 xG creation meets a Juve Stabia lineup stripped of starting goalkeeper Ante Vuković and defender Terrence Douglas.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Carrarese's recent back-to-back 1:0 wins and Juve Stabia's confirmed goalkeeper and flank absences, balanced against home finishing waste (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 total goals supported by a 2.26 combined lambda and 60.7% model Under probability across two profligate attacks (Confidence: High, Value: Moderate)",
+      "BTTS: No reflecting Carrarese's 0.76 recent goals-against rate and Juve Stabia's 0.96 away lambda without Douglas (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601625",
+      "league": "Serie B",
+      "homeTeam": "Carrarese",
+      "awayTeam": "Juve Stabia",
+      "match_time": "14:00",
+      "match_highlight": "Carrarese's home xG edge faces depleted Juve Stabia defense and backup keeper.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601625,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Carrarese's 1:0 edge over a weakened Juve Stabia rearguard alongside the 1:1 draw script created by home finishing wastefulness and away set-piece danger, because a single win call leaves the draw unaddressed."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.26 combined lambda, 60.7% model Under probability, and both sides' 61.5% seasonal Under 2.5 frequency strongly favor a tight total."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by 54.5% Dixon-Coles BTTS: No probability, Carrarese's consecutive clean sheets, and Juve Stabia's 0.96 away lambda."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 mirrors Carrarese's consecutive wins and Juve Stabia's keeper/defender absences, while 1:1 covers the top baseline density if away set plays strike."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.3%) and one goal (22.3%) represent the two highest-probability buckets in the Dixon-Coles total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams record 42.9% venue half-time draw rates and low first-half goal shares before second-half pressure decides between a 1:0 win or 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:15:56 UTC"
+}
