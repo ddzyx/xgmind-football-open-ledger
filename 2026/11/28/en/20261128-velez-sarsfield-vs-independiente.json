@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651632,
+    "matchup": "Velez Sarsfield vs Independiente",
+    "home_team": "Velez Sarsfield",
+    "away_team": "Independiente",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-28 23:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-velez-sarsfield-vs-independiente/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Velez Sarsfield vs Independiente Tactical Breakdown & Probabilistic Modeling: Attrition at Jose Amalfitani",
+    "meta": {
+      "matchId": "1651632",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Velez Sarsfield vs Independiente",
+      "matchTime": "2026-11-28 23:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Velez Sarsfield's home resilience and intact attacking spine favor Home Win / Draw alongside Under 2.5 goals and Both Teams To Score: No in a tight quarter-final.",
+    "possibilityAssessment": [
+      "Home Win / Draw leads as Velez Sarsfield's 14-in-16 home unbeaten record meets an injury-hit visitor in a low-margin knockout clash (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 goals carries strong quantitative support with 1.83 combined lambda and both teams averaging under 1.0 xG per game (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: No reflects Velez's 43.8% home clean-sheet rate against an Independiente attack missing Ezequiel Avila (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651632",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Velez Sarsfield",
+      "awayTeam": "Independiente",
+      "match_time": "23:00",
+      "match_highlight": "Lanzini targets depleted away flank in low-xG quarter-final.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651632,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Backed by 1:0 and 0:0 core scores, covering Velez Sarsfield's narrow home edge and the knockout stalemate branch where a single Home Win leaves excessive draw exposure."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Low combined 1.83 lambda, sub-1.0 xG averages for both clubs, and market 1.60 Under pricing align cleanly with two or fewer goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Velez's 43.8% home clean-sheet rate and Independiente's confirmed absence of Ezequiel Avila support a single-sided or scoreless outcome."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Captures Velez's exclusive 1-goal home winning margin profile alongside the highest-density Dixon-Coles knockout stalemate cell."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Reflects the top two exact-goal probabilities (28.0% and 27.5%) inside a compressed, defense-first elimination tie."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Independiente's 52.9% away half-time draw rate points toward a level interval before Velez either break through late or play out a deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 11:08:15 UTC"
+}
