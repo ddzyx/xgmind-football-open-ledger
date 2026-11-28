@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552236,
+    "matchup": "Excelsior vs Telstar",
+    "home_team": "Excelsior",
+    "away_team": "Telstar",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-28 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-excelsior-vs-telstar/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Excelsior vs Telstar: Expected Goals, Home Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1552236",
+      "league": "Eredivisie",
+      "matchup": "Excelsior vs Telstar",
+      "matchTime": "2026-11-28 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Telstar's superior midfield creation and Excelsior's zero-clean-sheet home record tilt the matchup toward Draw / Away Win with Over 2.5 goals and both teams scoring.",
+    "possibilityAssessment": [
+      "Draw / Away Win behind Telstar's 1.72 away lambda and 44.8% Dixon-Coles win share (Confidence: Moderate, Value: High)",
+      "Over 2.5 goals supported by a 3.11 combined lambda and 60.1% model probability (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by 62.2% model probability and sub-16% season clean-sheet rates (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552236",
+      "league": "Eredivisie",
+      "homeTeam": "Excelsior",
+      "awayTeam": "Telstar",
+      "match_time": "15:30",
+      "match_highlight": "Excelsior seek home stability against high-xG Telstar's midfield progression.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552236,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Telstar's superior xG and 1:2 away-edge script alongside the high-density 1:1 draw branch, whereas a single call ignores either Excelsior's 38.03% blended Elo/DC parity or Telstar's 55.6% big-chance waste rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.11 lambda_total, 60.1% Over 2.5 model probability, and season Over 2.5 rates of 84.6% for Excelsior and 76.9% for Telstar."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses concede roughly 2.0 xGA per game (Excelsior 0% home clean sheets, Telstar 7.7% overall) while carrying 75.1% and 82.1% scoring probabilities."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Telstar's higher xG and Excelsior's porous home defense, while 1:1 covers the top 11.2% Poisson stalemate if Telstar's finishing remains wasteful."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals leads the Poisson distribution at 22.4% ahead of 2 goals at 22.1%, bridging the open 1:2 primary script and tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Excelsior trailed at half-time and lost in 4 of 6 home games while Telstar post a 66.7% away first-half goal share (Loss-Loss), with Draw-Draw covering Telstar's 50% away half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:18:23 UTC"
+}
