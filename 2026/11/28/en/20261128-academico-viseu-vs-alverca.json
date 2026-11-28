@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575545,
+    "matchup": "Academico Viseu vs Alverca",
+    "home_team": "Academico Viseu",
+    "away_team": "Alverca",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-academico-viseu-vs-alverca/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Academico Viseu vs Alverca Prediction & Match Analysis: Can Alverca's xG Break Fontelo? — Scoreline Preview",
+    "meta": {
+      "matchId": "1575545",
+      "league": "Primeira Liga",
+      "matchup": "Academico Viseu vs Alverca",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Alverca to avoid defeat via Draw / Away Win best captures the visitors' superior expected-goal creation against Viseu's porous home defense while respecting Fontelo's second-half resilience.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Alverca's 1.39 xG/match attacking edge and 1:2 / 1:1 convergence (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals anchored by 3.00 combined lambda and zero venue clean sheets for both clubs (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes backed by 60.5% Poisson expectancy and confirmed Alverca defensive absences (Confidence: High, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575545",
+      "league": "Primeira Liga",
+      "homeTeam": "Academico Viseu",
+      "awayTeam": "Alverca",
+      "match_time": "18:00",
+      "match_highlight": "Alverca's 1.39 xG attack tests Viseu's winless home clean-sheet record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575545,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both the 1:2 away-win script driven by Alverca's superior xG and the 1:1 draw branch because Viseu's home scoring consistency and Alverca's defensive absences make a single away call overly exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.00 combined lambda, 57.7% Dixon-Coles Over 2.5 probability, and high Over 2.5 rates at tonight's venues (80% Viseu home, 60% Alverca away)."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 60.5% BTTS model estimate, Bet365's 1.75 affirmative price, and 0% venue clean-sheet records for both clubs across five home and five away matches respectively."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Reflects Alverca's higher away lambda (1.63 vs 1.37) and 1:2 upside alongside the modal 11.7% 1:1 stalemate if Ewerton's goalkeeping form holds."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anchors the projected 1:2 primary outcome (22.4% standalone 3-goal probability, Over 2.5 supported) while covering the 23.0% 2-goal branch if finishing variance limits the match to 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Projects a level first half after a three-week break before Alverca's higher second-half chance quality either decides 1:2 (Draw-Loss) or settles into a 1:1 share of the points (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:58:45 UTC"
+}
