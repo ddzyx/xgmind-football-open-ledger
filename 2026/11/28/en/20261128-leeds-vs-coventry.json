@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557483,
+    "matchup": "Leeds vs Coventry",
+    "home_team": "Leeds",
+    "away_team": "Coventry",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-leeds-vs-coventry/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Leeds vs Coventry Tactical Breakdown & Probabilistic Modeling: Set-Piece Edge Meets Striker Crisis",
+    "meta": {
+      "matchId": "1557483",
+      "league": "Premier League",
+      "matchup": "Leeds vs Coventry",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backed by an intact starting spine and a 42.0% set-piece scoring share against an injury-depleted visitor, Leeds project to secure a controlled home victory at Elland Road.",
+    "possibilityAssessment": [
+      "Home Win — Leeds' unbeaten home defense (0.82 GA/pg overall) and 1.72 expected goals exploit Coventry's 1.91 GA/pg away vulnerability (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No — Dixon-Coles 53.1% Under/No baseline aligns with Leeds' 80% home Under 2.5 rate and Coventry's striker absences (Confidence: Moderate, Value: High)",
+      "2:1 Home Win Contingency — Jack Rudoni's transition threat against Leeds' 1.26 xGA/pg could force a three-goal margin without overturning the host win (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557483",
+      "league": "Premier League",
+      "homeTeam": "Leeds",
+      "awayTeam": "Coventry",
+      "match_time": "15:00",
+      "match_highlight": "Unbeaten Leeds host strikerless Coventry in Elland Road tactical mismatch.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557483,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win reflects Leeds' 2:0 baseline against a zero-draw Coventry side missing both senior strikers Awoniyi and Wright."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.55 combined lambda, Leeds' 80% home Under 2.5 trend, and Coventry's depleted frontline support Under 2.5 (53.1% model probability)."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Leeds' 36.4% clean-sheet rate (40.0% at home) faces a Coventry attack with a 45.5% failed-to-score rate and no Awoniyi or Wright."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "2:0 aligns with 1.72 vs 0.83 lambdas and Under 2.5/BTTS No, while 2:1 covers a single Rudoni-led counter concession."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.9%) and 3 goals (21.6%) represent the two highest-density buckets in the Dixon-Coles total-goals matrix."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Leeds' 54.5% half-time draw rate favors Draw-Win, while Coventry's 60.0% away half-time deficit rate supports Win-Win."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:08:20 UTC"
+}
