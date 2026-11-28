@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650301,
+    "matchup": "Tremblay vs RED Star FC 93",
+    "home_team": "Tremblay",
+    "away_team": "RED Star FC 93",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-tremblay-vs-red-star-fc-93/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Tremblay vs RED Star FC 93 Prediction & Match Analysis: Can Régional 2 Hosts Survive Five-Tier Cup Gap?",
+    "meta": {
+      "matchId": "1650301",
+      "league": "Coupe de France",
+      "matchup": "Tremblay vs RED Star FC 93",
+      "matchTime": "2026-11-28 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "RED Star FC 93 are projected to convert their five-division Ligue 2 superiority into a clean-sheet regulation victory at Stade Auguste-Delaune, with 0:3 leading a 0:2 game-management alternative.",
+    "possibilityAssessment": [
+      "RED Star FC 93 Away Win via sustained territorial control and superior second-half fitness (Confidence: High, Value: Moderate)",
+      "Over 2.5 Goals (3 Goals primary) driven by late professional bench separation against Régional 2 fatigue (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No / 0:2 Shutout Contingency if RED Star's 64.0% Ligue 2 big-chance waste ratio caps scoring (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:2"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650301",
+      "league": "Coupe de France",
+      "homeTeam": "Tremblay",
+      "awayTeam": "RED Star FC 93",
+      "match_time": "13:00",
+      "match_highlight": "Ligue 2 Red Star test five-tier gap against Tremblay.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650301,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A five-tier professional gap, 7.8 days of rest, and 0:2 seventh-round cup control make a single RED Star FC 93 victory the clear baseline."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "RED Star's 54.3% Ligue 2 possession and late-game bench depth against seventh-tier stamina point to a three-goal away output."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "RED Star kept a clean sheet at National 1 side Paris 13 Atletico and should restrict Régional 2 Tremblay to low-probability set-piece threats."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:2"
+        ],
+        "comment": "0:3 captures late professional separation against tiring amateur legs, while 0:2 reflects RED Star's 64.0% big-chance waste ratio and early-lead rotation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals projects a steady multi-goal away shutout, with two goals covering early lead management similar to the Paris 13 Atletico tie."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Loss-Loss follows RED Star's fast-start cup blueprint, while Draw-Loss covers Tremblay holding compact until second-half fatigue."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 01:16:25 UTC"
+}
