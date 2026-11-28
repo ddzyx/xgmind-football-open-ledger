@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563298,
+    "matchup": "Wrexham vs Portsmouth",
+    "home_team": "Wrexham",
+    "away_team": "Portsmouth",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-wrexham-vs-portsmouth/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Wrexham vs Portsmouth: Expected Goals (xG), Injury Crisis & Match Analysis",
+    "meta": {
+      "matchId": "1563298",
+      "league": "Championship",
+      "matchup": "Wrexham vs Portsmouth",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wrexham hold the stronger path to avoid defeat in a compressed, low-scoring Championship contest against an injury-depleted Portsmouth side.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw — Wrexham's unbeaten home scoring run meets Portsmouth's depleted left flank and attack (Confidence: Moderate, Value: High)",
+      "Secondary Goals & BTTS Angle: Under 2.5 & BTTS No — Combined 2.12 lambda and five sidelined attackers suppress scoring volume (Confidence: Moderate, Value: High)",
+      "Contingency Draw Script: 1:1 / Draw-Draw — Wrexham's 68.0% big-chance waste rate and 12.5% home clean-sheet rate keep a tight stalemate live (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563298",
+      "league": "Championship",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Portsmouth",
+      "match_time": "15:00",
+      "match_highlight": "Moore's aerial threat tests injury-hit Portsmouth defense at Racecourse Ground.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563298,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 1:0 Wrexham victory over injury-hit Portsmouth alongside the 1:1 draw script, as Wrexham's three sidelined attackers and 68.0% big-chance waste make a single call riskier."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides post 1.13 xG per match (2.12 combined lambda), miss over 63% of big chances, and carry significant forward absences."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Portsmouth's missing primary strikers (Bishop, Milovanovic) and 37.5% away blank rate favour Wrexham's tightened 0.61 decayed GA defense keeping a clean sheet."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Wrexham's home scoring continuity against depleted visitors, while 1:1 covers Portsmouth's 50.0% away draw rate and set-piece threat."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "2 goals (27.6%) and 1 goal (24.1%) dominate the Dixon-Coles goal distribution around a 2.12 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw half-time in 50.0%–62.5% of venue fixtures before Wrexham's second-half pressure either forces a breakthrough or settles level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:01:30 UTC"
+}
