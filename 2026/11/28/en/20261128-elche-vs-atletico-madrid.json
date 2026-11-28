@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570466,
+    "matchup": "Elche vs Atletico Madrid",
+    "home_team": "Elche",
+    "away_team": "Atletico Madrid",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-elche-vs-atletico-madrid/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Elche vs Atletico Madrid Match Analysis: Can 69-Hour Turnaround Slow Simeone's xG Engine?",
+    "meta": {
+      "matchId": "1570466",
+      "league": "La Liga",
+      "matchup": "Elche vs Atletico Madrid",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Atletico Madrid's 1.81 xG attacking engine and 85.7% away league win rate project to overcome Elche's winless home record in a competitive 1:2 away victory.",
+    "possibilityAssessment": [
+      "Away Win driven by Atletico Madrid's superior shot creation, high pressing, and 6W-0D-1L away record (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals supported by a 2.74 combined lambda and Atletico's 71.4% away Over 2.5 rate (Confidence: Moderate, Value: High)",
+      "0:2 Away Shutout Margin if Elche's 66.7% home failed-to-score rate persists without Thomas Lemar (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570466",
+      "league": "La Liga",
+      "homeTeam": "Elche",
+      "awayTeam": "Atletico Madrid",
+      "match_time": "17:30",
+      "match_highlight": "Atletico face 69-hour fatigue test against winless-at-home Elche",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570466,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Atletico's 1.81 xG per match and 85.7% away win rate project a 1:2 or 0:2 victory over home-winless Elche."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.74 lambda, Atletico's 71.4% away Over 2.5 rate, and Romero's defensive absence support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Atletico's 82.3% scoring projection and 69-hour fatigue without Cristian Romero leave a 63.6% scoring opening for rested Elche."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 captures Atletico's attacking superiority and short-rest defensive vulnerability, while 0:2 reflects Elche's home scoring struggles."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "2 and 3 goals combine for 46.9% of the Poisson distribution, led by 3 goals under the primary 1:2 BTTS-Yes script."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Atletico have converted 75% of away half-time draws into wins while leading 42.9% of road matches at the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:12:14 UTC"
+}
