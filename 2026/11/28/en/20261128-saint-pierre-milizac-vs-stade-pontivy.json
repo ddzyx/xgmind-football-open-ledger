@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650282,
+    "matchup": "Saint-Pierre Milizac vs Stade Pontivy",
+    "home_team": "Saint-Pierre Milizac",
+    "away_team": "Stade Pontivy",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-saint-pierre-milizac-vs-stade-pontivy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint-Pierre Milizac vs Stade Pontivy Prediction & Match Analysis: Historic Cup Tie & Five-Back Test",
+    "meta": {
+      "matchId": "1650282",
+      "league": "Coupe de France",
+      "matchup": "Saint-Pierre Milizac vs Stade Pontivy",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Saint-Pierre Milizac is projected to defeat Stade Pontivy in regulation time via a second-half breakthrough toward a 2:0 home win.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win via patient territorial dominance breaking Pontivy's low block (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Under 2.5 total goals with 2 goals scored in a controlled shutout (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 3:0 home extension if an early goal forces Stade Pontivy out of its five-defender shell (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650282",
+      "league": "Coupe de France",
+      "homeTeam": "Saint-Pierre Milizac",
+      "awayTeam": "Stade Pontivy",
+      "match_time": "17:00",
+      "match_highlight": "Fifth-tier Milizac's prolific attack tests Pontivy's compact five-defender cup block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650282,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Projected 2:0 and 3:0 scripts reflect Saint-Pierre Milizac's one-division attacking edge breaking down Stade Pontivy at home."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Stade Pontivy's five-defender cup setup and low away scoring floor favor a controlled 2-0 home victory under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Stade Pontivy failed to score in five of six documented R1-level fixtures and faces an uphill task breaching Milizac's home back line."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "2:0 reflects a disciplined second-half breakthrough, while 3:0 covers late defensive unraveling seen in Pontivy's recent 0-3 league losses."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Total goal output concentrates at 2 or 3 depending on how early Milizac unlocks Pontivy's five-back defensive block."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Pontivy's compact opening supports a level half-time before Milizac pulls away, with Win-Win covering an early home breakthrough."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:28:04 UTC"
+}
