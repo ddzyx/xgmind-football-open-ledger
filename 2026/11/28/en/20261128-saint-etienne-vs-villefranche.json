@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650296,
+    "matchup": "Saint Etienne vs Villefranche",
+    "home_team": "Saint Etienne",
+    "away_team": "Villefranche",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-saint-etienne-vs-villefranche/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Saint Etienne vs Villefranche Prediction & Match Analysis: Can Rotation Slow Les Verts? — Preview",
+    "meta": {
+      "matchId": "1650296",
+      "league": "Coupe de France",
+      "matchup": "Saint Etienne vs Villefranche",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Saint Etienne to secure a controlled Home Win in regulation time, anchored on a 2:0 clean-sheet victory under rotated squad management.",
+    "possibilityAssessment": [
+      "Home Win — Saint Etienne's unbeaten home record, Ligue 2 attacking depth, and 251-point Elo gap overwhelm Villefranche's porous Ligue 3 defense (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No — Rotated home tempo against a deep block paired with seven Ligue 2 clean sheets favors a 2:0 shutout (Confidence: Moderate, Value: High)",
+      "Saint Etienne 3:0 Margin — An early breakthrough exposes Villefranche's 2.31 Ligue 3 goals-conceded rate in the closing half-hour (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "3:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650296",
+      "league": "Coupe de France",
+      "homeTeam": "Saint Etienne",
+      "awayTeam": "Villefranche",
+      "match_time": "18:00",
+      "match_highlight": "Rotated Ligue 2 leaders test Ligue 3's porous low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650296,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Saint Etienne's perfect six-win home Ligue 2 record and 251-point Elo edge outweigh cup rotation against a Villefranche side conceding 30 goals in 13 Ligue 3 games, pointing to a 2:0 win."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Home defensive control (0.85 conceded per Ligue 2 match) and rotated early chemistry against a deep low block favor a patient 2:0 victory over an open shootout."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Saint Etienne's seven Ligue 2 clean sheets and three shutouts in their last four league games should contain a 17th-placed Ligue 3 attack averaging under a goal per match."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "3:0"
+        ],
+        "comment": "A patient 2:0 win reflects rotated opening chemistry before breaking Villefranche's low block, while 3:0 covers a late collapse from a defense shipping 2.31 goals per league game."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Saint Etienne's controlled home scoring patterns and Villefranche's limited attacking threat concentrate the distribution at two goals, with three goals reachable if the visitors fade late."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Draw-Win captures a tight opening half against a rested low block before second-half superiority tells, while Win-Win covers an early breakthrough forcing Villefranche open."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:26:07 UTC"
+}
