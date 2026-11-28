@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558691,
+    "matchup": "Charleroi vs SK Beveren",
+    "home_team": "Charleroi",
+    "away_team": "SK Beveren",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-charleroi-vs-sk-beveren/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Charleroi vs SK Beveren: Expected Goals (xG), Squad Absences & Match Analysis",
+    "meta": {
+      "matchId": "1558691",
+      "league": "Jupiler Pro League",
+      "matchup": "Charleroi vs SK Beveren",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Charleroi are projected to secure a regulation-time Home Win built on superior xG creation and SK Beveren's confirmed midfield absences.",
+    "possibilityAssessment": [
+      "Primary Home Win projection backed by Charleroi's 2.51 home goal expectancy and Beveren's six-match winless away run (Confidence: High, Value: Moderate)",
+      "Over 2.5 goals paired with BTTS No driven by Charleroi's home scoring volume against a depleted Beveren midfield missing Verschueren and Condé (Confidence: Moderate, Value: High)",
+      "Controlled 2:0 home victory branch if Charleroi's high big-chance waste rate slows early conversion before second-half game management (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "3:0",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558691",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Charleroi",
+      "awayTeam": "SK Beveren",
+      "match_time": "19:45",
+      "match_highlight": "Charleroi's high-tempo attack hosts depleted SK Beveren missing two midfielders.",
+      "ai_confidence": "High",
+      "fixtureId": 1558691,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Charleroi's 1.89 xG attack and intact starting core should overpower a winless-away SK Beveren missing suspended Arno Verschueren and injured Cheick Condé."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.37 combined lambda and five of six home and away league games clearing 2.5 goals support three goals primarily from Charleroi's attack."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "SK Beveren have failed to score in four of six away trips and lose key creators Arno Verschueren and Ilyes Najim against a side with Mohamed Koné cleared in goal."
+      },
+      "score": {
+        "selection": [
+          "3:0",
+          "2:0"
+        ],
+        "comment": "3:0 reflects Charleroi's 2.51 home lambda against Beveren's 1.93 xGA road defense, while 2:0 covers a slower tempo-controlled margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three and two goals represent the top two exact totals in the Poisson distribution at 21.9% and 19.9%, aligning directly with 3:0 and 2:0."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Charleroi convert all half-time leads into wins while Beveren trail at the break in two-thirds of away matches, with Draw-Win covering a tight opening 45 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:28:47 UTC"
+}
