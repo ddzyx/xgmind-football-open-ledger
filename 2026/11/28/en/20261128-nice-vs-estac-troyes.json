@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552834,
+    "matchup": "Nice vs Estac Troyes",
+    "home_team": "Nice",
+    "away_team": "Estac Troyes",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-nice-vs-estac-troyes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Nice vs Estac Troyes: Expected Goals, Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552834",
+      "league": "Ligue 1",
+      "matchup": "Nice vs Estac Troyes",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nice's home attacking quality against Estac Troyes's 1.64 goals-conceded rate points toward a Home Win / Draw outcome anchored by a 2:1 projection.",
+    "possibilityAssessment": [
+      "Home Win / Draw driven by Nice's 83.3% home unbeaten rate and Troyes's recent road grit (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS: Yes aligned with 2.88 total expected goals and Nice's 1.66 xGA per game (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw-Draw stalemate hedge covering Nice's 60.0% big-chance waste rate against a 4-3-3 low block (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552834",
+      "league": "Ligue 1",
+      "homeTeam": "Nice",
+      "awayTeam": "Estac Troyes",
+      "match_time": "19:45",
+      "match_highlight": "Nice's depleted backline tests Troyes's struggling road attack at Allianz Riviera.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552834,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Nice's 2:1 home attacking edge alongside a 1:1 stalemate branch given their 1.66 xGA and defensive injuries, whereas a single call would ignore Troyes's recent 0:0 and 0:1 road containment."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.88 combined expected goals, 54.9% model Over 2.5 probability, and Nice clearing 2.5 goals in four of six home games."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with 56.9% model BTTS expectancy, Nice keeping just one home clean sheet in six, and three confirmed Nice defensive/midfield absentees."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Nice's narrow home margin superiority while 1:1 captures the highest single-scoreline Poisson density (11.8%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the primary 2:1 script and Over 2.5 balance, with 2 goals covering the 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win reflects Troyes trailing at half-time in 60% of away games with zero comebacks, while Draw-Draw covers a deadlocked first half at Allianz Riviera."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:18:00 UTC"
+}
