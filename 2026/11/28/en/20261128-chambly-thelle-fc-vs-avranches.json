@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650266,
+    "matchup": "Chambly Thelle FC vs Avranches",
+    "home_team": "Chambly Thelle FC",
+    "away_team": "Avranches",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-chambly-thelle-fc-vs-avranches/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Chambly Thelle FC vs Avranches Prediction & Preview: Can Hosts Break Avranches? — Scoreline Model",
+    "meta": {
+      "matchId": "1650266",
+      "league": "Coupe de France",
+      "matchup": "Chambly Thelle FC vs Avranches",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Chambly Thelle FC's home attacking output meets Avranches' knockout resilience, pointing toward a Home Win / Draw regulation outcome anchored on a 2:1 hosts victory.",
+    "possibilityAssessment": [
+      "Home Win / Draw regulation direction covering a Chambly home edge and 90-minute parity (Confidence: Low, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by both sides' 3-2 seventh-round ties and recent defensive concessions (Confidence: Low, Value: Moderate)",
+      "1:1 regulation draw contingency reflecting Avranches' Coupe de France track record of taking opponents to penalties (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650266",
+      "league": "Coupe de France",
+      "homeTeam": "Chambly Thelle FC",
+      "awayTeam": "Avranches",
+      "match_time": "17:00",
+      "match_highlight": "Evenly matched National 1 contenders clash for a Round of 64 place.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650266,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Chambly's 2:1 home attacking script and Avranches' 1:1 cup stalemate resilience, as unverified lineups and 21-vs-20 point parity make a single outcome too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Chambly's 1.70 league goals per game and both teams' 3-2 seventh-round cup ties tilt goal expectancy above 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither team kept a clean sheet in their November 14 cup wins or November 21 league defeats, supporting goals at both ends."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Chambly's home edge over a scoring visitor, while 1:1 covers Avranches' ability to force a 90-minute stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with Chambly's 2.70 average league match total, with two goals representing the tighter 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both clubs arrive off shutout defeats on November 21, favoring a cautious level first half before Chambly break through or Avranches hold on."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:19:40 UTC"
+}
