@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558690,
+    "matchup": "Cercle Brugge vs KV Mechelen",
+    "home_team": "Cercle Brugge",
+    "away_team": "KV Mechelen",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-28 17:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-cercle-brugge-vs-kv-mechelen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Cercle Brugge vs KV Mechelen Prediction & Match Analysis: Can Caixinha's Press Break Mechelen?",
+    "meta": {
+      "matchId": "1558690",
+      "league": "Jupiler Pro League",
+      "matchup": "Cercle Brugge vs KV Mechelen",
+      "matchTime": "2026-11-28 17:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Cercle Brugge's 1.66 xG pressing structure and consecutive 1-0 league wins give them the primary edge over a leaky KV Mechelen backline, with the Draw formally retained due to Cercle's 0% multi-goal win rate.",
+    "possibilityAssessment": [
+      "Cercle Brugge avoid defeat (Home Win / Draw) behind superior forward threat and Caixinha's compact press against Mechelen's 2.08 goals conceded per game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes align with a 3.12 lambda_total as both 16.7% clean-sheet defenses allow chances around a 2:1 primary script (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency reflects Cercle's 69.0% big-chance waste rate and Myron van Brederode's transition danger if Hammar slows midfield tempo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558690",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Cercle Brugge",
+      "awayTeam": "KV Mechelen",
+      "match_time": "17:15",
+      "match_highlight": "Caixinha's high-press Cercle host leaky KV Mechelen in a relegation six-pointer.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558690,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Cercle Brugge's 2:1 attacking breakthrough against Mechelen's depleted defense and the 1:1 draw branch driven by Cercle's 69.0% big-chance waste rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.12 combined goal expectancy (60.3% model probability) and both teams holding 16.7% season clean-sheet rates with over 1.50 xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both defenses post 16.7% clean-sheet rates across 12 league matches while Steve Ngoura and Myron van Brederode give each attack a 71%+ model scoring floor."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Cercle's pressing xG advantage without exceeding their one-goal winning margin ceiling, while 1:1 reflects the modal 10.8% Poisson draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4% probability) and 2 goals (22.0%) represent the two highest-density totals around the 3.12 lambda_total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides reach half-time level in 50.0% of their respective home and away league matches before diverging in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:29:43 UTC"
+}
