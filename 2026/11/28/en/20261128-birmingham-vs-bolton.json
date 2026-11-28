@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563287,
+    "matchup": "Birmingham vs Bolton",
+    "home_team": "Birmingham",
+    "away_team": "Bolton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-birmingham-vs-bolton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Birmingham vs Bolton Prediction & Match Analysis: Can Depleted Wanderers Survive St. Andrew's?",
+    "meta": {
+      "matchId": "1563287",
+      "league": "Championship",
+      "matchup": "Birmingham vs Bolton",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Birmingham are projected to secure a full-time Home Win in an open encounter driven by their intact attacking depth and Bolton's five-player injury crisis.",
+    "possibilityAssessment": [
+      "Home Win — Birmingham's unbeaten St. Andrew's record, 73.7 FW-OTI frontline, and 128-point ClubElo advantage outweigh Alex Cochrane's suspension (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Anchored by a 3.41 total lambda, 66.2% model probability, and seven Over 2.5 finishes across Birmingham's eight home matches (Confidence: High, Value: High)",
+      "BTTS: Yes — Bolton's five-match scoring streak meets a Birmingham defense carrying a 1.37 xGA profile without suspended left-back Alex Cochrane (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563287",
+      "league": "Championship",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Bolton",
+      "match_time": "15:00",
+      "match_highlight": "Birmingham's intact frontline targets Bolton's depleted defense amid Cochrane's left-back suspension.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563287,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Birmingham's 2.35 home lambda, full attacking availability, and Bolton's five confirmed absences anchor a projected 2:1 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.41 combined lambda, 66.2% model probability, and Birmingham's 87.5% home Over 2.5 rate support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bolton have scored in five straight league matches and face a 1.37 xGA home defense missing suspended left-back Alex Cochrane."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "Both top Dixon-Coles scorelines reflect Birmingham's home edge, with 2:1 leading on Bolton's live counter-attacking threat and 2:0 covering a visitor shutout."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (21.8%) leads the total-goals matrix on a 2:1 script, while two goals (19.6%) covers a controlled 2:0 home win."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Birmingham convert 100% of half-time leads into wins with a 57.9% home first-half goal share, while Draw-Win covers Bolton's 52.9% half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:41:10 UTC"
+}
