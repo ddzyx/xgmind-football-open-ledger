@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570040,
+    "matchup": "Eldense vs Girona",
+    "home_team": "Eldense",
+    "away_team": "Girona",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-28 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-eldense-vs-girona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Eldense vs Girona Prediction & Match Analysis: Can Depleted Hosts Hold Off Vanat & Asprilla? — xG Preview",
+    "meta": {
+      "matchId": "1570040",
+      "league": "Segunda División",
+      "matchup": "Eldense vs Girona",
+      "matchTime": "2026-11-28 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Girona is projected to avoid defeat in an Under 2.5 and BTTS-No contest led by a 0:2 away win, with 1:1 retained as the secondary draw script.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Girona leads on attacking output and Eldense's defensive absences, while Draw covers Girona's 16.7% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No — Eldense's 53.3% failed-to-score rate and missing forwards favour a controlled 0:2 or tight 1:1 ceiling (Confidence: Moderate, Value: Moderate)",
+      "Second-Half Containment Script — Girona's 57.7% first-half goal share meets Eldense's home resilience if the hosts force a 1:1 stalemate (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570040",
+      "league": "Segunda División",
+      "homeTeam": "Eldense",
+      "awayTeam": "Girona",
+      "match_time": "15:15",
+      "match_highlight": "Depleted Eldense backline faces Girona's high press without suspended Alex Serradell.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570040,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "A 0:2 Girona win leads given Eldense's four confirmed absences, while a single call is avoided to cover the 1:1 home-resilience draw script."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by the 2.50 combined lambda (54.4% Under 2.5), Eldense's five-match Under 2.5 streak, and missing home forwards."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Eldense's 53.3% failed-to-score rate and confirmed injuries to M. Carmona, Fidel, and Guillermo Macho suppress their scoring floor against Girona."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 mirrors Eldense's recent 0:2 league defeats against stronger sides, while 1:1 covers Girona's 16.7% away clean-sheet rate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals is the top Poisson bucket (26.3%) matching both 0:2 and 1:1, with 3 goals (21.4%) covering a 1:2 or 0:3 extension."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Girona's 57.7% first-half goal share drives Loss-Loss (home perspective), while a tight opening half maps onto Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:15:27 UTC"
+}
