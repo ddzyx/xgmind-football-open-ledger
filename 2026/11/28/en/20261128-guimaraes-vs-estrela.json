@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575553,
+    "matchup": "Guimaraes vs Estrela",
+    "home_team": "Guimaraes",
+    "away_team": "Estrela",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-28 20:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-guimaraes-vs-estrela/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Guimaraes vs Estrela Prediction & Match Analysis: High-Press xG vs Defensive Absences — Scoreline Preview",
+    "meta": {
+      "matchId": "1575553",
+      "league": "Primeira Liga",
+      "matchup": "Guimaraes vs Estrela",
+      "matchTime": "2026-11-28 20:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Guimaraes are favored to avoid defeat via Home Win / Draw in a high-press matchup where both teams are projected to score and Over 2.5 goals holds the edge.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw led by Guimaraes win on xG dominance with Draw retained for finishing waste (Confidence: Moderate, Value: Moderate)",
+      "Total Goals & BTTS Angle: Over 2.5 Goals and BTTS Yes driven by Estrela's zero-clean-sheet defense and Guimaraes backline absences (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw hedge if Estrela capitalize on transition space before Guimaraes convert (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575553",
+      "league": "Primeira Liga",
+      "homeTeam": "Guimaraes",
+      "awayTeam": "Estrela",
+      "match_time": "20:30",
+      "match_highlight": "High-press Guimaraes finishing test against leaky, zero-clean-sheet Estrela defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575553,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 2:1 Guimaraes win built on 1.54 xG against Estrela's 0.0% clean sheets and a 1:1 draw driven by home finishing waste and defensive absences, avoiding a fragile single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.70 combined lambda, Estrela's 80.0% away Over 2.5 rate, and Guimaraes's depleted backline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Estrela have zero clean sheets in 11 league games while scoring in four of five away trips, facing a Guimaraes defense missing Mendes and Borevkovic."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Guimaraes's pressing dominance breaking Estrela late while conceding once, with 1:1 covering persistent home chance waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 2:1 primary script and defensive absences, while 2 goals aligns with the 25.1% Dixon-Coles peak for a 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams record under 20% first-half goal shares and Estrela have drawn 80% of away first halves, pointing to a level break before a decisive second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:48:40 UTC"
+}
