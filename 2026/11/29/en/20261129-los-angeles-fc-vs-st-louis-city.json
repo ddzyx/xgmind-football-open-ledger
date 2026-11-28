@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649502,
+    "matchup": "Los Angeles FC vs St. Louis City",
+    "home_team": "Los Angeles FC",
+    "away_team": "St. Louis City",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-29 01:30:00",
+    "source_url": "https://xgmind.com/matches/20261129-los-angeles-fc-vs-st-louis-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Los Angeles FC vs St. Louis City: Expected Goals (xG), Injury Risks & Match Analysis",
+    "meta": {
+      "matchId": "1649502",
+      "league": "Major League Soccer",
+      "matchup": "Los Angeles FC vs St. Louis City",
+      "matchTime": "2026-11-29 01:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Los Angeles FC is projected to avoid 90-minute defeat at Banc of California Stadium, led by a narrow home victory over St. Louis City.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Los Angeles FC Home Win behind Denis Bouanga and Son Heung-Min (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals and BTTS: Yes driven by elimination urgency and 18.8% away clean-sheet rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw contingency if LAFC's 65.1% big-chance waste rate extends the match to penalties (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649502",
+      "league": "Major League Soccer",
+      "homeTeam": "Los Angeles FC",
+      "awayTeam": "St. Louis City",
+      "match_time": "01:30",
+      "match_highlight": "LAFC faces elimination at home against Holse-depleted St. Louis City.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649502,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers LAFC's leading 2:1 home win script behind Bouanga and Son alongside the 1:1 draw branch created by LAFC's 65.1% chance-waste rate and recent defensive lapses."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Season xG totals (1.57 vs 1.61, lambda_total 2.65) tilt above 2.5 given LAFC's elimination urgency, recent 2.37 decayed goals conceded, and St. Louis's 57.6% Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Supported by a 53.5% model BTTS projection as LAFC's 88.2% home scoring rate meets St. Louis's 18.8% away clean-sheet rate while LAFC has conceded in five straight matches."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects LAFC's home attacking edge and recent concession trend, while 1:1 captures the modal 12.7% Poisson draw scenario."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals matches the primary 2:1 elimination script, with two goals covering the 25.4% Poisson mode and 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "LAFC draws 41.2% of home first halves and scores 59.4% of home-match goals after the break, making a level interval followed by a home win or 1:1 draw the primary forks."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 13:38:38 UTC"
+}
