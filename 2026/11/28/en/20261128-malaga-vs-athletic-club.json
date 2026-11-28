@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570469,
+    "matchup": "Malaga vs Athletic Club",
+    "home_team": "Malaga",
+    "away_team": "Athletic Club",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-28 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-malaga-vs-athletic-club/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Malaga vs Athletic Club Tactical Breakdown & Modeling: Striker Absences vs La Rosaleda Vulnerability",
+    "meta": {
+      "matchId": "1570469",
+      "league": "La Liga",
+      "matchup": "Malaga vs Athletic Club",
+      "matchTime": "2026-11-28 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Athletic Club's xG and defensive superiority favors Draw / Away Win alongside Under 2.5 goals and BTTS No.",
+    "possibilityAssessment": [
+      "Draw / Away Win covers an Athletic Club breakthrough while protecting against away finishing variance without senior strikers (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals aligns with the 53.6% Poisson projection and Athletic's four-of-five away under trend (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw hedge reflects Malaga's scoring consistency at La Rosaleda if Athletic lack central box presence (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570469",
+      "league": "La Liga",
+      "homeTeam": "Malaga",
+      "awayTeam": "Athletic Club",
+      "match_time": "15:15",
+      "match_highlight": "Athletic wing threats test winless Malaga without senior number nines.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570469,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Athletic's 0:2 edge while retaining the 1:1 draw branch given Guruzeta and Sannadi's absences and Athletic's 1-2-2 away record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.53 combined lambda, 53.6% Poisson Under 2.5 probability, and Athletic's four Unders in five away league fixtures."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Backed by 50.5% Poisson probability, Athletic's 1.24 xGA defensive shell, and Malaga's 0.96 xG with 75.0% big-chance waste rate."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Athletic's two-goal margin profile against 1.74 xGA; 1:1 covers the top-density Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 Goals leads the Poisson matrix at 26.1%, with 3 Goals at 21.5% covering an open second-half branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss fits Malaga's 53.8% half-time deficit rate; Draw-Draw reflects Athletic's 50.0% half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:37:44 UTC"
+}
