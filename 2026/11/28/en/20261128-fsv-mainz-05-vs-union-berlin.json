@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575234,
+    "matchup": "FSV Mainz 05 vs Union Berlin",
+    "home_team": "FSV Mainz 05",
+    "away_team": "Union Berlin",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-28 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-fsv-mainz-05-vs-union-berlin/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FSV Mainz 05 vs Union Berlin Prediction & Match Analysis: Can Union's Depleted Defense Hold? — xG Preview",
+    "meta": {
+      "matchId": "1575234",
+      "league": "Bundesliga",
+      "matchup": "FSV Mainz 05 vs Union Berlin",
+      "matchTime": "2026-11-28 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FSV Mainz 05 are projected to secure a regulation-time Home Win against a heavily depleted Union Berlin backline in a contest clearing 2.5 total goals.",
+    "possibilityAssessment": [
+      "Home Win — FSV Mainz 05 leverage superior chance creation (1.94 xG/match) and intact forwards against Union's improvised defense (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals — Combined goal expectancy (lambda_total 3.64) and defensive fragility on both sides support 3 to 4 total goals (Confidence: High, Value: Moderate)",
+      "Both Teams To Score: Yes — Mainz's 20.0% home clean-sheet rate and Dominik Kohr's absence give Union's 62.5% set-piece attack a scoring path (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575234",
+      "league": "Bundesliga",
+      "homeTeam": "FSV Mainz 05",
+      "awayTeam": "Union Berlin",
+      "match_time": "14:30",
+      "match_highlight": "Mainz's 1.94 xG attack targets Union's injury-hit backline at MEWA Arena.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575234,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 2:1 primary projection as Mainz's intact attack exploits Union Berlin's crisis across four missing centre-backs and Rani Khedira."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.64 total lambda, 70.4% model Over 2.5 projection, and Mainz's 80% home Over 2.5 rate point to three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Projected at 57.5% as Mainz's 1.68 xGA per match without Dominik Kohr leaves space for Union's set-piece scoring route."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "Captures Mainz's two-to-three-goal home expectancy alongside their tendency to concede at the MEWA Arena."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches the top two exact-goal probabilities in the Dixon-Coles distribution (21.1% and 19.2%) aligned with 2:1 and 3:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Covers both an early home breakthrough against Union's patched-up defense and a second-half acceleration after a cagey first half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:38:21 UTC"
+}
