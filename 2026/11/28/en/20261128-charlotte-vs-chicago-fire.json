@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649499,
+    "matchup": "Charlotte vs Chicago Fire",
+    "home_team": "Charlotte",
+    "away_team": "Chicago Fire",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-charlotte-vs-chicago-fire/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Charlotte vs Chicago Fire Prediction & Match Analysis: Ream Absence vs Fire Road Frailty — xG Preview",
+    "meta": {
+      "matchId": "1649499",
+      "league": "Major League Soccer",
+      "matchup": "Charlotte vs Chicago Fire",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Charlotte avoids 90-minute defeat (Home Win / Draw) in a high-scoring Round One Game 2 playoff clash exceeding 2.5 total goals with both teams scoring.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by Charlotte's 13-of-15 home unbeaten record, ClubElo advantage, and Chicago's leaky away defense (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals driven by 3.28 combined lambda and five straight 3+ goal fixtures for both clubs (Confidence: Moderate, Value: High)",
+      "BTTS: Yes / 2:2 Draw Script reflecting Tim Ream's confirmed absence against Chicago's 1.84 xG attack (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649499",
+      "league": "Major League Soccer",
+      "homeTeam": "Charlotte",
+      "awayTeam": "Chicago Fire",
+      "match_time": "17:30",
+      "match_highlight": "Charlotte's home counter-attack tests Chicago's porous road defense without Tim Ream.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649499,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Charlotte's 2:1 home counter-attacking win script and the 2:2 draw branch because Tim Ream's confirmed absence keeps Chicago's 1.84 xG attack live, making a single win call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.28 lambda, 63.7% Dixon-Coles Over 2.5 probability, and 75.8% / 78.8% season Over 2.5 rates strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides score reliably (81.7% and 79.4% model projections) while struggling for clean sheets (21.2% and 18.2%), amplified by Ream's injury absence."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 reflects Charlotte's home edge and Game 1 blueprint; 2:2 captures elimination urgency exposing Charlotte's Ream-less backline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Modal 3-goal Poisson density (22.1%) paired with a 4-goal branch (18.1%) driven by both clubs' recent 4.4–5.0 goal match averages."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Charlotte scores 70.6% of home goals in the second half and Chicago draws 46.7% of road first halves, favoring a level interval before a home win or shared draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:41:39 UTC"
+}
