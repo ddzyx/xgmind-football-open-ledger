@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563297,
+    "matchup": "West Ham vs Stoke City",
+    "home_team": "West Ham",
+    "away_team": "Stoke City",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-west-ham-vs-stoke-city/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "West Ham vs Stoke City Tactical Breakdown & Probabilistic Modeling: High xG Meets Counter Efficiency",
+    "meta": {
+      "matchId": "1563297",
+      "league": "Championship",
+      "matchup": "West Ham vs Stoke City",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "West Ham hold superior chance creation and Elo fundamentals to avoid defeat in a high-scoring contest, with a home victory leading over a competitive draw.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw — West Ham's 59.44% blended win probability leads against Stoke's 1.42 xGA away vulnerability, while Stoke's five-match streak justifies covering the draw (Confidence: Moderate, Value: High)",
+      "Totals Thesis: Over 2.5 Goals — Supported by a 3.14 combined expected-goal lambda and 75% venue Over 2.5 rates for both teams (Confidence: Moderate, Value: High)",
+      "Scoring Asymmetry Thesis: Both Teams To Score: Yes — Driven by Stoke's 87.5% away BTTS record and West Ham's 25.0% home clean-sheet rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563297",
+      "league": "Championship",
+      "homeTeam": "West Ham",
+      "awayTeam": "Stoke City",
+      "match_time": "15:00",
+      "match_highlight": "West Ham's 2.11 xG attack tests Stoke's leaky away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563297,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers West Ham's 2:1 home-win dominance script alongside the 1:1 draw branch because Stoke's 100% away scoring rate and West Ham's winless run prevent excluding parity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.14 combined lambda, 60.7% Poisson Over 2.5 probability, and 75.0% Over 2.5 rates in each side's venue split."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 0.0% failed-to-score rates in both teams' venue splits, Stoke's 12.5% away clean-sheet rate, and West Ham's 25.0% home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Top two Dixon-Coles scorelines (9.9% and 9.8%) reflecting West Ham's superior chance creation against Stoke's reliable away transition goal."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligned with the two highest exact-goal probabilities (22.3% for 3 goals and 21.8% for 2 goals) around the 2:1 and 1:1 scenarios."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Captures West Ham's second-half acceleration (65.8% 2H goals) after a tight opening half, plus the risk of Stoke leading early before a West Ham recovery."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:57:57 UTC"
+}
