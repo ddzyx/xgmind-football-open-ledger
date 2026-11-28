@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650270,
+    "matchup": "FC 2 Rives 82 vs Versailles",
+    "home_team": "FC 2 Rives 82",
+    "away_team": "Versailles",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-fc-2-rives-82-vs-versailles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC 2 Rives 82 vs Versailles Prediction & Preview: Can R1 Hosts Rattle National Contenders?",
+    "meta": {
+      "matchId": "1650270",
+      "league": "Coupe de France",
+      "matchup": "FC 2 Rives 82 vs Versailles",
+      "matchTime": "2026-11-28 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Versailles hold the decisive three-tier quality and scoring advantage to win in regulation time at Stade Paul-Lafont, though their porous road defense keeps a home goal firmly in play.",
+    "possibilityAssessment": [
+      "Away Win — Versailles's three-division edge, 1.86 away National goals per match, and 3:0 league momentum point to a regulation-time victory (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals — Versailles's seven National away games average 3.43 total goals against a host that netted twice vs Trélissac (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes — Versailles's 14.3% away clean-sheet rate leaves room for FC 2 Rives 82 to score on home turf (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650270",
+      "league": "Coupe de France",
+      "homeTeam": "FC 2 Rives 82",
+      "awayTeam": "Versailles",
+      "match_time": "12:30",
+      "match_highlight": "Three-tier gap meets Versailles's porous road defense at Stade Paul-Lafont.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650270,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Supported by a 1:2 core scoreline as Versailles's third-tier attacking depth and 14-day rest overcome sixth-tier home resistance."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Versailles average 3.43 total goals across seven away National matches while FC 2 Rives 82 scored twice in their 2:1 win over Trélissac."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Versailles have kept only one clean sheet in seven National road trips (14.3%), while FC 2 Rives 82 carry proven home transition threat."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:3"
+        ],
+        "comment": "1:2 captures Versailles's road scoring edge alongside their away clean-sheet vulnerability, while 1:3 reflects late professional fitness pulling clear."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Matches Versailles's recent 3:0 and 3:2 scorelines and their 3.43 goals-per-match average in National away fixtures."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "FC 2 Rives 82's compact home shape can hold until half-time before tiring late (Draw-Loss), unless Versailles's class breaks through early (Loss-Loss)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:52:03 UTC"
+}
