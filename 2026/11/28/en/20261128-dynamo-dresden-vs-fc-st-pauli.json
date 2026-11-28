@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1576249,
+    "matchup": "Dynamo Dresden vs FC St. Pauli",
+    "home_team": "Dynamo Dresden",
+    "away_team": "FC St. Pauli",
+    "league": "2. Bundesliga",
+    "kickoff_utc": "2026-11-28 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-dynamo-dresden-vs-fc-st-pauli/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Dynamo Dresden vs FC St. Pauli: Expected Goals (xG), Injury Impact & Match Analysis",
+    "meta": {
+      "matchId": "1576249",
+      "league": "2. Bundesliga",
+      "matchup": "Dynamo Dresden vs FC St. Pauli",
+      "matchTime": "2026-11-28 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Dynamo Dresden are backed on Home Win / Draw alongside Over 2.5 Goals and BTTS: Yes, pairing their 60% home win rate with St. Pauli's 0W-5D-1L road record.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw captures 65.54% of the blended Dixon-Coles and ClubElo distribution as Dresden's home scoring meets St. Pauli's five away draws (Confidence: Moderate, Value: Moderate)",
+      "Totals Angle: Over 2.5 Goals is supported by a 2.99 combined lambda, 57.5% model probability, and Dresden's 75.0% overall league Over 2.5 frequency (Confidence: Moderate, Value: High)",
+      "BTTS Angle: Both Teams To Score Yes aligns with a 60.7% model projection, St. Pauli's 83.3% away BTTS frequency, and Dresden's 1.88 xGA/match defensive vulnerability (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1576249",
+      "league": "2. Bundesliga",
+      "homeTeam": "Dynamo Dresden",
+      "awayTeam": "FC St. Pauli",
+      "match_time": "12:00",
+      "match_highlight": "Dresden's home surge tests winless-away St. Pauli's high press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1576249,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains both Dynamo Dresden's 2:1 home-winning script and the 1:1 stalemate branch because St. Pauli remain winless in six away trips (0W-5D-1L) while Dresden's depleted defense struggles to guarantee a shutout."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by a 2.99 combined lambda, 57.5% model probability, and Dynamo Dresden's 1.88 xGA per match clashing with St. Pauli's 1.56 xG."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Anchored by a 60.7% model probability, Dresden's 100% home league scoring rate, and St. Pauli's 16.7% clean-sheet rate on the road."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Dresden's early home firepower against St. Pauli's 1.56 xG attack, while 1:1 covers the top single-cell density (11.8%) and St. Pauli's five away draws."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the 2.99 expected total and 2:1 projection, while 2 goals captures the 23.0% Poisson peak centered on a 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Dresden score 75% of home goals before half-time (3 of 5 home games Win-Win), while Win-Draw captures their 57.1% overall lead-not-won rate against St. Pauli's second-half pressure."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:15:09 UTC"
+}
