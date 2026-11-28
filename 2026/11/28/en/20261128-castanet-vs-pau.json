@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650302,
+    "matchup": "Castanet vs PAU",
+    "home_team": "Castanet",
+    "away_team": "PAU",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-castanet-vs-pau/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Castanet vs PAU Tactical Breakdown & Probabilistic Modeling: Set-Piece Threat Meets Cup Resilience",
+    "meta": {
+      "matchId": "1650302",
+      "league": "Coupe de France",
+      "matchup": "Castanet vs PAU",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Probabilistic modeling and tier-gap evaluation project an Away Win for PAU over Castanet, anchored by a 0:3 primary scoreline, Over 2.5 total goals, and a BTTS No shutout lean.",
+    "possibilityAssessment": [
+      "Away Win directional projection driven by PAU's two-division attacking advantage, 1.95 decayed scoring rate, and 41.4% set-piece threat (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals paired with BTTS No as PAU's Ligue 2 firepower meets Castanet's 0.96 decayed goal output (Confidence: Moderate, Value: Moderate)",
+      "Secondary 1:3 Away Win branch accounting for PAU's 15.4% Ligue 2 clean-sheet rate and possible cup defensive rotation (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650302",
+      "league": "Coupe de France",
+      "homeTeam": "Castanet",
+      "awayTeam": "PAU",
+      "match_time": "17:30",
+      "match_highlight": "Two-tier gap meets PAU set-piece threat at Lautard.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650302,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "PAU's Ligue 2 quality, available core spine, and 1.95 decayed goal average support an ordinary full-time away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Four of PAU's last five matches exceeded 2.5 goals, supported by their 41.4% set-piece threat and 1.70 market price."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Castanet's 0.96 decayed scoring rate faces a two-division step up against Ligue 2 goalkeeper Brice Maubleu, aligning with the 1.73 BTTS No snapshot."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "Primary 0:3 reflects controlled Ligue 2 superiority and set-piece conversion, while 1:3 covers PAU's 15.4% clean-sheet fragility under cup rotation."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "PAU's away scoring velocity against lower-tier opposition centers expected match volume on 3 to 4 total goals."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "PAU's early tempo favours leading at both intervals (Loss-Loss from host view), while Draw-Loss covers a compact first-half stand by Castanet."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:47:55 UTC"
+}
