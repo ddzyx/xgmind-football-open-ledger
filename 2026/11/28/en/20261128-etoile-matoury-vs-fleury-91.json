@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650269,
+    "matchup": "Etoile Matoury vs Fleury 91",
+    "home_team": "Etoile Matoury",
+    "away_team": "Fleury 91",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-etoile-matoury-vs-fleury-91/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Etoile Matoury vs Fleury 91 Prediction & Match Analysis: Can Tropical Heat Halt Ligue 3 Quality?",
+    "meta": {
+      "matchId": "1650269",
+      "league": "Coupe de France",
+      "matchup": "Etoile Matoury vs Fleury 91",
+      "matchTime": "2026-11-28 14:30 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Draw / Away Win stands as the primary 1X2 direction, led by Fleury 91's Ligue 3 technical superiority while covering a 90-minute stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Fleury 91 with 1:2 as the focal scoreline (Confidence: Low, Value: Moderate)",
+      "Over 2.5 Total Goals & Both Teams To Score Yes driven by mutual cup defensive fragility (Confidence: Low, Value: Moderate)",
+      "1:1 Regulation Draw hedging against tropical fatigue and unverified lineups (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650269",
+      "league": "Coupe de France",
+      "homeTeam": "Etoile Matoury",
+      "awayTeam": "Fleury 91",
+      "match_time": "14:30",
+      "match_highlight": "Ligue 3 precision meets 30-degree Guianese heat in Coupe de France.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650269,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Fleury 91's 1:2 class win and a 1:1 draw because tropical travel, unverified lineups, and Fleury's cup draw record make a single away call riskier."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Etoile Matoury clearing 2.5 goals in three of four recent cup ties and Fleury 91's four-game streak without a Coupe de France clean sheet."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Fleury 91 conceded in all four recent tracked cup matches while Matoury scored at least twice in three of their last four Coupe de France outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Fleury 91's third-tier quality telling over 90 minutes, while 1:1 reflects tropical heat stalling the visitors as seen in prior overseas cup ties."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with Fleury's 1.38 Ligue 3 scoring rate and Matoury's open cup matches, with two goals covering a tighter stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Matoury's home energy should keep the opening half level before Fleury's professional fitness decides the second half or holds at 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:55:18 UTC"
+}
