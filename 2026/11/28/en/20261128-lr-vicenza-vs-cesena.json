@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601628,
+    "matchup": "Vicenza Virtus vs Cesena",
+    "home_team": "Vicenza Virtus",
+    "away_team": "Cesena",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-lr-vicenza-vs-cesena/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Vicenza Virtus vs Cesena Prediction & Match Analysis: Can Dionigi Halt Cesena's Surge? — xG Preview",
+    "meta": {
+      "matchId": "1601628",
+      "league": "Serie B",
+      "matchup": "Vicenza Virtus vs Cesena",
+      "matchTime": "2026-11-28 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win with Cesena holding the primary edge alongside Over 2.5 goals and BTTS Yes in a projected 1:2 away victory.",
+    "possibilityAssessment": [
+      "Draw / Away Win prioritizing Cesena's attacking transition edge with Draw protection for late midfield fatigue (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes backed by 3.22 combined lambda and porous home box prevention (Confidence: Moderate, Value: High)",
+      "1:1 Draw via Half-Time Lead Erosion if Dionigi's debut compacting stalls Cesena's thinned midfield (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601628",
+      "league": "Serie B",
+      "homeTeam": "Vicenza Virtus",
+      "awayTeam": "Cesena",
+      "match_time": "16:15",
+      "match_highlight": "Suspended Brighenti leaves Vicenza exposed against high-pressing Cesena",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601628,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Cesena leads via superior pressing and Brighenti's suspension (1:2), while Draw covers Cesena's 42.9% half-time lead-erosion rate and midfield absences (1:1)."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.22 combined lambda, Vicenza's 2.35 xGA per match, and 62.4% Poisson Over 2.5 probability."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs post 69.2% season BTTS rates, with Vicenza holding 0.0% home clean sheets and Cesena keeping just 16.7% away."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Cesena's transition edge over a depleted home defense, while 1:1 covers the modal Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (21.2%) are the top two Poisson goal buckets matching 1:2 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss reflects Vicenza's 66.7% home HT draw rate before cracking late; Loss-Draw covers Cesena's 53.8% HT lead rate and 42.9% lead-erosion tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:57:05 UTC"
+}
