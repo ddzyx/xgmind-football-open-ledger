@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1550214,
+    "matchup": "Torino vs Lazio",
+    "home_team": "Torino",
+    "away_team": "Lazio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-torino-vs-lazio/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Torino vs Lazio: Expected Goals, Defensive Absences & Tactical Preview",
+    "meta": {
+      "matchId": "1550214",
+      "league": "Serie A",
+      "matchup": "Torino vs Lazio",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win leads with a 1:2 Lazio victory backed by superior attacking conversion and unbeaten road form, while 1:1 remains formally covered due to Lazio's defensive absences.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Lazio win leading via 46.66% model probability and 2.33 goals per game, with the draw retained for defensive attrition) (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by Torino's zero home clean sheets and simultaneous backline injuries on both sides (Confidence: Moderate, Value: Moderate)",
+      "Draw (1:1) contingency via Lazio surrendering a half-time advantage on depleted flanks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1550214",
+      "league": "Serie A",
+      "homeTeam": "Torino",
+      "awayTeam": "Lazio",
+      "match_time": "17:00",
+      "match_highlight": "Depleted Lazio backline faces Torino's winless slide in Turin.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1550214,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains Lazio's primary 1:2 away-win script while formally covering a 1:1 draw, as Lazio's four outfield absences make an outright single win call unnecessarily exposed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.57 lambda, 66.7% Over 2.5 rates for Torino at home and Lazio overall, and defensive absences on both sides point narrowly past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Lazio have scored in 12 of 12 league matches against a host with zero home clean sheets, while Torino's 83.3% home BTTS rate targets Lazio's makeshift full-backs."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Lazio's finishing edge over a depleted Torino defense, while 1:1 reflects the highest Dixon-Coles matrix density if Lazio's missing flanks slow momentum."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 1:2 projection driven by bilateral defensive absences, while two goals covers the tight 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss captures Lazio's 100% win conversion from half-time draws away from home, while Loss-Draw covers an early Lazio lead surrendered in the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 05:08:26 UTC"
+}
