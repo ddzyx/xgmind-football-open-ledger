@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1558693,
+    "matchup": "Lommel United vs Zulte Waregem",
+    "home_team": "Lommel United",
+    "away_team": "Zulte Waregem",
+    "league": "Jupiler Pro League",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-lommel-united-vs-zulte-waregem/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lommel United vs Zulte Waregem Tactical Breakdown & Probabilistic Modeling: Press vs Open Defense",
+    "meta": {
+      "matchId": "1558693",
+      "league": "Jupiler Pro League",
+      "matchup": "Lommel United vs Zulte Waregem",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lommel United hold the stronger scoring and defensive foundation to avoid defeat at Soeverein Stadion, with a 2:1 home victory leading a 1:1 draw branch.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Lommel United's 1.79 home goal expectancy against a Zulte Waregem side conceding 1.83 goals per game, paired with Draw coverage for Lommel's 33.3% home win rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes supported by 2.74 combined lambda expectancy and Zulte Waregem's 66.7% season Over 2.5 rate (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw-Draw stalemate if Zulte Waregem's high press neutralizes early home rhythm and both teams repeat their 50% venue half-time draw rates (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1558693",
+      "league": "Jupiler Pro League",
+      "homeTeam": "Lommel United",
+      "awayTeam": "Zulte Waregem",
+      "match_time": "19:45",
+      "match_highlight": "Lommel's second-half surge tests Zulte Waregem's high press and leaky defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1558693,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Lommel's primary 2:1 breakthrough against a porous away defense alongside the 1:1 draw risk stemming from Lommel's 2W-1D-3L home record and 48.59% blended win probability."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.74 combined goal expectancy and recent defensive leaks that pushed four of the last five matches for both sides past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Poisson baselines assign an 83.3% home scoring probability and 61.3% away scoring probability, aligning with Zulte's high-press threat and Lommel's four conceded-in-five streak."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "Balances Lommel's 1.79 attacking expectancy against Zulte's 3.01 decayed goals conceded with the modal 1:1 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals capture the favored 2:1 open second-half script, while two goals cover the 24.8% Poisson baseline peak via 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Reflects 50% venue half-time draw rates for both clubs before diverging on Lommel's 60% season half-time-draw conversion rate versus Zulte's away draw resilience."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:32:43 UTC"
+}
