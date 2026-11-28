@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650297,
+    "matchup": "St Ouen l'Aumône vs RC Calais",
+    "home_team": "St Ouen l'Aumône",
+    "away_team": "RC Calais",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-st-ouen-l-aum-ne-vs-rc-calais/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "St Ouen l'Aumône vs RC Calais Prediction & Match Analysis: Tier Gap vs Cup Firepower — Scoreline Preview",
+    "meta": {
+      "matchId": "1650297",
+      "league": "Coupe de France",
+      "matchup": "St Ouen l'Aumône vs RC Calais",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "St Ouen l'Aumône is projected to avoid 90-minute defeat via a 2:1 home victory or 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Home Win / Draw behind a 2:1 primary scoreline captures fifth-tier home resilience and mutual scoring floors (Confidence: Low, Value: Moderate)",
+      "Over 2.5 goals reflects 1.38 goals conceded per league match by the hosts against Calais's 3.33 regional scoring pace (Confidence: Low, Value: Moderate)",
+      "Draw with BTTS: Yes covers knockout caution sending an evenly contested tie to penalties at 1:1 (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650297",
+      "league": "Coupe de France",
+      "homeTeam": "St Ouen l'Aumône",
+      "awayTeam": "RC Calais",
+      "match_time": "17:00",
+      "match_highlight": "National 2 home poise meets Régional 1's 30-goal attack.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650297,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 home win driven by division seniority and a 1:1 draw forced by Calais's November scoring form, as unverified lineups preclude a single call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both teams scored in all three November fixtures while conceding regularly, tilting expectancy toward a three-goal 2:1 finish over a two-goal branch."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "St Ouen l'Aumône conceded in both November league games while Calais conceded in all three November outings despite high scoring."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects home tier control with a visitor reply, whereas 1:1 captures knockout containment if the hosts cannot pull clear."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals corresponds to the leading 2:1 script, with two goals representing the tight 1:1 cup deadlock alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half reflects knockout caution before fifth-tier home depth either breaks through after the interval or finishes tied."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:22:34 UTC"
+}
