@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601627,
+    "matchup": "Empoli vs Hellas Verona",
+    "home_team": "Empoli",
+    "away_team": "Hellas Verona",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-empoli-vs-hellas-verona/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Empoli vs Hellas Verona: Expected Goals (xG), Coaching Reset & Match Intelligence",
+    "meta": {
+      "matchId": "1601627",
+      "league": "Serie B",
+      "matchup": "Empoli vs Hellas Verona",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hellas Verona are projected to avoid defeat at Stadio Carlo Castellani, with an away victory leading a draw-covered profile built on superior chance creation.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Hellas Verona's superior 1.70 xG/match attack while covering a stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 2.80 combined lambda and Empoli's 1.92 goals conceded per match (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / 2 Goals covers the modal two-goal bin if Tonelli's compact debut slows Verona's finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601627",
+      "league": "Serie B",
+      "homeTeam": "Empoli",
+      "awayTeam": "Hellas Verona",
+      "match_time": "14:00",
+      "match_highlight": "Tonelli's Empoli defensive reset faces Mosquera and Verona's high press.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601627,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Hellas Verona's 1:2 xG-backed victory script and the high-density 1:1 draw branch, as Verona's 16.7% away win rate and Empoli's coaching change make a single road call less secure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.80 combined lambda, 53.1% model probability, and Empoli conceding 1.61 xGA and 1.92 goals per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 54.3% model probability as Verona's 82.6% scoring expectancy meets Empoli's 15.4% clean-sheet rate alongside Verona's 66.7% away BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Verona's 1.75 away lambda against Empoli's leaky defense, while 1:1 captures the top Poisson density if Tonelli's setup restricts space."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (24.4%) and three goals (22.2%) represent the two highest-probability discrete bins around the 2.80 expected-goal center."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Verona's 66.7% away half-time draw rate points toward a level interval before either second-half class forces Draw-Loss or containment yields Draw-Draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:23:45 UTC"
+}
