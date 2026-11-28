@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563291,
+    "matchup": "Millwall vs Burnley",
+    "home_team": "Millwall",
+    "away_team": "Burnley",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-millwall-vs-burnley/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Millwall vs Burnley Prediction & Match Analysis: Can Lions Exploit Burnley's Defensive Leaks? — xG Preview",
+    "meta": {
+      "matchId": "1563291",
+      "league": "Championship",
+      "matchup": "Millwall vs Burnley",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Millwall Home Win / Draw leads the tactical projection alongside Over 2.5 and BTTS Yes as superior home xG meets Burnley's leaky away defense.",
+    "possibilityAssessment": [
+      "Primary 1X2 Thesis: Home Win / Draw anchored by a 2:1 Millwall victory with 1:1 draw protection (Confidence: Moderate, Value: Moderate)",
+      "Scoring & BTTS Thesis: Over 2.5 and BTTS Yes backed by 3.47 total lambda and 75.0% venue Over 2.5 splits (Confidence: High, Value: High)",
+      "Half-Time/Full-Time Variance Thesis: Loss-Draw script reflecting Burnley's 71.4% first-half away goal share and 83.3% lead-not-won rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563291",
+      "league": "Championship",
+      "homeTeam": "Millwall",
+      "awayTeam": "Burnley",
+      "match_time": "15:00",
+      "match_highlight": "Millwall set-piece threat tests Burnley's porous road defense at The Den.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563291,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 Millwall win script driven by 1.69 xG and set pieces while retaining the 1:1 draw against Millwall's recent slump and Burnley's 47.1% draw rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.47 combined lambda, 67.4% Poisson Over 2.5 probability, and matching 75.0% Over 2.5 venue rates."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 64.4% model probability, Burnley scoring in 8 of 8 away league games, and low clean-sheet rates for both clubs."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 (9.6%) leads the Dixon-Coles matrix on Millwall's home xG edge, while 1:1 (9.1%) covers finishing variance."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.7%) and 2 goals (19.2%) rank first and second in the Poisson total-goals distribution and align directly with 2:1 and 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Win-Win tracks Millwall's 50.0% home half-time lead rate, whereas Loss-Draw captures Burnley's fast away starts followed by second-half fade."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:48:02 UTC"
+}
