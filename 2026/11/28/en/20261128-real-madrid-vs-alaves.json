@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570470,
+    "matchup": "Real Madrid vs Alaves",
+    "home_team": "Real Madrid",
+    "away_team": "Alaves",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-28 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-real-madrid-vs-alaves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Madrid vs Alaves Prediction & Match Analysis: Can Alaves Contain Mbappé and Güler? — xG Preview",
+    "meta": {
+      "matchId": "1570470",
+      "league": "La Liga",
+      "matchup": "Real Madrid vs Alaves",
+      "matchTime": "2026-11-28 20:00 UTC"
+    },
+    "recommendationLevel": "High",
+    "coreRecommendation": "Real Madrid are projected to secure a regulation-time Home Win in an Over 2.5 contest led by a 2:1 primary scoreline.",
+    "possibilityAssessment": [
+      "Real Madrid Home Win backed by 2.47 xG per match and 6-0-0 Bernabéu record (Confidence: High, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes aligned with 3.23 lambda_total and 66.7% home/away BTTS rates (Confidence: Moderate, Value: High)",
+      "3:0 Home Shutout contingent on Real Madrid converting early territory without defensive lapses (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570470",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Alaves",
+      "match_time": "20:00",
+      "match_highlight": "Mbappé and Güler test Alavés' compact away half-time block.",
+      "ai_confidence": "High",
+      "fixtureId": 1570470,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Real Madrid's intact attacking core, 2.47 xG per match, and 6-0-0 home record anchor a 2:1 or 3:0 victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.23 lambda_total, Real Madrid's 84.6% Over 2.5 rate, and 62.6% Poisson probability strongly support Over 2.5."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Real Madrid's 33.3% home clean-sheet rate meets Alavés' 66.7% away BTTS rate and 53.0% Poisson BTTS projection."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:0"
+        ],
+        "comment": "2:1 reflects high home chance creation with a counter reply, while 3:0 covers the clean-sheet margin branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three (22.2%) and four (17.9%) total goals bracket the 3.23 lambda_total and Real Madrid's home scoring pace."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Real Madrid convert 100% of half-time leads, while Alavés' 83.3% away HT draw rate creates a second-half breakthrough fork."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:24:47 UTC"
+}
