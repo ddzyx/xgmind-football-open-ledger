@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1647385,
+    "matchup": "Ulsan Hyundai FC vs Jeonbuk Motors",
+    "home_team": "Ulsan Hyundai FC",
+    "away_team": "Jeonbuk Motors",
+    "league": "K League 1",
+    "kickoff_utc": "2026-11-29 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-ulsan-hyundai-fc-vs-jeonbuk-motors/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Ulsan Hyundai FC vs Jeonbuk Motors: Expected Goals (xG), Fatigue & Match Intelligence",
+    "meta": {
+      "matchId": "1647385",
+      "league": "K League 1",
+      "matchup": "Ulsan Hyundai FC vs Jeonbuk Motors",
+      "matchTime": "2026-11-29 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Jeonbuk Motors to avoid defeat via Draw / Away Win in a two-way scoring encounter driven by Ulsan's 17.6% clean-sheet rate and Jeonbuk's 70.6% away unbeaten profile.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Jeonbuk's 41.1% Dixon-Coles win probability and 8 away draws across 17 road fixtures (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with a 3.38 expected-goal baseline and Ulsan's 76.5% home Over 2.5 frequency (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes reflects sub-20% clean-sheet projections for both sides and Ulsan's 88.2% home scoring rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1647385",
+      "league": "K League 1",
+      "homeTeam": "Ulsan Hyundai FC",
+      "awayTeam": "Jeonbuk Motors",
+      "match_time": "05:00",
+      "match_highlight": "Fresh Ulsan press meets fatigued Jeonbuk in open Hyundai Derby.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1647385,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:2 away win supported by Jeonbuk's 1.76 away lambda and 2026 H2H sweep and the 1:1 draw branch driven by Jeonbuk's 91-hour turnaround and eight away stalemates, as a single Away Win would overexpose the projection to Ulsan's 98-hour rest edge."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.38 combined xG lambda, 65.6% Dixon-Coles Over 2.5 probability, and Ulsan's 76.5% home Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Grounded in Ulsan's 17.6% home clean-sheet rate, 88.2% home scoring consistency, and Jeonbuk's 1.68 xG against 1.45 home xGA."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Over 2.5, BTTS Yes, and Jeonbuk's higher away lambda, while 1:1 captures the 10.2% modal draw risk from Jeonbuk's travel fatigue."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.9%) and 2 goals (19.9%) represent the top two outcomes in the Dixon-Coles total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams' venue splits show a 23.5% Loss-Loss rate from the home perspective alongside Jeonbuk's 29.4% away Draw-Draw frequency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 17:17:21 UTC"
+}
