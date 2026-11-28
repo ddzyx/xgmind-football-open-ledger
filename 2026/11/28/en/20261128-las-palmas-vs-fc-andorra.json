@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570042,
+    "matchup": "Las Palmas vs FC Andorra",
+    "home_team": "Las Palmas",
+    "away_team": "FC Andorra",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-28 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-las-palmas-vs-fc-andorra/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Las Palmas vs FC Andorra Prediction & Match Analysis: Defensive Absences vs xG Surge — Preview",
+    "meta": {
+      "matchId": "1570042",
+      "league": "Segunda División",
+      "matchup": "Las Palmas vs FC Andorra",
+      "matchTime": "2026-11-28 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win in an open Over 2.5 and Both Teams To Score contest as FC Andorra's 1.63 xG attack targets Las Palmas's depleted central defense.",
+    "possibilityAssessment": [
+      "Draw / Away Win supported by FC Andorra's +0.88 xG-per-game differential and 44-hour rest edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals backed by 2.88 combined lambda, Andorra's five-match Over 2.5 streak, and defensive suspensions (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes driven by identical 76.3% model scoring probabilities and compromised backlines (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570042",
+      "league": "Segunda División",
+      "homeTeam": "Las Palmas",
+      "awayTeam": "FC Andorra",
+      "match_time": "13:00",
+      "match_highlight": "Las Palmas's depleted center-backs face FC Andorra's 1.63 xG attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570042,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers the primary 1:2 away breakthrough fueled by Andorra's 1.63 xG volume and the 1:1 draw hedge if finishing waste caps output, whereas a single call ignores either Andorra's 64.9% big-chance miss rate or Las Palmas's three missing center-backs."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.88 combined lambda (54.9% Over 2.5 probability), 57.1% Over 2.5 venue rates for both teams, and defensive absences on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 58.8% BTTS probability, Las Palmas allowing 1.55 xGA without three center-backs, and FC Andorra holding just a 14.3% clean-sheet rate without suspended keeper Jesús Owono."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Andorra's xG and second-half away scoring edge against an improvised home defense, while 1:1 covers the top Dixon-Coles matrix outcome (12.2%) if conversion lags."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 1:2 primary script and Andorra's high-scoring matches, while 2 goals reflects the 1:1 modal baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Win-Draw"
+        ],
+        "comment": "Draw-Loss reflects Andorra's 25.0% away first-half goal share leading to a second-half winner, while Win-Draw covers Las Palmas's 42.9% home half-time lead rate eroding late."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 01:12:47 UTC"
+}
