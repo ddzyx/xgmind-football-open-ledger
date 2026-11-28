@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556163,
+    "matchup": "Kawasaki Frontale vs Gamba Osaka",
+    "home_team": "Kawasaki Frontale",
+    "away_team": "Gamba Osaka",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-29 06:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-kawasaki-frontale-vs-gamba-osaka/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Kawasaki Frontale vs Gamba Osaka Prediction & Match Analysis: Can Gamba Breach Todoroki? — xG Preview",
+    "meta": {
+      "matchId": "1556163",
+      "league": "J1 League",
+      "matchup": "Kawasaki Frontale vs Gamba Osaka",
+      "matchTime": "2026-11-29 06:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Kawasaki Frontale carry the primary winning trajectory through superior attacking output and home stability, while Gamba Osaka's road draw resilience keeps a shared-points outcome firmly in play under a Home Win / Draw outlook.",
+    "possibilityAssessment": [
+      "Home Win / Draw leaning toward Kawasaki Frontale in an open 2:1 or 1:1 contest (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS: Yes driven by 3.15 total lambda and sub-14% seasonal clean-sheet rates (Confidence: Moderate, Value: High)",
+      "Win-Draw Half-Time/Full-Time script if Kawasaki lead early before Gamba's second-half away surge (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Win-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556163",
+      "league": "J1 League",
+      "homeTeam": "Kawasaki Frontale",
+      "awayTeam": "Gamba Osaka",
+      "match_time": "06:00",
+      "match_highlight": "Frontale's unbroken scoring run tests Gamba's fragile defense and second-half resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556163,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Kawasaki's primary 2:1 home-win script (52.19% blended win probability) and the modal 1:1 draw branch, as Kawasaki's 12.5% clean-sheet rate and Gamba's 50% away draw rate make a single-outcome call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.15 combined lambda, a 61.0% Over 2.5 model projection, and Kawasaki's 87.5% home Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Kawasaki scored in all 16 league games while keeping just 12.5% clean sheets, aligning with a 58.6% BTTS model expectation and Gamba's 62.5% away BTTS rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Kawasaki's 37.5% one-goal home win rate and 2.05 vs 1.10 lambda edge, while 1:1 captures the 10.1% Dixon-Coles mode if Frontale's 63.5% big-chance waste limits their margin."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the top two buckets in the Dixon-Coles total-goals matrix at 22.3% (3 goals) and 21.7% (2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Win-Draw"
+        ],
+        "comment": "Kawasaki lead 50% of home first halves while Gamba trail 50% of away first halves (Win-Win), yet Gamba rescue 50% of away half-time deficits via an 87.5% second-half goal share (Win-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 18:08:39 UTC"
+}
