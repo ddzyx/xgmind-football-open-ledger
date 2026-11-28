@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552831,
+    "matchup": "Le Havre vs Strasbourg",
+    "home_team": "Le Havre",
+    "away_team": "Strasbourg",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-le-havre-vs-strasbourg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Le Havre vs Strasbourg: Expected Goals (xG), Defensive Absences & Match Intelligence",
+    "meta": {
+      "matchId": "1552831",
+      "league": "Ligue 1",
+      "matchup": "Le Havre vs Strasbourg",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Model synthesis favours Home Win / Draw alongside Over 2.5 goals and Both Teams To Score (Yes) as Le Havre's underlying chance creation meets a depleted Strasbourg defense.",
+    "possibilityAssessment": [
+      "Home Win / Draw backed by xG-blend expectancy (1.83 vs 1.61) and +6.83% hybrid model edge (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals & BTTS Yes anchored by 3.44 total lambda and 66.8% / 67.6% Poisson probabilities (Confidence: High, Value: Moderate)",
+      "1:1 Draw hedge capturing Le Havre's 0-2-9 record and highest single-cell matrix density at 9.9% (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552831",
+      "league": "Ligue 1",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Strasbourg",
+      "match_time": "19:45",
+      "match_highlight": "Winless Le Havre press Strasbourg's injury-hit, clean-sheet-less away defense.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1552831,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Le Havre's 2:1 xG-driven breakthrough and the 1:1 stalemate, as Strasbourg's away losses and zero clean sheets undermine a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.44 combined lambda, 66.8% Poisson probability, and Strasbourg's 6-for-6 Over 2.5 away record."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Le Havre's 1.57 xG/match and Strasbourg's 0.0% clean-sheet rate meet Le Havre's 2.27 goals conceded per game."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Le Havre's superior xG and 3-goal modal total, while 1:1 captures the top 9.9% single-cell density."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.8%) and 2 goals (19.4%) lead the Dixon-Coles total-goal distribution around the 3.44 lambda anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Le Havre score 80% of goals after half-time and Strasbourg lost 2 of 2 away matches level at the break, pointing to second-half resolution or a 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:11:39 UTC"
+}
