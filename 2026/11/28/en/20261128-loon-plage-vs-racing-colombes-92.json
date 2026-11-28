@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650279,
+    "matchup": "Loon-Plage vs Racing Colombes 92",
+    "home_team": "Loon-Plage",
+    "away_team": "Racing Colombes 92",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-loon-plage-vs-racing-colombes-92/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Loon-Plage vs Racing Colombes 92 Tactical Breakdown: Can Regional Hosts Disrupt National 1 Precision?",
+    "meta": {
+      "matchId": "1650279",
+      "league": "Coupe de France",
+      "matchup": "Loon-Plage vs Racing Colombes 92",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Racing Colombes 92 to avoid defeat across 90 minutes, led by a 2-1 away win with a 1-1 draw retained as the primary cup stalemate branch.",
+    "possibilityAssessment": [
+      "Draw / Away Win anchored on Racing Colombes 92's fourth-tier National 1 organization and cup away scoring consistency (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes supported by both clubs clearing 2.5 goals in four of their last five Coupe de France ties (Confidence: Moderate, Value: Moderate)",
+      "1:1 regulation draw contingency if Loon-Plage slows second-half transitions at Stade Marcel-Rosseel (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650279",
+      "league": "Coupe de France",
+      "homeTeam": "Loon-Plage",
+      "awayTeam": "Racing Colombes 92",
+      "match_time": "16:00",
+      "match_highlight": "Fourth-tier Racing defense tests buoyant regional hosts at Stade Marcel-Rosseel.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650279,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Racing Colombes 92 win driven by two-tier class superiority alongside a 1:1 cup draw, since unconfirmed lineups and Racing's five-match cup conceding streak weaken a single-direction call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Eight of the ten combined recent Coupe de France ties across both sides exceeded 2.5 goals, aligning with a 1:2 primary projection."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Racing has conceded in all five recent Coupe de France ties while scoring 2+ in four non-Ligue 1 cup games, and Loon-Plage averages 2.00 goals per Régional 1 match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "Matches Racing's recent 2-1 away cup winning pattern against regional opposition while retaining the 1:1 deadlock risk."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Centers on the 3-goal modal cup output (1:2) with 2 goals covering a tighter 1:1 or 0:2 game state."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Anticipates a competitive first half from the regional hosts before Racing either pulls away late or settles for a regulation draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:49:46 UTC"
+}
