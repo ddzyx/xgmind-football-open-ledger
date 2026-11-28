@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570463,
+    "matchup": "Real Betis vs Rayo Vallecano",
+    "home_team": "Real Betis",
+    "away_team": "Rayo Vallecano",
+    "league": "La Liga",
+    "kickoff_utc": "2026-11-28 13:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-real-betis-vs-rayo-vallecano/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Real Betis vs Rayo Vallecano Prediction & Match Analysis: Can Rayo Exploit Betis's 1.78 xGA?",
+    "meta": {
+      "matchId": "1570463",
+      "league": "La Liga",
+      "matchup": "Real Betis vs Rayo Vallecano",
+      "matchTime": "2026-11-28 13:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Real Betis carry clear home attacking superiority against an injury-hit Rayo Vallecano defense, while Betis's 1.78 xGA per match and post-European turnaround keep a 1:1 draw branch alive.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by Betis's 5-0-1 home league record and Rayo's depleted spine (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and Both Teams To Score (Yes) anchored by 3.32 combined lambda (Confidence: Moderate, Value: High)",
+      "1:1 Draw contingency driven by Betis's 89-hour turnaround and midfield absences (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570463",
+      "league": "La Liga",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Rayo Vallecano",
+      "match_time": "13:00",
+      "match_highlight": "Isco and Cucho target depleted Rayo defense despite Betis midweek fatigue.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570463,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 2:1 Betis home win driven by Rayo's Batalla and Luiz Felipe absences alongside a 1:1 draw script given Betis's 1.78 xGA/g and 89-hour UCL turnaround."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.32 combined lambda (64.5% model Over 2.5) as both sides allow 1.70+ xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Rayo have scored in 5 of 6 away league games against Betis's 1.78 xGA/g, while Rayo hold a 0% away clean-sheet rate (64.1% model BTTS Yes)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Betis's 66.7% home win-by-1 rate against Batalla-less Rayo, while 1:1 captures the top Poisson density cell (10.1%) if midweek fatigue blunts Betis."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Aligns with the top two Dixon-Coles total-goal probabilities (22.1% for 3 goals, 20.4% for 2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win mirrors Betis's 50% home HT lead conversion and Rayo trailing HT in 50% of away games, while Draw-Draw covers a cagey first half into 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 01:08:39 UTC"
+}
