@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603081,
+    "matchup": "Al-Ahli Jeddah vs Al Taawon",
+    "home_team": "Al-Ahli Jeddah",
+    "away_team": "Al Taawon",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-al-ahli-jeddah-vs-al-taawon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Ahli Jeddah vs Al Taawon Prediction & Match Analysis: Can High Press Exploit 1.97 xGA? — Preview",
+    "meta": {
+      "matchId": "1603081",
+      "league": "Pro League",
+      "matchup": "Al-Ahli Jeddah vs Al Taawon",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Ahli Jeddah is projected to secure a comfortable Home Win at Alinma Stadium in an open, multi-goal contest where both teams find the net.",
+    "possibilityAssessment": [
+      "Home Win behind Al-Ahli Jeddah's 5-0-0 home record and 50-hour rest edge (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by 4.00 total lambda and away scoring splits (Confidence: Moderate, Value: High)",
+      "Single-goal victory resistance at 2:1 if finishing waste slows home separation (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "4",
+        "3"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "3:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603081",
+      "league": "Pro League",
+      "homeTeam": "Al-Ahli Jeddah",
+      "awayTeam": "Al Taawon",
+      "match_time": "17:30",
+      "match_highlight": "Al-Ahli's 2.85 xG high press tests Al Taawon's winless away defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603081,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Supported by a 3:1 core projection, Al-Ahli's 2.85 xG home attack and 100% home win rate decisively outclass winless Al Taawon."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Total lambda of 4.00 and Al-Ahli's five-for-five home Over 2.5 rate strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al Taawon has scored in four of six away league matches while Al-Ahli concedes 1.67 goals per game."
+      },
+      "score": {
+        "selection": [
+          "3:1",
+          "2:1"
+        ],
+        "comment": "3:1 reflects Al-Ahli's 100% 2+ goal home winning margin, with 2:1 covering visitor one-goal road resilience."
+      },
+      "goals": {
+        "selection": [
+          "4",
+          "3"
+        ],
+        "comment": "Three and four total goals share the peak 19.5% probability each in the Dixon-Coles distribution around 4.00 total lambda."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Al-Ahli leads at half-time in 80% of home games while never dropping an interval lead, with Draw-Win covering early resistance."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:38:02 UTC"
+}
