@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552832,
+    "matchup": "Le Mans vs Lille",
+    "home_team": "Le Mans",
+    "away_team": "Lille",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-28 19:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-le-mans-vs-lille/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Le Mans vs Lille: Expected Goals (xG), Fatigue & Lineup Vulnerabilities Preview",
+    "meta": {
+      "matchId": "1552832",
+      "league": "Ligue 1",
+      "matchup": "Le Mans vs Lille",
+      "matchTime": "2026-11-28 19:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Lille's road scoring consistency and class edge point toward Draw / Away Win, with a 1:2 away triumph leading over a fatigue-driven 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Lille's 42.8% blended win probability and 100% away scoring rate while guarding against a 1:1 home draw (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 and BTTS Yes align with 2.95 total lambda and combined 3.38 xGA/match despite Under-shaded market totals (Confidence: Moderate, Value: High)",
+      "Loss-Draw HT/FT reflects Lille's 40% half-time lead drop rate and 71-hour post-UCL fatigue against Le Mans's home recovery profile (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552832",
+      "league": "Ligue 1",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lille",
+      "match_time": "19:45",
+      "match_highlight": "Lille's 71-hour UCL fatigue tested by Le Mans's 1.61 xG attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552832,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Lille's primary 1:2 road win driven by class and Le Mans's zero clean sheets alongside the 1:1 draw branch tied to Lille's post-Bayern fatigue, as an unhedged single away call carries excessive fatigue risk."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 2.95 combined lambda, Le Mans's 80% home Over 2.5 rate, and Lille's underlying 1.44 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 60.0% modeled BTTS probability, Le Mans's 0% clean-sheet record, and Lille's 1.44 xGA vulnerability without Tiago Santos."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Lille's attacking depth overcoming Le Mans's porous defense, while 1:1 captures the top Poisson draw outcome under away fatigue."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Balances the 3-goal Over 2.5 convergence (1:2) against the 2-goal Poisson mode (1:1) if Bourabaa's absence slows home output."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Draw"
+        ],
+        "comment": "Draw-Loss mirrors Lille's 100% conversion from level half-times, while Loss-Draw covers a fatigued Lille side surrendering an early lead."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:14:47 UTC"
+}
