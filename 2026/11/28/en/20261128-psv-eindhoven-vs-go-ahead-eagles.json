@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552240,
+    "matchup": "PSV Eindhoven vs GO Ahead Eagles",
+    "home_team": "PSV Eindhoven",
+    "away_team": "GO Ahead Eagles",
+    "league": "Eredivisie",
+    "kickoff_utc": "2026-11-28 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-psv-eindhoven-vs-go-ahead-eagles/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "PSV Eindhoven vs GO Ahead Eagles Prediction & Match Analysis: Can Bosz's Midfield Hold? — xG Preview",
+    "meta": {
+      "matchId": "1552240",
+      "league": "Eredivisie",
+      "matchup": "PSV Eindhoven vs GO Ahead Eagles",
+      "matchTime": "2026-11-28 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "PSV Eindhoven's dominant 2.52 xG home attack and 86.1st-percentile press support a Home Win over GO Ahead Eagles, though confirmed defensive-midfield absences point to an open, multi-goal contest.",
+    "possibilityAssessment": [
+      "Home Win — PSV Eindhoven's attacking firepower and Philips Stadion margin record overwhelm a visitor conceding 2.15 goals per league game (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes — 3.66 total lambda, 84.6%/76.9% league BTTS rates, and depleted home midfield screening support a high-scoring exchange (Confidence: High, Value: Moderate)",
+      "HT/FT Reversal (Win-Draw) — PSV's 92.3% half-time lead rate paired with midweek UCL fatigue and a 25.0% lead-not-won rate creates late equalizer volatility (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "3:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552240",
+      "league": "Eredivisie",
+      "homeTeam": "PSV Eindhoven",
+      "awayTeam": "GO Ahead Eagles",
+      "match_time": "17:45",
+      "match_highlight": "PSV's depleted midfield faces Søren Tengstedt's counter-attacking threat in Eindhoven.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552240,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "PSV Eindhoven's 2.52 xG per match and unbeaten home record support a 2:1 or 3:1 victory against GO Ahead Eagles' 7.7% clean-sheet defense."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.66 combined goal lambda, 70.8% Poisson Over 2.5 probability, and 84.6%/69.2% season Over 2.5 rates strongly support three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "PSV's 0.0% failed-to-score rate meets GO Ahead Eagles' 7.7% clean-sheet rate, while Schouten and Mauro Júnior's absences compromise PSV's 15.4% shutout record."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "3:1"
+        ],
+        "comment": "2:1 is the top Dixon-Coles density (9.2%) balancing midweek fatigue with home dominance, while 3:1 reflects PSV's two-goal-plus Philips Stadion ceiling."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "3 goals (21.0%) and 4 goals (19.2%) lead the Poisson distribution around a 3.66 lambda_total expectation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "PSV's 92.3% half-time lead rate favors Win-Win, with Draw-Win covering early rotation friction before second-half quality prevails."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:51:32 UTC"
+}
