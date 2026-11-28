@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650304,
+    "matchup": "US Vermelles vs Thaon",
+    "home_team": "US Vermelles",
+    "away_team": "Thaon",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-us-vermelles-vs-thaon/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "US Vermelles vs Thaon Match Analysis: Three-Tier Cup Gap & Tactical Preview",
+    "meta": {
+      "matchId": "1650304",
+      "league": "Coupe de France",
+      "matchup": "US Vermelles vs Thaon",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "ES Thaon are projected to claim a regulation-time away victory on class, tactical continuity, and multi-goal cup pedigree.",
+    "possibilityAssessment": [
+      "Primary Direction: Away Win in 90 minutes driven by National 2 structural superiority over Régional 3 opposition (Confidence: Moderate, Value: Moderate)",
+      "Total Goals Outlook: Over 2.5 Goals backed by Thaon's 2.30 weighted cup scoring rate and second-half fitness advantage (Confidence: Moderate, Value: Moderate)",
+      "Clean-Sheet Angle: Both Teams To Score No reflecting Thaon's away shutouts against lower-division cup opponents (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650304",
+      "league": "Coupe de France",
+      "homeTeam": "US Vermelles",
+      "awayTeam": "Thaon",
+      "match_time": "17:00",
+      "match_highlight": "Three-tier class gap tests US Vermelles against Coupe specialists Thaon.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650304,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A three-division hierarchy gap, 3,468-day coaching continuity, and relocated Avion venue anchor a 0:3 away projection."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Thaon average 2.30 weighted goals across five Coupe de France ties and face eighth-tier opposition on a full-sized pitch."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Thaon kept clean sheets in three of four recent cup trips against equal or lower-tier hosts while Vermelles rely on isolated breaks."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "0:3 captures clean-sheet fifth-tier dominance, while 1:3 covers a single transition concession against Thaon's league-tested backline."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three or four total goals align with Thaon's away cup output once Vermelles's initial defensive block tires after the interval."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Thaon should press for an opening-half lead as at IC Croix, with Draw-Loss covering a disciplined 45-minute resistance by Vermelles."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:26:00 UTC"
+}
