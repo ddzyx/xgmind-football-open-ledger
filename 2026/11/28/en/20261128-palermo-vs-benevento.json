@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601630,
+    "matchup": "Palermo vs Benevento",
+    "home_team": "Palermo",
+    "away_team": "Benevento",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 18:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-palermo-vs-benevento/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Palermo vs Benevento Prediction & Match Analysis: Can Depleted Hosts Defend Their Fortress?",
+    "meta": {
+      "matchId": "1601630",
+      "league": "Serie B",
+      "matchup": "Palermo vs Benevento",
+      "matchTime": "2026-11-28 18:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Palermo Win or Draw led by the hosts represents the most balanced direction, pairing their 6-0-0 home attacking dominance with draw protection against five confirmed Sicilian absences.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on Palermo's 2.01 xG home attack and Benevento's 60% road loss rate alongside host defensive absences (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes backed by 3.42 combined lambda and Palermo's 15.4% clean-sheet rate (Confidence: Moderate, Value: High)",
+      "1:1 Draw / 2 Goals contingency if Antonio Palumbo's absence stalls central penetration against Benevento's 1.16 xGA block (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601630",
+      "league": "Serie B",
+      "homeTeam": "Palermo",
+      "awayTeam": "Benevento",
+      "match_time": "18:30",
+      "match_highlight": "Palermo's perfect home attack tests Benevento against five key host absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601630,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Palermo's 6-0-0 home victory path (2:1) alongside the 1:1 draw script because five confirmed host absences prevent isolating a single home win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 3.42 lambda_total, 66.4% model Over 2.5 probability, and Palermo's 83.3% home Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Palermo's 0.0% failed-to-score rate meets their 15.4% clean-sheet rate and depleted back line against Benevento's 1.63 xG attack (67.3% BTTS Yes)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Palermo's 47.47% leading win probability and conceded-goal trend, while 1:1 captures the 10.0% modal draw threat."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (21.8%) and 2 goals (19.6%) represent the two highest-density bands in the Dixon-Coles distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks Palermo's 66.7% home half-time lead rate and 100% lead protection, while Draw-Draw covers Benevento's 60.0% away half-time draw tendency."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:32:55 UTC"
+}
