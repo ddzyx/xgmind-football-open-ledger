@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649506,
+    "matchup": "Varbergs BoIS FC vs Ostersunds FK",
+    "home_team": "Varbergs BoIS FC",
+    "away_team": "Ostersunds FK",
+    "league": "Allsvenskan",
+    "kickoff_utc": "2026-11-28 12:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-varbergs-bois-fc-vs-ostersunds-fk/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Varbergs BoIS FC vs Ostersunds FK Prediction & Match Analysis: Neutral Turf Test — Scoreline Preview",
+    "meta": {
+      "matchId": "1649506",
+      "league": "Allsvenskan",
+      "matchup": "Varbergs BoIS FC vs Ostersunds FK",
+      "matchTime": "2026-11-28 12:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Varbergs BoIS FC are projected to win or draw in 90 minutes (Home Win / Draw) inside a low-scoring Under 2.5 contest built around counter-attacking control.",
+    "possibilityAssessment": [
+      "Home Win / Draw led by a disciplined 1:0 transition win as Varberg protect their 2-0 aggregate lead (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals supported by four of the last five H2H meetings and Ostersund's recent finishing drought (Confidence: Moderate, Value: High)",
+      "Draw-Draw stalemate contingency if neutral Finnvedsvallen conditions blunt Varberg's transition threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649506",
+      "league": "Allsvenskan",
+      "homeTeam": "Varbergs BoIS FC",
+      "awayTeam": "Ostersunds FK",
+      "match_time": "12:00",
+      "match_highlight": "Neutral Finnvedsvallen tests Varberg's 2-0 cushion against blunt Ostersunds FK.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649506,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both a 1:0 Varberg counter-attacking win and a 1:1 neutral-ground stalemate, since Varberg have no incentive to overcommit while defending a 2-0 aggregate lead."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Backed by four of the last five H2H fixtures finishing Under 2.5, Ostersund blanking in three of their last four games, and Varberg keeping three clean sheets in four."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Ostersunds FK produced only one shot on target in Leg 1 and failed to score in three of their last four matches against a tightened Varberg back line."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 reflects Varberg catching an overcommitted visitor late, while 1:1 covers Ostersund converting high territorial volume against a 23.3% season clean-sheet defense."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Both totals capture the tight second-leg playoff tempo between a conservative aggregate leader and a low-scoring possession side."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "An initially cautious first half favors level terms at the break before either a late Varberg counter-strike (Draw-Win) or an even finish (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:18:30 UTC"
+}
