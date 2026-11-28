@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651122,
+    "matchup": "FC Cincinnati vs Nashville SC",
+    "home_team": "FC Cincinnati",
+    "away_team": "Nashville SC",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 23:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-fc-cincinnati-vs-nashville-sc/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "FC Cincinnati vs Nashville SC Prediction: Can Shield Winners Break TQL Stadium? — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1651122",
+      "league": "Major League Soccer",
+      "matchup": "FC Cincinnati vs Nashville SC",
+      "matchTime": "2026-11-28 23:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Nashville SC is projected to avoid regulation defeat at TQL Stadium via a 1:2 away win or 1:1 stalemate, pairing Over 2.5 Goals with Both Teams To Score.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Nashville SC's 1.25 xGA prevention edge and Mukhtar-Surridge threat (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals driven by 3.21 combined lambda and elimination urgency (Confidence: Moderate, Value: Moderate)",
+      "BTTS: Yes backed by 64.1% model support and depleted defenses (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651122",
+      "league": "Major League Soccer",
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Nashville SC",
+      "match_time": "23:30",
+      "match_highlight": "Elimination pressure meets Cincinnati home resilience as Woledzi awaits clearance",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651122,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both Nashville SC's 1:2 regulation-win script behind superior season prevention and the 1:1 TQL Stadium stalemate, as Woledzi's concussion uncertainty and Nashville's 6 away draws make a single away call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.21 lambda total, 62.2% model Over 2.5 probability, and Cincinnati's 64.7% season Over 2.5 rate against a must-win visitor."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with 64.1% model BTTS support, as Cincinnati's 14.7% clean-sheet rate meets Evander's 92.8 OTI attack against a Nashville defense overperforming its 1.25 xGA."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Nashville's edge over Cincinnati's depleted backline while conceding one to Evander, and 1:1 covers the top Dixon-Coles modal stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Reflects the top two total-goal probabilities in the model (22.2% for 3 goals, 21.3% for 2 goals) across the open-win and tight-draw scripts."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Grounded in Nashville's 62.5% away half-time draw rate (10 of 16) and second-half progression either breaking through for an away win or settling level."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 11:38:03 UTC"
+}
