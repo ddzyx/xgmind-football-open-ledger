@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650300,
+    "matchup": "TA Rennes vs Rouen",
+    "home_team": "TA Rennes",
+    "away_team": "Rouen",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-ta-rennes-vs-rouen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "TA Rennes vs Rouen Tactical Breakdown & Match Analysis: Can Rouen's Depleted Attack Break the N3 Block?",
+    "meta": {
+      "matchId": "1650300",
+      "league": "Coupe de France",
+      "matchup": "TA Rennes vs Rouen",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "FC Rouen's third-tier defensive structure and second-half depth should assert control in a low-scoring Coupe de France tie, though visiting attacking knocks warrant covering a 90-minute stalemate via Draw / Away Win.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: No (Confidence: Moderate, Value: High)",
+      "0:0 Regulation Stalemate Contingency (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650300",
+      "league": "Coupe de France",
+      "homeTeam": "TA Rennes",
+      "awayTeam": "Rouen",
+      "match_time": "18:00",
+      "match_highlight": "Rouen's third-tier defensive spine tests Rennes's resilience amid visiting injury alerts.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650300,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers FC Rouen's second-half breakthrough to 0:2 while protecting against a 0:0 stalemate like Round 7 at Saint-Brieuc, because visiting attacking knocks make a single away-win call fragile."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Rouen concedes just 0.77 goals per National 1 match with six consecutive recent fixtures under 2.5, while fifth-tier TA Rennes relies on a compact low block."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Rouen's 10 goals conceded in 13 league games and recent shutouts against Bastia and Saint-Brieuc heavily restrict TA Rennes's scoring floor."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:0"
+        ],
+        "comment": "0:2 reflects Rouen exploiting Rennes's 2+ goal cup concession trend after half-time, while 0:0 captures visiting final-third friction."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Goal expectancy centers on 1 to 2 total goals given Rouen's defensive containment and measured away cup tempo."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "TA Rennes's fresh first-half block should hold until the break before either Rouen's depth unlocks 0:2 (Draw-Loss) or the stalemate persists (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:29:27 UTC"
+}
