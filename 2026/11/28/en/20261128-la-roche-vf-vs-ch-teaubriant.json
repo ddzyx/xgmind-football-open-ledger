@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650275,
+    "matchup": "La Roche VF vs Châteaubriant",
+    "home_team": "La Roche VF",
+    "away_team": "Châteaubriant",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-la-roche-vf-vs-ch-teaubriant/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "La Roche VF vs Châteaubriant Prediction & Match Analysis: Can Ligue 3 Leaders Break N2 Block?",
+    "meta": {
+      "matchId": "1650275",
+      "league": "Coupe de France",
+      "matchup": "La Roche VF vs Châteaubriant",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "La Roche VF's Ligue 3 attacking depth and 0.85-goal league defensive base support a controlled home victory over fourth-tier Châteaubriant in regulation time.",
+    "possibilityAssessment": [
+      "Home Win behind Ligue 3 leadership and 1.62 goals-per-game efficiency (Confidence: High, Value: Moderate)",
+      "Under 2.5 Goals anchored by Châteaubriant's five-draw N2 containment profile and 2:0 projection (Confidence: Moderate, Value: High)",
+      "2:1 Home Win / Draw-Win secondary branch if cup rotation allows a visitor transition goal (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "2:0",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650275",
+      "league": "Coupe de France",
+      "homeTeam": "La Roche VF",
+      "awayTeam": "Châteaubriant",
+      "match_time": "16:00",
+      "match_highlight": "Ligue 3 leaders host N2 low block in regional cup clash",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650275,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "La Roche VF's third-tier form, Stade Henri-Desgrange control, and five straight wins over Châteaubriant project a 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "La Roche VF's 0.85 Ligue 3 goals-conceded rate and Châteaubriant's low-scoring N2 profile point toward a controlled 2-goal contest."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Châteaubriant were shut out at Saumur and in three of the last four head-to-heads, supporting a La Roche VF clean sheet."
+      },
+      "score": {
+        "selection": [
+          "2:0",
+          "2:1"
+        ],
+        "comment": "A 2:0 shutout reflects the divisional and defensive gap, while 2:1 covers a solitary counter-attacking reply from Hugo Chambon."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals capture the primary 2:0 control script, with three goals covering a late 3:0 seal or 2:1 consolation."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Early pressure from Evan Morel and Mansour Samb favors Win-Win, while Draw-Win covers Châteaubriant holding level until halftime."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:46:39 UTC"
+}
