@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570036,
+    "matchup": "Albacete vs Tenerife",
+    "home_team": "Albacete",
+    "away_team": "Tenerife",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-28 15:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-albacete-vs-tenerife/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Albacete vs Tenerife Prediction & Match Analysis: Can Away Leakage Undo Unbeaten Run? — xG Preview",
+    "meta": {
+      "matchId": "1570036",
+      "league": "Segunda División",
+      "matchup": "Albacete vs Tenerife",
+      "matchTime": "2026-11-28 15:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backing Albacete to avoid defeat via Home Win / Draw in an Under 2.5 and BTTS Yes contest best reconciles Carlos Belmonte attacking pressure with Tenerife's road draw resilience.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored on 1:1 stalemate and 2:1 home edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals driven by 2.44 combined lambda and Tenerife's 71.4% season under rate (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Tenerife's 83.3% away BTTS rate and 0% away clean sheets (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Win-Draw",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570036",
+      "league": "Segunda División",
+      "homeTeam": "Albacete",
+      "awayTeam": "Tenerife",
+      "match_time": "15:15",
+      "match_highlight": "Albacete's fast-starting home attack tests Tenerife's winless road clean-sheet record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570036,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Derived from the 1:1 modal core scoreline and 2:1 home branch, covering both Albacete's 38.56% home-win edge and Tenerife's 50.0% away draw rate where a single call would neglect verified attacking absences."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.44 combined lambda, a 55.9% model probability, Tenerife's 71.4% season under-2.5 rate, and Albacete's 77.8% big-chance waste rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Tenerife have zero clean sheets in six away league matches (83.3% away BTTS), while Albacete hold just a 13.3% overall clean-sheet rate at 1.71 xGA per match."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.6% density, while 2:1 (8.2%) captures Albacete converting their 1.25 xG home superiority into a narrow victory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals (26.6%) and three goals (21.1%) are the top two exact-total probabilities under the 2.44 lambda baseline."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Draw",
+          "Win-Win"
+        ],
+        "comment": "Albacete have led at half-time in 71.4% of home games but dropped 40.0% of those leads, whereas Tenerife score 62.5% of away goals after the break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:11:37 UTC"
+}
