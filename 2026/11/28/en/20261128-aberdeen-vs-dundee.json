@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556712,
+    "matchup": "Aberdeen vs Dundee",
+    "home_team": "Aberdeen",
+    "away_team": "Dundee",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-aberdeen-vs-dundee/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Aberdeen vs Dundee: Expected Goals (xG), Defensive Crisis & Match Intelligence",
+    "meta": {
+      "matchId": "1556712",
+      "league": "Premiership",
+      "matchup": "Aberdeen vs Dundee",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Backed by superior home expected-goal generation and Dixon-Coles probability weight, Aberdeen are projected to avoid defeat against Dundee in an open, multi-goal contest at Pittodrie.",
+    "possibilityAssessment": [
+      "Home Win / Draw (Aberdeen 2:1 or 1:1): Blended modeling gives Aberdeen a 41.14% win and 26.25% draw share against a Dundee side with five defeats in seven away matches (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes: A 3.05 total goal expectancy and 14.3% clean-sheet rates for both teams support three or more goals with both attacks scoring (Confidence: Moderate, Value: High)",
+      "1:1 Draw Stalemate Branch: Aberdeen's historical home finishing friction and defensive absences leave a realistic route for Dundee to share the points (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556712",
+      "league": "Premiership",
+      "homeTeam": "Aberdeen",
+      "awayTeam": "Dundee",
+      "match_time": "15:00",
+      "match_highlight": "Frick's home bow pits Nisbet's attack against depleted defenses.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556712,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Aberdeen's 2:1 home breakthrough under Mario Frick and the 1:1 draw branch created by their depleted central defense, where a single win call leaves the defensive injury risk unhedged."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.05 combined lambda, 58.8% Poisson Over 2.5 probability, and defensive concession rates of 1.67 and 1.85 xGA per match."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both sides carry 14.3% season clean-sheet rates alongside 79.2% home and 77.2% away Poisson scoring probabilities (61.7% BTTS Yes)."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Aberdeen's attacking superiority and Dundee's narrow-margin away losses, while 1:1 captures the highest-density Poisson stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.4%) aligns with the Over 2.5 primary script, while 2 goals (22.6%) covers the 1:1 secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Aberdeen's 71.4% home half-time draw rate points toward a level interval before second-half acceleration decides between a home win or shared points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:19:57 UTC"
+}
