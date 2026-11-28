@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650288,
+    "matchup": "Puissalicon vs Riviera",
+    "home_team": "Puissalicon",
+    "away_team": "Riviera",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-puissalicon-vs-riviera/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Puissalicon vs Riviera Prediction & Match Analysis: Can Regional 3 Hosts Halt N2 Firepower?",
+    "meta": {
+      "matchId": "1650288",
+      "league": "Coupe de France",
+      "matchup": "Puissalicon vs Riviera",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Riviera FC are projected to secure a decisive regulation-time Away Win over three-tier-lower AS Puissalicon-Magalas in a match clearing 2.5 total goals.",
+    "possibilityAssessment": [
+      "Away Win backed by National 2 tier superiority and away cup scoring form (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals (3-4 total goals) driven by Riviera attacking depth and Puissalicon defensive leakage (Confidence: Moderate, Value: High)",
+      "Puissalicon to score in a 1:3 away victory if hosts capitalize on an early transition or dead ball (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650288",
+      "league": "Coupe de France",
+      "homeTeam": "Puissalicon",
+      "awayTeam": "Riviera",
+      "match_time": "18:00",
+      "match_highlight": "Fifth-tier Riviera FC test eighth-tier cup darlings Puissalicon at Béziers.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650288,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Aligned with the 0:3 primary scoreline, Riviera FC's fifth-tier offensive and defensive quality across 90 minutes should overcome eighth-tier Puissalicon without needing extra time."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Riviera's 1.88 goals per National 2 match and 4-2 Round 7 win meet a Puissalicon defense coming off a 0-4 league loss."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Riviera concede just 0.75 goals per game in National 2 Poule G and face an eighth-tier attack shut out 0-4 last weekend."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "Both scorelines reflect Riviera's structural dominance over 90 minutes, splitting between a controlled shutout and a consolation-goal branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three or four total goals capture Riviera's multi-goal ceiling against a porous Régional 3 backline."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "From home side Puissalicon's perspective, Riviera either establish control before half-time or break through after the interval as fatigue sets in."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:23:06 UTC"
+}
