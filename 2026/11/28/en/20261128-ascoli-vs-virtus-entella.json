@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1601624,
+    "matchup": "Ascoli vs Virtus Entella",
+    "home_team": "Ascoli",
+    "away_team": "Virtus Entella",
+    "league": "Serie B",
+    "kickoff_utc": "2026-11-28 14:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-ascoli-vs-virtus-entella/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ascoli vs Virtus Entella Prediction & Match Analysis: Can Entella's Low Block Contain Silipo? — xG Preview",
+    "meta": {
+      "matchId": "1601624",
+      "league": "Serie B",
+      "matchup": "Ascoli vs Virtus Entella",
+      "matchTime": "2026-11-28 14:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Ascoli on the Home Win / Draw double direction in a low-scoring Under 2.5 matchup anchored by a 1:0 shutout or 1:1 stalemate.",
+    "possibilityAssessment": [
+      "Ascoli's 63.6% possession, 1.64 xG per match, and unbeaten home record confront an Entella attack missing Francesco Forte (Confidence: Moderate, Value: Moderate)",
+      "Combined 2.32 statistical lambda and 61.5% seasonal Under 2.5 rates for both clubs support two goals or fewer with BTTS No (Confidence: Moderate, Value: Moderate)",
+      "Ascoli's 66.7% big-chance waste rate and post-Cesena defensive reset keep a 1:1 draw branch alive if Entella's 1.03 xGA structure holds firm (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1601624",
+      "league": "Serie B",
+      "homeTeam": "Ascoli",
+      "awayTeam": "Virtus Entella",
+      "match_time": "14:00",
+      "match_highlight": "Unbeaten home Ascoli probe depleted Entella defense without Francesco Forte.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1601624,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Ascoli's 1:0 territorial home breakthrough and the 1:1 stalemate branch, avoiding a single win call given four draws in seven home games and 66.7% big-chance wastage."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by 2.32 total lambda, 59.1% model probability, and high seasonal Under 2.5 rates at Ascoli's home (71.4%) and on Entella's travels (66.7%)."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Ascoli project 76.3% to score at home, whereas Entella have failed to score in four of six away matches and lose striker Francesco Forte."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "1:0 and 1:1 sit atop the Dixon-Coles matrix at 13.5% and 13.1%, capturing Ascoli's narrow home control and potential finishing frustration."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals (27.1%) and one goal (21.6%) represent the two highest-density counts in the model's total-goals distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Ascoli were level at half-time in five of seven home games (27.3% first-half goal share), creating a second-half split between breakthrough and stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:12:15 UTC"
+}
