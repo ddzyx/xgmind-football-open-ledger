@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650274,
+    "matchup": "Lannion vs Laval",
+    "home_team": "Lannion",
+    "away_team": "Laval",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-lannion-vs-laval/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lannion vs Laval Prediction & Match Analysis: Can Laval's Rotated XI Break the Cup Block?",
+    "meta": {
+      "matchId": "1650274",
+      "league": "Coupe de France",
+      "matchup": "Lannion vs Laval",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win (led by Away Win) captures Laval's Ligue 2 quality edge while respecting the draw risk introduced by confirmed squad rotation on Lannion's synthetic pitch.",
+    "possibilityAssessment": [
+      "Draw / Away Win in regulation time led by Laval's active Ligue 2 spine of Ethan Clavreul and Mathys Houdayer (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Total Goals anchored on Laval's 66.7% big-chance waste rate without Kanté against Lannion's compact cup block (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No expecting Laval's professional midfield structure to limit fifth-tier Lannion's open-play breakthroughs (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650274",
+      "league": "Coupe de France",
+      "homeTeam": "Lannion",
+      "awayTeam": "Laval",
+      "match_time": "18:00",
+      "match_highlight": "Rotated Ligue 2 Laval test Lannion's synthetic-turf cup defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650274,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Laval's Ligue 2 superiority anchors a 0:2 win script, while resting Kanté, Samassa, and Bianda keeps a 1:1 draw too credible to leave uncovered with a single call."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Laval's 66.7% big-chance waste rate without four-goal striker Kanté against a Lannion side that held Guingamp 0:0 favors two or fewer goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Lannion failed to score in 90 minutes against Ligue 2 Guingamp and sit near the bottom of National 2 Group C, leaning toward a Laval clean sheet."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "1:1"
+        ],
+        "comment": "0:2 reflects Laval's second-half Ligue 2 fitness breaking through, whereas 1:1 covers a transitional lapse by Laval's rotated back line."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Both primary scorelines converge on two goals, with a single-goal 0:1 away grind standing as the closest low-scoring alternative."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Lannion's early containment points to a level half-time before either Laval pull away after the break or the hosts hold out for 90 minutes."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:12:39 UTC"
+}
