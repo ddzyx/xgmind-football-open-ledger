@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563288,
+    "matchup": "Blackburn vs Charlton",
+    "home_team": "Blackburn",
+    "away_team": "Charlton",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-blackburn-vs-charlton/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Blackburn vs Charlton: Expected Goals (xG), Keeper Absences & Match Analysis",
+    "meta": {
+      "matchId": "1563288",
+      "league": "Championship",
+      "matchup": "Blackburn vs Charlton",
+      "matchTime": "2026-11-28 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Blackburn's Ewood Park attacking edge and Charlton's winless road defense favor Home Win / Draw alongside Over 2.5 and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Home Win / Draw led by Blackburn's home scoring output with the Draw retained for late fatigue variance (Confidence: Moderate, Value: Moderate)",
+      "Secondary goal outlook: Over 2.5 goals and BTTS: Yes supported by 87.5% Blackburn home Over 2.5/BTTS rates and dual goalkeeper absences (Confidence: Moderate, Value: Moderate)",
+      "Contingency scenario: 1:1 second-half draw triggered if Blackburn's 64-hour turnaround stalls final-third intensity after halftime (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563288",
+      "league": "Championship",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Charlton",
+      "match_time": "12:30",
+      "match_highlight": "Depleted defenses and missing first-choice keepers point to goals at Ewood Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563288,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers the primary 2:1 Blackburn home victory while protecting against a 1:1 draw given Blackburn's 64-hour rest and defensive injuries, whereas a single Home Win would ignore their 1.70 xGA concession rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Backed by 7/8 Blackburn home matches and 6/8 Charlton away matches clearing 2.5 goals alongside high xGA (1.70 and 1.56) and missing starting goalkeepers."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Blackburn have scored in 8/8 home games with just one clean sheet, while Charlton hold 0/8 away clean sheets and face a compromised home keeper unit."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Blackburn's clinical home attack edging Charlton's leaky road defense, while 1:1 covers the top Poisson stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals aligns with the 2:1 primary script and venue Over 2.5 trends, while 2 goals tracks the 26.3% modal Poisson bucket."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams score predominantly after halftime in these venues (64.3% home / 71.4% away), pointing to a level first half before a 2:1 or 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:42:22 UTC"
+}
