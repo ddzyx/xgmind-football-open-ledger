@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650264,
+    "matchup": "Bressuire vs La Baule-Le Pouliguen",
+    "home_team": "Bressuire",
+    "away_team": "La Baule-Le Pouliguen",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-bressuire-vs-la-baule-le-pouliguen/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Bressuire vs La Baule-Le Pouliguen Prediction & Match Analysis: Home Firepower vs Road Draw Habit",
+    "meta": {
+      "matchId": "1650264",
+      "league": "Coupe de France",
+      "matchup": "Bressuire vs La Baule-Le Pouliguen",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Low",
+    "coreRecommendation": "Bressuire's home attacking momentum and superior regional standing favor a home win or draw across 90 minutes, with both sides poised to score in a competitive Round of 128 tie.",
+    "possibilityAssessment": [
+      "Primary Thesis: Home Win / Draw — Bressuire carry stronger home scoring depth while La Baule-Le Pouliguen's four draws in five regional matches sustain the stalemate route (Confidence: Low, Value: Moderate)",
+      "Secondary Angle: Over 2.5 Goals (3 Goals) — Bressuire's multi-goal recent fixtures and open defensive transitions point toward three combined goals (Confidence: Low, Value: Moderate)",
+      "Contingency Angle: 1:1 Draw / Draw-Draw — Compact visiting containment could lock the tie across both halves into a shootout (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650264",
+      "league": "Coupe de France",
+      "homeTeam": "Bressuire",
+      "awayTeam": "La Baule-Le Pouliguen",
+      "match_time": "18:00",
+      "match_highlight": "Bressuire home firepower tests La Baule-Le Pouliguen's stubborn regional draw habit.",
+      "ai_confidence": "Low",
+      "fixtureId": 1650264,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Bressuire's superior home attacking output in a 2:1 win alongside La Baule-Le Pouliguen's high league draw rate in a 1:1 stalemate, as unverified amateur lineups prevent isolating a single outcome."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Bressuire's recent high-scoring matches and weighted 3.11 combined cup goal average favor clearing 2.5 goals despite a 1:1 secondary branch."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Bressuire have scored freely while conceding in five straight cited fixtures, matching La Baule-Le Pouliguen's ability to strike on road transitions."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 captures Bressuire's home attacking edge against a counter-punching visitor, while 1:1 reflects La Baule-Le Pouliguen's four-draws-in-five regional resilience."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with the 2:1 primary home victory, while two goals cover a tighter 1:1 cup stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "A cautious opening half precedes either a second-half home breakthrough or a sustained 90-minute deadlock."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:02:13 UTC"
+}
