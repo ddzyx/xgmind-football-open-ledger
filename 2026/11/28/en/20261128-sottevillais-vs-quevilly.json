@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650295,
+    "matchup": "Sottevillais vs Quevilly",
+    "home_team": "Sottevillais",
+    "away_team": "Quevilly",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-sottevillais-vs-quevilly/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Sottevillais vs Quevilly Prediction & Match Analysis: Can Regional Underdogs Hold QRM? — Scoreline Preview",
+    "meta": {
+      "matchId": "1650295",
+      "league": "Coupe de France",
+      "matchup": "Sottevillais vs Quevilly",
+      "matchTime": "2026-11-28 17:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Quevilly to prevail via an outright away win built on three-tier divisional superiority and three straight November clean sheets.",
+    "possibilityAssessment": [
+      "Away Win driven by QRM's multi-threat attack and shutout streak (Confidence: Moderate, Value: High)",
+      "Under 2.5 total goals anchored on Sottevillais's compact home low block and limited scoring floor (Confidence: Moderate, Value: Moderate)",
+      "Draw-Loss half-time to full-time progression as regional stamina fades after the interval (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "0:2",
+        "0:3"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650295",
+      "league": "Coupe de France",
+      "homeTeam": "Sottevillais",
+      "awayTeam": "Quevilly",
+      "match_time": "17:00",
+      "match_highlight": "QRM's three-match shutout streak tests Sottevillais's compact cup low block.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650295,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Quevilly's three-tier edge and seven-goal, three-clean-sheet November surge point to a 0:2 or 0:3 away victory without needing a draw hedge."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Sottevillais's deep defensive setup and QRM's recent 2-0 league wins point to a controlled 0:2 finish, with 0:3 as the late-fatigue branch."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Sottevillais failed to score in four of six recent regional and cup outings against a QRM defense riding three straight clean sheets."
+      },
+      "score": {
+        "selection": [
+          "0:2",
+          "0:3"
+        ],
+        "comment": "0:2 mirrors QRM's controlled November league wins over compact resistance, while 0:3 captures late-game expansion if Sottevillais tire."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals fits a measured professional shutout, while three goals accounts for late-substitute scoring once gaps open after the 70th minute."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Draw-Loss captures early home resistance before second-half fitness tells, while Loss-Loss covers an early QRM strike as seen at Dunkerque."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:19:14 UTC"
+}
