@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650267,
+    "matchup": "Union Cosnoise vs Sedan",
+    "home_team": "Union Cosnoise",
+    "away_team": "Sedan",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-union-cosnoise-vs-sedan/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Union Cosnoise vs Sedan Prediction & Match Analysis: Can Cosne Halt Sedan's Cup Surge?",
+    "meta": {
+      "matchId": "1650267",
+      "league": "Coupe de France",
+      "matchup": "Union Cosnoise vs Sedan",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Retain Draw / Away Win as the primary 90-minute direction, leaning toward CS Sedan Ardennes edging Union Cosnoise in a competitive cup tie.",
+    "possibilityAssessment": [
+      "Primary Thesis: Draw / Away Win led by Sedan's 0.67 decayed cup conceding rate and 2:0 win over National 2 side Bourges Foot 18 (Confidence: Moderate, Value: Moderate)",
+      "Secondary Angle: Over 2.5 goals and BTTS: Yes driven by Cosne's five-match cup scoring streak and Sedan's road scoring surge (Confidence: Moderate, Value: Moderate)",
+      "Contingency Angle: 1:1 regulation draw if Cosne replicate their home Regional 1 clean-sheet organization through 90 minutes (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650267",
+      "league": "Coupe de France",
+      "homeTeam": "Union Cosnoise",
+      "awayTeam": "Sedan",
+      "match_time": "16:00",
+      "match_highlight": "Two unbeaten R1 leaders clash for a Round of 64 berth.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650267,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a narrow 1:2 away victory powered by Sedan's veteran cup attack alongside a 1:1 draw given Cosne's unbeaten home league run, as unverified Regional 1 team sheets prevent locking a single outcome."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Union Cosnoise's 1.99 decayed cup goals for and 1.62 decayed goals against combine with Sedan's prolific road attack to point toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Cosne have scored in five consecutive cup ties and lead their R1 group at home, while Sedan's attacking quality should breach a host conceding 1.62 decayed cup goals per match."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Sedan's second-half clinical edge against a scoring home side, while 1:1 reflects Cosne's disciplined home league structure forcing penalties."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with our 1:2 primary projection in an open cup battle, with two goals covering a tighter 1:1 stalemate."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A tight opening 45 minutes should keep scores level at half-time before Sedan either pull away late (Draw-Loss) or Cosne hold out for 90 minutes (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:33:08 UTC"
+}
