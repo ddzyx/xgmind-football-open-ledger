@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556170,
+    "matchup": "Yokohama F. Marinos vs FC Tokyo",
+    "home_team": "Yokohama F. Marinos",
+    "away_team": "FC Tokyo",
+    "league": "J1 League",
+    "kickoff_utc": "2026-11-29 05:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-yokohama-f-marinos-vs-fc-tokyo/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Yokohama F. Marinos vs FC Tokyo Tactical Breakdown & Probabilistic Modeling: High-Press Asymmetry",
+    "meta": {
+      "matchId": "1556170",
+      "league": "J1 League",
+      "matchup": "Yokohama F. Marinos vs FC Tokyo",
+      "matchTime": "2026-11-29 05:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "MatchMind AI projects a Draw / Away Win trajectory led by a 1:2 FC Tokyo victory, alongside Over 2.5 goals and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "Primary 1X2 direction: Draw / Away Win led by FC Tokyo's +1.18 xG differential and 5W-2D-0L away record, with the Draw retained via Yokohama's 50.0% league stalemate rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS Yes alignment: 2.71 combined lambda, 71.4% FC Tokyo away Over 2.5 rate, and 71.4% Yokohama home BTTS rate support 1:2 (Confidence: Moderate, Value: Moderate)",
+      "Secondary 1:1 Draw contingency: Captures the highest-density Poisson scoreline (11.7%) if Yokohama's home scoring streak holds FC Tokyo level (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556170",
+      "league": "J1 League",
+      "homeTeam": "Yokohama F. Marinos",
+      "awayTeam": "FC Tokyo",
+      "match_time": "05:00",
+      "match_highlight": "FC Tokyo's second-half surge tests Yokohama's fragile home lead protection.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556170,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Retains both FC Tokyo's superior 2.03 xG away-win script (1:2) and Yokohama's high-draw home resilience (1:1), as a single away call understates the hosts' 87.5% unbeaten league rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.71 combined lambda (50.9% Over 2.5 baseline), FC Tokyo's 71.4% away Over 2.5 rate, and Yokohama's 1.50 xGA per game."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Yokohama have scored in 100% of home league matches (61.7% baseline scoring chance) against a 82.6%-rated FC Tokyo attack facing a 28.6% home clean-sheet defense."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns directly with the 0.96 vs 1.75 lambdas and Tokyo's late firepower, while 1:1 reflects the modal 11.7% Poisson outcome."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals captures the primary 1:2 Over 2.5 scenario, while 2 goals covers the 25.0% Poisson modal bucket led by 1:1."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "FC Tokyo draw 50.0% at half-time and convert 62.5% of those into wins (76.3% second-half goal share), with Draw-Draw covering the 1:1 stalemate branch."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 17:13:18 UTC"
+}
