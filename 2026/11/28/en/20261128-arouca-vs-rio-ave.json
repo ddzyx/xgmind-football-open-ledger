@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575546,
+    "matchup": "Arouca vs Rio Ave",
+    "home_team": "Arouca",
+    "away_team": "Rio Ave",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-11-28 15:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-arouca-vs-rio-ave/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Arouca vs Rio Ave Prediction & Match Analysis: Can Seabra's Visitors Breach Arouca's Home Defense?",
+    "meta": {
+      "matchId": "1575546",
+      "league": "Primeira Liga",
+      "matchup": "Arouca vs Rio Ave",
+      "matchTime": "2026-11-28 15:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Arouca's superior home chance creation and compact defensive spine project to overcome an injury-affected Rio Ave side in a low-scoring home victory.",
+    "possibilityAssessment": [
+      "Arouca Home Win backed by an 80.0% home league win rate, 1.25 xG creation, and a 53.68% blended Dixon-Coles/ClubElo win projection (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals and Both Teams To Score: No supported by a 2.43 lambda total, Arouca's 63.6% Under 2.5 rate, and Rio Ave's 63.6% failed-to-score rate (Confidence: Moderate, Value: High)",
+      "Early Arouca finishing frustration allowing Vasco Seabra's compact block to grind out a 0:0 or 1:1 stalemate if Arouca's 1.27 xGA regresses (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "2:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Win-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575546",
+      "league": "Primeira Liga",
+      "homeTeam": "Arouca",
+      "awayTeam": "Rio Ave",
+      "match_time": "15:30",
+      "match_highlight": "Arouca's home scoring consistency faces former boss Seabra's depleted defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575546,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "Arouca's 80.0% home win rate and 1.25-versus-1.86 xGA matchup edge align cleanly with a 1:0 or 2:0 home victory."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "A 2.43 lambda total, Arouca's 68.2% big-chance waste rate, and Rio Ave's 0.69 xG per match favor Under 2.5 goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Arouca's 60.0% home clean-sheet rate meets a Rio Ave attack that has failed to score in 63.6% of league outings."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "2:0"
+        ],
+        "comment": "1:0 is the 13.5% Dixon-Coles peak matching Arouca's recent home margins, with 2:0 covering Miszta's goalkeeping absence."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Two goals lead the Poisson distribution at 26.6%, while one goal reflects Arouca's pattern of four 1:0 results in five league games."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Win-Win"
+        ],
+        "comment": "Arouca have won 100% of home half-time draws and 100% of half-time leads, while Rio Ave have recovered zero deficits all season."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:22:07 UTC"
+}
