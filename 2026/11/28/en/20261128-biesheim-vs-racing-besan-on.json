@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650262,
+    "matchup": "Biesheim vs Racing Besançon",
+    "home_team": "Biesheim",
+    "away_team": "Racing Besançon",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-biesheim-vs-racing-besan-on/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Biesheim vs Racing Besançon Tactical Breakdown & Match Analysis: Tier-4 Control vs Unbeaten Steel",
+    "meta": {
+      "matchId": "1650262",
+      "league": "Coupe de France",
+      "matchup": "Biesheim vs Racing Besançon",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Biesheim Home Win / Draw leads in 90-minute regulation play, balancing the host's National 1 superiority against Racing Besançon's unbeaten National 2 resilience.",
+    "possibilityAssessment": [
+      "Biesheim Home Win / Draw covers the tier-4 home favorite alongside a stubborn 90-minute stalemate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS: Yes reflect both clubs averaging 1.70+ goals per league match without reliable clean sheets (Confidence: Moderate, Value: Moderate)",
+      "Tight 1:1 second-half deadlock remains the main alternative if Besançon's compact midfield slows early tempo (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650262",
+      "league": "Coupe de France",
+      "homeTeam": "Biesheim",
+      "awayTeam": "Racing Besançon",
+      "match_time": "16:00",
+      "match_highlight": "Tier-4 Biesheim's home attack tests unbeaten Racing Besançon's cup resilience.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650262,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a narrow 2:1 Biesheim win driven by tier-4 quality alongside a 1:1 draw given Besançon's unbeaten 3W-5D-0L league form, where a single win call leaves unhedged stalemate exposure."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both clubs average 1.70+ goals scored and 1.10+ conceded per league game, while Biesheim's five-match cup run without a clean sheet supports a three-goal 2:1 projection."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Biesheim has conceded in five straight Coupe de France fixtures and Besançon averages 1.88 goals per league match, giving both attacks clear scoring routes."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Biesheim's home tier advantage over 90 minutes, while 1:1 captures Besançon's high draw rate and their 2024 stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals anchors the primary 2:1 open cup expectation, while 2 goals accounts for a disciplined 1:1 knockout draw."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Besançon's compact structure can keep the first half level before Biesheim either breaks through late (Draw-Win) or settles for a stalemate (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:29:09 UTC"
+}
