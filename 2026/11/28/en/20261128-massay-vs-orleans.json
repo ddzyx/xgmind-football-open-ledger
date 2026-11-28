@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650281,
+    "matchup": "Massay vs Orleans",
+    "home_team": "Massay",
+    "away_team": "Orleans",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-massay-vs-orleans/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Massay vs Orleans Prediction & Match Analysis: Can R3 Hosts Resist Ligue 3 Tempo?",
+    "meta": {
+      "matchId": "1650281",
+      "league": "Coupe de France",
+      "matchup": "Massay vs Orleans",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "US Orleans hold a decisive five-tier professional and conditioning edge on a neutral pitch in Vierzon, projecting a controlled regulation-time victory built on second-half territorial dominance.",
+    "possibilityAssessment": [
+      "Orleans secure a routine multi-goal shutout win as superior Ligue 3 tempo and stamina wear down Massay's deep block (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals lands as Orleans's multi-goal away firepower exploits gaps opened by late-match amateur fatigue (Confidence: Moderate, Value: Moderate)",
+      "Massay snatch a solitary set-piece consolation against rotated or complacent Ligue 3 defenders in a 1:3 defeat (Confidence: Low, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "1:3"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650281",
+      "league": "Coupe de France",
+      "homeTeam": "Massay",
+      "awayTeam": "Orleans",
+      "match_time": "18:00",
+      "match_highlight": "Can eighth-tier Massay contain Ligue 3 Orleans on a neutral pitch?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650281,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Anchored on the 0:3 projection, the five-tier gap and Orleans's recent wins at Dijon and versus Thionville support a clear away victory."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Orleans scored multiple goals at Dijon and Valenciennes while Massay conceded twice to 10-man Montlouis, pointing to at least three goals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Eighth-tier Massay face a severe scoring floor barrier against a Ligue 3 defense coming off a clean sheet against Thionville."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "1:3"
+        ],
+        "comment": "0:3 reflects professional control and late stamina separation, while 1:3 hedges a set-piece lapse by Orleans."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Orleans's third-tier box pressure against amateur legs centers total output on 3 goals with 4 as the secondary branch."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Orleans's early intensity favors leading both halves (Loss-Loss), with Draw-Loss covering a stubborn first-half amateur block."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:16:15 UTC"
+}
