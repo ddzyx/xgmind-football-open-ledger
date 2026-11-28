@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650272,
+    "matchup": "Furiani-Agliani vs Nancy",
+    "home_team": "Furiani-Agliani",
+    "away_team": "Nancy",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 18:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-furiani-agliani-vs-nancy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Furiani-Agliani vs Nancy Prediction & Match Analysis: Can Corsican Leaders Disrupt Ligue 2 Defense?",
+    "meta": {
+      "matchId": "1650272",
+      "league": "Coupe de France",
+      "matchup": "Furiani-Agliani vs Nancy",
+      "matchTime": "2026-11-28 18:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Support Nancy via Draw / Away Win in 90 minutes, anchored on a 1:2 away victory with Over 2.5 Goals and BTTS: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Nancy's Ligue 2 quality and five-match winning run (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS: Yes built on Furiani-Agliani's 2.10 goals-per-game fourth-tier attack and Nancy's away firepower (Confidence: Moderate, Value: Moderate)",
+      "1:1 90-minute draw contingency if synthetic-turf friction and unconfirmed cup rotation force penalties (Confidence: Moderate, Value: Low)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650272",
+      "league": "Coupe de France",
+      "homeTeam": "Furiani-Agliani",
+      "awayTeam": "Nancy",
+      "match_time": "18:00",
+      "match_highlight": "Fourth-tier leaders test Ligue 2 promotion contenders on Corsican synthetic turf.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650272,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers Nancy's two-division edge in a 1:2 away win alongside a 1:1 90-minute draw, as unconfirmed cup lineups and Corsican synthetic turf weaken a single away-win call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Furiani-Agliani's 2.10 goals per game in National 2 Groupe A and Nancy's recent four-goal and three-goal cup/road outputs point past 2.5 goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Furiani-Agliani's home scoring output can breach a rotated or stretched Nancy backline that conceded three at Béthunois, while Nancy's Ligue 2 attack should reply."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Nancy pulling clear late after a home strike; 1:1 covers a disciplined Corsican stalemate heading to penalties."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals align with a competitive 1:2 away win, while two goals cover a tighter 1:1 cup deadlock."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "A level first half reflects early Corsican organization before Nancy's Ligue 2 depth either breaks through (Draw-Loss) or settles for a 90-minute draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:08:29 UTC"
+}
