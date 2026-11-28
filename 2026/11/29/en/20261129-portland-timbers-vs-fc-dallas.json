@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649504,
+    "matchup": "Portland Timbers vs FC Dallas",
+    "home_team": "Portland Timbers",
+    "away_team": "FC Dallas",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-29 03:30:00",
+    "source_url": "https://xgmind.com/matches/20261129-portland-timbers-vs-fc-dallas/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Portland Timbers vs FC Dallas Prediction & Match Analysis: Can Home Scoring Offset Backline Losses?",
+    "meta": {
+      "matchId": "1649504",
+      "league": "Major League Soccer",
+      "matchup": "Portland Timbers vs FC Dallas",
+      "matchTime": "2026-11-29 03:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "With a 3.09 combined statistical lambda and both sides scoring in 82.4% of Portland's home league fixtures, the primary projection backs Portland Timbers to win or draw in a high-scoring exchange featuring Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Primary 1X2 direction Home Win / Draw backed by 38.69% model home win share and 26.32% draw share (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 goals and BTTS Yes driven by Portland's 82.4% home Over 2.5/BTTS rate and four absent home defenders (Confidence: Moderate, Value: High)",
+      "Away Win counter-attacking risk driven by FC Dallas's 69.3 FW-OTI and 1.29 xGA stability (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649504",
+      "league": "Major League Soccer",
+      "homeTeam": "Portland Timbers",
+      "awayTeam": "FC Dallas",
+      "match_time": "03:30",
+      "match_highlight": "Portland home scoring floor tests depleted backline against Dallas counters.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649504,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Portland's 76.5% home unbeaten rate and 2:1 primary script alongside the 1:1 draw alternative, as Dallas's 1.29 xGA and four recent Providence Park draws make a single call too narrow."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.09 combined lambda (59.7% Over 2.5 probability), Portland's 82.4% home Over 2.5 rate, and four Confirmed Out home defenders."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Aligned with a 62.4% BTTS Yes projection, as Portland scored in 15 of 17 home games while Dallas kept clean sheets in only 3 of 16 away trips."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects the leading Home Win plus Over 2.5/BTTS Yes convergence, while 1:1 (11.4% top Poisson density) captures a low-possession Dallas containment stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Anchored by the virtually tied 3-goal (22.4%) and 2-goal (22.3%) Poisson peaks around a 3.09 combined expected-goal total."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Dallas has trailed at half-time in just 18.8% of away games, pointing to a tight opening half before second-half fatigue decides between a home breakthrough or 1:1 draw."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 15:41:41 UTC"
+}
