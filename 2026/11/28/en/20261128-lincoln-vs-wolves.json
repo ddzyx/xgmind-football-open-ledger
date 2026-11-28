@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563290,
+    "matchup": "Lincoln vs Wolves",
+    "home_team": "Lincoln",
+    "away_team": "Wolves",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-lincoln-vs-wolves/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Lincoln vs Wolves Prediction & Tactical Breakdown: Coaching Chaos vs Wolves xG Edge — Preview",
+    "meta": {
+      "matchId": "1563290",
+      "league": "Championship",
+      "matchup": "Lincoln vs Wolves",
+      "matchTime": "2026-11-28 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Wolves are projected to claim a full-time Away Win at Sincil Bank as their 1.83 xG attack exploits Lincoln's midfield absences and defensive fragility.",
+    "possibilityAssessment": [
+      "Away Win driven by Wolves' superior chance creation, defensive suppression, and Lincoln's verified midfield injury to Conor McGrandles (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS: Yes via a 1:2 script where Wolves score twice while conceding to Lincoln's 34.7% set-piece threat (Confidence: Moderate, Value: Moderate)",
+      "Wolves 0:2 controlled shutout if Lincoln's 67.7% big-chance wastefulness stalls without McGrandles' progression (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563290",
+      "league": "Championship",
+      "homeTeam": "Lincoln",
+      "awayTeam": "Wolves",
+      "match_time": "12:30",
+      "match_highlight": "Wolves' 1.83 xG attack tests interim-led Lincoln without McGrandles.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563290,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Wolves' +0.62 expected-goal lambda advantage, eight-match unbeaten run, and Lincoln's confirmed loss of Conor McGrandles concentrate probability on a 1:2 or 0:2 Away Win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides exceed 58% Over 2.5 frequency this season and Lincoln's recent 2.33 decayed goals conceded per game support three total goals in a 1:2 projection."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Wolves hold an 80.4% scoring expectancy while keeping just one away clean sheet in eight Championship trips (12.5%), giving Lincoln's set pieces a realistic route to one goal."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 reflects Wolves' 2+ goal scoring form alongside their 75.0% away BTTS rate, while 0:2 covers the shutout branch if Lincoln's 67.7% big-chance waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals aligns with the primary 1:2 open-exchange script, while two goals captures the 25.5% Poisson mode under a 0:2 Wolves shutout."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Wolves have drawn half-time in 62.5% of away games before finishing strongly (Draw-Loss), while Lincoln's 50.0% home half-time deficit rate supports Loss-Loss as the secondary path."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:45:15 UTC"
+}
