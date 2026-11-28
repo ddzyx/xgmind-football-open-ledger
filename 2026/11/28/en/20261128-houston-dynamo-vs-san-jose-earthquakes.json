@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1649501,
+    "matchup": "Houston Dynamo vs San Jose Earthquakes",
+    "home_team": "Houston Dynamo",
+    "away_team": "San Jose Earthquakes",
+    "league": "Major League Soccer",
+    "kickoff_utc": "2026-11-28 19:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-houston-dynamo-vs-san-jose-earthquakes/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Houston Dynamo vs San Jose Earthquakes Prediction: Resch's Ban vs Quakes Road Fragility — xG Preview",
+    "meta": {
+      "matchId": "1649501",
+      "league": "Major League Soccer",
+      "matchup": "Houston Dynamo vs San Jose Earthquakes",
+      "matchTime": "2026-11-28 19:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Houston Dynamo is projected to avoid 90-minute defeat (Home Win / Draw) in a tight Both Teams To Score encounter anchored on 1:1 and 2:1.",
+    "possibilityAssessment": [
+      "Home Win / Draw holds the highest combined probability as ClubElo and home-venue resilience offset San Jose's season xG edge (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 & BTTS Yes (1:1 / 2:1) captures both sides' 72%+ single-side scoring expectancy without inflating total-goal variance (Confidence: Moderate, Value: Moderate)",
+      "San Jose set-piece leverage threatens Houston's reshuffled backline if dead-ball fouls accumulate around the penalty area (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1649501",
+      "league": "Major League Soccer",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "San Jose Earthquakes",
+      "match_time": "19:30",
+      "match_highlight": "Suspended Resch tests Houston defense against San Jose's weak road shutout record.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1649501,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers Houston's Elo-backed 2:1 home-win path and the 1:1 stalemate script, as Resch's ban and San Jose's Game 1 edge make a single Home Win call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 52.1% Dixon-Coles Under 2.5 probability, a 2.59 lambda total, and Houston's 62.5% home Under 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by a 53.3% BTTS model probability, 72%+ single-side scoring rates, San Jose's 18.8% away clean-sheet rate, and Resch's absence."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.2% under straight-to-penalties rules, while 2:1 covers Houston's narrow home-win trajectory."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "2 goals (25.8%) and 3 goals (21.7%) hold the top two probability shares around the 2.59 combined expected-goal anchor."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams draw heavily at half-time in tonight's venues before Houston's elimination urgency pushes for a second-half win or 1:1 finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 07:45:43 UTC"
+}
