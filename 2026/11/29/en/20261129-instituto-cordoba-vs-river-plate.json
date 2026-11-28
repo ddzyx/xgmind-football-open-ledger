@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1651630,
+    "matchup": "Instituto Cordoba vs River Plate",
+    "home_team": "Instituto Cordoba",
+    "away_team": "River Plate",
+    "league": "Liga Profesional Argentina",
+    "kickoff_utc": "2026-11-29 01:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-instituto-cordoba-vs-river-plate/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Instituto Cordoba vs River Plate Prediction & Match Analysis: Can Depleted River Crack Home Wall?",
+    "meta": {
+      "matchId": "1651630",
+      "league": "Liga Profesional Argentina",
+      "matchup": "Instituto Cordoba vs River Plate",
+      "matchTime": "2026-11-29 01:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Instituto Cordoba is projected to avoid defeat in regulation time in a tight, low-scoring Clausura quarter-final defined by defensive suppression.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Instituto's 13-of-15 home unbeaten record and blended model dominance (Confidence: Moderate, Value: High)",
+      "Under 2.5 Goals supported by a 1.47 combined lambda and an 81.6% Dixon-Coles projection (Confidence: High, Value: Moderate)",
+      "BTTS: No backed by sub-0.65 xGA defenses and River Plate's 33.3% away failed-to-score rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "1",
+        "2"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "0:0"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1651630",
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Instituto Cordoba",
+      "awayTeam": "River Plate",
+      "match_time": "01:00",
+      "match_highlight": "Instituto's 86.7% home unbeaten shield tests River's depleted midfield pivot.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1651630,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the primary 1:0 home win via set-piece pressure and the 0:0 stalemate branch, as Cerato's suspension and Luna/Lazaro doubts make a single-outcome call too narrow."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 1.47 total lambda, 0.63 and 0.55 xGA defensive baselines, and River Plate's 11-of-15 away Under 2.5 rate."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Driven by a 72.5% model probability as both sub-0.65 xGA defenses confront River's 33.3% away blank rate and Instituto's creative absences."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "0:0"
+        ],
+        "comment": "Instituto's 8 single-goal home wins point to 1:0, while mutual attacking restrictions keep a 0:0 deadlock firmly live."
+      },
+      "goals": {
+        "selection": [
+          "1",
+          "2"
+        ],
+        "comment": "Model total-goal density concentrates on 1 goal (32.6%) and 2 goals (25.5%) under strict knockout officiating."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides post high half-time draw rates (46.7% home, 53.3% away) before second-half fatigue either opens a late home breakthrough or preserves a stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 13:12:27 UTC"
+}
