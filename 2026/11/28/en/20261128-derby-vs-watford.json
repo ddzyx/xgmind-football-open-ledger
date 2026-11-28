@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563289,
+    "matchup": "Derby vs Watford",
+    "home_team": "Derby",
+    "away_team": "Watford",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-derby-vs-watford/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Derby County vs Watford Prediction & Match Analysis: Can Hosts Exploit Hornets Suspensions? — xG Preview",
+    "meta": {
+      "matchId": "1563289",
+      "league": "Championship",
+      "matchup": "Derby vs Watford",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Derby are projected to avoid defeat against a road-winless Watford side missing suspended defenders Matt Pollock and Jordan Zemura, with a 1:1 stalemate or narrow 2:1 home victory representing the primary scoreline corridor.",
+    "possibilityAssessment": [
+      "Home Win / Draw anchored by Derby's ClubElo edge (1546 vs 1515) and Watford's 0W-1D-7L away record (Confidence: Moderate, Value: Moderate)",
+      "Under 2.5 Goals & BTTS: Yes supported by 51.8% under-2.5 density and 0.0% venue clean-sheet rates (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw / 2:1 Home Win pair capturing both the 13.1% modal stalemate and 8.8% home breakthrough (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "3"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:1",
+        "2:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563289",
+      "league": "Championship",
+      "homeTeam": "Derby",
+      "awayTeam": "Watford",
+      "match_time": "15:00",
+      "match_highlight": "Suspended Watford defenders face Derby's urgent home attack at Pride Park.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563289,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both the modal 1:1 stalemate and a 2:1 home win because Watford's defensive suspensions meet Derby's own 0.0% home clean-sheet record."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Both sides waste over 65% of big chances and sit below 0.85 goals per game, matching the 51.8% Under 2.5 Poisson baseline."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Neither club has kept a venue clean sheet in eight home or away games, lifting BTTS Yes to 53.2% despite modest scoring averages."
+      },
+      "score": {
+        "selection": [
+          "1:1",
+          "2:1"
+        ],
+        "comment": "1:1 leads the Dixon-Coles matrix at 13.1% between two leaky defenses, while 2:1 (8.8%) captures Derby's rest and personnel edge late."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "3"
+        ],
+        "comment": "Two goals holds the highest Poisson density at 25.7%, with three goals (21.8%) covering a late home breakthrough."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Cautious first-half organization under Watford's new boss points to a level interval before Derby's 24-hour rest edge decides or shares points."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:44:53 UTC"
+}
