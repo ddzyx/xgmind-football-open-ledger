@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650271,
+    "matchup": "Feurs vs Annecy",
+    "home_team": "Feurs",
+    "away_team": "Annecy",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 16:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-feurs-vs-annecy/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Feurs vs Annecy Tactical Breakdown & Probabilistic Modeling: Can Ligue 2 Class Overcome Cup Rotation?",
+    "meta": {
+      "matchId": "1650271",
+      "league": "Coupe de France",
+      "matchup": "Feurs vs Annecy",
+      "matchTime": "2026-11-28 16:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Project Annecy to avoid 90-minute defeat (Draw / Away Win), leaning toward a narrow away victory with both teams finding the net.",
+    "possibilityAssessment": [
+      "Draw / Away Win direction prioritizing Annecy's three-tier attacking superiority while respecting 90-minute stalemate risk (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 total goals driven by Annecy's 1.98 decayed goals conceded and Feurs's high-scoring cup profile (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score: Yes backed by Annecy's 23.1% clean-sheet rate and five-match run without a shutout (Confidence: Moderate, Value: High)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650271",
+      "league": "Coupe de France",
+      "homeTeam": "Feurs",
+      "awayTeam": "Annecy",
+      "match_time": "16:00",
+      "match_highlight": "Rotated Ligue 2 visitors Annecy face rested National 3 hosts Feurs.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650271,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a 1:2 Annecy regulation win driven by Ligue 2 attacking quality alongside the 1:1 draw script seen at Firminy, as defensive omissions prevent backing an outright away win alone."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by Annecy's 1.98 decayed goals conceded over five games and Feurs's open 3.20/1.86 cup goal rates despite missing aligned xG."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Annecy's 23.1% clean-sheet ratio and missing defensive/holding players give Feurs a clear scoring floor while Sahi Dion and Rambaud threaten the fifth-tier hosts."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Annecy's second-half Ligue 2 edge over a scoring host, while 1:1 reflects cup-tie resistance and Annecy's 56.2% big-chance waste rate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals matches the primary 1:2 away victory script, with 2 goals covering the tight 1:1 stalemate branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Feurs's 14-day freshness supports a level first half before Annecy's superior second-half fitness decides the tie (Draw-Loss) or settles into a 1:1 draw (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:43:34 UTC"
+}
