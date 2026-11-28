@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1557482,
+    "matchup": "Ipswich vs Aston Villa",
+    "home_team": "Ipswich",
+    "away_team": "Aston Villa",
+    "league": "Premier League",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-ipswich-vs-aston-villa/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Ipswich Town vs Aston Villa Prediction & Match Analysis: Can Tired Villa Crack Portman Road? — xG Preview",
+    "meta": {
+      "matchId": "1557482",
+      "league": "Premier League",
+      "matchup": "Ipswich vs Aston Villa",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Aston Villa's superior squad quality and ClubElo strength against a zero-clean-sheet host favor Draw / Away Win alongside Over 2.5 and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win captures Villa's 41.09% blended win lead while protecting against their 5-draw league trend (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals & BTTS Yes backed by 3.26 combined lambdas and Bet365 totals consensus (Confidence: Moderate, Value: High)",
+      "1:1 draw branch covers Ipswich's fresh home counter-punch exploiting Villa's post-Istanbul fatigue (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1557482",
+      "league": "Premier League",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Aston Villa",
+      "match_time": "17:30",
+      "match_highlight": "Fresh Ipswich counter attack tests tired Villa after midweek Istanbul trip.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1557482,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Villa's 41.09% blended model edge justifies backing the 1:2 away win, while midweek fatigue and a 58.3% big-chance waste rate make retaining the 1:1 draw script stronger than a single away call."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 3.26 lambdas, 3.72 combined xGA per match, and 63.2% Poisson Over 2.5 probability align with Bet365's 1.57 Over 2.5 pricing."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Ipswich's 0% clean-sheet rate and 80% home BTTS rate meet Villa's 1.71 xGA without Amadou Onana, matching the 64.9% BTTS Yes projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 reflects Villa's 100% single-goal margin profile on PL wins, while 1:1 represents the modal 10.7% Dixon-Coles stalemate branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 Goals (22.2%) and 2 Goals (20.9%) rank first and second in the Poisson total-goals matrix around the 3.26 lambda total."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Ipswich have lost all five matches when trailing at half-time (Loss-Loss), while 60% of their home games and 54.5% of Villa's league matches sit level at the break (Draw-Draw)."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:08:52 UTC"
+}
