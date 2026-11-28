@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1650260,
+    "matchup": "Avenir Foot Lozère vs Montpellier",
+    "home_team": "Avenir Foot Lozère",
+    "away_team": "Montpellier",
+    "league": "Coupe de France",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-avenir-foot-loz-re-vs-montpellier/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Avenir Foot Lozère vs Montpellier Tactical Breakdown & Prediction: Can Rotation Slow Ligue 2 Depth?",
+    "meta": {
+      "matchId": "1650260",
+      "league": "Coupe de France",
+      "matchup": "Avenir Foot Lozère vs Montpellier",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Montpellier are projected to overcome Zoumana Camara's planned cup rotation and secure a decisive multi-goal Away Win with a clean sheet against seventh-tier Avenir Foot Lozère.",
+    "possibilityAssessment": [
+      "Montpellier Away Win via five-tier class and second-half physical separation (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals driven by visiting transition pace against tiring regional legs (Confidence: Moderate, Value: Moderate)",
+      "BTTS: No anchored by Montpellier's Ligue 2 defensive containment and returning defenders (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "scores": [
+        "0:3",
+        "0:4"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1650260",
+      "league": "Coupe de France",
+      "homeTeam": "Avenir Foot Lozère",
+      "awayTeam": "Montpellier",
+      "match_time": "17:30",
+      "match_highlight": "Montpellier's five-tier depth meets rotated cup chemistry in Mende.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1650260,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "A five-division gap from Ligue 2's top three to Régional 2 supports a clean 0:3 away win for Montpellier despite planned squad rotation."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Montpellier's vertical transition speed and 5-0 seventh-round cup benchmark project three or more goals against seventh-tier opposition."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Montpellier's disciplined Ligue 2 defense and returning personnel limit Avenir Foot Lozère's regional attack to low-probability chances."
+      },
+      "score": {
+        "selection": [
+          "0:3",
+          "0:4"
+        ],
+        "comment": "Visiting dominance with second-half fitness separation points toward a three-goal shutout, stretching to four if early conversion improves."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Most scoring volume concentrates on three to four visiting goals once amateur resistance fades after the interval."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Loss"
+        ],
+        "comment": "Montpellier are favored to lead before half-time and win, with a level interval before second-half separation as the main alternative."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:44:46 UTC"
+}
