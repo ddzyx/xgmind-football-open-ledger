@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563293,
+    "matchup": "QPR vs Sheffield Utd",
+    "home_team": "QPR",
+    "away_team": "Sheffield Utd",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 15:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-qpr-vs-sheffield-utd/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "QPR vs Sheffield Utd Prediction & Match Analysis: Can QPR's xG Edge Overcome Defensive Absences?",
+    "meta": {
+      "matchId": "1563293",
+      "league": "Championship",
+      "matchup": "QPR vs Sheffield Utd",
+      "matchTime": "2026-11-28 15:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "QPR's 1.73 xG output and Loftus Road unbeaten record support a Home Win / Draw projection in an open, both-teams-to-score Championship contest.",
+    "possibilityAssessment": [
+      "Primary 1X2 thesis (Home Win / Draw): QPR control chance creation and welcome back Nicolas Madsen against Sheffield Utd's depleted right flank, while QPR's defensive absences keep the Draw active (Confidence: Moderate, Value: High)",
+      "Secondary totals and BTTS thesis (Over 2.5 & BTTS: Yes): Combined 2.60 expected-goal baseline and high venue BTTS rates (62.5% QPR home, 75.0% Sheffield Utd away) favor 2:1 or 1:1 (Confidence: Moderate, Value: Moderate)",
+      "Contingency stalemate thesis (1:1 Draw): If QPR's 69.2% big-chance waste persists against returning Japhet Tanganga, Sheffield Utd's 37.5% set-piece threat can force a share of the points (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563293",
+      "league": "Championship",
+      "homeTeam": "QPR",
+      "awayTeam": "Sheffield Utd",
+      "match_time": "15:00",
+      "match_highlight": "Madsen's return tests depleted Blades right flank amid QPR centre-back absences.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563293,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers QPR's 2:1 home xG superiority and the 1:1 stalemate script, because QPR's 41.2% draw rate and defensive absences prevent an unhedged single win."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 2.60 combined lambda, 62.5% QPR home and 75.0% Sheffield Utd away Over 2.5 rates, plus defensive injuries on both sides."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "QPR create 1.73 xG per match with Madsen returning, while Sheffield Utd have scored in 7 of 8 away games against a 25.0% QPR home clean-sheet rate."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects QPR's home chance edge minus a set-piece concession, while 1:1 matches the modal 12.3% Poisson cell if QPR's finishing waste persists."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals align with the 2:1 primary script and defensive absences, while 2 goals cover the 25.7% Poisson modal total and 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Win-Win tracks QPR's 61.5% first-half goal share and 3 home Win-Win results, while Draw-Draw covers Sheffield Utd's 50.0% away half-time draw rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 03:51:20 UTC"
+}
