@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1552828,
+    "matchup": "Angers vs Lens",
+    "home_team": "Angers",
+    "away_team": "Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-11-28 16:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-angers-vs-lens/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Decoupling Angers vs Lens: Expected Goals, Defensive Fragility & Match Intelligence",
+    "meta": {
+      "matchId": "1552828",
+      "league": "Ligue 1",
+      "matchup": "Angers vs Lens",
+      "matchTime": "2026-11-28 16:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Draw / Away Win is favored, led by a 1:2 Lens victory with a 1:1 draw retained alongside Over 2.5 goals and BTTS Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 & BTTS: Yes — mutual defensive fragility (1.86 vs 1.53 xGA/match) and 3.27 blended lambda support goals at both ends (Confidence: Moderate, Value: High)",
+      "1:1 Scoring Draw Hedge — Lens' 92-hour UCL turnaround and 20.0% away win rate leave room for a shared point if Angers convert set-piece chances (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1552828",
+      "league": "Ligue 1",
+      "homeTeam": "Angers",
+      "awayTeam": "Lens",
+      "match_time": "16:15",
+      "match_highlight": "Can Lens overcome short rest and zero clean sheets at Angers?",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1552828,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers a leading 1:2 Lens win driven by 1.80 xG/match and a 1:1 draw script given Lens' 0% clean-sheet rate and 92-hour UCL turnaround, avoiding a single call that ignores away fatigue."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.27 blended lambda total, 63.5% model probability, and Lens' 72.7% Ligue 1 Over 2.5 rate."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Lens hold a 0.0% clean-sheet rate across 11 Ligue 1 matches (81.8% BTTS) while Angers concede 2.09 goals per game against a 1.84 away lambda."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Lens' clear attacking edge plus mutual defensive leaks, while 1:1 reflects the highest standalone Dixon-Coles density (10.5%)."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three (22.1%) and two (20.8%) represent the top two probability peaks in the hybrid goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss aligns with Angers trailing at half-time in 66.7% of home games (0% deficit recovery), while Draw-Draw covers a cautious first half ending 1:1."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 04:39:53 UTC"
+}
