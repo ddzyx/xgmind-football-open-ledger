@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1556715,
+    "matchup": "Motherwell vs Hibernian",
+    "home_team": "Motherwell",
+    "away_team": "Hibernian",
+    "league": "Premiership",
+    "kickoff_utc": "2026-11-28 17:45:00",
+    "source_url": "https://xgmind.com/matches/20261128-motherwell-vs-hibernian/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Motherwell vs Hibernian Prediction & Match Analysis: Can Steelmen's xG Breach Hibs' Fragile Defense?",
+    "meta": {
+      "matchId": "1556715",
+      "league": "Premiership",
+      "matchup": "Motherwell vs Hibernian",
+      "matchTime": "2026-11-28 17:45 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Hibernian carry the sharper finishing form and away scoring reliability to avoid defeat at Fir Park in a tightly balanced matchup requiring Draw / Away Win coverage.",
+    "possibilityAssessment": [
+      "Draw / Away Win — Hibernian's 50% away win rate and superior forward conversion lead, with the draw retained given nearly identical 1.53 vs 1.58 goal expectancies (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Total Goals & BTTS: Yes — Combined 3.11 expected-goal total and mutual 1.56–1.64 xGA rates support an open three-goal exchange (Confidence: Moderate, Value: High)",
+      "Motherwell 2:1 Home Turnaround — Host rest edge (+71 hours) and 1.65 xG creation could flip a narrow margin if Alex Lowry starts (Confidence: Low, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1556715",
+      "league": "Premiership",
+      "homeTeam": "Motherwell",
+      "awayTeam": "Hibernian",
+      "match_time": "17:45",
+      "match_highlight": "Hibernian's 7.1% clean-sheet rate meets Motherwell's 69.7% big-chance waste.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1556715,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both the 1:2 away-win script driven by Hibernian's sharper conversion and the 1:1 draw branch given Motherwell's 1.65 xG against a 7.1% clean-sheet defence, where a single outcome would ignore high parity."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.11 lambda total, a 60.1% Over 2.5 model probability, and high concession rates near 1.6 xGA for both clubs."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both attacks project above 78% to score in the model while Hibernian own just one clean sheet across 14 Premiership outings."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Hibernian's away attacking edge over Said-less Motherwell, while 1:1 represents the highest single matrix density at 11.3%."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4%) and two goals (22.1%) sit atop the Poisson goal-count distribution around the 3.11 total expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Low first-half venue goal shares (40% home for Motherwell, 30% away for Hibs) point to a level interval before second-half separation or stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:55:40 UTC"
+}
