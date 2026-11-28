@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1570046,
+    "matchup": "Valladolid vs Real Sociedad II",
+    "home_team": "Valladolid",
+    "away_team": "Real Sociedad II",
+    "league": "Segunda División",
+    "kickoff_utc": "2026-11-28 20:00:00",
+    "source_url": "https://xgmind.com/matches/20261128-valladolid-vs-real-sociedad-ii/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Valladolid vs Real Sociedad II Preview & Tactical Breakdown: Can Depleted Sanse Resist Zorrilla?",
+    "meta": {
+      "matchId": "1570046",
+      "league": "Segunda División",
+      "matchup": "Valladolid vs Real Sociedad II",
+      "matchTime": "2026-11-28 20:00 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Back Valladolid for a home victory as their set-piece efficiency and returning forward depth meet a Real Sociedad II side weakened by three confirmed suspensions.",
+    "possibilityAssessment": [
+      "Primary Thesis (Core): Home Win driven by Valladolid's 57.1% home win rate, 31.1% set-piece scoring share, and Real Sociedad II's triple suspension crisis (Confidence: High, Value: High)",
+      "Secondary Angle (Value): Over 2.5 Goals supported by 3.24 combined goal expectancy and 71.4% Over 2.5 rates at both sides' respective venues (Confidence: Moderate, Value: High)",
+      "Contingency Angle (Hedge / Upset): 2:0 Home Shutout branch if the bans to Gorka Carrera and Alex Marchal suppress Sanse's transition finishing (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:0"
+      ],
+      "htft": [
+        "Win-Win",
+        "Draw-Win"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1570046",
+      "league": "Segunda División",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Real Sociedad II",
+      "match_time": "20:00",
+      "match_highlight": "Valladolid's home set-piece edge tests suspension-hit Real Sociedad II.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1570046,
+      "spf": {
+        "selection": "Home Win",
+        "comment": "A single Home Win call aligns with the 2:1 and 2:0 scorelines, reflecting Valladolid's home attacking edge against a suspension-depleted Real Sociedad II."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by a 3.24 combined lambda total and 71.4% Over 2.5 rates across both Valladolid's home matches and Real Sociedad II's away trips."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Valladolid's 13.3% season clean-sheet rate leaves space for Dani Diaz and Lander Astiazaran to test the hosts despite Sanse's forward absences."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:0"
+        ],
+        "comment": "2:1 tops the Dixon-Coles matrix against Valladolid's leaky defense, while 2:0 captures the shutout branch if Sanse's missing forwards blunt their attack."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.2%) and two goals (21.0%) represent the two highest-density totals around the 3.24 combined goal expectancy."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Draw-Win"
+        ],
+        "comment": "Valladolid scores 66.7% of home goals before half-time to favour Win-Win, with Draw-Win covering a tight opening period before second-half bench depth tells."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 08:42:00 UTC"
+}
