@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1603085,
+    "matchup": "Al-Hazm vs Al-Nassr",
+    "home_team": "Al-Hazm",
+    "away_team": "Al-Nassr",
+    "league": "Pro League",
+    "kickoff_utc": "2026-11-28 12:15:00",
+    "source_url": "https://xgmind.com/matches/20261128-al-hazm-vs-al-nassr/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Al-Hazm vs Al-Nassr Prediction & Match Analysis: Can Al-Hazm Exploit Away Absences? — xG Preview",
+    "meta": {
+      "matchId": "1603085",
+      "league": "Pro League",
+      "matchup": "Al-Hazm vs Al-Nassr",
+      "matchTime": "2026-11-28 12:15 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Al-Nassr is projected to secure an Away Win in regulation time as its 1.91 xG per match attack targets Al-Hazm's 2.15 xGA defensive structure.",
+    "possibilityAssessment": [
+      "Al-Nassr Away Win behind Cristiano Ronaldo, Joao Felix, and Sadio Mane against a host conceding 2.15 xGA per game (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals supported by a 3.23 combined lambda and Al-Nassr's 83.3% away Over 2.5 rate (Confidence: Moderate, Value: High)",
+      "Both Teams To Score Yes driven by Al-Nassr's 16.7% away clean-sheet rate and Amir Sayoud's transition threat (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "0:2"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Loss-Loss"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1603085",
+      "league": "Pro League",
+      "homeTeam": "Al-Hazm",
+      "awayTeam": "Al-Nassr",
+      "match_time": "12:15",
+      "match_highlight": "Ronaldo and Felix target Al-Hazm's 2.15 xGA defense despite Simakan's rest.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1603085,
+      "spf": {
+        "selection": "Away Win",
+        "comment": "Projected 1:2 and 0:2 scorelines reflect Al-Nassr's 68.1% Dixon-Coles win probability and decisive xG superiority over Al-Hazm."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.23 combined lambda (62.6% Over 2.5 probability) and Al-Nassr's 2.42 goals per game output point toward three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Al-Nassr has kept just one clean sheet in six away league matches and rests Mohamed Simakan, while Al-Hazm has scored in five of six home games."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "0:2"
+        ],
+        "comment": "1:2 aligns Al-Nassr's attacking dominance with their away clean-sheet fragility, while 0:2 covers the top raw Poisson shutout branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.2%) and 2 goals (21.1%) represent the two highest-probability buckets in the Poisson total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Loss-Loss"
+        ],
+        "comment": "Al-Hazm's 50.0% home HT draw rate and Al-Nassr's 61.5% second-half away goal share favor Draw-Loss ahead of an early Loss-Loss break."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:38:49 UTC"
+}
