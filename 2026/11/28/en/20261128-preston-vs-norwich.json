@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1563292,
+    "matchup": "Preston vs Norwich",
+    "home_team": "Preston",
+    "away_team": "Norwich",
+    "league": "Championship",
+    "kickoff_utc": "2026-11-28 12:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-preston-vs-norwich/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Preston vs Norwich Prediction & Match Analysis: Can Home Defense Hold Without Hughes? — xG Preview",
+    "meta": {
+      "matchId": "1563292",
+      "league": "Championship",
+      "matchup": "Preston vs Norwich",
+      "matchTime": "2026-11-28 12:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Norwich's superior xG output and high press against a Hughes-less Preston backline favor Draw / Away Win alongside Over 2.5 goals and Both Teams To Score: Yes.",
+    "possibilityAssessment": [
+      "Draw / Away Win led by Norwich Win (43.5% model prob) with 1:1 stalemate retained (10.9% modal score) (Confidence: Moderate, Value: High)",
+      "Over 2.5 Total Goals backed by 3.19 combined lambda and Norwich's 7-of-8 away Over 2.5 trend (Confidence: Moderate, Value: High)",
+      "Both Teams To Score: Yes anchored by 63.4% model prob and 11.8% season clean-sheet rates for both clubs (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Loss-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1563292",
+      "league": "Championship",
+      "homeTeam": "Preston",
+      "awayTeam": "Norwich",
+      "match_time": "12:30",
+      "match_highlight": "Hughes suspension tests resurgent Preston against high-pressing Norwich attack.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1563292,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Draw / Away Win covers the leading 1:2 Norwich victory driven by superior xG and Preston's defensive absences alongside the modal 1:1 draw given Norwich's 11.8% clean-sheet rate."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "A 3.19 combined lambda, 61.8% Over 2.5 probability, and Norwich's 7 of 8 away games clearing 2.5 goals favor at least three goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Both clubs have kept clean sheets in just 2 of 17 league matches (11.8%), supporting the 63.4% BTTS Yes projection."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 aligns with Norwich's 1.78 lambda edge and Over 2.5/BTTS Yes, while 1:1 represents the 10.9% modal draw branch."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "3 goals (22.3%) and 2 goals (21.5%) lead the Dixon-Coles distribution and map directly to the 1:2 and 1:1 scorelines."
+      },
+      "bqc": {
+        "selection": [
+          "Loss-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Loss-Loss reflects Norwich's 50% away half-time lead rate and Preston's 0% recovery record when trailing at HT, with Draw-Draw covering the 1:1 stalemate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 00:48:44 UTC"
+}
