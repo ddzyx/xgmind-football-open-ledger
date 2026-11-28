@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575236,
+    "matchup": "1. FC Köln vs SV Elversberg",
+    "home_team": "1. FC Köln",
+    "away_team": "SV Elversberg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-28 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-1-fc-k-ln-vs-sv-elversberg/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "1. FC Köln vs SV Elversberg Prediction & Match Analysis: Finishing Waste vs 2.08 xGA",
+    "meta": {
+      "matchId": "1575236",
+      "league": "Bundesliga",
+      "matchup": "1. FC Köln vs SV Elversberg",
+      "matchTime": "2026-11-28 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "Projecting 1. FC Köln Home Win / Draw anchored to a 2:1 primary scoreline, Over 2.5 Goals, and Both Teams To Score (Yes).",
+    "possibilityAssessment": [
+      "1. FC Köln Home Win / Draw captures the hosts' 51.34% blended win projection against a 2.08 xGA defense alongside their 40% league draw rate (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals aligns with 3.19 combined expected goals, 61.8% model probability, and 10.0% clean-sheet rates for both clubs (Confidence: Moderate, Value: Moderate)",
+      "Both Teams To Score (Yes) reflects Elversberg's 35.3% set-piece goal share meeting Köln's Skhiri-less defensive structure (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575236",
+      "league": "Bundesliga",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "SV Elversberg",
+      "match_time": "14:30",
+      "match_highlight": "Köln's 1.55 xG pressure targets Elversberg's 2.08 xGA defense without Skhiri.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575236,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Retains Köln's 2:1 winning script against Elversberg's 2.08 xGA defense while covering the 1:1 draw script driven by Köln's 77.8% big-chance waste and defensive absences."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Supported by 3.19 combined lambda, 61.8% model probability, and both sides conceding over 1.55 xGA per game with 10.0% clean-sheet rates."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Backed by 59.5% model probability, Bet365's 1.53 price, and Elversberg's 35.3% set-piece threat facing a depleted Köln backline."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "1:1"
+        ],
+        "comment": "2:1 reflects Köln's home xG superiority over a porous away defense, while 1:1 captures the 10.1% modal Poisson draw risk from finishing waste."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Matches the two highest-probability Poisson goal buckets at 22.3% (3 goals) and 21.4% (2 goals)."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Elversberg's 80% away half-time draw rate and Köln's 28.6% first-half home goal share point to level intervals before a second-half resolution."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:45:12 UTC"
+}
