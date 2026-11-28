@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1492471,
+    "matchup": "Botafogo vs Bahia",
+    "home_team": "Botafogo",
+    "away_team": "Bahia",
+    "league": "Serie A",
+    "kickoff_utc": "2026-11-29 00:00:00",
+    "source_url": "https://xgmind.com/matches/20261129-botafogo-vs-bahia/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "Botafogo vs Bahia Prediction & Match Analysis: Suspensions Threaten Hosts — xG & Scoreline Preview",
+    "meta": {
+      "matchId": "1492471",
+      "league": "Serie A",
+      "matchup": "Botafogo vs Bahia",
+      "matchTime": "2026-11-29 00:00 UTC"
+    },
+    "recommendationLevel": "Value Upset",
+    "coreRecommendation": "Bahia are projected to avoid defeat at Estádio Nilton Santos in an open, both-teams-to-score contest leaning toward a 1:2 away win or 1:1 draw.",
+    "possibilityAssessment": [
+      "Draw / Away Win directional call prioritizing Bahia's 1.53 xG-per-match attack against Botafogo's suspended backline while covering Botafogo's 43.8% home draw rate (Confidence: Moderate, Value: High)",
+      "Over 2.5 Goals and BTTS: Yes supported by a 2.98 combined lambda and defensive absences on both sides (Confidence: Moderate, Value: Moderate)",
+      "1:1 Draw Stalemate secondary branch if Bahia's recent finishing caution persists after consecutive blanks (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "2"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "1:2",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Loss",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1492471",
+      "league": "Serie A",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Bahia",
+      "match_time": "00:00",
+      "match_highlight": "Ferraresi and Marcal suspensions expose Botafogo against Bahia's 1.53 xG attack.",
+      "ai_confidence": "Value Upset",
+      "fixtureId": 1492471,
+      "spf": {
+        "selection": "Draw / Away Win",
+        "comment": "Covers both Bahia's 1:2 edge over Botafogo's suspended defense and Botafogo's 1:1 home draw tendency, as a single Away Win leaves Bahia's recent finishing slump unaddressed."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Combined 2.98 lambda, 57.2% Over 2.5 model projection, and key defensive absences favor three or more goals."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Botafogo's 81.2% home scoring rate and Bahia's 1.53 xG output meet depleted containment on both sides (60.4% model BTTS)."
+      },
+      "score": {
+        "selection": [
+          "1:2",
+          "1:1"
+        ],
+        "comment": "1:2 captures Bahia's attacking edge against a weakened back four, while 1:1 covers the 11.8% modal Dixon-Coles stalemate."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "2"
+        ],
+        "comment": "Three goals (22.4%) aligns with the 1:2 primary script, while two goals (23.1%) accounts for the 1:1 draw branch."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Loss",
+          "Draw-Draw"
+        ],
+        "comment": "Both teams feature cautious first-half trends (41.2% Bahia HT draws; 38.1% Botafogo home 1H goal share) before Bahia's freshness tilts or splits the second half."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 12:08:30 UTC"
+}
