@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575231,
+    "matchup": "VfB Stuttgart vs Eintracht Frankfurt",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-28 17:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-vfb-stuttgart-vs-eintracht-frankfurt/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "VfB Stuttgart vs Eintracht Frankfurt Match Analysis: Defensive Fragility & xG Volatility at MHP Arena",
+    "meta": {
+      "matchId": "1575231",
+      "league": "Bundesliga",
+      "matchup": "VfB Stuttgart vs Eintracht Frankfurt",
+      "matchTime": "2026-11-28 17:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "VfB Stuttgart Win / Draw is the primary projected direction as home chance-creation superiority meets Eintracht Frankfurt's high-tempo attack in an open Over 2.5 and BTTS Yes contest.",
+    "possibilityAssessment": [
+      "Home Win / Draw directional call backed by 53.72% home-win model probability and 22.83% draw coverage (Confidence: Moderate, Value: Moderate)",
+      "Over 2.5 Goals and BTTS Yes supported by 3.99 combined lambda, 76.0% Over 2.5, and 72.1% BTTS Yes projections (Confidence: High, Value: Moderate)",
+      "2:2 draw and early away-lead reversal hedge driven by Frankfurt's 62.5% first-half goal share and 60.0% half-time lead drop rate (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "3",
+        "4"
+      ],
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "scores": [
+        "2:1",
+        "2:2"
+      ],
+      "htft": [
+        "Win-Win",
+        "Loss-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575231",
+      "league": "Bundesliga",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Eintracht Frankfurt",
+      "match_time": "17:30",
+      "match_highlight": "Stuttgart's 1.96 xG attack tests Frankfurt's winless away clean-sheet defense.",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575231,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers both Stuttgart's leading 2:1 home-win script and the 2:2 draw alternative, as a 69-hour turnaround and 80.0% big-chance waste rate prevent ruling out shared points."
+      },
+      "over_under": {
+        "selection": "Over 2.5",
+        "comment": "Both sides exceed 1.80 xG and 2.00 xGA per game, producing a 3.99 combined goal expectancy and 76.0% Over 2.5 model probability."
+      },
+      "btts": {
+        "selection": "Yes",
+        "comment": "Model projections give Stuttgart a 91.4% scoring probability against Frankfurt's 0% away clean-sheet rate and Frankfurt 78.6% against Stuttgart's 2.25 xGA."
+      },
+      "score": {
+        "selection": [
+          "2:1",
+          "2:2"
+        ],
+        "comment": "2:1 leads the Dixon-Coles matrix (8.6%) on Stuttgart's home edge, while 2:2 (6.6%) captures Frankfurt's transition threat against fatigued home legs."
+      },
+      "goals": {
+        "selection": [
+          "3",
+          "4"
+        ],
+        "comment": "Three goals (19.6%) and four goals (19.5%) sit nearly tied at the top of the model's total-goal distribution."
+      },
+      "bqc": {
+        "selection": [
+          "Win-Win",
+          "Loss-Draw"
+        ],
+        "comment": "Stuttgart won all four league victories via Win-Win, while Loss-Draw reflects Frankfurt's 62.5% first-half goal share colliding with a 60.0% half-time lead-surrender rate."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 06:15:36 UTC"
+}
