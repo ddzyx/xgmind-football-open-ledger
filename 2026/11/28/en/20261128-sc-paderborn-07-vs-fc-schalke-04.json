@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "fixture_id": 1575238,
+    "matchup": "SC Paderborn 07 vs FC Schalke 04",
+    "home_team": "SC Paderborn 07",
+    "away_team": "FC Schalke 04",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-11-28 14:30:00",
+    "source_url": "https://xgmind.com/matches/20261128-sc-paderborn-07-vs-fc-schalke-04/",
+    "terminal": "XG Mind AI"
+  },
+  "predictions": {
+    "articleTitle": "SC Paderborn 07 vs FC Schalke 04 Prediction & Match Analysis: Can Depleted Schalke Resist? — xG Preview",
+    "meta": {
+      "matchId": "1575238",
+      "league": "Bundesliga",
+      "matchup": "SC Paderborn 07 vs FC Schalke 04",
+      "matchTime": "2026-11-28 14:30 UTC"
+    },
+    "recommendationLevel": "Moderate",
+    "coreRecommendation": "SC Paderborn 07 hold a clear structural and personnel edge over injury-hit FC Schalke 04, supporting a Home Win / Draw direction anchored to a tight Under 2.5 script.",
+    "possibilityAssessment": [
+      "SC Paderborn 07 Home Win or Draw driven by 44.3 MF-OTI supply and Schalke's 2.09 xGA exposure without three key defenders/holders (Confidence: Moderate, Value: High)",
+      "Under 2.5 Total Goals backed by 2.44 combined lambda, 55.9% model probability, and ~78-80% big-chance waste rates (Confidence: Moderate, Value: High)",
+      "BTTS: No supported by Schalke's 70.0% failed-to-score rate and 0.50 goals/match output against a 1:0 primary projection (Confidence: Moderate, Value: Moderate)"
+    ],
+    "predictions": {
+      "totalGoals": [
+        "2",
+        "1"
+      ],
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "scores": [
+        "1:0",
+        "1:1"
+      ],
+      "htft": [
+        "Draw-Win",
+        "Draw-Draw"
+      ]
+    },
+    "bet_recommendations": {
+      "matchId": "1575238",
+      "league": "Bundesliga",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "FC Schalke 04",
+      "match_time": "14:30",
+      "match_highlight": "Paderborn set pieces test depleted Schalke backline",
+      "ai_confidence": "Moderate",
+      "fixtureId": 1575238,
+      "spf": {
+        "selection": "Home Win / Draw",
+        "comment": "Covers a 1:0 home breakthrough against Schalke's 2.09-xGA depleted defense and a 1:1 stalemate if Paderborn's finishing waste persists; a single win call was avoided due to four home creative doubts."
+      },
+      "over_under": {
+        "selection": "Under 2.5",
+        "comment": "Supported by a 2.44 lambda total (55.9% Under probability) and combined actual scoring of just 1.30 goals per match across both relegation rivals."
+      },
+      "btts": {
+        "selection": "No",
+        "comment": "Both clubs hold 30.0% season BTTS rates and Schalke have failed to score in seven of ten Bundesliga games, aligning with the 53.2% BTTS: No model lean."
+      },
+      "score": {
+        "selection": [
+          "1:0",
+          "1:1"
+        ],
+        "comment": "Matches the top two Dixon-Coles matrix probabilities (13.0% and 12.6%), capturing a narrow set-piece home win and a low-scoring stalemate."
+      },
+      "goals": {
+        "selection": [
+          "2",
+          "1"
+        ],
+        "comment": "Reflects the two highest-density Under 2.5 buckets (26.5% and 20.1%) given severe finishing inefficiency on both sides."
+      },
+      "bqc": {
+        "selection": [
+          "Draw-Win",
+          "Draw-Draw"
+        ],
+        "comment": "Both sides show 40.0% venue half-time draw rates, projecting a caged opening half before either a second-half Paderborn breakthrough or a level finish."
+      }
+    },
+    "highMultiplierAlert": {
+      "isTriggered": false,
+      "riskContent": null,
+      "specificOutcome": null
+    }
+  },
+  "synced_at": "2026-11-28 02:48:27 UTC"
+}
